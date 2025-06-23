@@ -15,3 +15,14 @@ powercfg -attributes SUB_PROCESSOR b28a6829-c5f7-444e-8f61-10e24e85c532 -ATTRIB_
 https://t.me/zrj96/22227
 
 Published on 2023-06-17 15:54:18. Saved on 2025-03-23 16:28:24
+
+## 2025-06-10 23:36:55
+
+
+似乎确认alist被卖了，悄无声息，在开源代码里塞私货。
+alist首页技术支持为贵州某公司，贵州某公司有个 https://hutool.cn/ 的项目，也是被接手的项目，网站首页技术支持挂了个oneinstack，之前lnmp和oneinstack也是被贵州某公司拿下，难道是一伙人？
+我头大了，有能力的大佬可以挖挖。
+
+https://t.me/zrj96/30659
+
+Published on 2025-06-10 23:36:55. Saved on 2025-06-11 09:10:20

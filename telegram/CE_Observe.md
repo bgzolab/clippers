@@ -123,3 +123,60 @@ https://www.ithome.com/0/843/932.htm
 https://t.me/CE_Observe/38713
 
 Published on 2025-04-09 10:47:09. Saved on 2025-04-20 16:08:56
+
+## 2025-06-06 09:16:33
+
+
+多地家电补贴短期“暂停申领” 多因活动升级或下一阶段政策研究制定中
+https://www.cls.cn/detail/2049661
+
+多地 3C 国补提前叫停， iPhone 16 将集体涨价
+https://news.qq.com/rain/a/20250605A061OJ00
+
+https://t.me/CE_Observe/39393
+
+Published on 2025-06-06 09:16:33. Saved on 2025-06-06 20:27:04
+
+## 2025-06-06 08:27:38
+
+
+马斯克和特朗普彻底决裂，特斯拉市值一夜蒸发逾万亿
+
+①随着马斯克和特朗普之间的“口水战”不断升级，特朗普威胁要撤销马斯克旗下公司的政府合同； 
+②受此影响，特斯拉股价周四下跌逾14%，创下史上最大单日跌幅，市值蒸发了1520亿美元（约合10922亿人民币），跌破了1万亿美元的门槛； 
+③当天，期权交易员以创纪录的速度做空特斯拉股票。
+https://www.cls.cn/detail/2050273
+
+https://t.me/CE_Observe/39392
+
+Published on 2025-06-06 08:27:38. Saved on 2025-06-06 20:27:12
+
+## 2025-06-05 09:15:40
+
+
+安卓版谷歌翻译应用新界面曝光，整合 AI 工具 - IT之家
+https://www.ithome.com/0/858/438.htm
+
+https://t.me/CE_Observe/39379
+
+Published on 2025-06-05 09:15:40. Saved on 2025-06-06 20:27:51
+
+## 2025-06-04 22:10:32
+
+
+Steam 客户端 Beta 更新：告别 Linux 安装速度缓慢，甚至可从几分钟缩短至几秒 - IT之家
+https://www.ithome.com/0/858/358.htm
+
+https://t.me/CE_Observe/39376
+
+Published on 2025-06-04 22:10:32. Saved on 2025-06-06 20:28:50
+
+## 2025-06-04 18:25:35
+
+
+北京地铁将于本月底支持美国运通卡、JCB 卡拍卡乘车
+https://www.ithome.com/0/858/284.htm
+
+https://t.me/CE_Observe/39372
+
+Published on 2025-06-04 18:25:35. Saved on 2025-06-06 20:29:08

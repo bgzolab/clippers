@@ -61,3 +61,80 @@ Published on 2025-05-28 23:30:33. Saved on 2025-05-28 23:30:37
 https://t.me/imbGZo/65
 
 Published on 2025-06-01 22:54:42. Saved on 2025-06-01 22:54:45
+
+## 2025-06-07 15:01:51
+
+
+So basically Elon doesn&#39;t wanna let people delete stuffs in bulk for free.
+https://github.com/logan-han/twitter-deleter/issues/319
+😂😂😂
+
+https://t.me/imbGZo/66
+
+Published on 2025-06-07 15:01:51. Saved on 2025-06-07 15:01:54
+
+## 2025-06-10 13:53:44
+![](assets/imbGZo/20250610_135348_438949.jpg) 
+
+Dame
+
+https://fixupx.com/luckyjoe198x/status/1930401335192760820
+
+https://t.me/imbGZo/67
+
+Published on 2025-06-10 13:53:44. Saved on 2025-06-10 13:53:49
+
+## 2025-06-10 13:54:03
+
+
+https://x.com/luckyjoe198x/status/1930401335192760820
+
+https://t.me/imbGZo/68
+
+Published on 2025-06-10 13:54:03. Saved on 2025-06-10 13:54:06
+
+## 2025-06-10 13:54:23
+
+
+https://fixupx.com/luckyjoe198x/status/1930401335192760820
+
+https://t.me/imbGZo/69
+
+Published on 2025-06-10 13:54:23. Saved on 2025-06-10 13:54:27
+
+## 2025-06-10 23:33:04
+
+
+你能吃苦吗？
+
+我一直以为自己挺能吃苦的，直到我的腰间盘突出了。
+
+吃苦？我吃你 *
+
+https://t.me/imbGZo/70
+
+Published on 2025-06-10 23:33:04. Saved on 2025-06-10 23:33:08
+
+## 2025-06-10 23:36:02
+
+
+上学那会儿我一直以为自己挺能吃苦的，我一定是未来公司里面最能加班的崽。
+
+直到有一天我的腰间盘突出了。
+
+所以现在我一听见有人问我这个问题：「你能吃苦吗？」
+
+吃苦？我吃你 *
+
+https://t.me/imbGZo/71
+
+Published on 2025-06-10 23:36:02. Saved on 2025-06-10 23:36:06
+
+## 2025-06-12 23:48:31
+![](assets/imbGZo/20250612_234835_753419.jpg) 
+
+Gemini 也有这样的问题：说着说着就全部撤回了，好讨厌 😩
+
+https://t.me/imbGZo/72
+
+Published on 2025-06-12 23:48:31. Saved on 2025-06-12 23:48:35

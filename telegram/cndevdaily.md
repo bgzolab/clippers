@@ -16,3 +16,12 @@ GitHub 对中国访问限制已经取消：上周日（2025年4月13日）陆续
 https://t.me/cndevdaily/5628
 
 Published on 2025-04-14 12:14:23. Saved on 2025-04-15 09:23:44
+
+## 2025-06-10 15:13:50
+
+
+苹果宣布最后一代支持 Intel 芯片的 macOS：即将发布的 Tahoe 26 将是最后一代支持 Intel 芯片的 macOS，黑苹果将正式走向历史 https://tedium.co/2025/06/09/apple-wwdc-intel-mac-support-ending/
+
+https://t.me/cndevdaily/5636
+
+Published on 2025-06-10 15:13:50. Saved on 2025-06-10 16:02:17
