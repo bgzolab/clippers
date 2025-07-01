@@ -1,17 +1,16 @@
 ---
 title: "CherryHQ/cherry-studio"
 aliases: "cherry-studio"
-created: 2025-05-03T15:26:31
-modified: 2025-05-03T15:27:14
+created: 2025-07-01T21:38:17
+modified: 2025-07-01T21:38:17
 description: "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers."
 source: "https://github.com/CherryHQ/cherry-studio"
 tags:
-  - "github/star"
+  - "star"
 tags-link:
 type: "repo"
 ---
-
-## Repo Meta
+# CherryHQ/cherry-studio
 
 ![](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/CherryHQ/cherry-studio?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/CherryHQ/cherry-studio?style=for-the-badge&label=since)
 

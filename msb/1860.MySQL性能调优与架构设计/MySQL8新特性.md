@@ -462,7 +462,7 @@ FROM
 
 当然可以做的操作很多，具体见官网：
 
-[https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html]()
+https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html
 
 ### 1.7.5. 原子DDL操作
 

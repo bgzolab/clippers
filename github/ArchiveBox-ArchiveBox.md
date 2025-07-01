@@ -1,14 +1,14 @@
 ---
-title: "ArchiveBox/ArchiveBox"
-aliases: "ArchiveBox"
+title: ArchiveBox/ArchiveBox
+aliases:
+  - ArchiveBox
 created: 2025-06-14T15:05:16
 modified: 2025-06-14T15:05:16
-description: "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..."
-source: "https://github.com/ArchiveBox/ArchiveBox"
-tags:
-  - "star"
-tags-link:
-type: "repo"
+description: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+source: https://github.com/ArchiveBox/ArchiveBox
+tags: []
+tags-link: 
+type: repo
 ---
 ## Repo Meta
 
