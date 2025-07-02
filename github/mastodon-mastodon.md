@@ -31,7 +31,7 @@ status: tool/star
 - [About - Mastodon](https://mastodon.social/about)
 - [Mastodon | Creating Mastodon | Patreon](https://www.patreon.com/mastodon)
 - [如何使用Patreon给外国创作者打钱？ - 哔哩哔哩](https://www.bilibili.com/read/cv3684028)
-- [x] #gtd/todo [捐助O3O – O3O](https://o3o.foundation/donate/) #donation
+- [x] [捐助O3O – O3O](https://o3o.foundation/donate/) #donation
 
 ### Mastodon content still available when the source is closed. Does could I know which instance is the backup from?
 - `@cyberbot@saibo.world`

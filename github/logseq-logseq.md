@@ -1,22 +1,19 @@
 ---
-title: logseq
-aliases:
-  - logseq
-created: 2021-08-01T12:00:00
-modified: 2025-06-07T15:53:20
-description: http://trello.com/b/8txSM12G/roadmap
-source: https://github.com/logseq/logseq
-tags:
-  - github/star
-  - deprecated
-tags-link: 
-type: repo
+aliases: [Logseq, logseq]
 changelog: https://docs.logseq.com
+created: 2021-08-01T12:00:00
+description: http://trello.com/b/8txSM12G/roadmap
 document: https://blog.logseq.com, https://hub.logseq.com
+modified: 2025-07-02T21:31:36
 roadmap: https://trello.com/b/8txSM12G/roadmap
+source: https://github.com/logseq/logseq
+tags: [deprecated, github/star]
+tags-link: 
+title: Logseq
+type: repo
 ---
 
-## Repo Meta
+# Logseq
 
 ![](https://img.shields.io/github/stars/logseq/logseq?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/logseq/logseq?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/logseq/logseq?style=for-the-badge&label=since)
 
@@ -35,8 +32,10 @@ I've learned a lot of things, not only how to note, how to remember, but also a 
 Anyway, considered [[open-source]], [[privacy]], [[censor]], high [[price]] subscriptions and bullshit user agreement. I choose this one. [^used_note_application]
 
 ## How
+
 ### How to rebuild when LS stuck?
-#### windows
+
+#### Windows
 
 ```shell
 rm "$env:appdata\LS" -r
@@ -336,7 +335,7 @@ So... 这只是一个重新分配名空间 (Namepace) 的问题
 
 review hierarchy with
 
-```
+```shell
 {{namespace logseq}}
 ```
 
@@ -378,7 +377,7 @@ Considered the page speed performance, please control the usage of plugins, beca
 
 ### Dynamic Variable `<%  %>`
 
-```
+```shell
 today => [[Today's journal page]]
 yesterday => [[Yesterday's journal page]]
 tomorrow => [[Tomorrow's journal page]]
@@ -409,13 +408,13 @@ https://github.com/logseq/publish-spa
 
 Tables are our first versioned component, accepting props to control the output. via: https://docs.logseq.com/#/page/tables
 
-#### version 1
+#### Version 1
 
 表格内换行 `<br>`
 
 #### New version demo
 
-```
+```shell
 logseq.table.version: 2
 logseq.table.hover: both
 logseq.table.compact: true
@@ -431,6 +430,7 @@ logseq.color: pink
 ```
 
 ### Query
+
 #### Multi tags
 
 ```clojure
@@ -476,7 +476,7 @@ logseq.color: pink
 - [LS query with a custom view](https://www.loom.com/share/d007932e94db4b4981cca606bebdb54a)
 - [LS queries example (using properties) and custom view](https://gist.github.com/tiensonqin/b319e19e6a1ef4659f24bb3b71d3d025)
 
-#### ? the number of sub blocks
+#### ? The number of sub blocks
 
 `{{query block (page <% current page %>)}}`
 
@@ -486,7 +486,7 @@ logseq.color: pink
 - [logseq variable current-block - Google Search](https://www.google.com/search?q=logseq+variable+current-block)
 - [Query for blocks with a specific parent on the current page - Questions & Help - LS](https://discuss.logseq.com/t/query-for-blocks-with-a-specific-parent-on-the-current-page/8284)
 
-```
+```shell
 #+BEGIN_QUERY
 { :title "Current Members"
 :query [:find (pull ?b [*])
@@ -520,7 +520,7 @@ logseq.color: pink
 - [Query for co-occurences in property - Look what I built - LS](https://discuss.logseq.com/t/query-for-co-occurences-in-property/5448/10)
 - [Advanced Query: Blocks excluding certain tag - Questions & Help - LS](https://discuss.logseq.com/t/advanced-query-blocks-excluding-certain-tag/3173)
 
-#### ? count of rows (show results-count in variable)
+#### ? Count of rows (show results-count in variable)
 
 ## [[custom/index|Custom Config]]
 
@@ -1274,6 +1274,7 @@ document
 ```
 
 ## Reference
+
   - https://discuss.logseq.com/c/look-what-i-built
   - https://github.com/mschmidtkorth/logseq-msk-docs
   - [求推荐：知识管理-电子书阅读管理 APP？ - V2EX](https://www.v2ex.com/t/826204)

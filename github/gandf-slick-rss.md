@@ -21,7 +21,7 @@ type: repo
 ## Notes
 
 
-- [x] #gtd/todo with some userscripts due to some issues
+- [x] with some userscripts due to some issues
 - When address is begin with `//xxx.com`, the final address will be `chrome-extension://xxx.com`, while it should be `http`. I try some ways but I am novice in javascript.
 - `//` only supported with server and extension actually run at local. `//` img cannot loaded and the http url is wrong as well.
 

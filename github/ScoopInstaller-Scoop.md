@@ -42,7 +42,7 @@ type: repo
 ```
 
 ## What
-  - [x] #gtd/todo 用 scoop 安装浏览器存在兼容问题： `Start Menu\Programs\Scoop Apps` 启动 和 默认浏览器启动
+  - [x] 用 scoop 安装浏览器存在兼容问题： `Start Menu\Programs\Scoop Apps` 启动 和 默认浏览器启动
     - **加载了不同的数据目录 `User Data`**
       - Default Setting: `C:\Users\15517\scoop\apps\ungoogled-chromium\current\chrome.exe --user-data-dir="C:\Users\15517\scoop\apps\ungoogled-chromium\current\User Data"`
       - Actual Setting: `C:\Users\15517\AppData\Local\Chromium`

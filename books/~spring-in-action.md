@@ -1668,7 +1668,7 @@ weread: https://weread.qq.com/web/bookDetail/c6d32700813ab77d1g0136f4
   -    [^CH02_DEBUG]: SB
     - [Fake Credit Card Generator | CreditCardValidator](https://www.creditcardvalidator.org/generator)
   -    [^CH03_DEBUG]: JPA
-    - [x] #gtd/todo  JDBC JPA 中我无法理解 `TACO_ORDER_TACOS` 这张关联表是怎么创建起来的  
+    - [x]  JDBC JPA 中我无法理解 `TACO_ORDER_TACOS` 这张关联表是怎么创建起来的  
       - http url: http://localhost:8080/h2-console
       - jdbc url: `jdbc:h2:mem:tacocloud`
         - 默认密码为空
@@ -1753,12 +1753,12 @@ weread: https://weread.qq.com/web/bookDetail/c6d32700813ab77d1g0136f4
     - `@DataJpaTest`
     - `@BeforeAll` 相当于构造函数吗?
   - 非关系数据库 [^CH04_DEBUG]
-    - [x] #gtd/todo  WSL Docker 占用过高, `sudo dockerd` + `run docker` 容器之后占用达到了 5G, 再加上 Logseq, IDEA 和 Chrome 占用已经远超 16G 了. 所以 Cassandra 的实践暂时搁置吧  
+    - [x]  WSL Docker 占用过高, `sudo dockerd` + `run docker` 容器之后占用达到了 5G, 再加上 Logseq, IDEA 和 Chrome 占用已经远超 16G 了. 所以 Cassandra 的实践暂时搁置吧  
       - 我发现是自己的上个项目（TTRSS）随着DOCKER启动也自启动了，随后内存占有就来到了1G上下的地步，使用命令停止部署即可
 ```shell
          $ sudo docker-compose -f ~/ttrss/docker-compose.yml stop
 ```
-    - [x] #gtd/todo  [@EnableAutoConfiguration(exclude =...) on tests failed in Spring Boot 2.6.0 - Stack Overflow](https://stackoverflow.com/questions/70047380/enableautoconfigurationexclude-on-tests-failed-in-spring-boot-2-6-0)  
+    - [x]  [@EnableAutoConfiguration(exclude =...) on tests failed in Spring Boot 2.6.0 - Stack Overflow](https://stackoverflow.com/questions/70047380/enableautoconfigurationexclude-on-tests-failed-in-spring-boot-2-6-0)  
       - Since SB 2.6, Embeded mongodb needs the version must.
       - > To use embedded mongo, the spring.mongodb.embedded.version property must now be set. This helps to ensure that the MongoDB version that is used by the embedded support matches the MongoDB version that your application will use in production.
         via: [Spring Boot 2.6 Release Notes · spring-projects/spring-boot Wiki](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.6-Release-Notes#embedded-mongo)

@@ -1,35 +1,29 @@
 ---
-title: telegramdesktop/tdesktop
-aliases:
-  - tdesktop
-  - telegram
-  - 电报
-  - tg
-  - t.me
-  - telegram.me
-  - telegram.org
-  - telesco.pe
-  - tg.dev
+aliases: [电报, t.me, tdesktop, telegram, Telegram, telegram.me, telegram.org, telesco.pe, tg, tg.dev]
 created: 2020-01-08T00:00:00
-modified: 2025-06-07T16:25:33
 description: Telegram Desktop messaging app
-source: https://github.com/telegramdesktop/tdesktop
-tags: instant-message
-tags-link: 
-type: tool
 document: https://core.telegram.org/api, https://desktop.telegram.org/changelog
+modified: 2025-07-02T21:06:47
+source: https://github.com/telegramdesktop/tdesktop
 status: tool/star
+tags: [instant-message]
+tags-link: 
+title: Telegram
+type: tool
 ---
 
-## Repo Meta
+# Telegram
 
 ![](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/telegramdesktop/tdesktop?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/telegramdesktop/tdesktop?style=for-the-badge&label=since)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=telegramdesktop&repo=tdesktop&bg_color=00000000)](https://github.com/telegramdesktop/tdesktop)
 
 ## Why
+
 ## How
+
 ### Shortcuts
+
 - 功能相关
   - **搜索 >> Ctrl+F**
     联系人 >> Ctrl+J
@@ -83,7 +77,9 @@ status: tool/star
         - https://t.me/pieroots
 
 ## What
+
 ### Clients
+
 - Web alternatives [^ruanyifeng]
   - https://web.telegram.org
   - https://webk.telegram.org
@@ -107,7 +103,7 @@ Telegram iOS 全面屏客户端最适合刷信息流，为什么呢？
 
 [无法登录：删除应用程序数据后，Telegram 会发送到不存在的“其他设备”而不是短信 · 问题 #26626 · telegramdesktop/tdesktop --- Cannot login: Telegram sends to non-existent "other device" after its appdata is deleted instead of SMS · Issue #26626 · telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop/issues/26626)
 
-### folder exclude folder specific #issue/wontfix
+### Folder exclude folder specific #issue/wontfix
 
 <iframe src='https://github.com/telegramdesktop/tdesktop/issues/26713' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>
 <center>via: <a href='https://github.com/telegramdesktop/tdesktop/issues/26713' target='_blank' class='external-link'>https://github.com/telegramdesktop/tdesktop/issues/26713</a></center>

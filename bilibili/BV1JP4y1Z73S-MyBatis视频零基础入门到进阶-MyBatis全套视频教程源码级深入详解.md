@@ -28,7 +28,7 @@ created: 2023-03-05
   - https://www.yuque.com/dujubin/ltckqu/pozck9 & `rs4n`
 
 ## -nested-2 Contents
-- [x] #gtd/todo MyBatis 概述 
+- [x] MyBatis 概述 
 - 框架
 description:: 对通用代码的封装，提前写好了一堆接口和类，我们可以在做项目的时候直接引入这些接口和类（引入框架），基于这些现有的接口和类进行开发，可以大大提高开发效率
 - 三层架构 Spring MVC
@@ -72,7 +72,7 @@ description:: 对通用代码的封装，提前写好了一堆接口和类，我
 - 存储过程
 - 基本映射标签
 - 高级映射标签
-- [x] #gtd/todo MyBatis 入门程序 
+- [x] MyBatis 入门程序 
 - 版本
 - ![Mybatis Reference Verison 3.5.10](../assets/doc_mybatis_3.5.10.pdf)
 - MyBatis 下载
@@ -93,7 +93,7 @@ description:: 对通用代码的封装，提前写好了一堆接口和类，我
 - 查询一条数据
 - 查询多条数据
 - 关于 SQL Mapper 的 namespace
-- [x] #gtd/todo MyBatis 核心配置文件详解 
+- [x] MyBatis 核心配置文件详解 
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>

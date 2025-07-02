@@ -9,7 +9,7 @@ source: https://github.com/mazzzystar/tinymind
 tags:
   - github/star
 tags-link:
-  - "[[blog]]"
+  - "[[pages/blog]]"
 type: repo
 ---
 ## Repo Meta

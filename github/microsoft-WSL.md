@@ -32,10 +32,10 @@ Linux LAPTOP-CELTBLVE 5.15.146.1-microsoft-standard-WSL2 #1 SMP Thu Jan 11 04:09
 ![](https://img.shields.io/github/stars/microsoft/WSL)
 ## Why
 ## How
-  - [x] #gtd/todo  WSL GUI  
+  - [x]  WSL GUI  
     - Unstable Version: https://docs.microsoft.com/zh-cn/windows/wsl/tutorials/gui-apps
     - Windows X-server Version: https://blog.meathill.com/tools/install-wsl2-on-windows-10-and-config-gui-for-applications.html
-  - [x] #gtd/todo  重回 Windows  
+  - [x]  重回 Windows  
     - 过去一年将 `Ubuntu` 作为自己的主力机, 期间滚更+修`BUGS`, 并收集并撰写了 维修日志. 在一次无法正常启动 `Oracle` 的经历后我正是卸载双系统的 `Ubuntu`, 开始用上了 `Windows Subsystem WSL2`, 一切仿佛回到了折腾的起点, 我不知道要说什么, 内心又不断地翻涌, 但工具就是工具, 不应该多说什么.
     - 工作的重心逐渐转移回 Windows, 除了命令行让人难以忍受的难用之外并没有什么不合心意的地方, 所以我又踏上了美化 Windows 命令行的道路. 一切都是源于被 *nix 惯坏的习惯.
 ```shell
