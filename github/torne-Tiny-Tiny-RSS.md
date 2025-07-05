@@ -7,9 +7,9 @@ description: A PHP and Ajax feed reader
 source: https://github.com/torne/Tiny-Tiny-RSS
 tags:
   - github/star
-tags-link: 
+tags-link:
 type: tool
-document: 
+document:
 status: tool/deprecated
 ---
 ## Repo Meta

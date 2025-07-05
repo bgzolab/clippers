@@ -1,7 +1,7 @@
 ---
 aliases: books/编程珠玑
 tags: gtd/todo
-published: 
+published:
 source: https://book.douban.com/subject/
 type: book
 ---

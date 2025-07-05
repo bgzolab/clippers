@@ -1,13 +1,13 @@
 ---
-title: "ollama/ollama"
-aliases: "ollama"
+title: ollama/ollama
+aliases: ollama
 created: 2025-01-20T20:58:45
 modified: 2025-01-20T20:58:58
-description: "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models."
-source: "https://github.com/ollama/ollama"
+description: Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+source: https://github.com/ollama/ollama
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
+type: repo
 ---
 
 ## Meta

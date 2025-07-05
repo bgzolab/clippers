@@ -8,7 +8,8 @@ lang: chinese
 published: 20121001
 rating: ⭐⭐⭐⭐⭐
 status: book/reading
-tags: #[[java]]
+tags:
+- java
 type: book/dev
 douban: https://book.douban.com/subject/19952400
 weread: https://weread.qq.com/web/bookDetail/7cc32910718ff66b7cc8d9d

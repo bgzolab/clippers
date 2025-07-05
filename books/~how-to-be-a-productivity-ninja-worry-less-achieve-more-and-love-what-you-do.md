@@ -4,7 +4,7 @@ aliases:
 author:
   - 格雷厄姆·阿尔科特
 created: 2024-08-14T00:00:00
-isbn: 
+isbn:
 lang: chinese
 published: 20190700
 rating: ⭐⭐⭐

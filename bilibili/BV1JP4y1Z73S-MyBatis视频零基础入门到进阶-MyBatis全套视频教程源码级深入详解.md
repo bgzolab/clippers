@@ -1,15 +1,15 @@
 ---
-title: "MyBatis视频零基础入门到进阶-MyBatis全套视频教程源码级深入详解"
-cover: "http://i1.hdslb.com/bfs/archive/3d5818b9d74eb1f9d53ac274265e17a2f323c5bc.jpg@189w_107h.webp"
-author: "动力节点"
+title: MyBatis视频零基础入门到进阶-MyBatis全套视频教程源码级深入详解
+cover: http://i1.hdslb.com/bfs/archive/3d5818b9d74eb1f9d53ac274265e17a2f323c5bc.jpg@189w_107h.webp
+author: 动力节点
 created: 2025-01-14T10:25:28
 modified: 2025-01-19T02:57:07
 published: 2025-01-14T22:25:27
-description: "MyBatis视频零基础入门到进阶，MyBatis全套视频教程源码级深入详解共计134条视频，包括：001-MyBatis课程导读、002-什么是框架、003-MyBatis在三层架构的什么位置等，UP主更多精彩视频，请关注UP账号。"
-source: "https://www.bilibili.com/video/BV1JP4y1Z73S/"
+description: MyBatis视频零基础入门到进阶，MyBatis全套视频教程源码级深入详解共计134条视频，包括：001-MyBatis课程导读、002-什么是框架、003-MyBatis在三层架构的什么位置等，UP主更多精彩视频，请关注UP账号。
+source: https://www.bilibili.com/video/BV1JP4y1Z73S/
 tags:
-  - "video/bilibili"
-type: "video"
+  - video/bilibili
+type: video
 ---
 
 ## Source
