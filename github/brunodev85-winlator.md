@@ -1,18 +1,20 @@
 ---
-title: brunodev85/winlator
 aliases:
   - winlator
+  - Winlator
 created: 2025-05-11T15:07:57
-modified: 2025-05-11T15:07:57
 description: Android application for running Windows applications with Wine and Box86/Box64
+modified: 2025-07-08T21:18:28
 source: https://github.com/brunodev85/winlator
 tags:
   - github/star
 tags-link:
   - "[[android]]"
+title: Winlator
 type: repo
 ---
-## Repo Meta
+
+# Winlator
 
 ![](https://img.shields.io/github/stars/brunodev85/winlator?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/brunodev85/winlator?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/brunodev85/winlator?style=for-the-badge&label=since)
 
