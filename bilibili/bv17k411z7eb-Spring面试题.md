@@ -1,19 +1,25 @@
 ---
-created: 2024-12-13T08:52:57
-modified: 2025-01-19T02:57:07
+aliases:
+  - 马士兵/Spring 面试题
+  - bv17k411z7eb-Spring面试题
+created: 2025-07-13T19:42:15
+description: 
+modified: 2025-07-13T19:42:41
+tags:
+  - bilibili
+title: 马士兵/Spring 面试题
+type: video
 ---
-author:: 马士兵
 
-created: 2023-03-04
+# 马士兵/Spring 面试题
 
-source:: https://www.bilibili.com/video/BV17K411Z7EB
-
-type:: archives-web
+https://www.bilibili.com/video/BV17K411Z7EB
 
 - 原视频已经消失，此页终结
 - [bjmashibing/InternetArchitect: 年薪百万互联网架构师课程文档及源码(公开部分)](https://github.com/bjmashibing/InternetArchitect)
 
 ## 心态调整
+
   - P1 互联网寒冬心态如何调整？
   - P2 如何找工作
   - P3 面试通不过怎么办？
@@ -27,7 +33,9 @@ type:: archives-web
   - P11 技术描述模块的错误案例
 
 ## Spring 面试题
+
 ### P12 谈谈 Spring IOC 理解，原理与实现
+
     - 总：当前问题回答的是那些具体的点
       分：以1，2，3，4，5的方式分细节取描述相关的知识点，如果有哪些点不清楚，直接忽略过去
       - 突出一些技术名词（核心概念，接口，类，关键方法）
@@ -59,7 +67,9 @@ type:: archives-web
     - **9．谈一下spring事务传播？**
 
 ### P13 谈谈 Spring IOC 的底层实现
-### [ ] #gtd/wait P14 描述一下 bean 的生命周期
+
+### P14 描述一下 bean 的生命周期
+
     - ![2593013-20211208134354570-1643503307.png](../assets/2593013-20211208134354570-1643503307_1709646582222_0.png)
       #+BEGIN_CENTER
       [大厂高频面试题Spring Bean生命周期最详解 - Tom弹架构 - 博客园](https://www.cnblogs.com/gupaoedu-tom/p/15661075.html#1-spring%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E6%B5%81%E7%A8%8B%E5%9B%BE)
@@ -88,6 +98,7 @@ type:: archives-web
         - 调用destroyMethod方法
 
 ### P15 Spring 是如何解决循环依赖的问题的
+
     - 什么是循环依赖？
 
 ```java
@@ -110,7 +121,9 @@ type:: archives-web
     - 创建 A 对象 -> 实例化 A(`b=null`)
     - 从容器中查找B -> 找不到
     -
+
 ### P16 缓存的放置时间和删除时间
+
     - 三级缓存
       id:: 65e9dc09-1c4c-48a8-a2ff-f07e94caf388
       - `addSingletonFactory`
@@ -122,6 +135,7 @@ type:: archives-web
       - `addSingleton`
 
 ### P17 Bean Factory 与 FactoryBean 有什么区别
+
     - 同
       - 创建 Bean 对象
     - 异
@@ -140,13 +154,18 @@ type:: archives-web
             - 自定义创建对象的过程 （new、反射、动态代理）
 
 ### P18 Spring 中用到的设计模式
+
 ### P19 Spring 的 AOP 的底层实现原理
+
     - IOC => AOP 只是过程中的一个拓展
       - `BeanPostProcessor`
     - AOP 是 AOC 的扩展功能，现有的 IOC
   - 动态代理
-  - P20 Spring 的事务是如何回滚的？
-  - P21 谈一下 spring 事务传播？
+
+---
+
+- P20 Spring 的事务是如何回滚的？
+- P21 谈一下 spring 事务传播？
 - P22 【性能优化面试题】虚拟机栈
 - P23 【性能优化面试题】pc 计数器
 - P24 【性能优化面试题】本地方法栈
@@ -199,4 +218,3 @@ type:: archives-web
 - P71 【分布式面试题】ZooKeeper 和 Reids 做分布式锁的区别？
 - P72 【分布式面试题】MySQL 如何做分布式锁？
 - P73 【分布式面试题】分布式架构下，Session 共享有什么方案
--
