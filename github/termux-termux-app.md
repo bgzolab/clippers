@@ -1,16 +1,20 @@
 ---
-title: termux/termux-app
-aliases: android/app/termux
+aliases:
+  - android/app/termux
+  - Termux-termux-app
+changelog: https://github.com/termux/termux-app/releases
 created: 2025-06-07T14:33:50
-modified: 2025-06-07T15:48:58
 description: Termux - a terminal emulator application for Android OS extendible by variety of packages.
+modified: 2025-07-19T12:07:52
 source: https://github.com/termux/termux-app
 tags:
   - github/star
 tags-link: 
+title: Termux-termux-app
 type: repo
-changelog: https://github.com/termux/termux-app/releases
 ---
+
+# Termux-termux-app
 
 ## Repo Meta
 
@@ -19,7 +23,9 @@ changelog: https://github.com/termux/termux-app/releases
 [![](https://github-readme-stats.vercel.app/api/pin/?username=termux&repo=termux-app&bg_color=00000000)](https://github.com/termux/termux-app)
 
 ## Notes
+
 ### Changelog
+
 0.90 及以上 版本需要 Android7.0 及以上版本的系统. 此安装包由 F-Droid 编译并签名, 且保证与此源代码 tarball 保持一致.
 
 ### 模拟 Ubuntu (获取 ROOT)
@@ -83,7 +89,38 @@ ssh -p 8022 192.168.0.4
 > [!note]
 > 注意不要使用 Clash For Android，否则无法建立连接，不清楚原因；
 
+## Termux (Android) connect to the computer
+
+- Path
+  - `C:\ProgramData\ssh`
+  - `C:\User\xxx\.ssh`
+- Windows -> Manage optional features ->Install OpenSSH
+- `ssh usr@ip -p 22`
+  - `usr` 是**电脑用户名**! 不是计算机名! 目前不知道中文用户名会发生什么😂
+  - `IP`: 内网 IP.
+  - `22`: 端口号
+  - 要求输入的密码对于我来说是自己的电脑密码. 这里容易和 PIN 码 搞混, windows 肯定是设置过一个复杂密码, 后来才有 PIN 码的替代
+- **Reference**
+  - [Windows 支持 OpenSSH 了！ - sparkdev - 博客园](https://www.cnblogs.com/sparkdev/p/10166061.html)
+  - [Key-based authentication in OpenSSH for Windows | Microsoft Learn](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+  - **fix SSH Permission denied** via [How to Fix SSH Failed Permission Denied (publickey,gssapi-keyex,gssapi-with-mic)](https://phoenixnap.com/kb/ssh-permission-denied-publickey) and https://stackoverflow.com/questions/1556056/permission-denied-publickey-keyboard-interactive
+  - [Remote Access - Termux Wiki](https://wiki.termux.com/wiki/Remote_Access#OpenSSH)
+
+## 延长会话
+
+```shell
+ClientAliveInterval 30
+ClientAliveCountMax 3
+```
+
+via https://15tar.com/linux/2017/07/31/ssh-session-timeout.html
+
+### 关闭终端?
+
+- 继续执行 `ssh -f`
+
 ## References
+
 - [[~有用安卓-termux-的吗-感觉问题好多]]
 - https://www.sqlsec.com/2018/05/termux.html#Termux-Styling
 - http://blog.lujun9972.win/blog/2018/01/24/%E4%BD%BF%E7%94%A8termux%E6%8A%8Aandroid%E6%89%8B%E6%9C%BA%E5%8F%98%E6%88%90ssh%E6%9C%8D%E5%8A%A1%E5%99%A8/index.html

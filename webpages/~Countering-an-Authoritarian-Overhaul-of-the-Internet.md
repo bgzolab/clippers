@@ -1,33 +1,16 @@
 ---
-title: "Countering-an-Authoritarian-Overhaul-of-the-Internet"
+aliases:
+  - Countering an Authoritarian Overhaul of the Internet
 created: 2025-01-17T10:21:31
-modified: 2025-01-19T02:57:23
+modified: 2025-07-19T10:04:16
 source: "https://freedomhouse.org/report/freedom-net/2022/countering-authoritarian-overhaul-internet"
-tags:
-  
-tags-link:
+title: Countering an Authoritarian Overhaul of the Internet
 type: "archive-web"
 ---
 
-- Jump To:  跳转至：
-- Key Findings  主要发现
-- [Introduction  介绍](https://freedomhouse.org/report/freedom-net/2022/#introduction)
-- [Tracking the Global Decline  
-追踪全球衰退](https://freedomhouse.org/report/freedom-net/2022/#tracking-the-global-decline)
-- [The Shattering of the Global Internet  
-全球互联网的崩溃](https://freedomhouse.org/report/freedom-net/2022/#the-shattering-of-the-global-internet)
-- [A Resilient Internet for a More Democratic Future  
-一个有弹性的互联网，一个更加民主的未来](https://freedomhouse.org/report/freedom-net/2022/#a-resilient-internet-for-a-more-democratic-future)
+# Countering an Authoritarian Overhaul of the Internet
 
-Written by  撰写者
-
-Adrian Shahbaz   阿德里安·沙巴兹
-
-Allie Funk   艾莉·芬克
-
-Kian Vesteinsson   基安·韦斯坦森
-
-## Key Findings  主要发现
+## Key Findings 主要发现
 
 [**Global internet freedom declined for the 12th consecutive year.**](https://freedomhouse.org/report/freedom-net/2022/countering-authoritarian-overhaul-internet#Tracking) The sharpest downgrades were documented in Russia, Myanmar, Sudan, and Libya. Following the Russian military’s illegal and unprovoked invasion of Ukraine, the Kremlin dramatically intensified its ongoing efforts to suppress domestic dissent and accelerated the closure or exile of the country’s remaining independent media outlets. In at least 53 countries, users faced legal repercussions for expressing themselves online, often leading to draconian prison terms.
 
@@ -51,7 +34,7 @@ Kian Vesteinsson   基安·韦斯坦森
 
 [**在网络控制权的竞争中，人权悬而未决。**](https://freedomhouse.org/report/freedom-net/2022/countering-authoritarian-overhaul-internet#Shattering) 独裁国家正在竞相在全世界传播他们的数字控制模式。作为回应，民主政府联盟在多边论坛上加大了对网络人权的促进​​力度，勾勒出互联网的积极愿景。然而，他们的进步仍然受到本国存在问题的互联网自由做法的阻碍。
 
-## Introduction  介绍
+## Introduction 介绍
 
 At home and on the international stage, authoritarians are on a campaign to divide the open internet into a patchwork of repressive enclaves. More governments than ever are exerting control over what people can access and share online by blocking foreign websites, hoarding personal data, and centralizing their countries’ technical infrastructure. As a result of these trends, global internet freedom has declined for a 12th consecutive year.
 
@@ -65,7 +48,7 @@ Alarmingly, these antidemocratic abuses are not the only factor behind the splin
 
 令人震惊的是，这些反民主的滥用行为并不是互联网分裂成国家部分的唯一因素。一些政府显然正在培育一个国内数字空间，在这个空间中，国家认可的叙事占主导地位，独立媒体、公民社会和已经边缘化的声音更容易受到压制。但其他人通过努力解决虚假信息、保护用户数据和阻止真正的网络犯罪，无意中助长了基于国家的障碍。然而，无论意图如何，互联网的日益碎片化都会对言论自由、信息获取和隐私等基本权利带来严重后果，特别是对于生活在独裁政权或民主倒退的人们来说。
 
-### **A more fragmented internet
+### **A More fragmented internet
 
 互联网更加碎片化**
 
@@ -88,7 +71,7 @@ A cohort of democracies are pushing back. Having previously focused on a narrowe
 
 一群民主国家正在反击。美国此前专注于与对抗北京相关的狭隘经济和安全利益，最近显示出重新参与网络外交的有希望的迹象，旨在促进数字时代民主的积极愿景。欧盟 (EU) 也采取了创新和尊重权利的监管方法，以解决因互联网而加剧的危害。但许多民主国家尚未在本国境内显着提高对网络权利的尊重。在本报告涵盖的参加美国主办的民主峰会的 35 个国家中，有 13 个国家在过去一年中经历了互联网自由度的下降，签署美国主导的*网络自由宣言的 18 个国家中*的 10 个国家也是如此。互联网的未来。通过在国内采取有缺陷的政策，民主国家可能会破坏它们在国外寻求捍卫的价值观，同时可能会切断威权国家居民与更自由、更开放的互联网的联系。
 
-### **Protecting human rights online through democratic resilience
+### **Protecting Human rights online through democratic resilience
 
 通过民主复原力保护在线人权**
 
@@ -114,7 +97,7 @@ Democratic leaders should recommit to preserving the benefits of a free and open
 
 追踪全球衰退
 
-### *A rundown of prominent changes to countries’ internet freedom scores
+### *A Rundown of prominent changes to countries’ internet freedom scores
 
 各国互联网自由度得分显着变化一览 *
 
@@ -127,7 +110,7 @@ Global internet freedom has declined for the 12th consecutive year. The environm
 *Freedom on the Net* is an annual study of human rights in the digital sphere. The project assesses internet freedom in 70 countries, accounting for 89 percent of the world’s internet users. This report, the 12th in its series, covered developments between June 2021 and May 2022. More than 80 analysts and advisers contributed to this year’s edition, using a standard [methodology](https://freedomhouse.org/reports/freedom-net/freedom-net-research-methodology) to determine each country’s internet freedom score on a 100-point scale, with 21 separate indicators pertaining to obstacles to access, limits on content, and violations of user rights. The *Freedom on the Net* website features in-depth reports and data on each country’s conditions, as well as [policy recommendations](https://freedomhouse.org/report/freedom-net/2022/countering-authoritarian-overhaul-internet/policy-recommendations) for governments and tech companies.
 *《网络自由》* 是对数字领域人权的年度研究。该项目评估了 70 个国家的互联网自由度，这些国家占全球互联网用户的 89%。该报告是该系列的第 12 份报告，涵盖了 2021 年 6 月至 2022 年 5 月期间的发展情况。超过 80 名分析师和顾问为今年的报告做出了贡献，他们使用标准 [方法](https://freedomhouse.org/reports/freedom-net/freedom-net-research-methodology) 以 100 分制确定每个国家的互联网自由得分，其中 21 有关访问障碍、内容限制和侵犯用户权利的单独指标。*网络自由*网站提供有关每个国家情况的深入报告和数据，以及针对政府和科技公司的 [政策建议](https://freedomhouse.org/report/freedom-net/2022/countering-authoritarian-overhaul-internet/policy-recommendations)。
 
-### **The Kremlin’s invasion of Ukraine puts internet freedom under threat
+### **The Kremlin’s Invasion of Ukraine puts internet freedom under threat
 
 克里姆林宫入侵乌克兰使互联网自由受到威胁**
 
@@ -146,7 +129,7 @@ The Ukrainian government and people have shown astonishing resilience during the
 
 乌克兰政府和人民在入侵期间表现出了惊人的韧性。政府官员和电信公司共同努力修复互联网基础设施并确保在线资源和信息的访问，这在武装冲突中可以挽救生命。作为政府、美国科技公司 SpaceX 和其他合作伙伴合作的一部分，部署了约 11,000 个星链站来提供基于卫星的互联网服务。乌克兰电信运营商还允许用户在主要运营商的信号不可用时在运营商之间进行切换，并且他们做出了重大努力，为防空洞提供 Wi-Fi 接入。俄罗斯军队入侵该国后，乌克兰公司 Ajax Systems 立即与政府合作推出了一款移动应用程序（截至 3 月份下载量已超过 400 万次），用于提醒用户即将到来的空袭。
 
-### **Coups and elections drive major declines and improvements
+### **Coups And elections drive major declines and improvements
 
 政变和选举推动经济大幅下滑和改善**
 
@@ -170,7 +153,7 @@ In The Gambia, internet freedom improved by three points, contributing to a 23-p
 
 在冈比亚，互联网自由度提高了 3 个百分点，自 2017 年结束前总统叶海亚·贾梅 (Yahya Jammeh) 的专制政权以来，进步了 23 个百分点。冈比亚人在 2021 年 12 月的总统选举期间不受限制地在网上动员起来，现任总统阿达马·巴罗 (Adama Barrow) 获得了第二学期。巴罗政府还通过了一项具有里程碑意义的法律，保障公众信息权，这是透明度和问责制的重要一步。
 
-### **New and persistent threats to free expression worldwide
+### **New And persistent threats to free expression worldwide
 
 全球言论自由面临新的和持续的威胁**
 
@@ -185,7 +168,7 @@ In at least 22 countries, government officials blocked access to social media or
 
 在至少 22 个国家，政府官员封锁了社交媒体或通讯平台。实施一些封锁是为了迫使公司遵守在国内开设办事处、在国内存储数据或以其他方式改变其运营方式以促进政府审查或数据请求的实施的要求。在 [乌兹别克斯坦](https://freedomhouse.org/country/uzbekistan/freedom-net/2022)，当局于 2021 年 7 月和 11 月屏蔽了一系列国际社交媒体和消息应用程序，理由是它们未能遵守数据保护法中的本地化要求；到 2022 年 8 月，大多数平台的访问已恢复。2022 年 3 月，[巴西](https://freedomhouse.org/country/brazil/freedom-net/2022) 最高法院的一名法官推翻了禁止 Telegram 的命令，此前该应用程序同意删除被标记为虚假信息的内容，并宣布将任命一名当地代表。[尼日利亚](https://freedomhouse.org/country/nigeria/freedom-net/2022) 官员于 2022 年 1 月取消了对 Twitter 的为期 7 个月的封锁，声称该公司已同意在该国建立实体存在。
 
-### **The future of internet freedom in “swing states”
+### **The Future of internet freedom in “swing states”
 
 “摇摆州”互联网自由的未来**
 
@@ -204,7 +187,7 @@ Other countries in this group pursued practices that increased digital repressio
 
 该集团的其他国家采取的做法加剧了数字压制并破坏了信息空间的多样性。在 [突尼斯](https://freedomhouse.org/country/tunisia/freedom-net/2022)，总统凯斯·赛义德暂停了部分宪法，实施了过于宽泛的规则，禁止国家认为“虚假”信息，并逮捕了网上批评者——对于这个阿拉伯世界互联网自由度最高的国家来说，这是一个令人震惊的转变分数。[印度尼西亚](https://freedomhouse.org/country/indonesia/freedom-net/2022) 当局在报道期结束后短暂封锁了包括雅虎和 PayPal 在内的多个网站，以强制遵守一项压制性法律，该法律要求公司向政府注册、任命当地联络人并在更严格的时间内删除内容。
 
-### **The world’s most repressive online environment
+### **The world’s Most repressive online environment
 
 世界上最压抑的网络环境**
 
@@ -216,7 +199,7 @@ Government officials instituted new policies to tighten their control over Chine
 
 政府官员制定了新政策，加强对中国科技公司的控制。主要互联网监管机构发布指导意见，要求平台将其内容审核和推荐系统与“习近平思想”（现任中共领导人的官方意识形态）保持一致。另一套规则草案将对允许中国互联网用户绕过防火墙的公司处以重罚。与此同时，于 2021 年 11 月生效的中国数据保护框架为中国公司持有的个人数据建立了基线保护措施，尽管它未能对政府持有或要求的数据应用相同的标准。
 
-### **For the United States, progress abroad and stalemate at home
+### **For The United States, progress abroad and stalemate at home
 
 对于美国来说，国外进步，国内陷入僵局**
 
@@ -253,7 +236,7 @@ The myriad of national regulations and practices that contribute to fragmentatio
 
 民主领域的政府有意或无意地实施了无数导致分裂的国家法规和做法，但它们之间存在着关键的区别。中国、伊朗和俄罗斯等国家的独裁政权正在寻求将本国人民与世界其他地区隔离开来。更民主的措施通常寻求执行权利保护立法，以解决公司的滥用行为或真正的在线伤害。尽管这些政策是通过国家干预来实现的，但它们通常还配有保障措施，允许信息和服务持续跨境流动，只要合作伙伴确保对用户权利提供类似水平的保护。
 
-### **Isolating users from outside information
+### **Isolating Users from outside information
 
 将用户与外部信息隔离**
 
@@ -265,7 +248,7 @@ The restrictions were largely imposed in countries that are designated as Not Fr
 
 这些限制主要是在被 [*《世界自由》*](https://freedomhouse.org/report/freedom-world/2022/global-expansion-authoritarian-rule) 列为不自由或部分自由的国家实施的，这表明根深蒂固的独裁领导人和有抱负的独裁领导人在多大程度上依赖信息控制来保留权力。在政治过渡和可能发生的变革的危险时刻——例如抗议、选举和冲突——对外国信息的审查往往会加强。
 
-#### ***Blocking access to international websites, social media platforms, or the internet as a whole
+#### ***Blocking Access to international websites, social media platforms, or the internet as a whole
 
 阻止访问国际网站、社交媒体平台或整个互联网***
 
@@ -291,7 +274,7 @@ To track the different ways in which governments seek to dominate the digital sp
 
 [Learn More   了解更多](https://freedomhouse.org/report/freedom-net/2022/key-internet-controls)
 
-#### ***Targeting circumvention technology
+#### ***Targeting Circumvention technology
 
 针对性规避技术***
 
@@ -307,7 +290,7 @@ In [India](https://freedomhouse.org/country/india/freedom-net/2022), new regulat
 
 [印度](https://freedomhouse.org/country/india/freedom-net/2022) 政府针对美国科技公司提出了审查要求，并对 TikTok 和微信等中国公司拥有的通信平台实施为期两年的封锁，因此出台了针对 VPN 提供商的新监管要求。 VPN 服务将被要求将用户记录（例如姓名和 IP（互联网协议）地址）保存五年，并根据要求向政府提供，违规者将被处以高额罚款。此后，国际提供商 TunnelBear 和 Norton 已停止在印度提供服务。据报道，在邻近的缅甸，安全官员采用了更粗暴的策略来阻止人们使用该技术：他们任意搜查平民的手机以寻找 VPN 的证据，并拘留被发现下载了 VPN 的个人。
 
-#### ***Exploiting fears of foreign interference to inhibit independent media
+#### ***Exploiting Fears of foreign interference to inhibit independent media
 
 利用对外国干涉的恐惧来抑制独立媒体***
 
@@ -323,7 +306,7 @@ A restrictive [Azerbaijani](https://freedomhouse.org/country/azerbaijan/freedom-
 
 2022 年 2 月通过的一项限制性 [阿塞拜疆](https://freedomhouse.org/country/azerbaijan/freedom-net/2022) 媒体法限制媒体（广义上包括新闻媒体和个人）可以接受的外国资金，并要求媒体运营商必须设在该国。该法律进一步打压了本已受到严格控制的在线媒体环境，许多阿塞拜疆记者被迫在国外开展工作，以避免受到国家迫害。
 
-#### ***Propping up state-aligned and state-owned alternatives to international platforms
+#### ***Propping Up state-aligned and state-owned alternatives to international platforms
 
 支持国家联盟和国有替代国际平台***
 
@@ -343,7 +326,7 @@ The push toward domestic platforms often followed explicit or implicit attacks o
 
 对国内平台的推动往往是在对国际平台的可信度进行明示或暗示的攻击之后，进一步破坏了对全球信息空间的信任。在 [土耳其](https://freedomhouse.org/country/turkey/freedom-net/2022)，在 Meta 旗下的应用程序 BiP 引入了有问题的隐私政策更新后，许多国家机构在 2021 年纷纷涌向 WhatsApp 的替代品 BiP。 BiP 归移动运营商 Turkcell 所有，该公司由国家主权财富基金控制。该平台在孟加拉国、印度尼西亚、巴基斯坦和巴林的用户群不断增长。
 
-### **Increasing barriers to the cross-border flow of user data
+### **Increasing Barriers to the cross-border flow of user data
 
 用户数据跨境流动壁垒不断增加**
 
@@ -371,7 +354,7 @@ Though modeled on the GDPR, the [United Arab Emirates’](https://freedomhouse.o
 
 尽管以 GDPR 为蓝本，[阿拉伯联合酋长国的](https://freedomhouse.org/country/united-arab-emirates/freedom-net/2022) 新数据保护法自 2022 年 1 月起生效，使负责处理个人数据的政府实体免受基线保障措施的约束。尽管对商业数据访问的限制值得欢迎，但该法律使居民的隐私面临风险：该国当局仍然拥有广泛的权力来监控通信并从服务提供商处获取数据。
 
-### **Breaking away from global infrastructure
+### **Breaking Away from global infrastructure
 
 脱离全球基础设施**
 
@@ -391,7 +374,7 @@ The [Cambodian](https://freedomhouse.org/country/cambodia/freedom-net/2022) gove
 
 [柬埔寨](https://freedomhouse.org/country/cambodia/freedom-net/2022) 政府计划通过一个名为国家互联网网关 (NIG) 的单一门户路由所有国际和国内互联网流量。这个集中的阻塞点将使当局能够审查来自世界各地的内容并更容易地监视居民。柬埔寨官员出人意料地于 2022 年 2 月推迟了 NIG 的实施，理由是 COVID-19 大流行以及与许可和设备安装相关的问题。这一决定是在私营部门、民间社会和联合国专家广泛反对国家信息集团之后做出的。
 
-### **The competition to control the web
+### **The Competition to control the web
 
 控制网络的竞争**
 
@@ -413,7 +396,7 @@ The Russian government has similarly leveraged international institutions to inf
 
 俄罗斯政府也同样利用国际机构来影响互联网治理。 2022 年 2 月，联合国开始了一项新的网络犯罪条约的谈判，该条约最初由俄罗斯外交官提出，白俄罗斯、柬埔寨、中国、朝鲜、缅甸、尼加拉瓜和委内瑞拉的代表共同发起，这些国家均被列为“不因自由而*自由*”*在世界上*。民间社会强烈谴责拟议的条约，称其为数字镇压的新载体。莫斯科还于 2021 年 6 月与北京一起呼吁建立更强大的国际电联，并支持每个国家控制自己的“国家互联网部分”的权利。一位俄罗斯官员解释说，该机构需要一个更有力的版本，他声称多利益相关者的治理模式“无效”。
 
-#### ***Democratic states step up globally
+#### ***Democratic States step up globally
 
 民主国家在全球范围内崛起***
 
@@ -432,7 +415,7 @@ However, the DSA framework features a problematic “notice-and-action” provis
 
 然而，DSA 框架有一个有问题的“通知和行动”条款，要求公司删除被欧盟当局或成员国视为非法的言论，这些言论可能被滥用来压制政治、社会和宗教言论。为了限制这种风险，布鲁塞尔和成员国应根据国际法明确定义和协调“非法”言论的定义，并确保独立的司法机构监督任何内容的删除。
 
-#### ***Harmonizing data protection to create a race to the top
+#### ***Harmonizing Data protection to create a race to the top
 
 协调数据保护以创造竞争优势***
 
@@ -444,7 +427,7 @@ Governments also proposed, passed, or began enforcement of data protection laws 
 
 各国政府还提议、通过或开始执行与现有国际框架中尊重权利的条款相一致的数据保护法，这种做法可以最大限度地减少碎片化的影响。[南非的](https://freedomhouse.org/country/south-africa/freedom-net/2022) 数据保护法于 2021 年 7 月全面生效，其起草目的是为了与 GDPR 的部分内容保持一致，[斯里兰卡的](https://freedomhouse.org/country/sri-lanka/freedom-net/2022) 数据保护法于 2022 年 3 月通过。这两项法律都对个人数据跨境传输进行了限制，但以下情况除外某些情况下，包括转移到有充分保障的国家。保护隐私并不一定需要限制数据存储的物理位置。例如，[美国](https://freedomhouse.org/country/united-states/freedom-net/2022) 拟议的《美国数据隐私和保护法案》避免关注数据可以转移到哪里，而是采用数据最小化方法，限制可以收集的内容、如何存储以及与谁共享。
 
-### **Resisting internet fragmentation while protecting human rights
+### **Resisting Internet fragmentation while protecting human rights
 
 抵制互联网碎片化，保护人权**
 
@@ -469,7 +452,7 @@ While success requires the participation of a range of actors, civil society has
 
 虽然成功需要一系列参与者的参与，但民间社会始终处于最前沿。扎根于特定国家或地区的非营利组织、媒体团体和人权捍卫者在首先发现问题并提高人们对问题的认识方面发挥了主导作用，通常多年来不知疲倦地进行，然后在来自其他国家或地区的协助下制定解决该问题的战略。其他能够组织必要的财政和政治资源的人。政府、慈善基金会、私营公司和其他有兴趣培育适合所有用户的自由开放互联网的机构应尽最大努力与参与反对数字压制和互联网碎片化的民间社会团体进行有意义的接触，提供资金、技术专长、能力建设和其他支持来推进他们的工作。
 
-### **Working with the judiciary
+### **Working With the judiciary
 
 与司法部门合作**
 
@@ -485,7 +468,7 @@ In [India](https://freedomhouse.org/country/india/freedom-net/2022), multiple ci
 
 在 [印度](https://freedomhouse.org/country/india/freedom-net/2022)，多个民间社会和媒体团体针对政府的审查信息技​​术规则展开了战略诉讼，2021 年 8 月，作为代表广播公司的组织提起诉讼的一部分，法院中止了法规中存在问题的条款的执行。在最近的一个案例中，[墨西哥](https://freedomhouse.org/country/mexico/freedom-net/2022) 最高法院于 2022 年 4 月宣布生物识别手机登记无效，从而增强了人们在线匿名交流的能力。这一决定是在民间社会活动人士认为登记系统促进了广泛的监视、降低个人数据的安全性并加剧社会不平等之后作出的。
 
-### **Pushing the private sector into action
+### **Pushing The private sector into action
 
 推动私营部门采取行动**
 
@@ -508,7 +491,7 @@ The private sector has sometimes partnered with civil society, government actors
 > Civil society has played a leading role in first raising awareness of a problem and then creating a strategy to address it.
 > 民间社会在首先提高对问题的认识，然后制定解决该问题的战略方面发挥了主导作用。
 
-### **Driving government policy changes to restore internet freedom
+### **Driving Government policy changes to restore internet freedom
 
 推动政府政策变化以恢复互联网自由**
 
@@ -538,7 +521,7 @@ NAIROBI, KENYA - 2022/08/15: Kenyans watch the announcement of the presidential 
 
 肯尼亚内罗毕 - 2022 年 8 月 15 日：肯尼亚人在内罗毕的 Gikomba 市场上通过电话观看总统选举结果的公布。经过激烈的总统竞选，独立选举和边界委员会（IEBC）主席宣布副总统威廉·鲁托获胜。
 
-### **Progress on Internet Shutdowns
+### **Progress On Internet Shutdowns
 
 互联网关闭的进展**
 
@@ -561,7 +544,7 @@ This sustained advocacy has contributed to a consensus at the multilateral level
 
 这种持续的倡导促成了多边层面的共识，即关闭是不合理且不成比例的。受人权理事会委托并于 2022 年向联合国大会发布的一份联合国报告纳入了民间社会和私营部门的意见，概述了如何限制此类审查制度的建议。自由在线联盟呼吁在 2021 年 7 月立即结束关闭，并成立了一个互联网关闭工作组来设计宣传的最佳实践。七国集团政府还于 2021 年公开同意在“出于政治动机”时合作反对关闭，尽管据报道在印度政府（全球连通限制方面的领导者）的反对后，他们的措辞软化了。
 
-### **The path to stronger rights protections and a more resilient internet
+### **The Path to stronger rights protections and a more resilient internet
 
 通往更强有力的权利保护和更具弹性的互联网之路**
 
