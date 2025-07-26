@@ -9,7 +9,7 @@ source: https://github.com/koodo-reader/koodo-reader
 tags:
   - github/star
 tags-link:
-  - "[[pages/books]]"
+  - "[[pages/book]]"
 type: repo
 ---
 
