@@ -247,7 +247,7 @@ TLAB前面的内容讲过，在当前场景下做一个补充：
 >
 > 每台机器配置2c4G，以每秒3000笔订单为例，整个过程持续60秒
 
-![](images/59.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655967490073/aeab3eedd1e64d5cb02d7743f2f0252e.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655967490073/aeab3eedd1e64d5cb02d7743f2f0252e.png)
 
 ### 4.1.2 内存溢出(OOM)
 

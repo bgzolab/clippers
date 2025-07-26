@@ -19,7 +19,7 @@
 
 > 由于整个过程中，并发标记和并发清除，收集器线程可以与用户线程一起工作，所以总体上来说，CMS收集器的内存回收过程是与用户线程一起并发地执行的。
 
-![](images/34.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1652270310036/de9c7c9d366e4326ab7750baee284cc4.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1652270310036/de9c7c9d366e4326ab7750baee284cc4.png)
 
 ```
 优点：并发收集、低停顿

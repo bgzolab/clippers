@@ -1,25 +1,26 @@
 ---
-title: "python-poetry/poetry"
-aliases: "poetry"
+aliases:
+  - "poetry"
+  - Poetry
+  - Python-poetry-poetry
 created: 2025-02-22T14:04:11
-modified: 2025-02-22T14:06:25
 description: "Python packaging and dependency management made easy"
+modified: 2025-07-26T23:19:58
 source: "https://github.com/python-poetry/poetry"
 tags:
   - "github/star"
 tags-link:
+title: Poetry
 type: "repo"
 ---
 
-## Meta
+# Poetry
 
 ![](https://img.shields.io/github/stars/python-poetry/poetry?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/python-poetry/poetry?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/python-poetry/poetry?style=for-the-badge&label=since)
 
-## Notes
-
 用起来非常像前端的 NPM
 
-### [[proxy]]
+## [[proxy|代理]]
 
 poetry 通过 [PyPI](https://pypi.org/) 软件仓库来下载依赖。如果在国内访问默认的镜像速度很慢，可以通过在 pyproject.toml 末尾添加下面的内容来设置自定义镜像源：
 
@@ -43,3 +44,24 @@ priority = "primary"
 - 清华大学 [https://pypi.tuna.tsinghua.edu.cn/simple/](https://pypi.tuna.tsinghua.edu.cn/simple/)
 
 via： https://yanxi123.com/post/2023/12/python-poetry/
+
+# Install locally
+
+Before install, you should build it:
+
+```shell
+poetry build
+```
+
+In venv environment, you could run command directly:
+
+```shell
+poetry install .
+```
+
+But If you want install globally and test, recommend you using [[pypa-pipx|pipx]]
+
+```shell
+deactivate
+pipx install .
+```

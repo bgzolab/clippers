@@ -14,7 +14,10 @@ weread:
 ---
 
 - [microservices-patterns/ftgo-application: Example code for the book Microservice patterns](https://github.com/microservices-patterns/ftgo-application);
-## ![微服务架构设计模式 by 克里斯·理查森](../assets/book_微服务架构设计模式_克里斯·理查森_chris_richardson.pdf)
+
+
+![[book_微服务架构设计模式_克里斯·理查森_chris_richardson.pdf]]
+
   - `([\u4e00-\u9fa5，。？；：”“、]) ([\u4e00-\u9fa5，。？；：”“、])`
     `$1$2`
     #regex
@@ -145,7 +148,7 @@ weread:
                     - 数据持久化层则定义了实现存储库接口的 DAO类
                       - 换句话说，依赖关系与分层架构所描述的相反
         - 六边形架构
-          - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670991548098_0.png)
+          - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670991548098_0.png)
           - 应用程序具有一个或多个入站适配器，而不是表示层
             - 它通过调用业务逻辑来处理来自外部的请求
           - 应用程序具有一个或多个出站适配器，而不是数据持久化层
@@ -186,19 +189,19 @@ weread:
       - 2.1.3 微服务架构是一种架构风格
         - 微服务架构的实现视图由多个组件构成：一组可执行文件或 WAR文件
           - 单体模式: [Monolithic Architecture pattern](https://microservices.io/patterns/monolithic.html)
-            - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670993623992_0.png)
+            - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670993623992_0.png)
           - 微服务模式: [Microservice Architecture pattern](https://microservices.io/patterns/microservices.html)
-            - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670993647342_0.png)
+            - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670993647342_0.png)
               - Related
-                - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670993811612_0.png)
+                - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670993811612_0.png)
         - 微服务架构的组件是服务，连接器是使这些服务能够协作的通信协议
           - 每个服务都有自己的逻辑视图架构，通常也是六边形架构
         - FTGO 应用程序可能的微服务架构
-          - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670997157617_0.png)
+          - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670997157617_0.png)
           - 此架构中的服务对应于业务功能，例如订单管理和餐馆管理
         - 服务
           - 服务是一个单一的、可独立部署的软件组件，它实现了一些有用的功能。
-            - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670997366838_0.png)
+            - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670997366838_0.png)
               - 显示了服务的外部视图，在此示例中是 Order Service
               - 服务具有 API , 为其客户端提供对功能的访问
                 - API 由命令、查询和事件组成
@@ -227,7 +230,7 @@ weread:
           - 微服务架构把应用程序通过一些小的、松耦合的服务组织在一起。结果，这样的架构提升了开发阶段的效率，特别是可维护性、可测试性和可部署性，这也就让组织的软件开发速度更快。微服务架构也同时提升了应用程序的可扩展性，尽管这不是微服务的主要目标。为了使用微服务架构开发软件，你首先需要识别服务，并确定它们之间如何协作。现在我们来看看如何定义一个应用程序的微服务架构。
     - 2.2 为应用程序定义微服务架构
       - 三步式流程
-        - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670998184381_0.png)
+        - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1670998184381_0.png)
         - 1.定义系统操作
           - 不是根据特定的进程间通信技术（如 REST 或消息）来描述这些请求，而是**使用更抽象的系统操作**这个概念
             - 系统操作 (system operation ) 是应用程序必须处理的请求的一种抽象描述。它既可以是更新数据的命令，也可以是检索数据的查询。每个命令的行为都是根据抽象领域模型定义的，抽象领域模型也是从需求中派生出来的。系统操作是描述服务之间协作方式的架构场景。
@@ -265,7 +268,7 @@ weread:
                     >
       - 2.2.1 识别系统操作
         - 两步式流程识别和定义系统操作
-          - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671018016495_0.png)
+          - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671018016495_0.png)
             - 这个流程的灵感来自CraigLannan的名著《ApplyingUML and Patterns》(Prentice Hall, 2004) 中介绍的[面向对象设计过程](http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns)
           - 1.创建由关键类组成的**抽象领域模型**，这些关键类提供用于描述系统操作的词汇表
           - 2.确定系统操作，并根据领域模型描述每个系统操作的行为
@@ -297,7 +300,7 @@ weread:
                   And the order''s promiseByTime is updated to the promised time
                   And the courier is assigned to deliver the order
 ```
-            - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671018988833_0.png)
+            - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671018988833_0.png)
         - 2.2.1.2 定义系统操作
           id: 639996a5-4b45-46b9-b60c-15648899453a
           - 有以下两种类型的系统操作
@@ -308,7 +311,7 @@ weread:
           - 识别系统指令的切入点是分析用户故事和场景中的动词
             - 很多用户故事都会直接对应或映射为系统命令
             - 列出了一些关键的系统命令
-              - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671025463172_0.png)
+              - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671025463172_0.png)
                 FTGO应用程序的重要系统命令
                 - | :--------: | :--------------------: | :-----------------------: | :------------------------------------------------: |
                   |  Consumer  |      Create Order      |       createOrder()       |                    创建一个订单                    |
@@ -321,13 +324,13 @@ weread:
             - 命令规范定义了命令对应的参数、返回值和领域模型类的行为。
             - 行为规范中包括前置条件（即当这个操作被调用时必须满足的条件）和后置条件（即这个操作被调用后必须满足的条件）
               - createOrder() 系统操作的规范
-                - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671025749343_0.png)
+                - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671025749343_0.png)
                   - 当系统操作被调用时，它会检查前置条件，执行操作来完成和满足后置条件
                   - 前置条件对应着Place Order 用户场景中的 givens
                     后置条件对应着场景中的Then
                     - ((6399b951-0ae3-4dbc-826e-4cd1210c9445))
               - acceptOrder () 的系统操作规范
-                - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671026200550_0.png)
+                - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671026200550_0.png)
                 - ((6399d7ae-6acc-4a32-bb44-be3cb996cfbf))
           - 实现查询
             - 用户过程
@@ -399,7 +402,7 @@ weread:
                         > While a callback function can often be replaced by a regular function, this may not always be the case. In some situations, the use of a callback function may be necessary in order to achieve the desired behavior or functionality. For example, if a program needs to perform some action after an event occurs, a callback function may be the only way to ensure that the action is executed at the right time. In general, the use of callback functions can help make a program more flexible and efficient.
                         >
           -            2. **同步** or **异步**
-            ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671028103659_0.png)
+            ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671028103659_0.png)
             - 请求 / 响应
               - 一个客户端向服务端发起请求，等待响应
               - 客户端期望服务端很快就会发送响应
@@ -452,7 +455,7 @@ weread:
               > 你不得不采用 API 优先的方法来进行服务设计
               - 编译器会自动根据这些格式生成序列化和反序列化的代码
     - 3.2 基于同步远程过程调用 (RPI) 模式的通信
-      - [ ] #gtd/todo ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671096956858_0.png)  
+      - [ ] #gtd/todo ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671096956858_0.png)  
         - 客户端中的业务逻辑调用**代理接口**
           - 接口由远程过程调用代理适配器类实现
         - 远程过程调用代理向服务发出请求
@@ -688,7 +691,7 @@ weread:
         - 断路器模式
           description: "这是一个远程过程调用的代理，在连续失败次数超过指定阁值后的一段时间内，这个代理会立即拒绝其他调用"
           source: https://microservices.io/patterns/reliability/circuit-breaker.html
-        - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671261044236_0.png)
+        - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671261044236_0.png)
           description: 如果Order Service 出问题: OrderServiceProxy 将无限期地阻塞. 等待响应. 最后整个 API 网关就会崩掉.
           - 让远程过程调用代理 (如 OrderServiceProxy) 有正确处理无响应服务的能力
           - 需要决定如何从失败的远程服务中恢复
@@ -707,7 +710,7 @@ weread:
                 - 在经过一定的时间后，客户端应该继续尝试，如果调用成功，则解除断路器
           - [Netflix Hystrix](https://github.com/Netflix/Hystrix) in `Java`; [Polly库](https://github.com/Appv-Next/Polly) in `.NET`
         - 从服务失效故障中恢复
-          - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671261954020_0.png)
+          - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671261954020_0.png)
       - 3.2.4 使用服务发现
         - 必要性 -> 服务实例集会动态更改(故障和升级)
         - 什么是服务发现
@@ -719,7 +722,7 @@ weread:
             - 服务及其客户直接与服务注册表交互。
             - 通过部署基础设施来处理服务发现 （12 章中详细讨论）
         - 应用层服务发现模式
-          - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671262994174_0.png)
+          - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671262994174_0.png)
           - 两种模式的组合
             - 自注册模式：服务实例向服务注册表注册自己
               source: https://microservices.io/patterns/self-registration.html
@@ -731,7 +734,7 @@ weread:
             - 需要为你使用的每种编程语言（可能还有框架） 提供服务发现库
             - 开发者负责设置和管理服务注册表， 这 会分散一定的精力
         - 平台层服务发现模式
-          - ![image.png](../assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671262893616_0.png)
+          - ![image.png](assets/book/Microservices-Patterns-With-Examples-in-Java/image_1671262893616_0.png)
           - 两种模式的组合
             - 第三方注册模式: 服务实例由第三方自动注册到服务注册表
               source: https://microservices.io/patterns/3rd-party-registration.html

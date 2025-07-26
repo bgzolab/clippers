@@ -250,7 +250,7 @@ ZGC有多种GC触发机制，总结如下：
 The jps command lists the instrumented Java HotSpot VMs on the target system. The command is limited to reporting information on JVMs for which it has the access permissions.
 ```
 
-![](images/41.png)
+
 
 ### 3.2.2 jinfo
 
@@ -269,7 +269,7 @@ jinfo -flag MaxHeapSize PID
 jinfo -flag UseG1GC PID
 ```
 
-![](images/42.png)
+
 
 > （3）修改
 >
@@ -286,7 +286,7 @@ jinfo -flag <name>=<value> PID
 jinfo -flags PID
 ```
 
-![](images/43.png)
+
 
 ### 3.2.3 jstat
 
@@ -302,7 +302,7 @@ The jstat command displays performance statistics for an instrumented Java HotSp
 jstat -class PID 1000 10   查看某个java进程的类装载信息，每1000毫秒输出一次，共输出10次
 ```
 
-![](images/44.png)
+
 
 > （3）查看垃圾收集信息
 
@@ -310,7 +310,7 @@ jstat -class PID 1000 10   查看某个java进程的类装载信息，每1000毫
 jstat -gc PID 1000 10
 ```
 
-![](images/45.png)
+
 
 ### 3.2.4 jstack
 
@@ -326,7 +326,7 @@ The jstack command prints Java stack traces of Java threads for a specified Java
 jstack PID
 ```
 
-![](images/46.png)
+
 
 > (4)排查死锁案例
 
@@ -385,15 +385,15 @@ class DeadLock implements Runnable{
 
 * 运行结果
 
-![](images/47.png)
+
 
 * jstack分析
 
-![](images/48.png)
+
 
 > 把打印信息拉到最后可以发现
 
-![](images/49.png)
+
 
 ### 3.2.5 jmap
 
@@ -414,7 +414,7 @@ jinfo -flag UsePSAdaptiveSurvivorSizePolicy 35352
 -XX:SurvivorRatio=8
 ```
 
-![](images/50.png)
+
 
 > （3）dump出堆内存相关信息
 
@@ -422,7 +422,7 @@ jinfo -flag UsePSAdaptiveSurvivorSizePolicy 35352
 jmap -dump:format=b,file=heap.hprof PID
 ```
 
-![](images/51.png)
+
 
 > （4）要是在发生堆内存溢出的时候，能自动dump出该文件就好了
 

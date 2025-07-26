@@ -401,7 +401,7 @@ XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+PrintGCDateStamps
 >> `注意`如果回收的差值中间有出入，说明这部分空间是Old区释放出来的
 >>
 
-![](images/54.png)
+
 
 （2）CMS
 
@@ -452,13 +452,13 @@ G1日志格式参考链接：https://blogs.oracle.com/poonam/understanding-g1-gc
 > 14.0M(256.0M)->3752.5K(256.0M)]
 > ```
 
-![](images/55.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1656048868088/1a36df96b353454c9d27722b7d87fdc4.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1656048868088/1a36df96b353454c9d27722b7d87fdc4.png)
 
 ### GCViewer
 
 java -jar gcviewer-1.36-SNAPSHOT.jar
 
-![](images/56.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1656048868088/be199bbcb4534c08aa852db802f4d9bf.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1656048868088/be199bbcb4534c08aa852db802f4d9bf.png)
 
 ### gceasy
 

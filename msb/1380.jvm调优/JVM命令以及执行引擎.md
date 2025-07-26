@@ -8,7 +8,7 @@
 The jps command lists the instrumented Java HotSpot VMs on the target system. The command is limited to reporting information on JVMs for which it has the access permissions.
 ```
 
-![](images/41.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/fcaee39e479c4d078f16ecb325619c53.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/fcaee39e479c4d078f16ecb325619c53.png)
 
 ### jinfo
 
@@ -27,7 +27,7 @@ jinfo -flag MaxHeapSize PID
 jinfo -flag UseG1GC PID
 ```
 
-![](images/42.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/4be28005e8a244f7b357d277a9244dbe.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/4be28005e8a244f7b357d277a9244dbe.png)
 
 > （3）修改
 >
@@ -44,7 +44,7 @@ jinfo -flag <name>=<value> PID
 jinfo -flags PID
 ```
 
-![](images/43.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/01493e1542304c32af3dd5e5dfdcaf39.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/01493e1542304c32af3dd5e5dfdcaf39.png)
 
 ### jstat
 
@@ -60,7 +60,7 @@ The jstat command displays performance statistics for an instrumented Java HotSp
 jstat -class PID 1000 10   查看某个java进程的类装载信息，每1000毫秒输出一次，共输出10次
 ```
 
-![](images/44.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/f672e595715a452bb7a3abd3301c74d0.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/f672e595715a452bb7a3abd3301c74d0.png)
 
 > （3）查看垃圾收集信息
 
@@ -68,7 +68,7 @@ jstat -class PID 1000 10   查看某个java进程的类装载信息，每1000毫
 jstat -gc PID 1000 10
 ```
 
-![](images/45.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/06ce7f95993346b283c7f2f86fe1516f.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/06ce7f95993346b283c7f2f86fe1516f.png)
 
 ### jstack
 
@@ -84,7 +84,7 @@ The jstack command prints Java stack traces of Java threads for a specified Java
 jstack PID
 ```
 
-![](images/46.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/f3a09e00012043baafea183e17291d48.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/f3a09e00012043baafea183e17291d48.png)
 
 > (4)排查死锁案例
 
@@ -143,15 +143,15 @@ class DeadLock implements Runnable{
 
 * 运行结果
 
-![](images/47.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/518fbc7a34494f1e91d914f5b8e2de8f.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/518fbc7a34494f1e91d914f5b8e2de8f.png)
 
 * jstack分析
 
-![](images/48.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/b2a12fc243fa43248a12df586ee1df5a.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/b2a12fc243fa43248a12df586ee1df5a.png)
 
 > 把打印信息拉到最后可以发现
 
-![](images/49.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/9e2c9900320244d4a8ed33f3e64a117a.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/9e2c9900320244d4a8ed33f3e64a117a.png)
 
 ### jmap
 
@@ -172,7 +172,7 @@ jinfo -flag UsePSAdaptiveSurvivorSizePolicy 35352
 -XX:SurvivorRatio=8
 ```
 
-![](images/50.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/ac32aa9fcc89458eb5cac86209bdfa0a.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/ac32aa9fcc89458eb5cac86209bdfa0a.png)
 
 > （3）dump出堆内存相关信息
 
@@ -180,7 +180,7 @@ jinfo -flag UsePSAdaptiveSurvivorSizePolicy 35352
 jmap -dump:format=b,file=heap.hprof PID
 ```
 
-![](images/51.png)![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/837bbf874f234b6f9a2f432c31eedbc6.png)
+![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1463/1655274390025/837bbf874f234b6f9a2f432c31eedbc6.png)
 
 > （4）要是在发生堆内存溢出的时候，能自动dump出该文件就好了
 
