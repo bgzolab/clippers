@@ -1,29 +1,26 @@
 ---
-title: zhaohongxuan/obsidian-weread-plugin
 aliases:
-  - obsidian-weread-plugin
+  - Obsidian weread plugin
 created: 2025-03-09T10:49:58
-modified: 2025-03-09T10:50:50
 description: Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.
+modified: 2025-07-27T10:38:06
 source: https://github.com/zhaohongxuan/obsidian-weread-plugin
-tags:
-  - github/star
+tags: []
 tags-link:
   - "[[obsidian]]"
+title: Obsidian weread plugin
 type: repo
 ---
 
-## Repo Meta
+# Obsidian [[weread]] plugin
 
 ![](https://img.shields.io/github/stars/zhaohongxuan/obsidian-weread-plugin?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/zhaohongxuan/obsidian-weread-plugin?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/zhaohongxuan/obsidian-weread-plugin?style=for-the-badge&label=since)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=zhaohongxuan&repo=obsidian-weread-plugin&bg_color=00000000)](https://github.com/zhaohongxuan/obsidian-weread-plugin)
 
-## Notes
+## 模板备份
 
-### 模板备份
-
-```
+```shell
 ---
 title: {{metaData.title}}
 aliases: {{metaData.title}}
