@@ -1,14 +1,18 @@
 ---
-title: videolan/vlc
-aliases: Tools/VLC
+aliases:
+  - VLC
 created: 2020-01-18T00:00:00
-modified: 2025-06-07T16:19:24
 description: VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
+modified: 2025-07-27T18:42:01
 source: https://github.com/videolan/vlc
-tags: video
+tags:
+  - video
 tags-link: 
+title: VLC
 type: repo
 ---
+
+# VLC
 
 ## Repo Meta
 
