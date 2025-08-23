@@ -1,12 +1,23 @@
 ---
-aliases: [电报, t.me, tdesktop, telegram, Telegram, telegram.me, telegram.org, telesco.pe, tg, tg.dev]
+aliases:
+  - 电报
+  - t.me
+  - tdesktop
+  - telegram
+  - Telegram
+  - telegram.me
+  - telegram.org
+  - telesco.pe
+  - tg
+  - tg.dev
 created: 2020-01-08T00:00:00
 description: Telegram Desktop messaging app
 document: https://core.telegram.org/api, https://desktop.telegram.org/changelog
-modified: 2025-07-02T21:06:47
+modified: 2025-08-17T18:18:52
 source: https://github.com/telegramdesktop/tdesktop
 status: tool/star
-tags: [instant-message]
+tags:
+  - instant-message
 tags-link: 
 title: Telegram
 type: tool
@@ -21,6 +32,8 @@ type: tool
 ## Why
 
 ## How
+
+### [[check-deleted-telegram-channels-info|How to check deleted telegram channels info]]
 
 ### Shortcuts
 
@@ -61,20 +74,6 @@ type: tool
 
 - https://telegram-channel.net
 - http://www.sssoou.com
-- 频道备份
-    - 信息密度低
-        - https://t.me/yitianshijie
-        - https://t.me/clashmeta
-    - 有生之年
-        - https://t.me/ceylan_podcast
-        - https://t.me/TGgeek
-        - https://t.me/gotoshare
-        - https://t.me/yinghexiaozu
-        - https://t.me/dejavuBlog
-        - https://t.me/isbn9787559848048
-        - https://t.me/creative_code
-        - https://t.me/OGC_DLsite_Cangku
-        - https://t.me/pieroots
 
 ## What
 

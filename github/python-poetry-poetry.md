@@ -5,7 +5,7 @@ aliases:
   - Python-poetry-poetry
 created: 2025-02-22T14:04:11
 description: "Python packaging and dependency management made easy"
-modified: 2025-07-27T11:59:46
+modified: 2025-08-09T13:50:18
 source: "https://github.com/python-poetry/poetry"
 tags:
   - "github/star"
@@ -52,7 +52,7 @@ priority = "primary"
 
 via： https://yanxi123.com/post/2023/12/python-poetry/
 
-# Install locally
+## Install locally
 
 Before install, you should build it:
 
@@ -71,4 +71,12 @@ But If you want install globally and test, recommend you using [[pypa-pipx|pipx]
 ```shell
 deactivate
 pipx install .
+```
+
+## [[publish-pip-package|Publish-pip-package]]
+
+## Sync requirements
+
+```shell
+poetry add $(cat requirements.txt)
 ```
