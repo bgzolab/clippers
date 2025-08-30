@@ -4,8 +4,6 @@
 
 🌈阿朱露出中，酒瓶自慰，射爆了
 
-[一键脱衣/换脸](https://t.me/XXHL9Bot)
-
 https://t.me/CCTAV1/23925
 
 Published on 2025-05-07 21:00:12. Saved on 2025-05-22 14:45:18

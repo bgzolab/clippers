@@ -186,3 +186,16 @@ Ah ! jeunesse – l’homme ne la possède qu’un temps et le reste du temps la
 https://t.me/french_excerpt/1382
 
 Published on 2025-05-01 18:18:54. Saved on 2025-05-13 22:05:53
+
+## 2025-08-25 03:23:33
+
+
+“当我说不再爱他时，我想说的是您想象不出在无爱的路上人们会走得多远。”
+
+《劳儿之劫》玛格丽特·杜拉斯
+
+王东亮（译） 上海译文出版社 [source](https://m.weibo.cn/status/Q1kZf0P4W)
+
+https://t.me/french_excerpt/1510
+
+Published on 2025-08-25 03:23:33. Saved on 2025-08-28 17:16:27

@@ -7,3 +7,40 @@
 中央气象台今晨继续发布高温黄色预警，预计今天白天，华北东部、黄淮中东部及辽宁西部、内蒙古东南部和西部、甘肃西部、新疆东部等地有35℃以上的高温天气，其中，京津冀大部、河南东北部、山东中北部及辽宁西部、内蒙古东南部等地最高气温37～40℃，局地可达40℃以上。
 （中国中央气象台）
 https://t.me/tnews365/27349
+
+## 2025-06-13 07:32:20
+![](assets/tnews365/20250810_204615_271903.jpg) 
+
+
+
+https://t.me/tnews365/33648
+
+Published on 2025-06-13 07:32:20. Saved on 2025-08-10 20:46:15
+
+## 2025-06-13 07:32:20
+![](assets/tnews365/20250810_204615_444275.jpg) 
+
+
+
+https://t.me/tnews365/33649
+
+Published on 2025-06-13 07:32:20. Saved on 2025-08-10 20:46:16
+
+## 2025-06-13 07:32:20
+![](assets/tnews365/20250810_204616_646888.jpg) 
+
+印度坠机事故已造成机上241人死亡、1人受伤。幸存者为印裔英籍公民，全身多处受伤但无生命危险。地面被撞的医学院有5人死亡、50人受伤。伤者中一些人情况危急，许多人恐被埋在废墟中。另据PTI报道，目前已有265具遇难者遗体送抵医院。当局将在DNA检测确定遇难者身份后公布正式遇难人数。
+（[美联社](https://apnews.com/article/india-plane-crash-cad8dad5cd0e92795b03d357404af5f8)，[PTI](https://www.ptinews.com/stories-detail/national/London-bound-AI-plane-crashes-near-Ahmedabad-airport%3B-At-least-265-killed--Ex-Guj-CM-Rupani-among-dead/2640416/1)）
+
+https://t.me/tnews365/33647
+
+Published on 2025-06-13 07:32:20. Saved on 2025-08-10 20:46:16
+
+## 2025-06-13 07:32:20
+![](assets/tnews365/20250810_204616_884274.jpg) 
+
+
+
+https://t.me/tnews365/33650
+
+Published on 2025-06-13 07:32:20. Saved on 2025-08-10 20:46:16

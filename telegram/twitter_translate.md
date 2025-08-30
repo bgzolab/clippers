@@ -1160,3 +1160,14 @@ Published on 2025-03-26 03:57:09. Saved on 2025-04-17 10:03:36
 https://t.me/twitter_translate/27388
 
 Published on 2025-04-18 04:49:41. Saved on 2025-04-18 11:44:21
+
+## 2025-08-24 05:10:17
+![](assets/twitter_translate/20250825_173658_444600.jpg) 
+
+看到我国不断下降的生育率，我觉得我应该质问自己一些艰难的问题了...
+
+比如，“关我什么事”和“那又怎样” 😂 [source](https://www.tumblr.com/lierdumoa/792703493798592512)
+
+https://t.me/twitter_translate/28706
+
+Published on 2025-08-24 05:10:17. Saved on 2025-08-25 17:36:58
