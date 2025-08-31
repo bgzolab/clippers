@@ -1,11 +1,16 @@
 ---
-aliases: ['ROLEPLAYER：小粥姐妹的黏膜游戏！', 'Role player：小粥姉妹の粘膜ポトレ ぐりぐちゃLIVE！']
+aliases:
+  - 'Role player：小粥姉妹の粘膜ポトレ ぐりぐちゃLIVE！'
+  - 'ROLEPLAYER：小粥姐妹的黏膜游戏！'
+  - ROLEPLAYER：小粥姐妹的黏膜游戏！
 bangumi: https://bgm.tv/subject/331474
 bangumi-rating: 7.1
 cover: https://lain.bgm.tv/r/800/pic/cover/l/04/68/331474_Ak6J6.jpg
 created: 2021-06-25T22:38:27
-modified: 2025-08-27T22:38:27
-tags: ['bangumi/want', 'bangumi/game']
+modified: 2025-08-31T18:40:34
+tags:
+  - 'bangumi/game'
+  - 'bangumi/want'
 title: ROLEPLAYER：小粥姐妹的黏膜游戏！
 type: bangumi/game
 website: ['http://www.akabeesoft2.com/products/roleplayer/index.html']
@@ -13,19 +18,21 @@ website: ['http://www.akabeesoft2.com/products/roleplayer/index.html']
 
 # ROLEPLAYER：小粥姐妹的黏膜游戏！
 
-俺は、漫画家だ。本業の一般漫画に納得がいかず別名義で描いたエロ漫画をネットにバラ撒いて自分の才能を爆散させている2流の漫画家だ。
+俺は、漫画家だ。本業の一般漫画に納得がいかず別名義で描いたエロ漫画をネットにバラ撒いて自分の才能を爆散させている 2 流の漫画家だ。
 
-俺は今、職場の作業机ではなく場違いなリゾート地に来ている。そして、自分の描いたキャラクターではなく、3次元の（巨乳）姉妹と向き合っている……。
+俺は今、職場の作業机ではなく場違いなリゾート地に来ている。そして、自分の描いたキャラクターではなく、3 次元の（巨乳）姉妹と向き合っている……。
 
 離島コスプレリゾート──通称「コスタリア」島全体がまるまる撮影スタジオのコスプレイヤーさんにとっての夢の島。
 
 「先生、わたし漫画と同じことがしてみたい」
+
 顔を真っ赤に染めた巨乳姉妹の口から飛び出した信じがたい甘い提案に思わず二度聴きする。
 
 ──本気で言ってるのか？　大丈夫か？
+
 俺のエロ漫画は、モラルの欠片もない性欲全開シチュエーションとポロりチラりは当たり前、むっちりミチミチコスチュームのオンパレードなんだぞ？
 
-そのむッちむちでむッれむれのワガママBODYで俺の脳内ドスケベWORLDをこの島で具現化しようというのか？
+そのむッちむちでむッれむれのワガママ BODY で俺の脳内ドスケベ WORLD をこの島で具現化しようというのか？
 
 お互いの性欲と愛情をたっぷりと粘膜に塗り込んだ絶対　で　き　ち　ゃ　う　あぶなくて気持ちいい「ロールプレイ」をしようと言うのか？！
 
@@ -35,11 +42,11 @@ website: ['http://www.akabeesoft2.com/products/roleplayer/index.html']
 
 ## Characters
 
-### 小粥聖良:主角
+### 小粥聖良: 主角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/a8/e4/92974_crt_KKZ6W.jpg)
 
-### 小粥莉瑠:主角
+### 小粥莉瑠: 主角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/44/86/92975_crt_TDxm6.jpg)
 

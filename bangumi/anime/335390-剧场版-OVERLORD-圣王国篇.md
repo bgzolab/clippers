@@ -1,11 +1,19 @@
 ---
-aliases: ['劇場版 オーバーロード 聖王国編', 'Gekijouban Overlord: Sei Oukoku Hen', '剧场版 不死者之王 圣王国篇', '剧场版 OVERLORD 圣王国篇', 'Overlord: The Sacred Kingdom']
+aliases:
+  - '剧场版 不死者之王 圣王国篇'
+  - '剧场版 OVERLORD 圣王国篇'
+  - '劇場版 オーバーロード 聖王国編'
+  - 'Gekijouban Overlord: Sei Oukoku Hen'
+  - 'Overlord: The Sacred Kingdom'
+  - 剧场版 OVERLORD 圣王国篇
 bangumi: https://bgm.tv/subject/335390
 bangumi-rating: 5.6
 cover: https://lain.bgm.tv/r/800/pic/cover/l/e7/f2/335390_p0ptv.jpg
 created: 2024-09-20T22:06:38
-modified: 2025-08-27T22:06:38
-tags: ['bangumi/done', 'bangumi/anime']
+modified: 2025-08-31T18:40:26
+tags:
+  - 'bangumi/anime'
+  - 'bangumi/done'
 title: 剧场版 OVERLORD 圣王国篇
 type: bangumi/anime
 website: ['https://overlord-anime.com/']
@@ -21,35 +29,35 @@ website: ['https://overlord-anime.com/']
 
 ## Characters
 
-### アインズ・ウール・ゴウン:主角
+### アインズ・ウール・ゴウン: 主角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/b1/36/33391_crt_s38wD.jpg?r=1604343668)
 
-### アルベド:配角
+### アルベド: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/96/33392_crt_5aE8k.jpg?r=1604343814)
 
-### デミウルゴス:配角
+### デミウルゴス: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/9c/42/33396_crt_4ez60.jpg)
 
-### シズ・デルタ:配角
+### シズ・デルタ: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/00/47/34012_crt_BJB5G.jpg?r=1438709709)
 
-### ネイア・バラハ:配角
+### ネイア・バラハ: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/33/3b/154300_crt_62iLf.jpg?r=1720625085)
 
-### レメディオス・カストディオ:配角
+### レメディオス・カストディオ: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/07/ac/154302_crt_1ikKK.jpg?r=1720625222)
 
-### カルカ・ベサーレス:配角
+### カルカ・ベサーレス: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/4d/01/154306_crt_p92V0.jpg?r=1720625219)
 
-### ケラルト・カストディオ:配角
+### ケラルト・カストディオ: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/c9/a3/154309_crt_QfAX1.jpg?r=1720625233)
 

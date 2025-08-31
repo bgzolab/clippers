@@ -1,17 +1,26 @@
 ---
-aliases: ['樱花萌放', "さくら、もゆ。-as the Night's, Reincarnation-", '樱花摸鱼', "樱花、萌放。-as the Night's, Reincarnation-", '樱花萌咲 -于“夜”重生之时-', '樱摸鱼']
+aliases:
+  - '樱花萌放'
+  - '樱花萌咲 -于“夜”重生之时-'
+  - '樱花摸鱼'
+  - '樱摸鱼'
+  - "樱花、萌放。-as the Night's, Reincarnation-"
+  - "樱花、萌放。-as The Night's, Reincarnation-"
+  - "さくら、もゆ。-as the Night's, Reincarnation-"
 bangumi: https://bgm.tv/subject/233030
 bangumi-rating: 8.2
 cover: https://lain.bgm.tv/r/800/pic/cover/l/16/3a/233030_422zH.jpg
 created: 2019-01-31T22:40:46
-modified: 2025-08-27T22:40:46
-tags: ['bangumi/done', 'bangumi/game']
-title: 樱花、萌放。-as the Night's, Reincarnation-
+modified: 2025-08-31T18:40:33
+tags:
+  - 'bangumi/done'
+  - 'bangumi/game'
+title: "樱花、萌放。-as The Night's, Reincarnation-"
 type: bangumi/game
 website: ['http://www.favo-soft.jp/soft/product/sakura/index.html']
 ---
 
-# 樱花、萌放。-as the Night's, Reincarnation-
+# 樱花、萌放。-as The Night's, Reincarnation-
 
       ——这是一个为了「魔法少女」的故事。
       在很久以前，
@@ -52,12 +61,16 @@ website: ['http://www.favo-soft.jp/soft/product/sakura/index.html']
       我就算是，
       就算是会就此凋零消散，也会一直一直这样做下去……
 
-
 ――これは“魔法少女”のための物語だ。
+
 遠い昔。
+
 幾人かの特別な女の子たち――“魔法少女”が人類の未来を救ったという。
+
 その闘いは熾烈を極めた。
+
 誰もが傷つき。　誰もが泣いて。　誰もが祈った。
+
 ごく当たり前にすぎる“戦いの物語”がそこにはあった。
 
 しかし……。
@@ -65,35 +78,49 @@ website: ['http://www.favo-soft.jp/soft/product/sakura/index.html']
 傷つき。　泣いて。　祈っても。
 
 少女らは誰に感謝されることもなく。
+
 誰に賞賛されることもなく。
+
 ……誰に、知られることもなく。
 
 それでも“戦い”は、無事に終わった。
+
 “人類の未来を守るための物語”を、これ以上ないハッピーエンドに導いた。
+
 そしてそれからおよそ十年後の現在。
 
 ……春。
 
 さくら咲き乱れる出会いと別れのその季節。
+
 かつて人類の未来を救った少女たちは、今はもう“魔法”を忘れごくふつうの少女として生きていた。
+
 誰もが当たり前に遭遇する、ごくごくふつうの当たり前な困難に、頭を抱え、迷い、生きる道を探してた。
+
 そんなある日。
+
 さくら舞い散る、春の中。
 
 「……お願いします」
 
 少年、奏大雅は、もうひとつの春と再び出会った。
+
 「お願いします。どうか私を、魔法少女に戻してください」
+
 これは“魔法少女”のための物語……。
+
 なんかでは、ない。
 
 これは、幸せを探し出すための物語。
+
 これは、あなたの人生のための、物語。
 
 さくらもゆ“夜”の中……。
 
 もう二度と、君が悲しまなくてもいいように
+
 さあ、引き金を引け。
+
 たったひとりの君を救うため。
 
 俺は。
@@ -102,67 +129,67 @@ website: ['http://www.favo-soft.jp/soft/product/sakura/index.html']
 
 ## Characters
 
-### クロ:主角
+### クロ: 主角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/56/a8/59775_crt_Hm9ik.jpg?r=1682663801)
 
-### 柊ハル:主角
+### 柊ハル: 主角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/88/39/59776_crt_Z5PF4.jpg?r=1682663755)
 
-### 杏藤千和:主角
+### 杏藤千和: 主角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/cd/99/59777_crt_hRurq.jpg?r=1682663705)
 
-### 夜月姫織:主角
+### 夜月姫織: 主角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/b8/ba/59778_crt_TW2b1.jpg?r=1682663648)
 
-### 陽向井あさひ:配角
+### 陽向井あさひ: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/11/09/63871_crt_2ccd9.jpg?r=1682662378)
 
-### 冬月十夜:配角
+### 冬月十夜: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/c8/fe/63872_crt_TiYTG.jpg?r=1682662316)
 
-### ナナ:配角
+### ナナ: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/f4/a5/63873_crt_EDEXD.jpg?r=1682662557)
 
-### 兎蛙智仁:配角
+### 兎蛙智仁: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/eb/24/109251_crt_uPDi7.jpg?r=1682662621)
 
-### 兎蛙あず咲:配角
+### 兎蛙あず咲: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/4f/7e/109252_crt_Jlo47.jpg?r=1682751299)
 
-### 奏大雅:主角
+### 奏大雅: 主角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/aa/db/109924_crt_6F5I6.jpg?r=1683197037)
 
-### 杏藤一磨:配角
+### 杏藤一磨: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/19/61/116273_crt_Kvka2.jpg?r=1682603495)
 
-### ナハト:配角
+### ナハト: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/4d/43/116274_crt_7312A.jpg?r=1682603571)
 
-### ましろ:配角
+### ましろ: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/7f/125932_crt_ksWI8.jpg?r=1682664420)
 
-### 女の子:配角
+### 女の子: 配角
 
 ![](https://lain.bgm.tv/r/400/pic/crt/l/a0/22/128782_crt_jXMm1.jpg?r=1682602709)
 
-### 遠矢:配角
+### 遠矢: 配角
 
 ![]()
 
-### ？？？:配角
+### ？？？: 配角
 
 ![]()
 
