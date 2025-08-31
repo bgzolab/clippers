@@ -3,7 +3,7 @@ created: 2024-12-16T07:47:09
 modified: 2025-01-15T11:39:52
 ---
 
-tags: #[[writing]]
+tags: #[[templates/writing]]
 
 source: https://mp.weixin.qq.com/s/FS6vViYHHONfoCJxQk2dBA
 

@@ -21,7 +21,7 @@ type: repo
 
 ## Notes
 
-  - [[commandline]]
+- [[skills/devops/linux/commandline/index]]
 
 ## How
 ### Find Software
