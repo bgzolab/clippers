@@ -1,5 +1,7 @@
 ---
-aliases: [Logseq, logseq]
+aliases:
+  - Logseq
+  - logseq
 changelog: https://docs.logseq.com
 created: 2021-08-01T12:00:00
 description: http://trello.com/b/8txSM12G/roadmap
@@ -7,8 +9,10 @@ document: https://blog.logseq.com, https://hub.logseq.com
 modified: 2025-07-02T21:31:36
 roadmap: https://trello.com/b/8txSM12G/roadmap
 source: https://github.com/logseq/logseq
-tags: [deprecated, github/star]
-tags-link: 
+tags:
+  - deprecated
+  - github/star
+tags-link:
 title: Logseq
 type: repo
 ---
