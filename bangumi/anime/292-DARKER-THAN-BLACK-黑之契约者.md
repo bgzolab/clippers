@@ -3,7 +3,7 @@ aliases:
   - '比黑更黑 -黑之契约者-'
   - 'DARKER THAN BLACK -黒の契約者-'
   - 'DARKER THAN BLACK -黑之契约者-'
-  - 'Darker Than Black: Kuro no Keiyakusha'
+  - 'Darker Than Black Kuro no Keiyakusha'
   - 'Darker Than Black'
   - DARKER THAN BLACK - 黑之契约者 -
 bangumi: https://bgm.tv/subject/292

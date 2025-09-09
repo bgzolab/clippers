@@ -4,7 +4,7 @@ aliases:
   - '出包王女Darkness 2nd'
   - '出包王女Darkness 第二季'
   - 'To LOVE-Ru Darkness 2nd'
-  - 'To Love-Ru: Trouble - Darkness 2nd'
+  - 'To Love-Ru Trouble - Darkness 2nd'
   - 'To LOVEる -とらぶる- ダークネス 2nd'
   - 出包王女 Darkness 第二季
 bangumi: https://bgm.tv/subject/120763

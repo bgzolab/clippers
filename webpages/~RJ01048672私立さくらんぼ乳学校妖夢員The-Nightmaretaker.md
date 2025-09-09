@@ -1,16 +1,16 @@
 ---
 aliases:
-  - RJ01048672 私立さくらんぼ乳学校妖夢員:The Nightmaretaker ~悪魔に憑かれた男
+  - RJ01048672 私立さくらんぼ乳学校妖夢員 The Nightmaretaker ~悪魔に憑かれた男
 created: 2025-09-06T14:16:55
 description:
-modified: 2025-09-06T14:18:05
+modified: 2025-09-09T20:55:03
 source: "https://gmgard.com/gm122390"
 tags: []
-title: RJ01048672 私立さくらんぼ乳学校妖夢員:The Nightmaretaker ~悪魔に憑かれた男
+title: RJ01048672 私立さくらんぼ乳学校妖夢員 The Nightmaretaker ~悪魔に憑かれた男
 type: "archive-web"
 ---
 
-# RJ01048672 私立さくらんぼ乳学校妖夢員:The Nightmaretaker ~悪魔に憑かれた男
+# RJ01048672 私立さくらんぼ乳学校妖夢員 The Nightmaretaker ~悪魔に憑かれた男
 
 剧情破大防，好久没玩让我如此破防的黄油了（下面文字涉及剧透）
 

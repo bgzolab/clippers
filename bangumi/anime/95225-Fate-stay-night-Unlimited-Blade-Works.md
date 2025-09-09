@@ -6,7 +6,7 @@ aliases:
   - 'Fate/stay night [Unlimited Blade Works]'
   - 'Fate/stay night UBW'
   - 'Fate/stay night Unlimited Blade Works'
-  - 'Fate/Stay Night: Unlimited Blade Works (2014)'
+  - 'Fate/Stay Night Unlimited Blade Works (2014)'
   - Fate/stay Night [Unlimited Blade Works]
 bangumi: https://bgm.tv/subject/95225
 bangumi-rating: 7.5

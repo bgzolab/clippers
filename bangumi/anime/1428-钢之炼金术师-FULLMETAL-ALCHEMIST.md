@@ -5,7 +5,7 @@ aliases:
   - '钢之炼金术师 FULLMETAL ALCHEMIST'
   - '鋼の錬金術師 FULLMETAL ALCHEMIST (2009)'
   - '鋼の錬金術師 FULLMETAL ALCHEMIST'
-  - 'Fullmetal Alchemist: Brotherhood'
+  - 'Fullmetal Alchemist Brotherhood'
   - 'Hagane no Renkinjutsushi (2009)'
   - 钢之炼金术师 FULLMETAL ALCHEMIST
 bangumi: https://bgm.tv/subject/1428

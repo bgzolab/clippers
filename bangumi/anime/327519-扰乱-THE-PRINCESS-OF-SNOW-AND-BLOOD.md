@@ -4,13 +4,12 @@ aliases:
   - '擾乱 THE PRINCESS OF SNOW AND BLOOD'
   - 'JORAN'
   - 'Jouran The Princess of Snow and Blood'
-  - 'Jouran: The Princess of Snow and Blood'
   - 扰乱 THE PRINCESS OF SNOW AND BLOOD
 bangumi: https://bgm.tv/subject/327519
 bangumi-rating: 5.1
 cover: https://lain.bgm.tv/r/800/pic/cover/l/34/c3/327519_1e671.jpg
 created: 2021-04-06T22:17:56
-modified: 2025-08-31T18:40:26
+modified: 2025-09-09T20:49:34
 tags:
   - 'bangumi/anime'
   - 'bangumi/done'

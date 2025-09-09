@@ -6,7 +6,7 @@ aliases:
   - 'Fate/stay night [Unlimited Blade Works] 2ndシーズン'
   - 'Fate/stay night [Unlimited Blade Works] 第二季'
   - 'Fate/stay night UBW'
-  - 'Fate/Stay Night: Unlimited Blade Works (2015)'
+  - 'Fate/Stay Night Unlimited Blade Works (2015)'
   - Fate/stay Night [Unlimited Blade Works] 第二季
 bangumi: https://bgm.tv/subject/109386
 bangumi-rating: 7.5

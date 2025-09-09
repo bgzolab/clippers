@@ -3,7 +3,7 @@ aliases:
   - '赤龙战争'
   - '红龙战役'
   - 'Chaos Dragon 赤龙战役'
-  - 'Chaos Dragon: Sekiryuu Sen`eki'
+  - 'Chaos Dragon Sekiryuu Sen`eki'
   - 'Chaos Dragon'
   - 'ケイオスドラゴン 赤竜戦役'
   - Chaos Dragon 赤龙战役

@@ -3,8 +3,8 @@ aliases:
   - '文豪野犬 DEAD APPLE'
   - '文豪ストレイドッグス DEAD APPLE'
   - '文豪ストレイドッグス デッドアップル'
-  - 'Bungo Stray Dogs: Dead Apple'
-  - 'Bungou Stray Dogs: Dead Apple'
+  - 'Bungo Stray Dogs Dead Apple'
+  - 'Bungou Stray Dogs Dead Apple'
   - 文豪野犬 DEAD APPLE
 bangumi: https://bgm.tv/subject/209596
 bangumi-rating: 6.3

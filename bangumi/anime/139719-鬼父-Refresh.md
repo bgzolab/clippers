@@ -1,7 +1,7 @@
 ---
 aliases:
   - '鬼父 Refresh'
-  - 'Oni Chichi: Refresh'
+  - 'Oni Chichi Refresh'
   - 鬼父 Refresh
 bangumi: https://bgm.tv/subject/139719
 bangumi-rating: 6

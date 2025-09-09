@@ -3,8 +3,8 @@ aliases:
   - '剧场版 不死者之王 圣王国篇'
   - '剧场版 OVERLORD 圣王国篇'
   - '劇場版 オーバーロード 聖王国編'
-  - 'Gekijouban Overlord: Sei Oukoku Hen'
-  - 'Overlord: The Sacred Kingdom'
+  - 'Gekijouban Overlord Sei Oukoku Hen'
+  - 'Overlord The Sacred Kingdom'
   - 剧场版 OVERLORD 圣王国篇
 bangumi: https://bgm.tv/subject/335390
 bangumi-rating: 5.6
