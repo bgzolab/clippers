@@ -1,14 +1,14 @@
 ---
 aliases:
-  - Where 1 = 1 的作用？会影响性能吗？count(*) 和 count(1) 哪个快? - 程序员 Seven
+  - Where 1 = 1 的作用？会影响性能吗？count() 和 count(1) 哪个快?
 created: 2025-08-01T10:25:16
-modified: 2025-08-30T21:04:03
+modified: 2025-09-10T19:48:36
 source: https://www.cnblogs.com/seven97-top/p/19006440
-title: Where 1 = 1 的作用？会影响性能吗？count(*) 和 count(1) 哪个快? - 程序员 Seven
+title: Where 1 = 1 的作用？会影响性能吗？count() 和 count(1) 哪个快?
 type: archive-web
 ---
 
-# Where 1 = 1 的作用？会影响性能吗？count(*) 和 count(1) 哪个快? - 程序员 Seven
+# Where 1 = 1 的作用？会影响性能吗？count() 和 count(1) 哪个快?
 
 ## Exist 和 in 的区别？
 

@@ -1,9 +1,9 @@
 ---
 aliases:
   - '犹存于世的魔女'
-  - 'Sorceress*Alive!'
+  - 'Sorceress Alive!'
   - 'SorceressAlive!～世界末日陨落之星～'
-  - "ソーサレス＊アライヴ！～the World's End Fallen Star～"
+  - "ソーサレス アライヴ！～the World's End Fallen Star～"
   - SorceressAlive!～世界末日陨落之星～
 bangumi: https://bgm.tv/subject/252050
 bangumi-rating: 7.3
