@@ -1,14 +1,14 @@
 ---
 aliases:
-  - 不要傻呵呵等金九银十了！ - 磊哥|www.javacn.site
+  - 不要傻呵呵等金九银十了！ - 磊哥
 created: 2025-08-06T12:52:01
-modified: 2025-08-30T21:04:03
+modified: 2025-09-12T06:53:01
 source: https://www.cnblogs.com/vipstone/p/19014957
-title: 不要傻呵呵等金九银十了！ - 磊哥|www.javacn.site
+title: 不要傻呵呵等金九银十了！ - 磊哥
 type: archive-web
 ---
 
-# 不要傻呵呵等金九银十了！ - 磊哥|www.javacn.site
+# 不要傻呵呵等金九银十了！ - 磊哥
 
 最近在和一些同学交流中发现，无论是社招同学还是校招同学，都觉得应该等到 9 月份之后再出去找工作好一些。但今天要给大家提醒一下，不要等金九银十！不要等金九银十！不要等金九银十！
 
