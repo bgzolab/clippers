@@ -526,7 +526,7 @@ logseq.color: pink
 
 #### ? Count of rows (show results-count in variable)
 
-## [[custom/index|Custom Config]]
+## [[tools/index|Custom Config]]
 
 ### Config.edn
 

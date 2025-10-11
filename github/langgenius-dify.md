@@ -9,7 +9,7 @@ source: https://github.com/langgenius/dify
 tags:
   - github/star
 tags-link:
-  - "[[llm]]"
+  - "[[large-language-model]]"
 type: repo
 ---
 ## Repo Meta
