@@ -4,7 +4,7 @@ aliases:
   - Bun
 created: 2025-10-03T23:03:49
 description: "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
-modified: 2025-10-03T23:04:10
+modified: 2025-10-19T21:04:05
 source: "https://github.com/oven-sh/bun"
 title: Bun
 type: "repo"
@@ -21,3 +21,9 @@ type: "repo"
 ```bash
 curl -fsSL https://bun.sh/install | bash
 ```
+
+## Proxy
+
+支持使用系统代理
+
+via: https://bun.com/guides/http/proxy

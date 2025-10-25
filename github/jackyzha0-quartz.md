@@ -1,15 +1,19 @@
 ---
-title: "jackyzha0/quartz"
-aliases: "quartz"
+aliases:
+  - "quartz"
+  - jackyzha0-quartz
 created: 2025-04-07T20:19:02
-modified: 2025-04-12T11:12:39
 description: "🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites"
+modified: 2025-10-18T05:37:38
 source: "https://github.com/jackyzha0/quartz"
 tags:
   - "github/star"
 tags-link:
+title: jackyzha0-quartz
 type: "repo"
 ---
+
+# jackyzha0-quartz
 
 ## Repo Meta
 
@@ -18,6 +22,7 @@ type: "repo"
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jackyzha0&repo=quartz&bg_color=00000000)](https://github.com/jackyzha0/quartz)
 
 ## Notes
+
 ### Waiting features
 
 - [ ] #gtd/wait feature: Detect links in properties, via: https://github.com/jackyzha0/quartz/issues/820
@@ -26,3 +31,18 @@ type: "repo"
 <center>via: <a href='https://github.com/jackyzha0/quartz/issues/820' target='_blank' class='external-link'>https://github.com/jackyzha0/quartz/issues/820</a></center>
 
 https://github.com/jackyzha0/quartz/pull/824
+
+- [ ] 不知道从哪个版本开始，页面的布局就开始变得奇怪，左右无法居中，比如旧的页面长这样： https://quartz.songxingguo.com/configuration
+
+
+
+
+## Custom
+
+### 开启草稿模式
+
+```shell
+Plugin.RemoveDrafts()
+```
+
+via: https://quartz.jzhao.xyz/plugins/RemoveDrafts
