@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '不死者之王'
   - 'OVERLORD'
@@ -16,7 +17,6 @@ title: OVERLORD
 type: bangumi/anime
 website: ['http://overlord-anime.com/']
 ---
-
 # OVERLORD
 
 作品主要讲述了某天，一款掀起大热潮的 VRMMORPG「YGGDRASIL」原本会停止一切服务，但即使过了结束时间，玩家也不会退出游戏，NPC 也有了各自的思想。现实世界中喜爱电玩的主人公铃木悟（真名）在等待系统强制登出时，与“安兹·乌尔·恭”公会的成员意外穿越到了异世界，并且自己还变成了拥有骷髅外表的最强魔法师——“飞鼠”。就这样，真正的奇幻传说正式拉开帷幕。

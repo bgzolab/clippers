@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "localsend/localsend"
 aliases: "localsend"
 created: 2025-06-02T11:09:49
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 <iframe src='https://localsend.org' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>
 <center>via: <a href='https://localsend.org' target='_blank' class='external-link'>https://localsend.org</a></center>
 

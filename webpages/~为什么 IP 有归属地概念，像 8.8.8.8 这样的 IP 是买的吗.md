@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-07-27T12:00:00
 source: https://www.zhihu.com/question/24286996/answer/27297641
 type: archive-web
 modified: 2025-01-15T11:38:16
 ---
-
 先来介绍几个概念：
 
 IANA： Internet Assigned Numbers Authority (IANA)，互联网数字分配机构，负责管理，分配 IP 地址（[Internet Assigned Numbers Authority](http://www.iana.org/)）。同时还负责 AS 号（自治域编号）等分配。IANA 的管理机构是 ICANN(ICANN, The Internet Corporation for Assigned Names and Numbers,互联网名称与数字地址分配机构，官网：

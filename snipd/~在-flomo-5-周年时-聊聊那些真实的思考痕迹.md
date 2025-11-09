@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 少楠
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFu2lrqNVFpGdz9_XUCecsX7PoarX.png&w=200&h=200
 created: '2025-04-23T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/6808ee568aed253fa31ad089?utm_source
 title: 在 flomo 5 周年时，聊聊那些真实的思考痕迹
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 转眼间 flomo 已经 5 岁了。
 > 世界有了巨大的变化，flomo 也有诸多变化。但还有许多不变的东西。比如始终坚持 「一个笔记的长期主义」 。依旧没有外部融资，团队始终坚持独立运营等。

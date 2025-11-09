@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'Pop Team Epic'
   - 'pop子和pipi美的日常 第二季'
@@ -18,7 +19,6 @@ title: Pop 子和 pipi 美的日常 第二季
 type: bangumi/anime
 website: ['http://hoshiiro.jp/']
 ---
-
 # Pop 子和 pipi 美的日常 第二季
 
 これは、夢と希望の物語 (ただのクソ)―。

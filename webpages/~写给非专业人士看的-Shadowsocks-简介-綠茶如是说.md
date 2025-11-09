@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 写给非专业人士看的-Shadowsocks-简介-綠茶如是说
 created: 2025-01-15T08:06:06
 modified: 2025-01-15T11:38:22
@@ -7,7 +8,6 @@ tags:
 tags-link: "[[proxy]]"
 type: archive-web
 ---
-
 这个文章来源于一个朋友在科学上网的过程中，搞不清楚 Shadowsocks 的配置问题，在这里我想按照我对 Shadowsocks 的理解简单梳理一下，以便一些非专业人士也能了解
 
 ## long long ago…

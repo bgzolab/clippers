@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - springCloud-Gateway 使用
   - springCloud-Gateway 使用 - jaba
@@ -8,7 +9,6 @@ source: https://www.cnblogs.com/rslStudy/p/19042142
 title: springCloud-Gateway 使用
 type: archive-web
 ---
-
 # springCloud-Gateway 使用
 
 [![](https://img2024.cnblogs.com/blog/35695/202508/35695-20250830122018806-1574270965.jpg)](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101750143863263087?ha_source=BKYQ3&ha_sourceId=89000408)

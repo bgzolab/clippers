@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "人生中最重要的概念-复利-是什么-想贷款和分期就必须要了解它；李永乐老师讲自然对数的底e"
 cover: "https://i.ytimg.com/vi/2a6gDHfWQGA/maxresdefault.jpg"
 author:

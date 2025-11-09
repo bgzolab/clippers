@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "jaywcjlove/linux-command"
 aliases: "linux-command"
 created: 2025-06-07T14:55:49

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Awesome-chatgpt-prompts
   - awesome-chatgpt-prompts
@@ -12,7 +13,6 @@ tags:
 title: Awesome-chatgpt-prompts
 type: repo
 ---
-
 # Awesome-chatgpt-prompts
 
 ![](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/f/awesome-chatgpt-prompts?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/f/awesome-chatgpt-prompts?style=for-the-badge&label=since)

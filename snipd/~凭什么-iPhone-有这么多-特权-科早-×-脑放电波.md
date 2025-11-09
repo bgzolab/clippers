@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 声动活泼
 cover: https://wsrv.nl/?url=https%3A%2F%2Fassets.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2F4%2F4931937e-0184-4c61-a658-6b03c254754d%2Fcover.jpg%3Fv%3D10&w=200&h=200
 created: '2023-09-12T09:36:39'
@@ -10,8 +11,6 @@ source: http://www.shengfm.cn//20220184
 title: S7E28 | 凭什么 iPhone 有这么多「特权」？科早 × 脑放电波
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 为什么 iPhone 一年只发一款旗舰？为什么连换 USB Type-C 接口也能成为大新闻？为什么 iPhone 的外观设计已经连续四年没变？为什么能用最好的芯片却要配最少的内存？为什么无论如何都不做快充、不做高像素屏幕？
 > 

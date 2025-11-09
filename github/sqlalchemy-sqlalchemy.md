@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - SQLAlchemy
   - "sqlalchemy"
@@ -9,7 +10,6 @@ source: "https://github.com/sqlalchemy/sqlalchemy"
 title: SQLAlchemy
 type: "repo"
 ---
-
 # SQLAlchemy
 
 ![](https://img.shields.io/github/stars/sqlalchemy/sqlalchemy?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/sqlalchemy/sqlalchemy?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/sqlalchemy/sqlalchemy?style=for-the-badge&label=since)

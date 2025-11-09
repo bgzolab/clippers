@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 有没有值得推荐的 Windows 平板？
 created: 2025-07-12T22:40:21
@@ -8,7 +9,6 @@ tags: []
 title: 有没有值得推荐的 Windows 平板？
 type: "archive-web"
 ---
-
 # 有没有值得推荐的 Windows 平板？
 
 主要是 iPad 无法作为生产力工具，但还想买个轻便的平板，出门带着工作应急或者给别人展示时方便。

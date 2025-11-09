@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2023-04-08T12:00:00
 source: "https://www.vox.com/even-better/23660000/easy-life-tips"
 type: "archive-web"
 modified: 2025-01-15T11:38:15
 ---
-
 Unless you live a charmed life, chances are there are aspects of it you’d like to improve. Sometimes it’s hard to get out of bed in the morning, to find time for family and friends, to tackle that to-do list of mundane tasks, to get the printer to actually work.
 
 Out of these everyday difficulties, a [market for life](https://psmag.com/economics/the-secret-history-of-life-hacking-self-optimization-78748) [hacks was born](https://slate.com/culture/2019/06/life-hacking-productivity-tech-silicon-valley-hacking-life-book-review.html): seemingly simple ways to optimize and streamline life. Some of these tips proved useful — [dropping a pin in Maps](https://www.purewow.com/tech/how-to-find-your-car-by-dropping-a-pin) where I parked my car has prevented many panicked searches — others, [not so much](https://www.youtube.com/watch?v=f9Piqp9g5Pk). Oftentimes, however, the most effective step toward self-improvement is the most straightforward. Small and accessible shifts can manifest the most change without totally upending our established routines.

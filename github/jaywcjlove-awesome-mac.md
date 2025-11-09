@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "jaywcjlove/awesome-mac"
 aliases: "awesome-mac"
 created: 2025-01-20T20:14:11
@@ -9,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-
 ## Meta
 
 ![](https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jaywcjlove/awesome-mac?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jaywcjlove/awesome-mac?style=for-the-badge&label=date)

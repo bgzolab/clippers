@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "关于 IPN 的二三事"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

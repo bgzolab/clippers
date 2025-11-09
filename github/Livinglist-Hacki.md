@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Livinglist/Hacki"
 aliases: "Hacki"
 created: 2025-06-07T13:56:21

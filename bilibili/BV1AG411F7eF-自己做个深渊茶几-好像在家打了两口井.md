@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "自己做个深渊茶几-好像在家打了两口井"
 cover: "http://i1.hdslb.com/bfs/archive/34ff1ef934549681fcb435ef7be1171c794555cb.jpg@189w_107h.webp"
 author: "王一工iMok"
@@ -11,7 +12,6 @@ tags:
   - "video/bilibili"
 type: "video"
 ---
-
 ## Source
 
 <iframe src='https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AG411F7eF&p=1&autoplay=false' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>

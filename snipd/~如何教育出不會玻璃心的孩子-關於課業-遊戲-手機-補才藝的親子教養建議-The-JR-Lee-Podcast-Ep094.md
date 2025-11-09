@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2025-07-14T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/The-JR-Lee-Podca
 title: 如何教育出不會玻璃心的孩子｜關於課業、遊戲、手機、補才藝的親子教養建議｜The JR Lee Podcast Ep094
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 「玻璃心」話題近年來成為美國社會廣泛討論的議題。今天我們來聊聊，如何教養出內心強大、有毅力、決心、社交能力的孩子。本集podcast搜集了來自多位心理學者的研究資料，給出七個關於課業、自由遊戲、手機、人際關係的親子教養建議。來聽喔～
 > 

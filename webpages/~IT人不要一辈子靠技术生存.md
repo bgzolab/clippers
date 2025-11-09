@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-08-18T12:00:00
 source: https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fibmsdu%2F%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94%2FIT
 type: archive-web
 modified: 2025-01-15T11:38:15
 ---
-
 [IT人 不要一辈子靠技术生存 - IBM@sdu](https://sites.google.com/site/ibmsdu/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/IT)
 
 我现在是自己做，但我此前有多年在从事软件开发工作，当回过头来想一想自己，觉得特别想对那些初学 JAVA/DOT。NET 技术的朋友说点心里话，希望你们能从我们的体会中，多少受点启发 (也许我说的不好，你不赞同但看在我真心的份上别扔砖头啊).

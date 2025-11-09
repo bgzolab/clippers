@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Extreme frugality is a personal finance problem no one talks about
 created: 2025-09-06T16:04:05
@@ -9,7 +10,6 @@ tags: []
 title: Extreme frugality is a personal finance problem no one talks about
 type: "archive-web"
 ---
-
 # Extreme frugality is a personal finance problem no one talks about
 
 There is a lot of personal finance advice out there that focuses on budgeting and not overspending. The value of that advice is pretty clear: Living beyond your means can have costly financial consequences, especially when you find yourself without the savings you need to pay for an unexpected expense.

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "wewe-rss"
   - Cooderl-wewe-rss
@@ -12,7 +13,6 @@ tags-link:
 title: Cooderl-wewe-rss
 type: "repo"
 ---
-
 # Cooderl-wewe-rss
 
 ## Repo Meta

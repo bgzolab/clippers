@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - VLC
 created: 2020-01-18T00:00:00
@@ -11,7 +12,6 @@ tags-link:
 title: VLC
 type: repo
 ---
-
 # VLC
 
 ## Repo Meta

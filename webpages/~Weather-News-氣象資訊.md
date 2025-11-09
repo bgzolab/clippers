@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Weather News(氣象資訊)"
 created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53
@@ -7,8 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
- 
 |  |  Weather News(氣象資訊) |  [http://www.wni.co.jp](http://www.wni.co.jp/)  
 ---|---  
 全日本病院醫院網路 |  [http://www.hospital.ne.jp](http://www.hospital.ne.jp/)  

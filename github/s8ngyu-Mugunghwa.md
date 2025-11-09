@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "s8ngyu/Mugunghwa"
 aliases: "Mugunghwa"
 created: 2025-05-11T11:14:17

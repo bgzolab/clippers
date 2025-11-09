@@ -1,11 +1,11 @@
 ---
+draft: true
 aliases: books/当下的力量
 author: 埃克哈特•托利 (Eckhart Tolle) / 曹植
 publisher: 中信出版社
 published: 20130701
 source: https://book.douban.com/subject/24758481
 ---
-
 ## Content
 ### 你不等于你的大脑
     - 开悟的最大障碍

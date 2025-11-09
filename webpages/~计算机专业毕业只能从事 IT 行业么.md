@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-07-27T12:00:00
 source: https://www.zhihu.com/question/24329504/answer/27437649
 type: archive-web
 modified: 2025-01-15T11:38:20
 ---
-
 1、IT 行业不等于敲代码。
 
 2、计算机毕业的人有很多不从事 IT 行业。

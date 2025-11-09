@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2025-02-10T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/SThe-JR-Lee-Podc
 title: 大S流感驟逝｜洛杉磯上街抗議示威、警察清晨敲門、聖地牙哥夜生活、登上美國航空母艦｜The JR Lee Podcast Ep072
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 大S突然離世讓大家錯手不及，RIP。
 > 在洛杉磯的時間，可以感受到川普執政帶來風聲鶴唳的民間現象。也陸陸續續一直遇到讓人很驚恐的事情！即便如此，也還是有很愉快的美好旅遊時光，今天跟大家輕鬆分享～^^

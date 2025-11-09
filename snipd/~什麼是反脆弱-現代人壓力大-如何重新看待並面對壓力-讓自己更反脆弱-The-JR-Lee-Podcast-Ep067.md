@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2025-01-06T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/The-JR-Lee-Podca
 title: 什麼是反脆弱？現代人壓力大，如何重新看待並面對壓力，讓自己更反脆弱｜The JR Lee Podcast Ep067
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 現代社會充滿壓力，但其實壓力不僅是必經之路，還是生命所必須要的成長條件。今天來聊聊～
 > 

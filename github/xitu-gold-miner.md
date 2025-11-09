@@ -1,4 +1,5 @@
 ---
+draft: true
 title: xitu/gold-miner
 aliases:
   - gold-miner
@@ -12,7 +13,6 @@ tags-link:
   - "[[translate]]"
 type: repo
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/xitu/gold-miner?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/xitu/gold-miner?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/xitu/gold-miner?style=for-the-badge&label=since)

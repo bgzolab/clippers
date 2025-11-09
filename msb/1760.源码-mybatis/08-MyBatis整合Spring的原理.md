@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # MyBatis整合Spring的原理分析
 
 http://mybatis.org/spring/zh/index.html

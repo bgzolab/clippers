@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - How to Manage Variables in Bruno
 created: 2025-07-13T13:44:21
@@ -9,7 +10,6 @@ tags: []
 title: How to Manage Variables in Bruno
 type: "archive-web"
 ---
-
 # How to Manage Variables in Bruno
 
 Variables allow values to be stored and reused in Bruno. This is essential from a productivity, workflow, and security perspective. A variable is simply a moniker that represents data which is stored elsewhere. This allows you to abstract the detail (and sensitivity) away from your requests, scripts, headers, authentication, and elsewhere.

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 打個電話給你 One Call Away
 cover: https://wsrv.nl/?url=https%3A%2F%2Fi1.sndcdn.com%2Favatars-B2BMSVh50YmC1jAG-vLKGHw-original.jpg&w=200&h=200
 created: '2023-07-13T09:36:39'
@@ -10,8 +11,6 @@ source: https://soundcloud.com/wendyhasatail/200-about-goal-setting
 title: 200 兩百期了來聊聊目標管理吧！About Goal Setting
 type: podcast-episode
 ---
-
-
 ## Show notes
 > Wendy在三天內制定了嶄新的財務計畫，對下半年的日子燃起希望！正好來到節目第200期，就讓我們一起來展望一下未來，聊聊如何把生活過的更有意義？錯過了New Year Resolution的機會？沒關係！從我們第200期找到新的開始吧！
 > /

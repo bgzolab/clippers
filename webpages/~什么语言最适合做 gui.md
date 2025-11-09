@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-05-18T12:00:00
 source: https://www.zhihu.com/question/276815517/answer/2397676926
 type: archive-web
 modified: 2025-01-15T11:38:16
 ---
-
 很多年以前，我是推荐过 Electron 的，但现在似乎有点过热了，所有桌面开发话题下都会看到 Electron 来凑热闹，你在一边安静的对比着 MFC 和 Qt 的优劣，或者你在讨论 c\# 的 WinUI / maui 的话题，没有涉及到任何 Web 技术，也会有一堆 Electron Boy 们来话题下面找存在，跟你说你们说的都是垃圾，不如用 Electron，这就有点烦人了。
 
 凡事过犹不及，你用 Electron 解决一类需求很爽没问题，但是一厢情愿的希望希望用它解决任何问题是不可能的，技术选型得清楚各项技术的边界在哪里，所以咱们分析下 Electron 有哪些问题。

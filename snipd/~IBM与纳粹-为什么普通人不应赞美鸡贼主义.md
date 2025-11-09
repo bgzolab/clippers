@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 蜜獾吃书
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2Fcacb-audiofreehighqps%2F8C%2F42%2FGMCoOScGV9ExAAK8GgFUPfZx.jpeg&w=200&h=200
 created: '2025-03-08T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/815684110
 title: 133. IBM与纳粹：为什么普通人不应赞美鸡贼主义
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 历史总是惊人相似。野心家改头换面，再度粉墨登场。
 > 上世纪30年代，纳粹控制了德国。希特勒需要准确、快速的人口统计和种族甄别技术，拥有全球最先进穿孔计算机技术的美国公司IBM嗅到商机，总裁托马斯·沃森与第三帝国展开深度合作，并使用各种手段规避了战时审查。 战后，尽管IBM一再声称相信和平，只是不清楚希特勒的犹太问题“最终解决方案”，战争开始后更是失去对德国子公司的管控，但在一位集中营幸存者后人的努力下，深埋的秘密逐渐露出了冰山一角。让人不禁感慨：和平，有多少罪恶，假汝之名？

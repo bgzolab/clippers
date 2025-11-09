@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Cursor 和 GitHub Copilot Pro 怎么选？
 created: 2025-07-20T22:50:00
@@ -8,7 +9,6 @@ tags: []
 title: Cursor 和 GitHub Copilot Pro 怎么选？
 type: "archive-web"
 ---
-
 # Cursor 和 GitHub Copilot Pro 怎么选？
 
 程序员 - @mokecc - Cursor 月付 20 刀，年付 192 刀；GitHub Copilot Pro 月付 10 刀，年付 100 刀；二者都可以无限使用 Claude 3.7 ，我上午订阅了 Copilot

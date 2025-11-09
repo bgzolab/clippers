@@ -1,4 +1,5 @@
 ---
+draft: true
 created: 2025-05-17T12:59:16
 modified: 2025-05-17T12:59:33
 source: "https://www.v2ex.com/t/1131883"
@@ -6,7 +7,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 # 起因
 

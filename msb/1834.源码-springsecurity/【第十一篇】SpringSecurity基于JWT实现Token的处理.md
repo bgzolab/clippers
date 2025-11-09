@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # SpringSecurity基于JWT实现Token的处理
 
 &emsp;&emsp;前面介绍了手写单点登录和JWT的应用，本文结合SpringSecurity来介绍下在SpringBoot项目中基于SpringSecurity作为认证授权框架的情况下如何整合JWT来实现Token的处理。

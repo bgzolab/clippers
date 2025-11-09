@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "ismartcoding/plain-app"
 aliases: "plain-app"
 created: 2025-05-03T20:55:42

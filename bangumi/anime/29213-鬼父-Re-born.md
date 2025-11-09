@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '鬼父 Re-born'
   - 鬼父 Re-born
@@ -14,7 +15,6 @@ title: 鬼父 Re-born
 type: bangumi/anime
 website: ['http://www.poro.cc/product_list/product_oni.html']
 ---
-
 # 鬼父 Re-born
 
 「coquttish doll・PoRO」最新作!!

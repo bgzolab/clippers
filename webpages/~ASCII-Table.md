@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "ASCII Table"
 created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59
@@ -7,8 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
-
 # ASCII Table
 
 **Introducton** |  I adapted this information from a [web site](http://members.tripod.com/~plangford/ascii.html) and I have made it available locally.  ASCII stands for American Standard Code for Information Interchange. Below is the ASCII character table, including descriptions of the first 32 characters. ASCII was originally designed for use with teletypes, and so the descriptions are somewhat obscure and their use is frequently not as intended.  Java actually uses Unicode, which includes ASCII and other characters from languages around the world. 

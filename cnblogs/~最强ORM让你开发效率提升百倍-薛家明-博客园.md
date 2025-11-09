@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 最强 ORM 让你开发效率提升百倍 - 薛家明
 created: 2025-08-08T08:48:18
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/xuejiaming/p/19027570
 title: 最强 ORM 让你开发效率提升百倍 - 薛家明
 type: archive-web
 ---
-
 # 最强 ORM 让你开发效率提升百倍 - 薛家明
 
 # 最强 ORM 让你开发效率提升百倍

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 另一种 gpt 选择 Microsoft Copilot Pro
 created: 2025-07-20T22:56:26
@@ -8,7 +9,6 @@ tags: []
 title: 另一种 gpt 选择 Microsoft Copilot Pro
 type: "archive-web"
 ---
-
 # 另一种 gpt 选择 Microsoft Copilot Pro
 
 > Microsoft 发布了面向个人用户的付费 Copilot

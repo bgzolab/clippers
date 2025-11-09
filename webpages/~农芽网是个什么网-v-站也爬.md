@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "农芽网是个什么网， v 站也爬？ - V2EX"
 created: 2025-04-04T11:01:26
 modified: 2025-04-04T11:01:26
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 最近搞农场的越来越多了啊
 
 百度搜索「 macOS 最低版本」，出现以下结果： ![](https://ae01.alicdn.com/kf/H75524583c327438a808facde0ffbe77bl.png)

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 404神隐体验馆
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFgcvRTuBSvcaed0fE05NJfm7RElV.jpg&w=200&h=200
 created: '2025-04-10T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/67f7720a623bc78c39bc891e?utm_source
 title: 78｜聊聊AI的前世今生与未来
 type: podcast-episode
 ---
-
-
 ## Show notes
 > /🎬 引言/   原本以为我们只是在聊AI的前生今世，结果没想到最后聊到了AI是如何变成一个「怪物」的。 AI不再是我们想象的「数据集合」和「规则匹配」，有了神经网络的加持，AI开始有了我们无法理解的「黑箱」部分，在这里面他到底通过了怎样的运算得到了我们想要的答案，还是说它真的拥有了自我意识，早就知道了我们想要什么答案？
 > 这一期节目会很「爽」——前额叶皮质高潮的那种爽，来了解一下AI的前世今生，再聊聊AI的未来，甚至里面还接了了另一个会颅内高潮的影视作品——《星际穿越》。

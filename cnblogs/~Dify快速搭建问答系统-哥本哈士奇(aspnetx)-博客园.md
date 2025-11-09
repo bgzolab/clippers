@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Dify 快速搭建问答系统 - 哥本哈士奇 (aspnetx)
 created: 2025-07-30T09:43:22
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/aspnetx/p/19009714
 title: Dify 快速搭建问答系统 - 哥本哈士奇 (aspnetx)
 type: archive-web
 ---
-
 # Dify 快速搭建问答系统 - 哥本哈士奇 (aspnetx)
 
 简单记录下 Dify 系统的部署，以及可能遇到的各种问题，然后演示一下如何快速的搭建一个问答系统。

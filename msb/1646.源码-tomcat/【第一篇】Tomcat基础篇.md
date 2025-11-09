@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1462/1654154796037/c85e75bfd1734af29acac215ced65590.png)
 
 # 第一篇：Tomcat基础篇

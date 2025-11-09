@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "生日礼物没到-只好送我爸美少女手办"
 cover: "http://i1.hdslb.com/bfs/archive/62189434194f3cf46a8091fec5ad1bf841c33d6e.jpg@189w_107h.webp"
 author:
@@ -13,7 +14,6 @@ tags:
 tags-link:
 type: "video"
 ---
-
 ## Source
 
 <iframe src='https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rT4y1b76a&p=1&autoplay=false' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>

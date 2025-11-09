@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 仅一个 Python 文件，狂揽近 2 万 Star「GitHub 热点速览」 - 削微寒
 created: 2025-08-06T11:08:13
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/xueweihan/p/19022451
 title: 仅一个 Python 文件，狂揽近 2 万 Star「GitHub 热点速览」 - 削微寒
 type: archive-web
 ---
-
 # 仅一个 Python 文件，狂揽近 2 万 Star「GitHub 热点速览」 - 削微寒
 
 朋友们，GitHub 热点速览并没有“停更”哦！

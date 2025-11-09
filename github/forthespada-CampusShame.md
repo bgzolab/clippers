@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "forthespada/CampusShame"
 aliases: "CampusShame"
 created: 2025-03-30T18:45:51

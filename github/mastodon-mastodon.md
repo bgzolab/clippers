@@ -1,4 +1,5 @@
 ---
+draft: true
 title: mastodon/mastodon
 aliases: mastodon
 created: 2022-12-19T00:00:00
@@ -13,7 +14,6 @@ type: tool
 document: https://github.com/mastodon/mastodon
 status: tool/star
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/mastodon/mastodon?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mastodon/mastodon?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mastodon/mastodon?style=for-the-badge&label=since)

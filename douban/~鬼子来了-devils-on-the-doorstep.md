@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 鬼子来了
 cover: https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553104888.jpg
 aliases:
@@ -19,7 +20,6 @@ type: video
 douban: https://movie.douban.com/subject/1291858/
 imdb: https://www.imdb.com/title/
 ---
-
 ## Comments
 
 当你的头掉在地上，才能看清这个世界。

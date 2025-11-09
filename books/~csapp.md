@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: books/深入理解计算机系统
 tags: #CMU
 author: Randal E.Bryant, David O'Hallaron
@@ -8,7 +9,6 @@ isbn: 9787111544937
 created: 2023-03-24
 douban: https://book.douban.com/subject/26912767/
 ---
-
 ## ![COMPUTER SYSTEMS A PROGRAMMER’S PERSPECTIVE](../assets/book_computer_systems_a_programmers_perspective.pdf)
 - `bit` vs `byte` vs `HexBinOct`
   - 当初孙涛提了一嘴但是没有怎么强调, 之后我就和数字电路给混淆了, 然后就一直持续了好几年这样的状态实在惭愧.

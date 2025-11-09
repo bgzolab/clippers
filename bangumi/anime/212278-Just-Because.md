@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '仅仅因为！'
   - '只是因为！'
@@ -17,7 +18,6 @@ title: Just Because!
 type: bangumi/anime
 website: ['http://justbecause.jp/']
 ---
-
 # Just Because!
 
        高中三年级的冬天、剩下没多久的高中生活，大家都认为会在毫无变化的情况下迎来毕业之日……但在某一天，他突然回来了，在中学时搬到遥远城镇的同学，变成不合时节的转学生再次相会，伴随着某种不确定的感情、转变开始的信号微弱的发出了声响……

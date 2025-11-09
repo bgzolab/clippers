@@ -1,4 +1,5 @@
 ---
+draft: true
 title: everything-everywhere-oscars
 created: 2022-01-19T10:12:14
 modified: 2025-01-19T02:57:25
@@ -7,7 +8,6 @@ tags:
 tags-link: 
 type: archive-web
 ---
-
 ![A woman with extra-long fingers looks at them in consternation.](https://cdn.vox-cdn.com/thumbor/U2y_4N77CQuAoZJ9ab5r1wBQoZ0=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/71939917/eeo6.0.jpg)
 
 Michelle Yeoh with hot dog fingers in _Everything Everywhere All at Once._

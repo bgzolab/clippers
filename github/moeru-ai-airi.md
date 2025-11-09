@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Airi
   - "airi"
@@ -9,7 +10,6 @@ source: "https://github.com/moeru-ai/airi"
 title: Airi
 type: "repo"
 ---
-
 # Airi
 
 ![](https://img.shields.io/github/stars/moeru-ai/airi?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/moeru-ai/airi?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/moeru-ai/airi?style=for-the-badge&label=since)

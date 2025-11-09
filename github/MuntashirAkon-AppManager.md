@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "MuntashirAkon/AppManager"
 aliases: "AppManager"
 created: 2025-04-10T20:18:11

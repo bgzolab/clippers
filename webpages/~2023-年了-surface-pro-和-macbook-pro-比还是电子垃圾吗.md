@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 2023 年了， Surface pro 和 macbook pro 比还是电子垃圾吗
 created: 2025-07-13T18:39:46
@@ -8,7 +9,6 @@ tags: []
 title: 2023 年了， Surface pro 和 macbook pro 比还是电子垃圾吗
 type: "archive-web"
 ---
-
 # 2023 年了， Surface pro 和 macbook pro 比还是电子垃圾吗
 
 问与答 - @030 - 自己本身有高配 PC ，基本娱乐就在 PC 上了最近考虑入一个 surface pro 或者 mbp/mba ，方便出门旅游时的移动办公 /娱乐 surface 的话可以拔掉键盘躺床上玩

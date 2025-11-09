@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 电报
   - t.me
@@ -22,7 +23,6 @@ tags-link:
 title: Telegram
 type: tool
 ---
-
 # Telegram
 
 ![](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/telegramdesktop/tdesktop?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/telegramdesktop/tdesktop?style=for-the-badge&label=since)

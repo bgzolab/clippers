@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-01-28T12:00:00
 source: https://www.ptt.cc/bbs/MobileComm/M.1520838748.A.6EB.html
 type: archive-web
 modified: 2025-01-15T11:38:18
 ---
-
 看板 MobileComm
 
 標題 Re: \[閒聊\] 安卓旗艦為何不採用 NVME 呢？

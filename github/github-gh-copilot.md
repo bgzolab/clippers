@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Gh-copilot
   - "gh-copilot"
@@ -9,7 +10,6 @@ source: "https://github.com/github/gh-copilot"
 title: Gh-copilot
 type: "repo"
 ---
-
 # Gh-copilot
 
 ![](https://img.shields.io/github/stars/github/gh-copilot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/github/gh-copilot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/github/gh-copilot?style=for-the-badge&label=since)

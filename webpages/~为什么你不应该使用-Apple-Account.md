@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 为什么你不应该使用-Apple-Account
 created: 2025-03-24T21:17:37
 modified: 2025-03-24T21:17:45
@@ -8,7 +9,6 @@ tags-link:
   - "[[apple]]"
 type: archive-web
 ---
-
 Apple 封号几乎难以解封，据我所知基本上也就一部分中国大陆用户，契而不舍的投诉和通过法律方式对肝 Apple ，加上 Apple 在大陆也不是被政策保护的一方，才导致 Apple 也许会解封部分大陆人的 Apple ID 。
 
 除此之外我几乎没有听过 Apple 把账号封了以后，还能被解的。

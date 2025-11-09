@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'Aldnoah Zero'
   - 'ALDNOAH.ZERO'
@@ -16,7 +17,6 @@ title: ALDNOAH.ZERO
 type: bangumi/anime
 website: ['http://www.aldnoahzero.com/']
 ---
-
 # ALDNOAH.ZERO
 
 1972 年，阿波罗 17 号登月计划在月球发现连接地球与火星的古代文明遗产“超空间门”。随后地球向火星派出了以雷列加利亚博士为首的调查团。在火星上发现古代火星文明的“Aldnoah”科技。伴随着火星殖民进程与科技垄断主张，火星开拓民与地球之间的摩擦越发扩大。

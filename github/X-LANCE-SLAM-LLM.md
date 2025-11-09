@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "X-LANCE/SLAM-LLM"
 aliases: "SLAM-LLM"
 created: 2025-03-31T22:16:47

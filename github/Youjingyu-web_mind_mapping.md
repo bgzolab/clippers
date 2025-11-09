@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Youjingyu/web_mind_mapping"
 aliases: "web_mind_mapping"
 created: 2025-06-07T15:56:52

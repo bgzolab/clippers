@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "超级暴力版魔改BBR一键脚本 for Debian - Rat's Blog"
 created: 2025-04-05T15:50:56
 modified: 2025-04-05T15:50:56
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # 超级暴力版魔改BBR一键脚本 for Debian __
 
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 doc_type: weread-highlights-reviews
 bookId: MP_WXS_3014142069
 reviewCount: 0
@@ -21,8 +22,6 @@ type: weread-notes
 weread: https://weread.qq.com/web/reader/4f742e0224d505f5758535f333031343134323036398f5
 
 ---
-
-
 ### AI 时代，如何修炼“第一大脑”？
 
 > [!NOTE] 

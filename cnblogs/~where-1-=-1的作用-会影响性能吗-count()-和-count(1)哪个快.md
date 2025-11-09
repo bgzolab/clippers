@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Where 1 = 1 的作用？会影响性能吗？count() 和 count(1) 哪个快?
 created: 2025-08-01T10:25:16
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/seven97-top/p/19006440
 title: Where 1 = 1 的作用？会影响性能吗？count() 和 count(1) 哪个快?
 type: archive-web
 ---
-
 # Where 1 = 1 的作用？会影响性能吗？count() 和 count(1) 哪个快?
 
 ## Exist 和 in 的区别？

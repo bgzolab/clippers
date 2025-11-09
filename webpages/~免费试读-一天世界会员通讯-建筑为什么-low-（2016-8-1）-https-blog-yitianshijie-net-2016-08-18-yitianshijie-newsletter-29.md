@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "[[免费试读] 一天世界会员通讯：建筑为什么 low？（2016.8.1）](https://blog.yitianshijie.net/2016/08/18/yitianshijie-newsletter-29/)"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

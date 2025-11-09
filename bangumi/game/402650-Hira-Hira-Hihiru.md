@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '翩翩夕零'
   - '飘舞之蛾'
@@ -17,7 +18,6 @@ title: Hira Hira Hihiru
 type: bangumi/game
 website: ['https://hirahirahihiru.com/']
 ---
-
 # Hira Hira Hihiru
 
 大家都只是普通人而已。

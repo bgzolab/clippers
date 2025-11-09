@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://img2.doubanio.com/view/subject/s/public/s29107491.jpg
 aliases: 算法(第四版)
 author: Robert Sedgewick / Kevin Wayne / 谢路云
@@ -14,7 +15,6 @@ type: book/dev
 douban: https://book.douban.com/subject/19952400
 weread: https://weread.qq.com/web/bookDetail/7cc32910718ff66b7cc8d9d
 ---
-
 - algorithms4e
 ## 1.fundamentals
 ### 1.1 编程模型  Programming Model

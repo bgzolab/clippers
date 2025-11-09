@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2024-01-25T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/vsThe-JR-Lee-Pod
 title: 態度決定高度，成績不代表一個人的全部｜成長vs固定型心態｜The JR Lee Podcast Ep020
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 今天是2024年大學學測考試的最後一天。無論是考得好或不好，擁有什麼樣的心態會決定未來的高度。無論是不是今年的考生，即便已經出社會在打拼，今天我們來聊聊心態——何謂「成長型的」心態。
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 打個電話給你 One Call Away
 cover: https://wsrv.nl/?url=https%3A%2F%2Fi1.sndcdn.com%2Favatars-B2BMSVh50YmC1jAG-vLKGHw-original.jpg&w=200&h=200
 created: '2023-08-24T09:36:39'
@@ -10,8 +11,6 @@ source: https://soundcloud.com/wendyhasatail/206-about-working-out
 title: 206 運動：改變的不只是身材而已 About Working Out
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 增肌、減脂、有氧、重訓，這些名詞對我們來說是不是越來越不陌生？運動似乎成為當下更加時髦的生活方式，但做運動本身到底是為了什麼？你是不是也曾受到某個網美的影響而開始運動，卻在一段時間後因為看不到效果而產生了懷疑呢？這期節目就來聊聊運動在Wendy和Iphie生活中到底扮演了怎樣的角色，以及我們如何看待運動的終極意義？
 > /

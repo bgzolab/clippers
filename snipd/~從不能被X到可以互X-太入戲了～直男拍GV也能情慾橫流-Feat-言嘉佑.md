@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 咪咪 & 淳淳
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.firstory-cdn.me%2FAvatar%2Fcka6k6bqhcrtk087375gj8mxj%2F1734278849291.jpg&w=200&h=200
 created: '2025-07-01T09:36:39'
@@ -10,8 +11,6 @@ source: https://open.firstory.me/story/cmcjzmqho0bw501w1d0vi3448
 title: EP196 從不能被X到可以互X！太入戲了～直男拍GV也能情慾橫流 Feat.言嘉佑
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 【MEN’s Bioré 10倍炭沐浴乳】 夏天汗多、背痘、異味？都不怕！ 10倍炭沐浴乳，深層潔淨＋長效控油 洗出清爽男人味，讓你從早到晚自信在線！ 購買後登錄發票再抽Apple Watch
 > https://fstry.pse.is/7tlxfl 

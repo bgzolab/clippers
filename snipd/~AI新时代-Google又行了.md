@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 庄明浩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFmjICGq_6HGf-_e1Rh11N-hjoWNI.png&w=200&h=200
 created: '2025-06-19T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/6853b8344abe6e29cbed3852?utm_source
 title: Vol.65 AI新时代，Google又行了？
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 这期的内容一场发生在Google I/O 2025大会之后的微博直播；
 > 参与讨论的嘉宾除了我还包括：

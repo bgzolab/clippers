@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "FreshRSS/FreshRSS"
 aliases: "FreshRSS"
 created: 2025-06-07T14:43:39

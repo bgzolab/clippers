@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "ai-这是真要把前端干死吧"
 created: 2025-03-24T21:07:10
 modified: 2025-03-24T21:07:56
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 
 程序员 - @voidmnwzp - 完全不会前端，刚才玩了下 cursor ，不到一个小时就搞了个动效媲美 apple music 的网页播放器，感觉以后做自己的小项目不用找前端帮忙了，直接画草图给给 ai 就行了

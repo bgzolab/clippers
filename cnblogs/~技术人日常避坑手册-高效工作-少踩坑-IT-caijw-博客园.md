@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 技术人日常避坑手册：高效工作，少踩坑 - IT-caijw
 created: 2025-08-18T14:22:02
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/caijw/p/19034343
 title: 技术人日常避坑手册：高效工作，少踩坑 - IT-caijw
 type: archive-web
 ---
-
 # 技术人日常避坑手册：高效工作，少踩坑 - IT-caijw
 
 在技术岗位上，工作不是单线程执行的代码，而更像是多线程任务切换。任务多、时间紧、人情账多，一不留神就会掉进\" 效率黑洞\"。

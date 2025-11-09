@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-04-14T12:00:00
 source: https://www.zhihu.com/question/265138699/answer/293144962
 type: archive-web
 modified: 2025-01-15T11:38:19
 ---
-
 随着所谓的「劣迹艺人」越来越多，原来臭名昭著的「封杀」一词，竟然要被一些人洗白了。
 
 什么是封杀？

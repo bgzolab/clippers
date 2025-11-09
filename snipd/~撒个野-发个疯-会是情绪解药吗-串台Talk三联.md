@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 问题青年Wonderers
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F60e6-audiofreehighqps%2FB7%2F35%2FGMCoOSII9_k4AAGNyAJn07Rg.jpeg&w=200&h=200
 created: '2024-01-25T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/701923180
 title: 104. 撒个野、发个疯，会是情绪解药吗？| 串台Talk三联
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 我们和精神科医师徐凯文、三联中读编辑王卉，聊了聊为什么人们称赞“情绪稳定”，但总免不了发疯？ 
 > 【本期介绍】 

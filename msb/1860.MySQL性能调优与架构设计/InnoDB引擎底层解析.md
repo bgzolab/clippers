@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: [1.InnoDB 引擎底层解析]
 created: 2024-10-17T22:30:34
 modified: 2025-07-01T21:59:02

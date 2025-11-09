@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-02-17T12:00:00
 source: https://www.zhihu.com/question/268129552
 type: archive-web
 modified: 2025-01-15T11:38:16
 ---
-
 - 由于评论区有新手找不到自己电脑的用户名叫啥 so 现变更为带变量用户名的动态路径~ 最终保存路径为：【**Windows10 20H2** 版本号: v2009 Build 19042 十月更新版 目前最新版截图路径】
 
 **%HOMEPATH%\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS\_cw5n1h2txyewy\\TempState\\ScreenClip**

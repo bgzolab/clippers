@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Apple 泰辣 G蛋布丁
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffiles.soundon.fm%2F1680581101271-a81a0241-430d-4a4c-9bb7-bba7343f05ac.jpeg&w=200&h=200
 created: '2024-12-24T09:36:39'
@@ -10,8 +11,6 @@ source: https://player.soundon.fm/p/ea1ced16-be9e-400f-a353-03f56d06958b/episode
 title: EP221｜成年人要的愛情是什麼？讓我們哭了無數次的《愛在山林間》ft. 閨蜜該該叫 阿該
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 我們已經推薦無數次的《愛在山林間》大家看了嗎？ 
 > 這個主打35-60歲的戀綜，乍看以為沒吸引力 

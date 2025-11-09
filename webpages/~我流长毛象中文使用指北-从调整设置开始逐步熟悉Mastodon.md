@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "我流长毛象中文使用指北-从调整设置开始逐步熟悉Mastodon"
 created: 2025-01-15T11:35:51
 
@@ -9,7 +10,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 原链接：[我流长毛象中文使用指北](https://fediverse.eu.org/home/leaving?target=https%3A%2F%2Fmantyke.icu%2F2021%2F386276df%2F)
 
 ## 那么进入正文

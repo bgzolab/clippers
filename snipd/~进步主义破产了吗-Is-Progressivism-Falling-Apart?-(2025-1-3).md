@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Yao Lin
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F6571074%2F6571074-1592839444173-043e611f31c44.jpg&w=200&h=200
 created: '2025-01-14T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/yao-lin/episodes/E-31--Is-Progre
 title: E.31 进步主义破产了吗 Is Progressivism Falling Apart? (2025.1.3)
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 2025年1月3日，我和云南大学的游天龙老师在昆明璞玉书店进行了一场题为“ 进步主义破产了吗？ ”的对谈，暨拙著《 空谈 》的线下分享会。这里是对谈的现场录音，时间轴待我有空时再补上。
 > 

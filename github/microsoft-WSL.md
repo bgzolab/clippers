@@ -1,4 +1,5 @@
 ---
+draft: true
 title: microsoft/WSL
 aliases: Windows Subsystem For Linux
 created: 202104

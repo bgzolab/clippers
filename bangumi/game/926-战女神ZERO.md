@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '战女神ZERO'
   - '戦女神ZERO'
@@ -15,7 +16,6 @@ title: 战女神 ZERO
 type: bangumi/game
 website: ['http://eukleia.co.jp/eushully/eu009.html']
 ---
-
 # 战女神 ZERO
 
 数々の英雄達に自らの肉体を狙われながらも、英雄達の力を吸収して生き続け、大きく狂った歯車の真相を目指していく主人公・セリカ。

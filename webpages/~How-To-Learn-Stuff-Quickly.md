@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "How-To-Learn-Stuff-Quickly"
 created: 2025-01-16T08:55:24
 modified: 2025-01-16T08:56:07
@@ -8,7 +9,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ==It's often said that the internet has democratized education: the sum of human knowledge is only a Google search away!== And yet, ==having access to information is only half of the story; you also need to be able to convert raw information into usable skills.==
 
 ==For a lot of us, the gap between the two can lead to things like== *==tutorial hell==*==—getting stuck doing tutorial after tutorial without ever feeling like you're making substantive progress.==

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'VBF'
   - 'VenusBlood -FRONTIER-'
@@ -16,7 +17,6 @@ title: VenusBlood -FRONTIER-
 type: bangumi/game
 website: ['http://www.ninetail.tk/td10/VenusBlood-FRONTIER-.html']
 ---
-
 # VenusBlood -FRONTIER-
 
 今回のコンセプトは、以前から軽く触れていた通り。

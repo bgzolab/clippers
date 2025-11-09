@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'NEW GAME!'
   - 'ニューゲーム!'
@@ -15,7 +16,6 @@ title: NEW GAME!
 type: bangumi/anime
 website: ['http://newgame-anime.com/']
 ---
-
 # NEW GAME!
 
 高中毕业后，进入了曾制作自己自幼便入迷的游戏的制作公司“Eagle Jump”的青叶，在那里与担任这款游戏角色设计师的八神光相遇了。

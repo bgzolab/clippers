@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '赤龙战争'
   - '红龙战役'
@@ -19,7 +20,6 @@ title: Chaos Dragon 赤龙战役
 type: bangumi/anime
 website: ['http://chaosdragon.red']
 ---
-
 # Chaos Dragon 赤龙战役
 
 煌历 3015 年，世界因两个超级大国的冷战而四分五裂，原本守护岛国尼尔·卡姆伊的“红龙”发生异变而暴走。为此，来自三国的精英们组成了名为“混成调查队”的部队，岛国的命运将背负在他们的身上……

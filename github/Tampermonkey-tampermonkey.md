@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Tampermonkey/tampermonkey
 aliases: tampermonkey
 created: 2023-12-24T00:00:00
@@ -12,7 +13,6 @@ type: tool
 document: 
 status: tool/star
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/Tampermonkey/tampermonkey?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Tampermonkey/tampermonkey?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Tampermonkey/tampermonkey?style=for-the-badge&label=since)

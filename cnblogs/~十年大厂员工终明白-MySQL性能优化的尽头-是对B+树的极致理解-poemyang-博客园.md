@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 十年大厂员工终明白：MySQL 性能优化的尽头，是对 B+ 树的极致理解 - poemyang
 created: 2025-08-19T10:20:18
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/poemyang/p/19043960
 title: 十年大厂员工终明白：MySQL 性能优化的尽头，是对 B+ 树的极致理解 - poemyang
 type: archive-web
 ---
-
 # 十年大厂员工终明白：MySQL 性能优化的尽头，是对 B+ 树的极致理解 - poemyang
 
 存储引擎\n 存储引擎是数据库管理系统（DBMS）或键值存储系统的核心组件，它定义了数据在持久化存储介质上如何组织、存储、检索和管理。不同的存储引擎针对特定负载（如读密集型、写密集型、混合型）和数据模型（如关系型、键值型、文档型）进行优化。\n 目前常见的存储引擎使用的存储数据结构有如下几种。\n1）哈希表（Hash Table）：提供 O(1) 平均时间复杂度的单点查询（精确键匹配）。非常适合键值（Key-Value）存储，但天然不支持范围查询或有序遍历（除非对整个数据集扫描）。\n2）B+ 树（Balance+ Tree）：为磁盘 I/O 优化的多路平衡搜索树。广泛用于关系型数据库（如 MySQL InnoDB, PostgreSQL）的索引和数据存储。支持高效的单点查询、范围查询和有序遍历。对读密集型和混合型负载友好。\n3）LSM 树（Log-Structured Merge Tree）：专为高写入吞吐量设计的结构。通过将随机写转换为内存中的有序写入和磁盘上的顺序批量写入来优化写性能。广泛应用于写密集型的 NoSQL 数据库（如 Google Bigtable, Apache HBase, Cassandra, RocksDB, LevelDB）。

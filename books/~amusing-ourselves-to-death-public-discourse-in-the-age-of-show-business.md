@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
 ### 娱乐至死
 ### 'Amusing Ourselves to Death Public Discourse in the Age of Show Business'
@@ -13,7 +14,6 @@ douban: https://book.douban.com/subject/26319730/
 weread: https://weread.qq.com/web/bookDetail/aef326f05d0f19aef085d2b
 modified: 2025-04-07T21:26:43
 ---
-
 ### 封面
 ### 版权信息
 ### 前言

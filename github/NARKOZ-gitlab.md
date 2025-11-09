@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "NARKOZ/gitlab"
 aliases: "gitlab"
 created: 2025-06-08T00:46:34

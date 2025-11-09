@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "neoascetic/rawgithack"
 aliases: "rawgithack"
 created: 2025-05-31T18:01:19

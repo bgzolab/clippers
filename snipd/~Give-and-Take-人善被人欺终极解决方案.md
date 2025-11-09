@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 携隐Melody
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F8457-audiofreehighqps%2FA8%2F57%2FGKwRIMAICqZJAAaI0gINeweX.jpeg&w=200&h=200
 created: '2023-09-03T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/662999471
 title: EP33《Give and Take》：人善被人欺终极解决方案
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 你会选择做一个付出者吗？
 > 在生活中，更多人的回答是：会。毕竟，对亲友，对爱侣，我们很自然就会进入付出者的角色，也就是在为对方着想，希望对方好的当下，并没有计算回报。但在职场中呢？感觉做一个付出者就困难重重。首先，做一个付出者常常被利用，被白眼狼，被当成工具人，很受伤；其次，做一个付出者，还会被认为人太好担不起大事，不够有决断，不够「狠」；最后，付出者自己有时候也很疲惫，因为付出了很多帮助他人的时间精力。 

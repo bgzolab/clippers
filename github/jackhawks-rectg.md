@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "jackhawks/rectg"
 aliases: "rectg"
 created: 2025-04-03T20:20:12
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/jackhawks/rectg?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jackhawks/rectg?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jackhawks/rectg?style=for-the-badge&label=since)

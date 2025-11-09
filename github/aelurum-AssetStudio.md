@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "aelurum/AssetStudio"
 aliases: "AssetStudio"
 created: 2025-06-07T13:25:53

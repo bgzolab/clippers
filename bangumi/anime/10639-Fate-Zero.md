@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '命运初始'
   - '命运开始之夜'
@@ -23,7 +24,6 @@ title: Fate/Zero
 type: bangumi/anime
 website: ['http://www.fate-zero.jp/']
 ---
-
 # Fate/Zero
 
 圣杯：传说中可实现持有者一切愿望的宝物。而为了得到圣杯的仪式就被称为圣杯戦争。

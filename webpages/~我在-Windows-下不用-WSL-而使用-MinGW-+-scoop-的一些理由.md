@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "我在-Windows-下不用-WSL-而使用-MinGW-+-scoop-的一些理由"
 created: 2025-03-24T20:55:41
 modified: 2025-03-24T20:56:49
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 
 主力机是笔记本, 因为 Windows 下 OEM 优化更好 + 个人习惯的问题还在使用 Windows 开发.

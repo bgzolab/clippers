@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Theblockbuster1/spicetify-extensions"
 aliases: "spicetify-extensions"
 created: 2025-06-07T13:47:40

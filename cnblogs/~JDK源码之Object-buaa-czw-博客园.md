@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - JDK 源码之 Object - buaa_czw
 created: 2025-08-08T14:40:58
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/buaaczw/p/19026050
 title: JDK 源码之 Object - buaa_czw
 type: archive-web
 ---
-
 # JDK 源码之 Object - buaa_czw
 
 # 1、Object 类简介

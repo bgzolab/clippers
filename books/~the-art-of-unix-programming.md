@@ -1,12 +1,11 @@
 ---
+draft: true
 aliases: books/unix编程艺术
 author: Eric S·Raymond
 publisher: 电子工业出版社
 published: 20060200
 source: https://book.douban.com/subject/1467587, https://weread.qq.com/web/reader/f1f32dd072021a42f1fbdefkc81322c012c81e728d9d180
 ---
-
-
 - UNIX 的特点：
   - __Everything (including hardware) is a file__.
     所有的事物（甚至硬件本身）都是一个的文件。

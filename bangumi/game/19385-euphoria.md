@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'euphoria'
   - Euphoria
@@ -14,7 +15,6 @@ title: Euphoria
 type: bangumi/game
 website: ['http://entacom.org/clockup/product/euphoria/index.html']
 ---
-
 # Euphoria
 
 那处牢笼，是地狱还是乐园？

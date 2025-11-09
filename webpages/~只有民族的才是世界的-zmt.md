@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "只有民族的才是世界的 – zmt"
 created: 2025-04-05T15:50:55
 modified: 2025-04-05T15:50:55
@@ -7,8 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
-
 # 只有民族的才是世界的
 
 现在还把贸易战当意识形态的斗争，跟论证春秋有无义战的感觉一样，幼稚之至。  

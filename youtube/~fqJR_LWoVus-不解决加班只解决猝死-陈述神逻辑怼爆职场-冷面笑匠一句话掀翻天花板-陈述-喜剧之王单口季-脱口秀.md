@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "不解决加班只解决猝死-陈述神逻辑怼爆职场-冷面笑匠一句话掀翻天花板-陈述-喜剧之王单口季-脱口秀"
 cover: "https://i.ytimg.com/vi/fqJR_LWoVus/maxresdefault.jpg"
 author:
@@ -13,7 +14,6 @@ tags:
 tags-link:
 type: "video"
 ---
-
 ## Source
 
 <iframe src="https://www.youtube.com/embed/fqJR_LWoVus" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

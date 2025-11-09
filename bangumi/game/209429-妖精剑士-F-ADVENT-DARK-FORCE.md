@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '妖精剑士 F ADVENT DARK FORCE'
   - 'Fairy Fencer F Advent Dark Force'
@@ -16,7 +17,6 @@ title: 妖精剑士 F ADVENT DARK FORCE
 type: bangumi/game
 website: ['http://www.compileheart.com/fairyfencer_f/adf/']
 ---
-
 # 妖精剑士 F ADVENT DARK FORCE
 
 はるか昔、邪神と女神の争いがあった。

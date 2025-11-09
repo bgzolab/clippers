@@ -1,4 +1,5 @@
 ---
+draft: true
 alias: "戒瘾"
 title: "戒瘾"
 author:
@@ -19,7 +20,6 @@ type: "book"
 weread: "https://weread.qq.com/web/bookDetail/"
 weread-link:
 ---
-
 ## Comments
 
 

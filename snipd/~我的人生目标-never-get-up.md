@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 看理想vistopia
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fgroup71%2FM07%2F03%2F0C%2FwKgO2V6iTd_QHgIPAANePhgoryg304.jpg&w=200&h=200
 created: '2024-09-15T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/756058233
 title: Vol.141 我的人生目标！never get up
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 本期节目我们决定来整点好玩的！大家一起来做题！做什么题呢？是大名鼎鼎的普鲁斯特问卷。
 > 普鲁斯特问卷（Proust Questionnaire）指一种用来调查被提问者个人的生活方式、价值观、人生经验等问题的问卷调查。它经常出现在各大时尚杂志里，有的人会给出很有意思的答案，让人觉得人类的思维真奇妙。

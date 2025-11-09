@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-08-17T12:00:00
 source: https://www.coolapk.com/feed/53702265?shareKey=OGJlNWI1MjRiZDFkNjZiZTE5MjM~&shareUid=2988517&shareFrom=com.coolapk.market_14.3.0
 type: archive-web
 modified: 2025-01-15T11:38:15
 ---
-
 这几天抓包才发现，自己原先安装的证书都不管用了，上网一查才知道系统升级成安卓 14 后，根证书路径从系统目录/system/etc/security/cacerts 变成/apex/com.android.conscrypt/cacerts 了，原系统目录证书依然存在。 以下是找到一些参考资料：
 
 1、New ways to inject system CA certificates in Android 14：[查看链接](https://httptoolkit.com/blog/android-14-install-system-ca-certificate)

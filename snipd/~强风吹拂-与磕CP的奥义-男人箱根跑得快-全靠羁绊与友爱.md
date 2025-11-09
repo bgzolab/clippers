@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 非常突然
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFjN4lR--3Ttu-Hz0Hq2RxnMrq2Mh.jpg&w=200&h=200
 created: '2024-08-24T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/66c9b886ead5fc37921b667c?utm_source
 title: 《强风吹拂》与磕CP的奥义：男人箱根跑得快，全靠羁绊与友爱
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 你喜欢跑步吗？你愿意和九个男人一起跑步吗？你懂得欣赏这十个男人的跑步比赛吗？本期我们来讲一部高分经典运动作品《强风吹拂》，并邀请节目史上第一位嘉宾，号称“华夏大地最懂三浦紫苑第二人”的阿凯老师，来给大家讲一讲三浦老师的创作秘术，主要是看看她如何用冷门行业来写男人之间的羁绊！
 > /精彩内容提要/ 

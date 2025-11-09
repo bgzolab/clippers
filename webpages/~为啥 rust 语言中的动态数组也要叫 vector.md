@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-05-18T12:00:00
 source: https://www.zhihu.com/question/586722425/answer/3484896382
 type: archive-web
 modified: 2025-01-15T11:38:16
 ---
-
 这就是 rust 的问题
 
 它以为它能解决 c++

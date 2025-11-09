@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 王志安
 cover: https://wsrv.nl/?url=https%3A%2F%2Fpbcdn1.podbean.com%2Fimglogo%2Fimage-logo%2F14618240%2F2023080510250115.jpeg&w=200&h=200
 created: '2024-10-23T09:36:39'
@@ -10,8 +11,6 @@ source: https://wangjupodcast.podbean.com/e/%e6%8d%82%e4%bd%8f%e5%bd%b1%e8%a7%86
 title: 捂住影视飓风的嘴，中国就能搞出YOUTUBE吗？【王局拍案播客】
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 知名数码视频自媒体影视飓风在10月8日的时候发布了一个标题为《清晰度不如4年前！视频变糊是你的错觉吗？》的科普视频，该视频主要科普了为何大家在视频平台上看到的很多视频，清晰度比以前观看时要糊得多的原因。 不料，在10月9日下午的时候，影视飓风的官方微博发了一个公告，说因多方原因，该视频只能进行全网下架。 一个科普视频，为什么会遭到全网封杀？
 > 

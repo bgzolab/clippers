@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 庄明浩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFmjICGq_6HGf-_e1Rh11N-hjoWNI.png&w=200&h=200
 created: '2025-05-19T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/682adff0457b22ce0d6baf3b?utm_source
 title: Vol.60 AI时代下的信息知识管理和学习效率---狂喜播客节-贰狂
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 一场发生在狂喜播客节-贰狂的现场对话，
 > 参与对话的分别是：

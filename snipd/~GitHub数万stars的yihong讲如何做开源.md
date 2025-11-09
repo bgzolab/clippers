@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 栋哥的赛博空间
 cover: https://wsrv.nl/?url=https%3A%2F%2Fliuyandong.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fnew_logo-3.png&w=200&h=200
 created: '2024-08-30T09:36:39'
@@ -10,8 +11,6 @@ source: https://liuyandong.com/archives/podcast/no458
 title: No.458 GitHub数万stars的yihong讲如何做开源
 type: podcast-episode
 ---
-
-
 ## Show notes
 > liuyandong.com
 

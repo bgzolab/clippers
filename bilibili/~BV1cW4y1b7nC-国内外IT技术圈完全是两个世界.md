@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - ~BV1cW4y1b7nC- 国内外 IT 技术圈完全是两个世界
 author:
@@ -15,7 +16,6 @@ tags-link:
 title: ~BV1cW4y1b7nC- 国内外 IT 技术圈完全是两个世界
 type: "video"
 ---
-
 # ~BV1cW4y1b7nC- 国内外 IT 技术圈完全是两个世界
 
 ## Source

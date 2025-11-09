@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2025-05-19T09:36:39'
@@ -11,8 +12,6 @@ title: 一定要學文法嗎？發音怎麼練習？｜為什麼比起演講，�
   Lee Podcast Ep086
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 這週遇到小低潮，既沒靈感，也提不起幹勁。但該做的事情一樣都不能少，還是勤跑演講、錄podcast。今天就輕鬆聊聊，我這幾個禮拜跑了哪些演講，過程中學生們問了什麼樣的英語學習問題，還有我給了他們什麼樣的建議——「一定要學文法嗎？」「發音怎麼練習？」
 > 

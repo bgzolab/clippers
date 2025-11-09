@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "yangyangwithgnu/the_new_world_linux"
 aliases: "the_new_world_linux"
 created: 2025-06-02T12:56:36
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/yangyangwithgnu/the_new_world_linux?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/yangyangwithgnu/the_new_world_linux?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/yangyangwithgnu/the_new_world_linux?style=for-the-badge&label=since)

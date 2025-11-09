@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-05-18T12:00:00
 source: https://www.zhihu.com/question/653377812/answer/3471992999
 type: archive-web
 modified: 2025-01-15T11:38:19
 ---
-
 其实挺多的这种语言的。
 
 趁着暴雪国服回归之际，点名说说《星际争霸 2》银河编辑器里的 Galaxyscript

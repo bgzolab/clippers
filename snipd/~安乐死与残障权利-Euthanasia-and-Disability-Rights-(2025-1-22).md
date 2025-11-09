@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Yao Lin
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F6571074%2F6571074-1592839444173-043e611f31c44.jpg&w=200&h=200
 created: '2025-03-19T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/yao-lin/episodes/E-34--Euthanasi
 title: E.34 安乐死与残障权利 Euthanasia and Disability Rights (2025.1.22)
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 《催稿拉黑》的听众朋友们好，今年1月22日，我和播客《残言片语》（ typlog 、 小宇宙 ）的主持人、残障议题研究者 谢仁慈 连线，聊了聊安乐死与残障权益之间错综复杂的关系。这期节目已经在《残言片语》上线（ typlog 、 小宇宙 ），我在这里做个备份。《残言片语》是一档从残障视角观察和探讨社会话题的播客，在当代中文公共讨论中极为稀缺，强烈推荐大家关注收听。
 > 以下是《残言片语》为本期节目制作的中文文案：

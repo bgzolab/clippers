@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "为什么有些人偏向于买安卓平板，而不是 iPad?"
 created: 2025-04-05T13:02:46
 modified: 2025-04-05T13:02:46

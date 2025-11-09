@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2023-04-08T12:00:00
 source: "https://rizime.substack.com/p/184f"
 type: "archive-web"
 modified: 2025-01-15T11:38:16
 ---
-
 朋友们周末好！
 
 已入 4 月。

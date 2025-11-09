@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "为何微软不把-Windows-的默认字符集设置成-UTF-8"
 created: 2025-01-17T10:34:04
 modified: 2025-01-17T10:34:08
@@ -8,7 +9,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 都是因为万恶的兼容性。
 
 **Windows 内核中默认使用的是 UTF-16**，如果你写内核驱动就知道了，在内核里几乎都是以 UTF-16 的方式处理字符串的。

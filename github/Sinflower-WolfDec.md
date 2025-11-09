@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Sinflower/WolfDec"
 aliases: "WolfDec"
 created: 2025-06-07T13:10:23

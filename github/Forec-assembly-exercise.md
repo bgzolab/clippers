@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Forec/assembly-exercise"
 aliases: "assembly-exercise"
 created: 2025-03-22T16:05:11

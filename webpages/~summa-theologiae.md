@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Summa Theologica
 created: 2025-07-17T21:33:25
@@ -7,7 +8,6 @@ source: https://www3.nd.edu/~afreddos/summa-translation/TOC-part1-2.htm
 title: Summa Theologica
 type: archive-web
 ---
-
 # Summa Theologica
 
 | Beatitude 至福 | [Q. 1: Man's Ultimate End   问题一：人类的终极目标](http://www.nd.edu/%7Eafreddos/summa-translation/Part%201-2/st1-2-ques01.pdf) | [Q.2: The Things That Man’s Beatitude Lies In   问2：人的福气在于什么](http://www.nd.edu/%7Eafreddos/summa-translation/Part%201-2/st1-2-ques02.pdf) | [Q. 3: What Beatitude Is   问3：什么是福](http://www.nd.edu/%7Eafreddos/summa-translation/Part%201-2/st1-2-ques03.pdf) |

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '出包王女Darkness OAD'
   - 'To Love Ru Darkness OAD'
@@ -17,7 +18,6 @@ title: 出包王女 Darkness OAD
 type: bangumi/anime
 website: ['http://www.j-toloveru.com/special/']
 ---
-
 # 出包王女 Darkness OAD
 
 单行本第五卷限定版同捆 OAD 于 2012 年 8 月 17 日发售。

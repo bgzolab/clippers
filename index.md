@@ -1,9 +1,9 @@
 ---
+draft: true
 created: 2025-01-12T02:17:53
 modified: 2025-03-30T09:48:07
 comments: false
 ---
-
 ![](https://img.shields.io/github/stars/bGZo/clippers?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bGZo/clippers?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bGZo/clippers?style=for-the-badge&label=since)
 
 What we ignored is, the web is week, one research[^web-page-research] published in 2024, said 38% of webpages that existed in 2013 are no longer accessible a decade later.
@@ -58,7 +58,7 @@ Using the Github Action, Github Webhook and Telegram Bot to archive content with
 - Blog: we could use rss fetch it every day.
 - Social Media: in bluesky or mastodon, we still could use rss. Whereas towards traditional services, we only could use custom method to get content(anti-crawling)
 
-## How to work with [[telegram-message-sync-bot]]
+## How to work with [[1229-telegram-message-sync-bot]]
 
 ```shell
 rsync -avz --progress --delete bgzo@192.168.31.20:/home/bgzo/workspaces/telegram-message-sync/archives/channel/ "/Users/bgzo/Library/Mobile Documents/iCloud~md~obsidian/Documents/wiki/archives/clip-telegram/"

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Perfare/AssetStudio
 aliases:
   - AssetStudio

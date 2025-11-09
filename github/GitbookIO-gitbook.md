@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "GitbookIO/gitbook"
 aliases: "gitbook"
 created: 2025-06-08T00:44:19

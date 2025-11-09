@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: books/宁可不曾存在过, Better Never to Have Been The Harm of Coming Into Existence, Better Never to Have Been
 author: David Benatar
 publisher: Oxford University Press
@@ -8,8 +9,6 @@ created: 2023-01-21
 douban: https://book.douban.com/subject/4685115/
 description: 
 ---
-
-
 - ![better-never-to-have-been-the-harm-of-coming-into-existence.pdf](../assets/better-never-to-have-been-the-harm-of-coming-into-existence_1674274322218_0.pdf)
 - title: Better Never to Have Been by David Benatar—BOOK REVIEW - YouTube
   source: https://www.youtube.com/watch?v=Ltdngo86GdY

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '向美好的世界献上祝福！in the life'
   - 'この素晴らしい世界に祝福を! in the life'
@@ -15,7 +16,6 @@ title: 向美好的世界献上祝福！in The life
 type: bangumi/game
 website: []
 ---
-
 # 向美好的世界献上祝福！in The life
 
 【特典 1】オリジナル PC ゲーム「この素晴らしい世界に祝福を! in the life」(CD-ROM)

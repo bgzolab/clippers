@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 枫影 Justin Yan & 自力 hzlzh
 cover: https://wsrv.nl/?url=https%3A%2F%2Fcdn.justinbot.com%2Fwp-content%2Fuploads%2F2020%2F02%2FPodcast-Cover1400.png&w=200&h=200
 created: '2023-09-14T09:36:39'
@@ -10,8 +11,6 @@ source: https://justinyan.me/post/5793
 title: 'Vol. 98 苹果2023秋季发布会: Wonderlust'
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 北京时间2023年9月13日凌晨1点，苹果召开秋季发布会，线下地点在Apple Park的Steve Jobs Theater，线上同步直播。目前已经有些媒体在发布会结束后的hands-on环节上手体验了iPhone 15系列新机。
 > 

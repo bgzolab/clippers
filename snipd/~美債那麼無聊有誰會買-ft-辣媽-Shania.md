@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 曾博恩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FAvatar%2Fckyjmnkp0166d0830od1kznfj%2F1642480792231.png&w=200&h=200
 created: '2025-03-10T09:36:39'
@@ -10,8 +11,6 @@ source: https://open.firstory.me/story/cm82fw7o808pp01zx3tf7fs4e
 title: EP165 |  美債那麼無聊有誰會買 ft. 辣媽 Shania
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 這一集我們討論了購買美債需要知道的相關議題，以及人的個性、年紀如何影響投資組合    ▹ ▹ 追蹤看更多  訂閱最新消息 » https://str.network/rnbrian  Instagram » https://www.instagram.com/brianptseng/  Facebook » https://www.facebook.com/brianstandup  YouTube »   ｜曾博恩：https://www.youtube.com/@brianptseng  ｜博恩站起來：https://www.youtube.com/@StandupBrian  ⠀  小額贊助支持本節目：  https://open.firstory.me/user/ckyjmnkp0166d0830od1kznfj     本節目由【月城南廣告】業務代理及製作  💌Podcast 商業合作信箱：business@lumosads.biz
 > Powered by  Firstory Hosting

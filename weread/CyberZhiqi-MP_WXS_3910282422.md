@@ -1,4 +1,5 @@
 ---
+draft: true
 doc_type: weread-highlights-reviews
 bookId: MP_WXS_3910282422
 reviewCount: 0
@@ -21,8 +22,6 @@ type: weread-notes
 weread: https://weread.qq.com/web/reader/c9f421d224d505f5758535f33393130323832343232ca9
 
 ---
-
-
 ### 当男人去上班 | issue006
 
 > [!NOTE] 

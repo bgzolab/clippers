@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - pyrogram
   - Pyrogram
@@ -11,7 +12,6 @@ tags:
 title: Pyrogram
 type: repo
 ---
-
 # Pyrogram
 
 ![](https://img.shields.io/github/stars/pyrogram/pyrogram?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/pyrogram/pyrogram?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/pyrogram/pyrogram?style=for-the-badge&label=since)

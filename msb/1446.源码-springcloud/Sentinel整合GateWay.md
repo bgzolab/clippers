@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Sentinel整合GateWay
 
 在微服务系统中，网关提供了微服务系统的统一入口，所以我们在做限流的时候，肯定是要在网关层面做一个流量的控制，Sentinel 支持对 Spring Cloud Gateway、Zuul 等主流的 API Gateway 进行限流。

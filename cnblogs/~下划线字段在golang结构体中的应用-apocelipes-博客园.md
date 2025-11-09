@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 下划线字段在 golang 结构体中的应用 - apocelipes
 created: 2025-08-18T11:15:29
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/apocelipes/p/19043828
 title: 下划线字段在 golang 结构体中的应用 - apocelipes
 type: archive-web
 ---
-
 # 下划线字段在 golang 结构体中的应用 - apocelipes
 
 最近公司里的新人问了我一个问题：这段代码是啥意思。这个问题很普通也很常见，我还是个新人的时候也经常问，当然，现在我不是新人了但我也经常发出类似的提问。

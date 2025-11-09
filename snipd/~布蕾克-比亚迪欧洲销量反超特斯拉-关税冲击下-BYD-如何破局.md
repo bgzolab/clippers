@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 声动活泼
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFnnE833nnXIf7nFGP9KckQcKGWKF.png&w=200&h=200
 created: '2025-02-23T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/67bb2b6e05a90dfd0d534dc4?utm_source
 title: 布蕾克｜比亚迪欧洲销量反超特斯拉，关税冲击下 BYD 如何破局？
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 本周节目由CafeBreak布蕾克咖啡冠名播出。
 > 彭博社报道称，1 月份特斯拉在英国、西班牙等多个欧洲市场的销量已经被比亚迪反超。而早在十多年前，马斯克在接受彭博的采访时表示，他并没有把比亚迪当作竞争对手。去年的这个时候，特斯拉 Model Y 和 Model 3 也是欧洲销量最好的两款电动车，而比亚迪则没有出现在当时欧洲销量前十的电动车排行榜。如今，比亚迪在欧洲多个市场的销量却已经超过了特斯拉，这背后原因有哪些，比亚迪又克服了哪些困难？本期轻解读就与之相关 06:39。你在海外旅行时，见过哪些中国的电动车品牌吗？在评论区和我们一起聊聊吧。

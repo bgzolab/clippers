@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 日谈公园
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fgroup53%2FM08%2F04%2F7F%2FwKgLfFxFi1DyK_sOAAIVVH_yP2g776.jpg&w=200&h=200
 created: '2024-04-24T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/724749515
 title: vol.615 和纵横四海携隐Melody聊聊如何摆脱“时间贫困”
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 主播｜李叔  嘉宾｜携隐Melody 
 > 世界读书日特别节目来了！本期嘉宾是李叔的良师益友，「纵横四海」播客主播携隐Melody。无愧于“人类使用说明书”播客的称号，一番闲聊后，Melody就“看破”了李叔75%的MBTI。本期节目，同为NFP的两位主播就《时间贫困》一书展开话题，探讨有关阅读、效率的思考与共鸣。

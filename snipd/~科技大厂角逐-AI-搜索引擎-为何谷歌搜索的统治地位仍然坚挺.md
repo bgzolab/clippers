@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 声动活泼
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFnnE833nnXIf7nFGP9KckQcKGWKF.png&w=200&h=200
 created: '2024-05-26T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/6652ed4ac59d1e5757bc9ad9?utm_source
 title: 科技大厂角逐 AI 搜索引擎，为何谷歌搜索的统治地位仍然坚挺？
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 随着 ChatGPT 的面市，近一两年来关于 AI 技术加持的搜索引擎的讨论正在变得越来越多。目前，微软旗下的 Bing 获得了 ChatGPT 的支持，AI 问答搜索引擎 Perplexity 的估值超过了 10 亿美元，OpenAI 也被传出要做搜索引擎的消息。但直到如今，全球搜索市场中，谷歌的市场份额依旧高达 90.91%，相比去年同期只下降了不到两个百分点。AI 成果日新月异的当下，为什么谷歌搜索引擎的统治地位依然没被动摇？本期轻解读就与之相关 06:07。你习惯用对话的方式搜索信息吗？你觉得AI搜索会比传统搜索更好用吗？在评论区和我们一起聊聊吧。
 > 本期还有关于小米、特斯拉、Alphabet、Meta   和 Live Nation 的新动态 01:42，欢迎收听！

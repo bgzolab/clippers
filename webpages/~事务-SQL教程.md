@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 事务 - SQL 教程 - 廖雪峰的官方网站
 created: 2025-08-31T10:45:02
@@ -9,7 +10,6 @@ tags: []
 title: 事务 - SQL 教程 - 廖雪峰的官方网站
 type: "archive-web"
 ---
-
 # 事务 - SQL 教程 - 廖雪峰的官方网站
 
 ## 事务

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'Role player：小粥姉妹の粘膜ポトレ ぐりぐちゃLIVE！'
   - 'ROLEPLAYER：小粥姐妹的黏膜游戏！'
@@ -15,7 +16,6 @@ title: ROLEPLAYER：小粥姐妹的黏膜游戏！
 type: bangumi/game
 website: ['http://www.akabeesoft2.com/products/roleplayer/index.html']
 ---
-
 # ROLEPLAYER：小粥姐妹的黏膜游戏！
 
 俺は、漫画家だ。本業の一般漫画に納得がいかず別名義で描いたエロ漫画をネットにバラ撒いて自分の才能を爆散させている 2 流の漫画家だ。

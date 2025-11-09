@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 看理想
 cover: https://wsrv.nl/?url=https%3A%2F%2Fcdn.vistopia.com.cn%2F1679020549051.jpg&w=200&h=200
 created: '2023-07-05T09:36:39'
@@ -10,8 +11,6 @@ source: https://shop.vistopia.com.cn/article?article_id=682516
 title: 306. 以momo之名，在互联网悄悄发疯
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 这几个月在豆瓣、小红书等平台出现了很多叫momo的用户，也许你第一次看到momo，以为ta只是一位普通网友，但当你在评论区同时看到多个momo，而且IP地址来自全国甚至全世界各地时，可能多少有点疑惑：是我手机坏了吗？是信号不好昵称加载失败了吗？ 
 > 这一期邀请两位嘉宾聊了聊momo到底是谁，从绞尽脑汁起一个让人印象深刻的个性网名到小隐隐于mo、年轻人的上网心态发生了什么变化，以及这种变化背后有哪些平台和社会原因。 

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 机核网
 cover: https://wsrv.nl/?url=https%3A%2F%2Falioss.gcores.com%2Fdownload%2Fpodcast%2Fgadio.png%3Fv%3D1&w=200&h=200
 created: '2025-04-24T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.gcores.com/radios/197611
 title: 《刺客信条》怎么就走到了这步田地｜说来话长 Vol.2
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 很难有比《刺客信条》系列更加说来话长了。开放世界，年货，bug，历史，文明，多元化……它拥有着诸多非常鲜明的特色和嘈点，甚至标志着电子游戏一个时代的开启。但它也从未单纯的作为一款电子游戏而受到纯粹的褒奖。如果你成为玩家时《刺客信条》已经存在，那么你一定会好奇，这个系列到底曾经做到了什么，会让那么多玩家，对它有着那么多显然不切实际的期待；而如果你和我们一样也见证了这个IP至今的整个发展过程，那么就一定知道，这事儿看似复杂，其实也确实不简单。
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "PicGo/flutter-picgo"
 aliases: "flutter-picgo"
 created: 2025-04-12T11:02:27

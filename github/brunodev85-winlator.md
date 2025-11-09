@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - winlator
   - Winlator
@@ -13,7 +14,6 @@ tags-link:
 title: Winlator
 type: repo
 ---
-
 # Winlator
 
 ![](https://img.shields.io/github/stars/brunodev85/winlator?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/brunodev85/winlator?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/brunodev85/winlator?style=for-the-badge&label=since)

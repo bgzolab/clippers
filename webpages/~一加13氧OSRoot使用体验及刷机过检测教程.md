@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 一加-13-氧-OS-Root-使用体验-及-刷机过检测教程
 created: 2025-03-24T20:37:39
 modified: 2025-03-24T20:40:02
@@ -7,7 +8,6 @@ tags:
 tags-link: 
 type: archive-web
 ---
-
 ## 配置
 
 一加 13 24G+1T pdd 国补 4500 入手

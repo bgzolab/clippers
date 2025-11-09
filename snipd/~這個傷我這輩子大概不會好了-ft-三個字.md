@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 曾博恩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FAvatar%2Fckyjmnkp0166d0830od1kznfj%2F1642480792231.png&w=200&h=200
 created: '2025-02-17T09:36:39'
@@ -10,8 +11,6 @@ source: https://open.firstory.me/story/cm74f1r2100yx01uv4gb2f6hk
 title: EP162 | 這個傷我這輩子大概不會好了 ft. 三個字
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 這一集我們討論了物理治療的各種流派、久病的成因以及購買某些商品該注意的使用方法    【三個字的實用痠痛解方｜從生活細節打破痠痛循環】  百萬YouTuber  " target="_blank">https://hi.sat.cool/yBf2a      🔸三步驟解痠痛｜從自我評估、舒緩放鬆、到姿勢調整，從根本改善痠痛  🔸七大日常情境｜涵蓋多數人日常情境，如辦公、居家、勞動、運動等等  🔸自我評估檢測｜利用六階段檢測量表，自行檢視痠痛點，及時發現問題  🔸實用姿勢調整｜不靠意志力就能落實的姿勢管理，學一次就終生受用  🔸生活用具挑選｜掌握人體工學原則，不花大錢也能打造適合的居家配置    課程早鳥募資價低於45折！輸入「 300博音 」再折300元！     強檔喜劇拼盤秀 \#賀博台瘋 線上版 正式上架！  🔴 點擊連結一鍵下單 ➟ https://str.network/TgHxr  🚀 台瘋尾好評優惠 NT$349 薩泰爾娛樂官網 現正熱賣中！    ▹ ▹ 追蹤看更多  訂閱最新消息 » https://str.network/rnbrian  Instagram » https://www.instagram.com/brianptseng/  Facebook » https://www.facebook.com/brianstandup  YouTube »   ｜曾博恩：https://www.youtube.com/@brianptseng  ｜博恩站起來：https://www.youtube.com/@StandupBrian  ⠀  本節目由【月城南廣告】業務代理及製作  💌 Podcast 商業合作信箱：business@lumosads.biz
 > Powered by  Firstory Hosting

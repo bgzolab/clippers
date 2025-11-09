@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'Insult Order ~狂妄喵娘的快堕菜单~'
   - 'INSULT ORDER ~Namaiki Nyanko no Kaida Menu~'
@@ -16,7 +17,6 @@ title: Insult Order ~狂妄喵娘的快堕菜单~
 type: bangumi/game
 website: ['http://miconisomi.xii.jp/io/']
 ---
-
 # Insult Order ~狂妄喵娘的快堕菜单~
 
 ☆ストーリー

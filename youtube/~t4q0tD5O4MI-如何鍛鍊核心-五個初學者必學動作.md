@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "如何鍛鍊核心-五個初學者必學動作--▏北木健身"
 cover: "https://i.ytimg.com/vi/t4q0tD5O4MI/maxresdefault.jpg"
 author:
@@ -13,7 +14,6 @@ tags:
 tags-link:
 type: "video"
 ---
-
 ## Source
 
 <iframe src="https://www.youtube.com/embed/t4q0tD5O4MI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

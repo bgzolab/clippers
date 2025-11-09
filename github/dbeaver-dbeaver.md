@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "dbeaver/dbeaver"
 aliases: "dbeaver"
 created: 2025-06-07T16:02:26

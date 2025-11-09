@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "yeun/open-color"
 aliases: "open-color"
 created: 2025-06-07T13:46:24
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/yeun/open-color?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/yeun/open-color?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/yeun/open-color?style=for-the-badge&label=since)

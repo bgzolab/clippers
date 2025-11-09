@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://img1.doubanio.com/view/subject/s/public/s33929048.jpg
 aliases: 创建优雅、富于表现力和高性能的JVM与Android应用程序
 author: 文卡特·苏布拉马尼亚姆
@@ -13,7 +14,6 @@ type: book/dev
 douban: https://book.douban.com/subject/35506200
 weread: https://weread.qq.com/web/bookDetail/376323a0724b925b376fe83
 ---
-
 ## Contents
   - 第1章 你好Kotlin
     - 1.1 爱上Kotlin的理由

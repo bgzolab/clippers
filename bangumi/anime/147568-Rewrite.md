@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '罚抄'
   - 'Rewrite'
@@ -16,7 +17,6 @@ title: Rewrite
 type: bangumi/anime
 website: ['http://www.rewrite-anime.tv/']
 ---
-
 # Rewrite
 
 绿化都市风祭。

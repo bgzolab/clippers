@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Ubunutu 终端配置 - Miaops
 created: 2025-08-18T11:28:47
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/timothy020/p/19042169
 title: Ubunutu 终端配置 - Miaops
 type: archive-web
 ---
-
 # Ubunutu 终端配置 - Miaops
 
 ## 最终成果

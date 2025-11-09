@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://wfqqreader-1252317822.image.myqcloud.com/cover/600/33810600/t6_33810600.jpg
 aliases: books/高效能人士的七个习惯, The 7 Habits of Highly Effective People, 高效能人士的七个习惯
 tags: #Productivity #brainwashing
@@ -11,7 +12,6 @@ douban: https://book.douban.com/subject/5325618/, https://www.goodreads.com/en/b
 weread: https://weread.qq.com/web/bookDetail/56d325907203e8a856def7f
 created: 2023-05-20
 ---
-
 ## Contents
 ## 第1部分
 ### 第一章 由内而外全面造就自己

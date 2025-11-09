@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Awesome-chatgpt-prompts-zh
 created: 2025-01-19T01:55:28
@@ -10,7 +11,6 @@ tags:
 title: Awesome-chatgpt-prompts-zh
 type: repo
 ---
-
 # Awesome-chatgpt-prompts-zh
 
 ![](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/PlexPt/awesome-chatgpt-prompts-zh?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/PlexPt/awesome-chatgpt-prompts-zh?style=for-the-badge&label=date)

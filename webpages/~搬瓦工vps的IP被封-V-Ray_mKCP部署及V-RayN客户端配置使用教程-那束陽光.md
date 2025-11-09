@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "搬瓦工vps的IP被封(3) V2Ray_mKCP部署及V2RayN客户端配置使用教程 - 那束陽光"
 created: 2025-04-05T15:51:01
 modified: 2025-04-05T15:51:01
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # 搬瓦工vps的IP被封(3) V2Ray+mKCP部署及V2RayN客户端配置使用教程
 
 Posted on2018年7月8日 Edit on2022年1月17日 by [言小五](https://eveaz.com/author/cocofive)

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 庄明浩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFmjICGq_6HGf-_e1Rh11N-hjoWNI.png&w=200&h=200
 created: '2023-10-20T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/6532184775608281a9c4d773?utm_source
 title: Vol.05 为什么中国没有Discord?
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 【写在前面】 
 > 最近几年，每隔一段时间都有朋友来找我聊这个话题；

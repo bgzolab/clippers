@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '鬼父 Rebuild'
   - 鬼父 Rebuild
@@ -14,7 +15,6 @@ title: 鬼父 Rebuild
 type: bangumi/anime
 website: ['http://www.poro.cc/product_list/product_oni.html']
 ---
-
 # 鬼父 Rebuild
 
 いやらしさ innovation

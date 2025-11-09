@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - ARM 架构概览 - WenbinTeng
 created: 2025-08-08T17:15:11
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/wenbinteng/p/19028815
 title: ARM 架构概览 - WenbinTeng
 type: archive-web
 ---
-
 # ARM 架构概览 - WenbinTeng
 
 ARM，即 Advanced RISC Machines，是围绕精简指令集构建的一套处理器生态系统，包括指令集架构、处理器产品、嵌入式系统设计规范等内容。

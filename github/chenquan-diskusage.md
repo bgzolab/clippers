@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "chenquan/diskusage"
 aliases: "diskusage"
 created: 2025-01-31T12:35:18

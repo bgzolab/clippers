@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 「闲聊文」准大三的我，思前想后还是不搞 Java 了 - crhl-yy
 created: 2025-07-29T09:56:28
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/many-bucket/p/19009431
 title: 「闲聊文」准大三的我，思前想后还是不搞 Java 了 - crhl-yy
 type: archive-web
 ---
-
 # 「闲聊文」准大三的我，思前想后还是不搞 Java 了 - crhl-yy
 
 直接拿我在我们学校贴吧发的文了，我只是个二本生，进互联网还是很难的啦，还是转行吧。\n 有人说 ”不要美化自己未走过的道路“，毕竟已经沉默成本在这里面了，我也有点拎不清，但是也是决定了断舍离。

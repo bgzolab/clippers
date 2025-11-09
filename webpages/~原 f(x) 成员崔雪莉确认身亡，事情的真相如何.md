@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-02-25T12:00:00
 source: https://www.zhihu.com/question/350675490/answer/856988506
 type: archive-web
 modified: 2025-01-15T11:38:17
 ---
-
 当你离开这个世界的时候
 
 突然所有的人都关注你了，惋惜你了，爱你了。

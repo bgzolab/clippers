@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # SpringSecurity中的权限管理
 
 &emsp;&emsp;SpringSecurity是一个权限管理框架，核心是认证和授权，前面已经系统的给大家介绍过了认证的实现和源码分析，本文重点来介绍下权限管理这块的原理。

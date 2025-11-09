@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 四名美国教师在吉林遇袭，这是偶发事件吗
 created: 2024-06-15T11:41:21
@@ -7,7 +8,6 @@ description:
 tags: 
 type: video
 ---
-
 ## Source
 
 <iframe src="https://www.youtube.com/embed/LVkUXWBz9sw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: AboutRSS/ALL-about-RSS
 aliases:
   - ALL-about-RSS
@@ -11,7 +12,6 @@ tags:
   - github/star
 type: repo
 ---
-
 ## Meta
 
 ![](https://img.shields.io/github/stars/AboutRSS/ALL-about-RSS?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/AboutRSS/ALL-about-RSS?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/AboutRSS/ALL-about-RSS?style=for-the-badge&label=date)

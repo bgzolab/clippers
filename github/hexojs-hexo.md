@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "hexojs/hexo"
 aliases: "hexo"
 created: 2025-06-08T00:43:02

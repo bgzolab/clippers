@@ -1,4 +1,5 @@
 ---
+draft: true
 title: gildas-lormeau/SingleFile
 aliases:
   - SingleFile

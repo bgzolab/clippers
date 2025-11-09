@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 马士兵/Spring 面试题
   - bv17k411z7eb-Spring面试题
@@ -10,7 +11,6 @@ tags:
 title: 马士兵/Spring 面试题
 type: video
 ---
-
 # 马士兵/Spring 面试题
 
 https://www.bilibili.com/video/BV17K411Z7EB

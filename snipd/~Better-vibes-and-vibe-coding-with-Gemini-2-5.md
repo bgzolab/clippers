@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Stack Overflow
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Ff0fdf349-149b-42f9-95d0-8ddf72185776%2F02a60604-9d42-4ec4-a716-8d9a2942f79c%2F3000x3000%2Fstack-overflow-podcast-1080x1080.jpg%3Faid%3Drss_feed&w=200&h=200
 created: '2025-06-10T09:36:39'
@@ -10,8 +11,6 @@ source: https://stackoverflow.blog/podcast/
 title: Better vibes and vibe coding with Gemini 2.5
 type: podcast-episode
 ---
-
-
 ## Show notes
 > Gemini 2.5  is DeepMind’s most advanced model yet, with strong reasoning and coding capabilities. 
 > Connect with Tulsee on  LinkedIn .

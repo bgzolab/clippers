@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2023-05-07T00:00:00
 difficulty: medium
 type: programming-problem
 modified: 2025-03-17T22:43:32
 ---
-
 ## Description
 
 <iframe src="https://leetcode.cn/problems/pairs-of-songs-with-total-durations-divisible-by-60" style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>

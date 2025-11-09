@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "忍者之路 – zmt"
 created: 2025-04-05T15:50:58
 modified: 2025-04-05T15:50:58
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # 忍者之路
 
 我不是日漫痴，看的漫画、动漫并不多，主要都是些热门口水民工漫，比如死神、火影、黑执事、黑之契约者、xxxhol … [继续阅读“忍者之路”](https://zmt.pub/2013/04/21/%e5%bf%8d%e8%80%85%e4%b9%8b%e8%b7%af/)

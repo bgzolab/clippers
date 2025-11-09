@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "城管 – zmt"
 created: 2025-04-05T15:50:56
 modified: 2025-04-05T15:50:56
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # 城管
 
  七年前，还没有微博和公知，少年们还在QQ空间里对着五星红旗流泪。武大正门和测绘侧门之间，有很多三轮车小贩。有 … [继续阅读“城管”](https://zmt.pub/2013/09/29/%e5%9f%8e%e7%ae%a1/)

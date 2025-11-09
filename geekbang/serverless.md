@@ -1,8 +1,7 @@
 ---
+draft: true
 {}
 ---
-
-
 - [ ] #gtd/todo j继续学习 serverless  
 - 现实问题
   - 说来说去，到底 Serverless 要解决什么问题？

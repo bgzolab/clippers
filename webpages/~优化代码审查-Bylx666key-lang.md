@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "优化代码审查 · Issue #12 · Bylx666/key-lang"
 created: 2025-03-31T22:18:12
 modified: 2025-03-31T22:18:25
@@ -8,7 +9,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ### 很荣幸看到您没有经过 rustfmt 格式化，也没有经过 rust 官方的 lint：clippy 的代码，也很抱歉没有带上你所说的“脑子”
 
 ### 对于您的代码有没有通过 cargo check 我是存疑的，或许你的那一行 allow 已经很好地掩护了你的屎

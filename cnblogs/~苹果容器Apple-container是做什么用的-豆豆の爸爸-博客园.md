@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 苹果容器 Apple container 是做什么用的？ - 豆豆の爸爸
 created: 2025-08-18T13:31:42
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/georgewing/p/19033038
 title: 苹果容器 Apple container 是做什么用的？ - 豆豆の爸爸
 type: archive-web
 ---
-
 # 苹果容器 Apple container 是做什么用的？ - 豆豆の爸爸
 
 # 一、Apple Container 是什么

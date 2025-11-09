@@ -1,11 +1,11 @@
 ---
+draft: true
 aliases: books/编程珠玑
 tags: gtd/todo
 published:
 source: https://book.douban.com/subject/
 type: book
 ---
-
 - demonstration method
   - 逻辑学/数学
   - 综合法

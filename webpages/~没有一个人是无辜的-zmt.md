@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "没有一个人是无辜的 – zmt"
 created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # 没有一个人是无辜的
 
 一觉醒来，最早被训诫的8个医生之一李文亮去世了，一时间墙内墙外，哀鸿愤怒。  

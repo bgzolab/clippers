@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 随机波动
 cover: https://wsrv.nl/?url=https%3A%2F%2Fassets.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2Fa%2Fa05075d5-4f3a-45ac-afff-580f795c5d77%2Fcover.jpg%3Fv%3D1&w=200&h=200
 created: '2024-02-14T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.stovol.club/127
 title: 【随机波动127】迎财神or迎情人？劫富济贫容易，偷走爱欲很难
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 农历新年的第一期节目，我们想和大家谈谈爱情。这并不是随机波动擅长的话题，但韩剧《LTNS》（中文名《好久没做》）以其精湛的故事、巧妙的选角、日常和非日常的交错和嵌套，勾起了我们强烈的兴趣。该剧聚焦一对深陷都市贫困的无性夫妻，在绝望中开启敲诈出轨情侣之旅。在跟踪和偷拍他人性爱冒险的同时，不得不面对自身的婚姻困境。
 > 

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '彼得·格里尔的贤者时间 Super Extra'
   - 'Peter Grill to Kenja no Jikan 2'
@@ -18,7 +19,6 @@ title: 彼得·格里尔的贤者时间 Super Extra
 type: bangumi/anime
 website: ['https://petergrill-anime.jp/']
 ---
-
 # 彼得·格里尔的贤者时间 Super Extra
 
 絢爛武闘祭で優勝し、地上最強の称号を手に入れたピーター・グリル。

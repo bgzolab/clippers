@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2023-05-27T05:55:26
 source: "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=100114399"
 type: "archive-web"
 modified: 2025-01-15T11:38:22
 ---
-
 投票
 
 靠 AI 合成的顶配纸片人老婆！能完成“漏手指、平地摔”挑战吗？

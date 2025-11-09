@@ -1,4 +1,5 @@
 ---
+draft: true
 created: 2025-06-07T15:41:22
 modified: 2025-06-07T15:42:26
 source: "https://v2ex.com/t/741093#"
@@ -6,7 +7,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 1. root 搞不定，明明手机 root 了，但安装 pkg install tsu 后提示没 root 。直接输入 su 命令可以获取 root 权限，但 termux 自带的命令基本都用不了了。
 2. 外置 sd 卡权限无法获取，据说本来就没办法获取。内置 sd 卡似乎也有很多权限问题，不知道 root 后会不会好点，有时候莫名其妙提示权限问题，chmod 也失败。其他程序就基本没见过权限问题，另一个 app“终端模拟器”就能直接获取 root 权限，另外也没见过其他权限问题。

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "妈宝男 – zmt"
 created: 2025-04-05T15:50:57
 modified: 2025-04-05T15:50:57
@@ -7,8 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
-
 # 妈宝男
 
 ==互联网男女对立，是一种底层互害，矮矬穷和土肥圆之间的内部矛盾==。

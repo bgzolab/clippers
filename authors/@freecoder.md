@@ -1,3 +1,6 @@
+---
+draft: true
+---
 description: 作者一聽就是個大佬，真希望知道他現在過得怎麽樣？作者一定很久都沒有上來看看了，真希望能看到他的境況；via：[FreeCoder - YouTube](https://www.youtube.com/channel/UC8OGDmnyMgYOPgpnFJYUiGg)
 
 - <iframe src="https://www.youtube.com/embed/ZFiYxdWKft8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

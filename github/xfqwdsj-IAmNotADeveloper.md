@@ -1,4 +1,5 @@
 ---
+draft: true
 title: xfqwdsj/IAmNotADeveloper
 aliases:
   - IAmNotADeveloper

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: immersive-translate/immersive-translate
 aliases:
   - immersive-translate

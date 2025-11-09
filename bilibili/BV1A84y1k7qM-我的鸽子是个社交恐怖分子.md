@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "我的鸽子是个社交恐怖分子"
 cover: "http://i2.hdslb.com/bfs/archive/e828f402bf9b9d129a7f88f2bd5b85309537b7c1.jpg@189w_107h.webp"
 author: "江风有耳"
@@ -11,7 +12,6 @@ tags:
   - "video/bilibili"
 type: "video"
 ---
-
 ## Source
 
 <iframe src='https://player.bilibili.com/player.html?isOutside=true&bvid=BV1A84y1k7qM&p=1&autoplay=false' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>

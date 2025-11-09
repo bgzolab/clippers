@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Steam-Deck-全面上手记录"
 created: 2025-01-15T10:03:47
 
@@ -9,7 +10,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 **前言：我购买 Win 掌机的历史**
 
 我买的第一台 Win 掌机，应该是 2015 年的时候，也是业界第一台 Win 掌机，[GPD Win 的第一代](https://plumz.me/archives/4679/)。

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: [多端 GUI 真的没有银弹吗]
 created: 2025-07-03T21:20:42
 modified: 2025-07-03T21:20:48
@@ -7,7 +8,6 @@ tags: []
 title: 多端 GUI 真的没有银弹吗
 type: "archive-web"
 ---
-
 # 多端 GUI 真的没有银弹吗
 
 程序员 - @Leon6868 - 关注多端 GUI 解决方案将近十年了。十年来，像 RN 、Flutter 这样的自绘 UI 不少，大多都是昙花一现。当前无论做什么应用，一旦涉及到多端，最终都会回到 Web 技术栈。但

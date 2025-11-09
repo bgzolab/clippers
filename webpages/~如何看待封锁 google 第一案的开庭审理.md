@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-04-20T12:00:00
 source: https://www.zhihu.com/question/25150310/answer/30229095
 type: archive-web
 modified: 2025-01-15T11:38:18
 ---
-
 有一个人在赤手空拳奋力敲打柏林墙。
 
 尽管每个人都知道，柏林墙不会因此倒塌，甚至一块砖屑都不会掉下来，他自己肯定也知道。

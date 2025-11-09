@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "curl/everything-curl"
 aliases: "everything-curl"
 created: 2025-06-07T15:02:43

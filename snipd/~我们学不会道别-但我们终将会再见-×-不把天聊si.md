@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 宇宙模特公司
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F597e-audiofreehighqps%2F6D%2F90%2FGKwRIJIIQonMAAmg6QIgSPm9.jpeg&w=200&h=200
 created: '2025-06-26T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/877243164
 title: VOL 187 - 我们学不会道别：但我们终将会再见 × 不把天聊si
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 道别并非总是一件沉重的事情，我们无时无刻不在道别，手机弹出信息告诉我31元人民币已与我告别，因为刚才滴滴打车付款结算了，而且告别的动静不小，一时间滴滴、支付宝和银行app都着急来报，甚至显得有些盛大。
 > 今早出门感到天光晴朗热浪蒸腾，拿出手机一看往后一周都不下雨了，看来梅雨天终究是过去了，淅淅沥沥了三四周，回头一想却也想不起最后一场雨是什么时候停下，熬了许久，该大步踏入三伏天了。

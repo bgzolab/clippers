@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-12-28T10:42:35
 source: "https://zhangslob.github.io/2019/01/16/Golang%E5%86%99%E7%88%AC%E8%99%AB/"
 type: "archive-web"
 modified: 2025-01-15T11:38:20
 ---
-
 发表于 2019-01-16 | 分类于 [Golang](https://zhangslob.github.io/categories/Golang/)
 
 ```

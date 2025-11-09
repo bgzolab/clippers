@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "poetry"
   - Poetry
@@ -13,7 +14,6 @@ tags-link:
 title: Poetry
 type: "repo"
 ---
-
 # Poetry
 
 ![](https://img.shields.io/github/stars/python-poetry/poetry?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/python-poetry/poetry?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/python-poetry/poetry?style=for-the-badge&label=since)

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - MySQL Restrictions and Limitations 12 Limits in MySQL
 created: 2025-07-19T12:21:00
@@ -9,7 +10,6 @@ tags:
 title: MySQL Restrictions and Limitations 12 Limits in MySQL
 type: archive-web
 ---
-
 # MySQL Restrictions and Limitations 12 Limits in MySQL
 
 ## [12.1 Identifier Length Limits](https://dev.mysql.com/doc/mysql-reslimits-excerpt/8.0/en/identifier-length.html)

@@ -1,10 +1,10 @@
 ---
+draft: true
 description: 维生素E
 tags: #Philosophy
 created: 2022-12-01
 source: {{tg vitamineEpodcast}}
 ---
-
 - 健康码从来都不是为了“健康”而出现的，是为了“管理”而出现的，希望所有人都能认识到这一点，我们早就已经交出了太多了
   via: https://t.me/vitamineEpodcast/1516
 - 如果某地区财政运行困难，会发生什么呢？

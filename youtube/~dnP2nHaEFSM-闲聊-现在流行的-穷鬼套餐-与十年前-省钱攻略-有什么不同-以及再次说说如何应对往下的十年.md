@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "闲聊-现在流行的-穷鬼套餐-与十年前-省钱攻略-有什么不同-以及再次说说如何应对往下的十年"
 cover: "https://i.ytimg.com/vi/dnP2nHaEFSM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSChCMA8=&rs=AOn4CLB5-ewzxL2uN79suf5oRM6cpKgSfA"
 author:

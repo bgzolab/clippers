@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 机核网
 cover: https://wsrv.nl/?url=https%3A%2F%2Falioss.gcores.com%2Fdownload%2Fpodcast%2Fgadio.png%3Fv%3D1&w=200&h=200
 created: '2024-04-25T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.gcores.com/radios/180592
 title: 看起来是这样，实际上确实是这样，游戏茶话会Vol.67
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 本期节目我们聊一聊最近发售的几款新游戏：《剑星》、《恶意不息》、《蟹蟹寻宝奇遇》以及《百英雄传》。
 > 《恶意不息》 杉果首发折扣+新品券后仅需¥110，早买早享受！

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "一条命令搞定Linux字体渲染——Ubuntu系发行版微软雅黑+宋体终极解决方案"
 created: 2025-01-31T13:03:50
 modified: 2025-01-31T13:04:05
@@ -8,7 +9,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 [![](https://www.linux.zone/wp-content/uploads/ad_kyj.png)](http://www.smsw.com.cn/book4/8925/199469.html "山姆书屋-《孔乙己》")
 
 ```

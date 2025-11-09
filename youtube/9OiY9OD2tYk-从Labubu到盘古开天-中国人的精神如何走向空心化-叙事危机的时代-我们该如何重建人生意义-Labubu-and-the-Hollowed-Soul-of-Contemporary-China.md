@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 从 Labubu 到盘古开天 中国人的精神如何走向空心化 叙事危机的时代 我们该如何重建人生意义 Labubu and the Hollowed Soul of Contemporary China
 author:
@@ -15,7 +16,6 @@ tags:
 title: 从 Labubu 到盘古开天 中国人的精神如何走向空心化 叙事危机的时代 我们该如何重建人生意义 Labubu and the Hollowed Soul of Contemporary China
 type: "video"
 ---
-
 # 从 Labubu 到盘古开天 中国人的精神如何走向空心化 叙事危机的时代 我们该如何重建人生意义 Labubu and the Hollowed Soul of Contemporary China
 
 ## Source

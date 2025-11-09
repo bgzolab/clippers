@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-08-03T12:00:00
 source: https://linmi.cc/42154.html
 type: archive-web
 modified: 2025-01-15T11:38:18
 ---
-
 上周做了一个有意思的玩具，用于录入我现有的实体书籍到 Notion 里面，方便我进行管理。
 
 * 首先是有些书我会时不时的翻出来看，比如少楠赠予我的《悉达多》；

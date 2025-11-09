@@ -1,9 +1,9 @@
 ---
+draft: true
 created: 2023-05-29
 difficulty: easy
 type: programming-problem
 ---
-
 ## Description
 <iframe src="https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three"></iframe>
 ## Solution

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 全能工具箱安装Magisk手机端操作说明
 aliases:
   - 全能工具箱安装Magisk手机端操作说明
@@ -11,7 +12,6 @@ tags-link:
   - "[[root]]"
 type: archive-web
 ---
-
 «
 
 [大侠阿木](https://optool.daxiaamu.com/?author=1) 发布于 2024-3-28 05:45 阅读：103277

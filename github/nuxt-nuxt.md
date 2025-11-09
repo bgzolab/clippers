@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - nuxt
   - nuxt.js
@@ -11,7 +12,6 @@ tags-link:
 title: nuxt.js
 type: repo
 ---
-
 # nuxt.js
 
 ![](https://img.shields.io/github/stars/nuxt/nuxt?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/nuxt/nuxt?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/nuxt/nuxt?style=for-the-badge&label=since)

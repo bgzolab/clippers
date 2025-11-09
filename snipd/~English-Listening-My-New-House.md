@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Sonoro |  Conner Pe
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F93c48962-af4a-4b78-82d8-2f6e668e895a%2Fec5ca00c-6184-4f9c-9e9e-a34bcc7f06bc%2F3000x3000%2F8bfa793d0e9e45ba9ce5f6bd3464523e.jpg%3Faid%3Drss_feed&w=200&h=200
 created: '2025-06-16T09:36:39'
@@ -10,8 +11,6 @@ source: https://sonoromedia.com/ads.txt
 title: English Listening - My New House
 type: podcast-episode
 ---
-
-
 ## Show notes
 > Get my training and advanced episodes:  https://www.patreon.com/listeningtime 
 > US Conversations:  https://www.patreon.com/USConversations 

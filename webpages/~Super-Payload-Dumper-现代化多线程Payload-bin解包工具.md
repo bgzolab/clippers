@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "【Super Payload Dumper】现代化多线程Payload.bin解包工具"
 aliases: "【Super Payload Dumper】现代化多线程Payload.bin解包工具"
 created: 2025-04-09T22:53:31
@@ -9,7 +10,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 «
 
 [大侠阿木](https://optool.daxiaamu.com/?author=1) 发布于 2024-6-2 05:12 阅读：14609

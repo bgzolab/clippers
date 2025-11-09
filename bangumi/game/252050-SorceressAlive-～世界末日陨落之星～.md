@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '犹存于世的魔女'
   - 'Sorceress Alive!'
@@ -17,7 +18,6 @@ title: SorceressAlive!～世界末日陨落之星～
 type: bangumi/game
 website: ['https://fanzagames-digination.com/fluorite/sorceress-alive/']
 ---
-
 # SorceressAlive!～世界末日陨落之星～
 
 その日、眩い光が流れた——

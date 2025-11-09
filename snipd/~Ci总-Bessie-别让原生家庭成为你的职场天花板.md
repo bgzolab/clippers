@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 史蒂夫
 cover: https://wsrv.nl/?url=https%3A%2F%2Fmedia24.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2Fb%2Fb25803c6-0112-476c-9dbf-3e0f961a0e9d%2Fcover.jpg%3Fv%3D2&w=200&h=200
 created: '2025-05-13T09:36:39'
@@ -10,8 +11,6 @@ source: http://steveshuo.com/427
 title: 史蒂夫说425期 - Ci总&Bessie - 别让原生家庭成为你的职场天花板
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 本期嘉宾Ci总是我的伴侣，拳击x心理社群INNER WILD的创始人，曾任中国顶级创意公司合伙人，她在全平台的账号都是@砸贝儿王。另一位嘉宾Bessie是播客《贝望录》主播，曾任全球最大广告传播集团WPP中国区CEO，她的微博是@贝望录，公众号是@贝望录+。
 > 

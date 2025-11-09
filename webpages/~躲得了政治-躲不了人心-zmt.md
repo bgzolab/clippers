@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "躲得了政治，躲不了人心 – zmt"
 created: 2025-04-05T15:51:00
 modified: 2025-04-05T15:51:00
@@ -7,8 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
-
 # 躲得了政治，躲不了人心
 
 出于心理健康的考虑，刻意躲开了网络上对于我的批斗大会。晚上打开推特，发现自己竟然真的被封号了。 我拍手叫好，被 … [继续阅读“躲得了政治，躲不了人心”](https://zmt.pub/2019/01/15/%e8%ba%b2%e5%be%97%e4%ba%86%e6%94%bf%e6%b2%bb%ef%bc%8c%e8%ba%b2%e4%b8%8d%e4%ba%86%e4%ba%ba%e5%bf%83/)

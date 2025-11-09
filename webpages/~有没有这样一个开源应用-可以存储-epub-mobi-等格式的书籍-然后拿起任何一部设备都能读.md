@@ -1,4 +1,5 @@
 ---
+draft: true
 created: 2025-06-08T22:35:04
 modified: 2025-06-08T22:35:12
 source: "https://www.v2ex.com/t/884988"
@@ -6,7 +7,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 
 有不少 pdf 格式、epub ，mobi 格式的书籍，但是散落在公司、家不同的设备上，怎么才能实现随便一个设备就能读呢？有没有这样开源的应用呢。

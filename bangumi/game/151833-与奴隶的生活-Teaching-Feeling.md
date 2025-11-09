@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '奴隶少女希尔薇'
   - '奴隶少女希露薇'
@@ -20,7 +21,6 @@ title: 与奴隶的生活 -Teaching Feeling-
 type: bangumi/game
 website: ['https://koteipage.tumblr.com/post/181219840828/']
 ---
-
 # 与奴隶的生活 -Teaching Feeling-
 
 某天，敲门声响起．门外是一位形迹可疑的男人

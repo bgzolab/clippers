@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "DBUG-DBUG/SGK-bot"
 aliases: "SGK-bot"
 created: 2025-06-08T22:12:54
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/DBUG-DBUG/SGK-bot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/DBUG-DBUG/SGK-bot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/DBUG-DBUG/SGK-bot?style=for-the-badge&label=since)

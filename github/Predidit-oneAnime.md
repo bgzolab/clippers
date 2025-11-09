@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Predidit/oneAnime"
 aliases: "oneAnime"
 created: 2025-05-29T19:27:23

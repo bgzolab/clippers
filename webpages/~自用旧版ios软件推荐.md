@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-08-10T12:00:00
 source: https://www.coolapk.com/feed/39037022?shareKey=MDVmOTQyYTU2ZjEzNjZiNzhiMzU~
 type: archive-web
 modified: 2025-01-15T11:38:20
 ---
-
 我的设备是 iPhone se2（系统是 ios13.7)，由于新版的 app 会加一些广告和冗余功能，增加一定的内存占用，我会下一些老版本软件或者软件的海外版，这个网站有很全面的软件推荐和软件抓包教程和外版 apple id 的注册教程，大家可以打开使用（[查看链接](https://qianling.pw/ios-app/)） 哔哩哔哩（3.0.3）（需要在外区的 App Store 抓包）
 
   - 这是海外版的 b 站，其实和安卓谷歌版差不多，只有首页动态我的，没有广告，也没有杂七杂八的会员购游戏啥的，直播也可以正常看，这些年 b 站客户端增加了很多冗余功能，还是用海外版安心看视频吧。

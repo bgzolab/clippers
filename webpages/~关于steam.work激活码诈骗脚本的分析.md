@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-08-17T12:00:00
 source: https://www.52pojie.cn/
 type: archive-web
 modified: 2025-01-15T11:38:17
 ---
-
 结论放在前面：如果买 cdkey 买到让你要输入某个脚本再激活的，那别去管他，立刻退货并举报商家！原因就直接贴我写这个就行...
 
 该商家在使用 Steam 注入病毒假入库来进行诈骗，证据： https://www.52pojie.cn/thread-1949495-1-1.html 请立即退款，我将会向消费者协会说明本店情况！

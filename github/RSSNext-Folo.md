@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "RSSNext/Folo"
 aliases: "Folo"
 created: 2025-04-20T21:13:52
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/RSSNext/Folo?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/RSSNext/Folo?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/RSSNext/Folo?style=for-the-badge&label=since)

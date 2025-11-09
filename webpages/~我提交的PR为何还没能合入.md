@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2025-01-10T10:53:12
 source: "https://www.zhaohuabing.com/post/2024-03-20-how-to-create-a-pull-request/"
 type: "archive-web"
 modified: 2025-01-15T11:39:54
 ---
-
 **我提交的 PR 为何还没能合入？如何才能更快地合入我的 PR ？** 相信这是很多参与开源项目的开发者常常遇到的疑问。
 
 对于开发者来说，提交 PR（Pull Reques）是参与开源项目的主要方式。不管是修复一个故障，添加一个新功能，还是改进文档，我们都需要通过提交 PR 的方式将其合入到项目的主分支中。那么，我们提交的 PR 如何才能尽快地被项目接受呢？

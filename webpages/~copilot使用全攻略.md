@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Copilot 使用全攻略😎
 created: 2025-07-19T19:28:27
@@ -9,7 +10,6 @@ tags: []
 title: Copilot 使用全攻略😎
 type: "archive-web"
 ---
-
 # Copilot 使用全攻略😎
 
 ## 介绍 copilot

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Java 简历、面试、试用期、转正 - 紫邪情
 created: 2025-07-14T15:38:39
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/zixq/p/18978648
 title: Java 简历、面试、试用期、转正 - 紫邪情
 type: archive-web
 ---
-
 # Java 简历、面试、试用期、转正 - 紫邪情
 
 # 前言

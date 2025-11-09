@@ -1,4 +1,5 @@
 ---
+draft: true
 title: tiagonmas/Windows-Loopback-Exemption-Manager
 aliases:
   - Windows-Loopback-Exemption-Manager

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "ikarus23/MifareClassicTool"
 aliases: "MifareClassicTool"
 created: 2025-05-11T12:43:50

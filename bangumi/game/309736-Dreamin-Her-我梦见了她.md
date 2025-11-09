@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "Dreamin Her -我梦见了她。-"
   - "Dreamin Her xa0 -僕は、彼女の夢を見る。-"
@@ -15,7 +16,6 @@ title: Dreamin Her - 我梦见了她。-
 type: bangumi/game
 website: ['https://life0.info/dreaminher/index']
 ---
-
 # Dreamin Her - 我梦见了她。-
 
 五十嵐蒼は疲れていた。

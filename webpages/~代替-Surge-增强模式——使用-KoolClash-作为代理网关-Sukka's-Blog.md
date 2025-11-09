@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "代替-Surge-增强模式——使用-KoolClash-作为代理网关-Sukka's-Blog"
 created: 2025-03-09T12:58:17
 modified: 2025-03-09T12:58:17

@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-02-17T12:00:00
 source: https://mp.weixin.qq.com/s?__biz=MzkxMDI4MjQyMg==&mid=2247483725&idx=1&sn=a86a3f6973f34702f6ed98f4e5a6cd74&scene=58&subscene=0
 type: archive-web
 modified: 2025-01-15T11:38:18
 ---
-
 中秋节放假的前两天，男人要参加公司的聚餐。我问是不是又要喝酒，他说今天不用，因为老板出差了，只要老板不在，就没人要喝酒。
 
 但老板是真的想要喝酒吗，还是老板也觉得“老板”应该要喝酒？我还没问出口，他接着说，老板不在，公司就好像没有老师的幼儿园。

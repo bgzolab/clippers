@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Redis Explained - An in-depth tutorial"
 created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 [![Architecture Notes home](data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="411" height="44"><rect fill-opacity="0"/></svg>)](https://architecturenotes.co/)
 
   * [Home](https://architecturenotes.co/)

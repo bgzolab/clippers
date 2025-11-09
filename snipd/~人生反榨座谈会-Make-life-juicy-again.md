@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 宇宙模特公司
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F597e-audiofreehighqps%2F6D%2F90%2FGKwRIJIIQonMAAmg6QIgSPm9.jpeg&w=200&h=200
 created: '2023-08-09T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/655493473
 title: VOL 115 - 人生反榨座谈会：Make life juicy again!
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 见天地，见众生，才可见到自己。
 > 7月22日，我们久违地见到了朋友们。异常匆忙的相遇，但至少听见彼此的故事。

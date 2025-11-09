@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '比翼之吻'
   - '国家队'
@@ -21,7 +22,6 @@ title: DARLING in the FRANXX
 type: bangumi/anime
 website: ['http://darli-fra.jp/']
 ---
-
 # DARLING in the FRANXX
 
 遥远的未来，因人类过度抽取地球资源，地球变得荒芜，不再适合居住，人类只好居住在移动要塞都市内，但时常需要外出获取无法产出的资源「熔岩燃料」，「熔岩燃料」的开采会吸引来半机械生命体「叫龙」，此时就轮到人类操对抗叫龙的「FranXX」机械人的出场了。究竟这些「叫龙」是敌是友，无从得知。

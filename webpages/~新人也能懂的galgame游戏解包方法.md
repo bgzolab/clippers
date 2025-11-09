@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2022-11-21T12:00:00
 source: https://www.bilibili.com/read/cv6488276/
 type: archive-web
 modified: 2025-01-15T11:39:54
 ---
-
 ## 首先声明：解包毕竟是一种侵权行为，建议资源分享与使用注意场合与时机，确实地保护游戏公司的利益。
 ## 再次，该文章面向群众为：对某些 galgame 的某一突出的部分有收藏纪念意向的玩家。
 ## 特攻群众：对旧作 galgame 情有独钟的玩家们。

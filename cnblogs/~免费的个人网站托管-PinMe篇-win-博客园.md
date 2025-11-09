@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 免费的个人网站托管 -PinMe 篇 - ！win ！
 created: 2025-08-21T09:27:21
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/xwwin/p/19048409
 title: 免费的个人网站托管 -PinMe 篇 - ！win ！
 type: archive-web
 ---
-
 # 免费的个人网站托管 -PinMe 篇 - ！win ！
 
 ## 前情

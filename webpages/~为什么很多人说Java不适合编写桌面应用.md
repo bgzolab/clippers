@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-08-02T12:00:00
 source: https://www.zhihu.com/question/19711713
 type: archive-web
 modified: 2025-01-15T11:38:16
 ---
-
 这事还得从 Java 的传统，“跨平台一致性”说起。
 
 在写后台逻辑的时候，跨平台是好东西。很多公司都是在 Windows 下开发，在 Linux 下部署，方便。

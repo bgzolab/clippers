@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 【译】使用 GitHub Copilot 编写 Git 提交
   - ~译 - 使用 -GitHub-Copilot- 编写 -Git- 提交 -MeteorSeed- 博客园
@@ -8,7 +9,6 @@ source: https://www.cnblogs.com/MeteorSeed/p/17865075.html
 title: 【译】使用 GitHub Copilot 编写 Git 提交
 type: archive-web
 ---
-
 # 【译】使用 GitHub Copilot 编写 Git 提交
 
 [![](https://img2024.cnblogs.com/blog/35695/202508/35695-20250830122018806-1574270965.jpg)](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101750143863263087?ha_source=BKYQ3&ha_sourceId=89000408)

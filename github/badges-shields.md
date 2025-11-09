@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "badges/shields"
 aliases: "shields"
 created: 2025-04-03T20:55:14
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/badges/shields?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/badges/shields?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/badges/shields?style=for-the-badge&label=since)

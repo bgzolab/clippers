@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "kodjodevf/mangayomi"
 aliases: "mangayomi"
 created: 2025-04-23T05:48:43

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Dr-TSNG/ZygiskNext"
 aliases: "ZygiskNext"
 created: 2025-05-11T15:28:45

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "hizzgdev/jsmind"
 aliases: "jsmind"
 created: 2025-06-07T15:56:29

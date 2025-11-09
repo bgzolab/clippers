@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 一席
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFrPLFKmYN-81FwGfhfqw-spbwlpQ.jpg&w=200&h=200
 created: '2024-10-31T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/67234b1633c798676f688036?utm_source
 title: 在八十岁，Get up and Dance｜杨圆圆 一席
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 杨圆圆，艺术家，纪录片导演。 
 > 在拍摄的两年里，Coby总是会不断地提到一个词，“Swan song 天鹅之舞”。在童话故事中，天鹅会在离世前跳最后一支华丽的舞蹈。Coby似乎也把每次登台都当作自己最后的舞蹈，但她又总会充满生命力地站在那个舞台上，再去迎接下一场。   

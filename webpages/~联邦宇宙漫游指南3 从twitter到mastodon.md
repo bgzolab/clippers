@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-01-25T12:00:00
 source: https://fediverse.eu.org/discussion/37/%E8%81%94%E9%82%A6%E5%AE%87%E5%AE%99%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%973-%E4%BB%8Etwitter%E5%88%B0mastodon
 type: archive-web
 modified: 2025-01-15T11:38:20
 ---
-
 - 本篇首发于 [我的博客](https://fediverse.eu.org/home/leaving?target=https%3A%2F%2Fwp.me%2FpbKqHZ-SO)，为注册用户（而非站点管理员/建设者）角度的使用指南。因贴图无法完成，这里只保留重点信息的文字版。若有更新，需进入原文查看。
 
 ___

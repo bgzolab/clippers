@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Java 集合源码 --ArrayList 的可视化操作过程 - 渊渟岳
 created: 2025-07-16T10:00:20
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/dennyLee2025/p/18919268
 title: Java 集合源码 --ArrayList 的可视化操作过程 - 渊渟岳
 type: archive-web
 ---
-
 # Java 集合源码 --ArrayList 的可视化操作过程 - 渊渟岳
 
 关于 ArrayList 的元素插入、检索、修改、删除、扩容等可视化操作过程

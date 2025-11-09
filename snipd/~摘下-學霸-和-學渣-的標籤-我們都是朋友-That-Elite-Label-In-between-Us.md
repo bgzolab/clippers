@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 打個電話給你 One Call Away
 cover: https://wsrv.nl/?url=https%3A%2F%2Fi1.sndcdn.com%2Favatars-B2BMSVh50YmC1jAG-vLKGHw-original.jpg&w=200&h=200
 created: '2023-09-21T09:36:39'
@@ -10,8 +11,6 @@ source: https://soundcloud.com/wendyhasatail/210-that-elite-label-in-between-us
 title: 210 摘下「學霸」和「學渣」的標籤，我們都是朋友 That Elite Label In between Us
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 故事起源於下雨天Iphie偶遇的咖啡廳，一群完全不認識的陌生人聊起深刻又值得討論的話題，意猶未盡的Iphie於是將這樣的話題帶入我們的節目中。對於接受過或多或少精英教育的我們來說，教育程度或是說成績好壞曾經影響著我們要不要和一個人做朋友，長大後的我們怎麼看待這種限制呢？
 > /

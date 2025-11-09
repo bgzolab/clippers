@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - awesome-copilot
   - Awesome-copilot
@@ -11,7 +12,6 @@ type: repo
 tags:
   - prompt-enginee
 ---
-
 # Awesome-copilot
 
 ![](https://img.shields.io/github/stars/github/awesome-copilot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/github/awesome-copilot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/github/awesome-copilot?style=for-the-badge&label=since)

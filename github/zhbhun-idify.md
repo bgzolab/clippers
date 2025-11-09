@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "zhbhun/idify"
 aliases: "idify"
 created: 2025-06-02T12:08:07

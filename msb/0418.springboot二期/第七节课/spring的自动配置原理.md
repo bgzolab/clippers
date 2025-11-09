@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # spring的自动配置原理
 
 springboot配置文件的装配过程

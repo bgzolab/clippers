@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'KIRA☆KIRA 煌煌舞台'
   - 'KIRAKIRA'
@@ -16,7 +17,6 @@ title: KIRA☆KIRA 煌煌舞台
 type: bangumi/game
 website: ['http://project.over-drive.jp/kirakira/index.htm']
 ---
-
 # KIRA☆KIRA 煌煌舞台
 
 前岛鹿之助是就读于教会制学校“欧美学园”的学生。过着既不参加社团活动也不投身考试复习，而只是拼命打工的惨淡生活。

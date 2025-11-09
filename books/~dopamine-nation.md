@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://img9.doubanio.com/view/subject/s/public/s34472995.jpg
 aliases: 成瘾在放纵中寻找平衡
 author: 在放纵中寻找平衡
@@ -13,7 +14,6 @@ type: book
 douban: https://book.douban.com/subject/36247880
 weread: https://weread.qq.com/web/bookDetail/9e8321b0813ab7bf1g013230
 ---
-
 ## Contents
   - 第一部分 追求快感
     - 第1章 我们的自慰机

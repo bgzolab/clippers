@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "star7th/showdoc"
 aliases: "showdoc"
 created: 2025-06-08T00:45:39

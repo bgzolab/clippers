@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Dependency-Injection"
 created: 2025-03-16T22:14:31
 modified: 2025-03-16T22:27:51
@@ -8,7 +9,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 Dependency Injection (DI) has been a hot topic since 2007-2008. Lots have already been said and written about depencency injection, yet I feel there is more to say. This trail will explain and explore dependency injection and related concepts. Below is a list of the topics covered in this trail. The list is repeated at the top right of every page in this trail.
 
 自 2007-2008 年以来，依赖注入 (DI) 一直是一个热门话题。关于依赖注入，已经有很多讨论和写作，但我觉得还有更多要说的。本篇将解释和探索依赖注入和相关概念。以下是本篇涵盖的主题列表。本篇的每一页右上角都重复了该列表。

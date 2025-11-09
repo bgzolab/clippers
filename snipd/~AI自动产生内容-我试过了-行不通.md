@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 大狗熊
 cover: https://wsrv.nl/?url=https%3A%2F%2Fmedia.redcircle.com%2Fimages%2F2022%2F9%2F11%2F7%2Fa92f5b30-baac-4bca-9195-ed8856586a64_302_209cb34e-b697-493c-afd9-4ff7a430e392_cover.jpg&w=200&h=200
 created: '2023-11-19T09:36:39'
@@ -10,8 +11,6 @@ source: http://www.beartalking.com
 title: 464 / AI自动产生内容？我试过了，行不通
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 在这期节目里，我分享了我在过去一个月里所做的一个实践项目：使用AI来自动产生内容，是不是一个可行的生意？我花了大约一百多美元和几十个小时的个人时间来制作一系列短视频，并在TikTok和YouTube上发布。我使用了各种工具，也开发出不同的工作流程。内容创作的技术本身没有问题，但最终我的答案是：这个生意模式，对我来说行不通。但是，这次失败的尝试，却充满了营养。
 > 00:00 项目概述

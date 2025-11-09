@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "在-Windows-下键入-Enter-键-是在键盘缓冲区中存入-'n'-还是-'r''n'-两个"
 created: 2025-01-17T10:33:21
 modified: 2025-01-19T02:57:24
@@ -8,7 +9,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 首先，题主要说明这个键盘缓冲区是指什么呢？
 
 以一个 USB 键盘为例，从 USB 的请求开始到最终窗口收到消息，中间有好几层缓冲区，每层都不太一样。

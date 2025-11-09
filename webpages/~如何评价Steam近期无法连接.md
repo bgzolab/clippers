@@ -1,11 +1,11 @@
 ---
+draft: true
 created: 2024-08-18T12:00:00
 source: https://www.zhihu.com/question/525590687/answer/2433871108
 tags: steam  
 type: archive-web
 modified: 2025-01-15T11:38:18
 ---
-
 **中国什么时候开始禁枪的？**
 
 我有一次和我爸谈到这个问题。

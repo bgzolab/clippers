@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - books/Spring Cloud 微服务架构开发实战
 tags: 
@@ -12,7 +13,6 @@ weread: https://weread.qq.com/web/bookDetail/7d332ce0715dbcba7d3a09d
 description: https://github.com/cd826/springcloud-demo
 title: springcloud 微服务架构开发实战
 ---
-
 - Content
   - 版权信息
   - 内容简介

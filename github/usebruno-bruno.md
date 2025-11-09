@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "bruno"
   - usebruno/bruno
@@ -12,7 +13,6 @@ tags-link:
 title: usebruno/bruno
 type: "repo"
 ---
-
 # usebruno/bruno
 
 ![](https://img.shields.io/github/stars/usebruno/bruno?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/usebruno/bruno?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/usebruno/bruno?style=for-the-badge&label=since)

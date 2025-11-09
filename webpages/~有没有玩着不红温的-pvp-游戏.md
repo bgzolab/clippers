@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "有没有玩着不红温的 pvp 游戏？ - V2EX"
 created: 2025-05-05T00:13:05
 modified: 2025-05-05T00:13:11
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 
 结论是没有

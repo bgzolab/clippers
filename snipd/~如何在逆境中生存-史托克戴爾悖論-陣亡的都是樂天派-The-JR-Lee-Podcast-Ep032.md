@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2024-04-15T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/The-JR-Lee-Podca
 title: 如何在逆境中生存？史托克戴爾悖論：陣亡的都是樂天派｜The JR Lee Podcast Ep032
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 為什麼在逆境中沈淪的往往都是樂天派？樂觀思維者在壓力下應該有更大的韌性，卻出現了所謂的「史托克戴爾悖論」。今天我們來聊聊，樂觀、希望、痛苦、逆境，以及最終是什麼樣的人可以存活下來。
 > 

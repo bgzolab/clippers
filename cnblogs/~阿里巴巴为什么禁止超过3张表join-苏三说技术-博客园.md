@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 阿里巴巴为什么禁止超过 3 张表 join？ - 苏三说技术
 created: 2025-07-17T16:12:18
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/12lisu/p/18987174
 title: 阿里巴巴为什么禁止超过 3 张表 join？ - 苏三说技术
 type: archive-web
 ---
-
 # 阿里巴巴为什么禁止超过 3 张表 join？ - 苏三说技术
 
 ## 前言

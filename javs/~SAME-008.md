@@ -1,4 +1,5 @@
 ---
+draft: true
 title: SAME-008 数年ぶりに教師として母校に戻ってきた私は大好きだった恩師に犯●れました。 明里つむぎ
 cover: https://pics.dmm.co.jp/mono/movie/adult/same008/same008pl.jpg
 author:

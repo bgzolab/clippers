@@ -1,4 +1,5 @@
 ---
+draft: true
 title: karan/projects-solutions
 aliases: projects-solutions
 created: 2023-03-21

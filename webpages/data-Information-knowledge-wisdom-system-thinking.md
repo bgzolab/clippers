@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Data, Information, Knowledge, & Wisdom (systems-thinking.org)
 created: 2025-07-19T10:42:29
@@ -7,7 +8,6 @@ source: http://www.systems-thinking.org/dikw/dikw.htm
 title: Data, Information, Knowledge, & Wisdom (systems-thinking.org)
 type: archive-web
 ---
-
 # Data, Information, Knowledge, & Wisdom (systems-thinking.org)
 
 There is probably no segment of activity in the world attracting as much attention at present as that of knowledge management. Yet as I entered this arena of activity I quickly found there didn't seem to be a wealth of sources that seemed to make sense in terms of defining what knowledge actually was, and how was it differentiated from data, information, and wisdom. What follows is the current level of understanding I have been able to piece together regarding data, information, knowledge, and wisdom. I figured to understand one of them I had to understand all of them.

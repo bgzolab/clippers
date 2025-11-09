@@ -1,4 +1,5 @@
 ---
+draft: true
 author: DAO
 cover: https://wsrv.nl/?url=https%3A%2F%2Fcdn.daopub.com%2Fimages%2FLogo_DAO.png&w=200&h=200
 created: '2025-01-06T09:36:39'
@@ -10,8 +11,6 @@ source: https://dao.fm/2025/01/06/%e7%a0%81%e4%b8%8aai%ef%bc%9a%e8%b7%a8%e8%b6%8
 title: 码上AI：跨越编程门槛，AI助力初学者迈出第一步
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 在这个信息化高度发达的时代，编程能力甚至被一些人认为是和开车一样重要的必备技能，但初学者却经常被抽象的概念和复杂的指令拦在门外。对于这个问题，有没有什么好的解决思路？当下如火如荼的AI技术，又能给我们带来什么新的帮助？
 > 本期节目，我们邀请到了天津市大学软件学院叶老师和豆包MarsCode产品经理王涛，与大家一起深入探讨这一话题。

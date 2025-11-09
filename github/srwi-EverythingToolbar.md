@@ -1,4 +1,5 @@
 ---
+draft: true
 title: srwi/EverythingToolbar
 aliases:
   - EverythingToolbar

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: unique-paths
 aliases:
   - unique-paths
@@ -10,7 +11,6 @@ difficulty: medium
 tags: 
 type: programming-problem
 ---
-
 ## Description
 
 <iframe src='https://leetcode.cn/problems/unique-paths' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>

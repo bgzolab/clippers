@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "BGmi/BGmi"
 aliases: "BGmi"
 created: 2025-07-28T20:57:44

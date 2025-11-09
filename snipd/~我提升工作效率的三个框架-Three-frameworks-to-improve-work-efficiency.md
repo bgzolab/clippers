@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 大狗熊
 cover: https://wsrv.nl/?url=https%3A%2F%2Fmedia.redcircle.com%2Fimages%2F2022%2F9%2F11%2F7%2Fa92f5b30-baac-4bca-9195-ed8856586a64_302_209cb34e-b697-493c-afd9-4ff7a430e392_cover.jpg&w=200&h=200
 created: '2023-10-26T09:36:39'
@@ -10,8 +11,6 @@ source: http://www.beartalking.com
 title: 462 / 我提升工作效率的三个框架 - Three frameworks to improve work efficiency
 type: podcast-episode
 ---
-
-
 ## Show notes
 > Andrew Huberman说成年职人每5、6年，就应该回顾自己的工作方式，并将效率彻底升级一次（因为成年人随着年纪增长，可用时间会越来越少）。我近十几年，经历了3次工作效率的彻底升级。第一次是GTD，第二次是Agile，这第三次，毫无疑问就是AI了。
 > 第一次，其实主要是提高速度，通过减少context切换，批处理的方式

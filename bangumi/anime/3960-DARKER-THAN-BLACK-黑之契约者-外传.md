@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '比黑更黑 -黑之契约者- 外传'
   - 'DARKER THAN BLACK -黒の契約者- 外伝'
@@ -16,7 +17,6 @@ title: DARKER THAN BLACK - 黑之契约者 - 外传
 type: bangumi/anime
 website: ['http://www.d-black.net/']
 ---
-
 # DARKER THAN BLACK - 黑之契约者 - 外传
 
 「黒の契約者」と「流星の双子」の空白の 2 年を繋ぐ全 4 話の新作 OVA「DARKER THAN BLACK 黒の契約者 外伝」

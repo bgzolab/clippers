@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '文豪野犬 DEAD APPLE'
   - '文豪ストレイドッグス DEAD APPLE'
@@ -18,7 +19,6 @@ title: 文豪野犬 DEAD APPLE
 type: bangumi/anime
 website: ['http://bungo-stray-dogs.jp/']
 ---
-
 # 文豪野犬 DEAD APPLE
 
 一切的开始都是在 6 年前。各个组织都被卷入、刮起腥风血雨的那 88 天的“龙头抗争”，是横浜里社会史中堆起的尸山最多的一段期间。

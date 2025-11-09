@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '攻壳机动队 S.A.C. 2nd GIG'
   - '攻殻機動隊 S.A.C. 2nd GIG'
@@ -15,7 +16,6 @@ title: 攻壳机动队 S.A.C. 2nd GIG
 type: bangumi/anime
 website: ['https://www.ntv.co.jp/kokaku-s/']
 ---
-
 # 攻壳机动队 S.A.C. 2nd GIG
 
 这个世界距离我们并不遥远，你把它看作是现代社会的镜子亦为不可。

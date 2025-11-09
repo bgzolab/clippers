@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 akid 抱抱，长久地抱抱你。这么长时间，你辛苦了。 source
 

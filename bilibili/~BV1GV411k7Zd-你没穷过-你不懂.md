@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 你没穷过-你不懂
 cover: http://i0.hdslb.com/bfs/archive/d8647c706536db7bb9d1ddd14eec05f0c28da9c0.jpg@189w_107h.webp
 author:
@@ -14,7 +15,6 @@ tags:
 tags-link: 
 type: video
 ---
-
 ## Source
 
 <iframe src='https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GV411k7Zd&p=1&autoplay=false' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>

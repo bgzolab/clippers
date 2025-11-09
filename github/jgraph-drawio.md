@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "jgraph/drawio"
 aliases: "drawio"
 created: 2025-06-14T22:13:24

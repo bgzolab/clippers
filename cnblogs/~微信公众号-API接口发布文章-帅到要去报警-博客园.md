@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 微信公众号 ---API 接口发布文章 - 帅到要去报警
 created: 2025-07-14T15:39:15
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/e0yu/p/18794178
 title: 微信公众号 ---API 接口发布文章 - 帅到要去报警
 type: archive-web
 ---
-
 # 微信公众号 ---API 接口发布文章 - 帅到要去报警
 
 最近在做一个项目，需要用到通过 API 接口发布推文。

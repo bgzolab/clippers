@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - What is an ORM – The Meaning of Object Relational Mapping Database Tools
 created: 2025-07-26T14:36:43
@@ -9,7 +10,6 @@ tags: []
 title: What is an ORM – The Meaning of Object Relational Mapping Database Tools
 type: "archive-web"
 ---
-
 # What is an ORM – The Meaning of Object Relational Mapping Database Tools
 
 Object Relational Mapping (ORM) is a technique used in creating a "bridge" between object-oriented programs and, in most cases, [relational databases](https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/).

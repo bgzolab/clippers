@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "2024自学AI大模型的-8-个步骤"
 cover: "https://i.ytimg.com/vi/ONV4uTxRD6Y/maxresdefault.jpg"
 author:
@@ -14,7 +15,6 @@ tags:
 tags-link:
 type: "video"
 ---
-
 ## Source
 
 <iframe src="https://www.youtube.com/embed/ONV4uTxRD6Y" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

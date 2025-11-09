@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "kiss-translator"
   - Kiss-translator
@@ -9,7 +10,6 @@ source: "https://github.com/fishjar/kiss-translator"
 title: Kiss-translator
 type: "repo"
 ---
-
 # Kiss-translator
 
 ![](https://img.shields.io/github/stars/fishjar/kiss-translator?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/fishjar/kiss-translator?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/fishjar/kiss-translator?style=for-the-badge&label=since)

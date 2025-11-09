@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '樱花萌放'
   - '樱花萌咲 -于“夜”重生之时-'
@@ -19,7 +20,6 @@ title: "樱花、萌放。-as The Night's, Reincarnation-"
 type: bangumi/game
 website: ['http://www.favo-soft.jp/soft/product/sakura/index.html']
 ---
-
 # 樱花、萌放。-as The Night's, Reincarnation-
 
       ——这是一个为了「魔法少女」的故事。

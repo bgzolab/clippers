@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "ruisaraiva19/favycon"
 aliases: "favycon"
 created: 2025-06-14T22:55:38

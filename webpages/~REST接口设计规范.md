@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "REST接口设计规范"
 created: 2025-04-05T15:50:56
 modified: 2025-04-05T15:50:56
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 REST接口设计规范
 
 [ 随遇而安 ](https://wangwei.info/)

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "immersive-translate/old-immersive-translate"
 aliases: "old-immersive-translate"
 created: 2025-06-07T14:06:22

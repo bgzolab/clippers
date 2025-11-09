@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'NEW GAME! 第二季'
   - 'NEW GAME!!'
@@ -16,7 +17,6 @@ title: NEW GAME!!
 type: bangumi/anime
 website: ['http://newgame-anime.com/']
 ---
-
 # NEW GAME!!
 
 ——有想要实现的梦想！

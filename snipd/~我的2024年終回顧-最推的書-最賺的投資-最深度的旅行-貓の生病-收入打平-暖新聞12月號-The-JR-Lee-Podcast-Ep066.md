@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2024-12-30T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/202412The-JR-Lee
 title: 我的2024年終回顧：最推的書、最賺的投資、最深度的旅行、貓の生病、收入打平｜暖新聞12月號｜The JR Lee Podcast Ep066
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 2024年要封關了，在迎接新的一年之前，要來細細回顧2024年發生了哪些值得我紀念的事情。讀的書、買的最有意義的東西、最讓我記憶深刻的一次旅行、家裡的貓生病了，到新的自媒體商業模式為什麼只能讓收入打平？今天來輕鬆聊聊，然後一起倒數跨年吧！
 > 

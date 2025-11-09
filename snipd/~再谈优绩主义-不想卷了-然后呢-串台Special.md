@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 投球手和涂色刷
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F408b-audiofreehighqps%2F6D%2F02%2FGKwRIasG6TMcAAHUfwGb4Fwn.jpeg&w=200&h=200
 created: '2023-06-22T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/643392922
 title: 再谈优绩主义：不想卷了，然后呢？【串台Special】
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 涂色刷和阔别Ask100两年的丁字尺（aka城市余数主播Z）的对话。
 > 我们探讨了一个很直白的问题：当所有人都明确表示“我不想卷了”之后，为什么我们并没有随之而来地感到满足？我们缺失的下一步可以向何处找寻？

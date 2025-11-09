@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "waydabber/BetterDisplay"
 aliases: "BetterDisplay"
 created: 2025-05-11T11:38:31

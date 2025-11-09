@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "[[movie]] 基地 Foundation"
 created: 2025-04-05T13:02:46
 modified: 2025-04-05T13:02:46

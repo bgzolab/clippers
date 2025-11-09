@@ -1,4 +1,5 @@
 ---
+draft: true
 title: midpoint/weread
 aliases:
   - weread
@@ -12,7 +13,6 @@ tags-link:
   - "[[bGZo-userscripts]]"
 type: repo
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/midpoint/weread?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/midpoint/weread?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/midpoint/weread?style=for-the-badge&label=since)

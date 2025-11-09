@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 各国的稳定币都出现了，看来 Web3 已经无敌了
 created: 2025-07-19T23:49:17
@@ -8,7 +9,6 @@ tags: []
 title: 各国的稳定币都出现了，看来 Web3 已经无敌了
 type: "archive-web"
 ---
-
 # 各国的稳定币都出现了，看来 Web3 已经无敌了
 
  [香港稳定版法案]( https://www.hkma.gov.hk/gb_chi/news-and-media/press-releases/2025/05/20250521-3/)

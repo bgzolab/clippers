@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-08-10T12:00:00
 source: https://www.coolapk.com/feed/11091445?shareKey=MDY1MzFmYjAyMWRmNjZiNzhiYzk~
 type: archive-web
 modified: 2025-01-15T11:38:15
 ---
-
 [#MIUI#](/t/MIUI?type=12) 首先，MIUI 祖传底噪来源是从什么时候来的呢？我还无法准确知道哪部小米手机的哪个 MIUI 版本开始的。
 
 不过我也算是老早体验过增益和底噪的了，当时还用着第一部手机——红米 1s 移动 4G 版 (2014501)，清楚地记得某次 miui5 更新后，戴耳机听歌发现了明显增益，音量调到 4 级就过大，调到 3 级就太小，声音也很闷 (那时候用的耳机差没感受到底噪)。听歌只能靠米音提升一下听感，没深究

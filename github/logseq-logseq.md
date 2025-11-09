@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Logseq
   - logseq
@@ -16,7 +17,6 @@ tags-link:
 title: Logseq
 type: repo
 ---
-
 # Logseq
 
 ![](https://img.shields.io/github/stars/logseq/logseq?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/logseq/logseq?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/logseq/logseq?style=for-the-badge&label=since)

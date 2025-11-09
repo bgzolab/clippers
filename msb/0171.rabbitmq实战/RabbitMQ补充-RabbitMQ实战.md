@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ### 十、RabbitMQ实战
 
 在掌握了SpringCloudAlibaba的应用后，再来玩！！

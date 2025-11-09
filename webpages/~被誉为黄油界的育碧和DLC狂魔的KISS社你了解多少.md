@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 被誉为黄油界的育碧和DLC狂魔的KISS社你了解多少-_游侠网
 created: 2025-01-16T08:36:40
 modified: 2025-01-19T02:57:24
@@ -7,7 +8,6 @@ tags: []
 tags-link: 
 type: archive-web
 ---
-
 似乎很多绅士并不太了解 KISS 社，只知道 I 社，这也不难说，毕竟 I 社的出现比 [K社](https://m.fhyx.hk/zt/KalypsoMedia/) 早太多了，哪怕说到《3D 定制女仆》有些玩家都以为是 I 社出品的，其实这是 K 社在 2011 年发行的一个游戏。
 
 ![](https://img2.ali213.net/picfile/News/2020/01/07/584_2020010751044513.jpg)

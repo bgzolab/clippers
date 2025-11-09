@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 2BAB
 cover: https://wsrv.nl/?url=https%3A%2F%2Fi.typlog.com%2F2bab%2F8359128151_471711.png%3Fx-oss-process%3Dstyle%2Fsl&w=200&h=200
 created: '2024-01-11T09:36:39'
@@ -10,7 +11,6 @@ source: https://binary.2bab.me/episodes/025-expense-analysis-2023
 title: '#25 2023 好物推荐 / 哲学启蒙 / 新消费观 with Randy'
 type: podcast-episode
 ---
-
 # 25 2023 好物推荐 / 哲学启蒙 / 新消费观 with Randy
 ## Show notes
 > #25 2023 好物推荐 / 哲学启蒙 / 新消费观 with Randy 

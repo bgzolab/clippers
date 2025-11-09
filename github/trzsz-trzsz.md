@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "trzsz/trzsz"
 aliases: "trzsz"
 created: 2025-06-07T15:24:30

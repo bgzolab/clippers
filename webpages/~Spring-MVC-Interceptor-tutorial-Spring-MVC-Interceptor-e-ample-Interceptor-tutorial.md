@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Spring 3 MVC Interceptor tutorial. Spring MVC Interceptor example. Interceptor tutorial"
 created: 2025-04-05T15:50:58
 modified: 2025-04-05T15:50:58
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
   * [About](https://www.viralpatel.net/about/)
   * [Contact](https://www.viralpatel.net/contact/)
   * [Privacy](https://www.viralpatel.net/privacy/)

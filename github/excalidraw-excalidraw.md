@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "excalidraw/excalidraw"
 aliases: "excalidraw"
 created: 2025-06-14T22:17:24

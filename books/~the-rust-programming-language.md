@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: t6_YueWen_32435929.jpg
 aliases:
   - Rust权威指南
@@ -15,8 +16,6 @@ weread: https://weread.qq.com/web/bookDetail/d733256071eeeed9d7322fd
 created: 2024-01-02T12:00:00
 modified: 2024-12-17T09:33:29
 ---
-
-  
 ## 第1章 入门指南
 
 ```shell

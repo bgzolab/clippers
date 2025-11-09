@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '游戏人生'
   - 'No game, No life'
@@ -16,7 +17,6 @@ title: No game, No life
 type: bangumi/book
 website: []
 ---
-
 # No game, No life
 
 　　《聽說遊戲玩家兄妹要征服幻想世界》空與白既是尼特族又是家裡蹲，但是在網路上卻是被奉為都市傳說的天才遊戲玩家兄妹。稱世界為「爛遊戲」的兩人，某一天被自稱是“神＂的少年召喚至異世界，那是個戰爭為神所禁止，“遊戲決定一切＂的世界──沒錯，甚至連國界也一樣。

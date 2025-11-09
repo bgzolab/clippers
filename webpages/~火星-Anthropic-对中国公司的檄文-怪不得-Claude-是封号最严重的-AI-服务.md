@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 火星，Anthropic 对中国公司的檄文，怪不得 Claude 是封号最严重的 AI 服务
 created: 2025-09-07T19:21:19
@@ -9,7 +10,6 @@ tags: []
 title: 火星，Anthropic 对中国公司的檄文，怪不得 Claude 是封号最严重的 AI 服务
 type: "archive-web"
 ---
-
 # 火星，Anthropic 对中国公司的檄文，怪不得 Claude 是封号最严重的 AI 服务
 
 [https://www.anthropic.com/news/u ... unsupported-regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)

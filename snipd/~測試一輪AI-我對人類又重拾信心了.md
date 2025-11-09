@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 張內咸
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_nologo%2F43086198%2F43086198-1744989503321-18f558ebac4fc.jpg&w=200&h=200
 created: '2025-04-09T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/neixianzhang/episodes/No-8--AI-e
 title: No.8 | 測試一輪AI，我對人類又重拾信心了
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 這集我實測了市面上10多個AI聊天機器人，讓它們推薦一部「最值得看的電影」。本來只是想偷個懶，結果AI們的表現離譜到讓我懷疑人生，也順便懷疑它們有沒有看過電影。
 > 亮點內容包括：

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "全能工具箱安装KernelsuSU-Next手机端操作说明"
 aliases: "全能工具箱安装KernelsuSU-Next手机端操作说明"
 created: 2025-04-09T22:51:45
@@ -9,7 +10,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 [一加全能盒子 | 工具箱](https://optool.daxiaamu.com/)
 
 一加手机一键 Root，magisk 护盾有效防止手机刷模块变砖

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 椰子
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFhPLm8QaOQyJtw6QAqQbDKtdyOrG.png&w=200&h=200
 created: '2025-06-10T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/6848bd94b23ed76e60658d10?utm_source
 title: Vol.40 开发者必备：5.7万星Prompt工程指南帮你驯服LLM
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 本期节目深入技术前沿与开发者实践。我们关注欧洲AI公司Mistral AI推出的首个推理模型Magistral，探讨其开源版本对国内开发者的价值及社区反馈。同时，分析AI作为结对编程伙伴的利弊，提供提升人机协作效率的思考。精选GitHub热门开源项目：超5万星的Prompt Engineering指南，助你系统掌握大模型使用技巧；以及用“系统调优”视角解读健康科学的指南。更有苹果Linux容器工具等分享。希望能为你带来新知与启发，助力技术成长与效率提升。
 > 【内容提要】

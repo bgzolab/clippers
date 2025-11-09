@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "同步异步、阻塞非阻塞、并发并行的理解 - 斐斐のBlog"
 created: 2025-04-05T15:50:58
 modified: 2025-04-05T15:50:58
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
   * [首页](https://www.mmuaa.com/)
   * [归档](https://www.mmuaa.com/%e5%bd%92%e6%a1%a3)
   * [PAT真题](https://www.mmuaa.com/post/category/oj/pat)

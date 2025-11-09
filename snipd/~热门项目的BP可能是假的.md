@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 庄明浩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFmjICGq_6HGf-_e1Rh11N-hjoWNI.png&w=200&h=200
 created: '2025-07-06T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/686a15f260f8f77d401079fa?utm_source
 title: Vol.67 热门项目的BP可能是假的
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 这次对谈的起因是投中网的这篇稿子：
 > 我收到俩BP，一份是Manus（另一份也是） 

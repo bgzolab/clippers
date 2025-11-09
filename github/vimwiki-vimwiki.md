@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "vimwiki/vimwiki"
 aliases: "vimwiki"
 created: 2025-06-08T00:46:58

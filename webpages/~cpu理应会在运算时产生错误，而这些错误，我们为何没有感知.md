@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-05-25T12:00:00
 source: https://www.zhihu.com/question/609914342/answer/3124229960
 type: archive-web
 modified: 2025-01-15T11:38:16
 ---
-
 不是，这个“理应”是谁给你的理由啊？怎么就这么理直气壮的？
 
 还有下面的回答，一片片的，真就莫名其妙的“理应”起来了？

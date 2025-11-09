@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 晚点 LatePost
 cover: https://wsrv.nl/?url=https%3A%2F%2Fmedia24.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2F1%2F19a49f52-28ee-4e25-b8e9-4f0ee70917e0%2Fcover.jpg%3Fv%3D7&w=200&h=200
 created: '2025-02-25T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcast.latepost.com/102
 title: '102: DeepSeek 启动开源周，大模型开源到底在开什么？'
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 「与西北大学（NU） MLL Lab 博士生王子涵“逛”开源。」 
 > 

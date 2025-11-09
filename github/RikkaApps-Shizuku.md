@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "Shizuku"
   - RikkaApps/Shizuku
@@ -12,7 +13,6 @@ tags-link:
 title: RikkaApps/Shizuku
 type: "repo"
 ---
-
 # RikkaApps/Shizuku
 
 ![](https://img.shields.io/github/stars/RikkaApps/Shizuku?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/RikkaApps/Shizuku?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/RikkaApps/Shizuku?style=for-the-badge&label=since)

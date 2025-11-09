@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 都-2020-年了-为什么笔记本厂商还保留-DC-充电-换-Type-C-成本会高很多吗
 created: 2022-01-19T10:00:09
 modified: 2025-01-19T02:57:25
@@ -8,7 +9,6 @@ tags:
 tags-link: 
 type: archive-web
 ---
-
 目前用 DC 的一般是同时支持 DC 跟 typeC 充电，用 typeC 的就只能 typeC 充电。
 
 所谓的换 typeC 本质上就是砍掉 DC 口，显然这是节省成本而不是增加成本。

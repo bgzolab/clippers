@@ -1,4 +1,5 @@
 ---
+draft: true
 title: rockowitz/ddcutil
 aliases:
   - ddcutil

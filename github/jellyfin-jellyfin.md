@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "jellyfin/jellyfin"
 aliases: "jellyfin"
 created: 2025-02-23T12:06:10

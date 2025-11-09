@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 深入解析 Java 启动参数：从基础配置到高级调优 - dashery
 created: 2025-08-11T09:40:47
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/ydswin/p/19029896
 title: 深入解析 Java 启动参数：从基础配置到高级调优 - dashery
 type: archive-web
 ---
-
 # 深入解析 Java 启动参数：从基础配置到高级调优 - dashery
 
 全面指南：内存管理·GC 策略·性能监控·避坑实践

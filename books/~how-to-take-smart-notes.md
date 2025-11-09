@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://img2.doubanio.com/view/subject/l/public/s33927783.jpg
 aliases: 卡片笔记写作法如何实现从阅读到写作, How to Take Smart Notes
 author: 申克·阿伦斯, 陈琳
@@ -13,7 +14,6 @@ type: book
 douban: https://book.douban.com/subject/35503571
 weread: https://weread.qq.com/web/bookDetail/3d8326d072552e803d87c41
 ---
-
 ## CONTENTS
 ### 序
     - 推荐序一 像卢曼一样写卡片

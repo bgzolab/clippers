@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "ikatyang/emoji-cheat-sheet"
 aliases: "emoji-cheat-sheet"
 created: 2025-07-19T11:45:12

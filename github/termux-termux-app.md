@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - android/app/termux
   - Termux-termux-app
@@ -13,7 +14,6 @@ tags-link:
 title: Termux-termux-app
 type: repo
 ---
-
 # Termux-termux-app
 
 ## Repo Meta

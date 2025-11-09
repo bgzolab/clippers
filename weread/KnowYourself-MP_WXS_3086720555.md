@@ -1,4 +1,5 @@
 ---
+draft: true
 doc_type: weread-highlights-reviews
 bookId: MP_WXS_3086720555
 reviewCount: 0
@@ -21,8 +22,6 @@ type: weread-notes
 weread: https://weread.qq.com/web/reader/b83424b224d505f5758535f33303836373230353535ddf
 
 ---
-
-
 ### 躲闪和对视，到底哪个才是真的动心了？
 
 > [!NOTE] 

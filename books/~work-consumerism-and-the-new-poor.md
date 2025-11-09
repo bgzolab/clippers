@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: books/Non-Fiction/工作-消费主义和新穷人
 tags: #social
 author: 齐格蒙特·鲍曼
@@ -7,7 +8,6 @@ published: 20210900
 description: 原作为 1998 出版
 douban: https://book.douban.com/subject/35593780
 ---
-
 ## Contents
 ## Contents
   - 在全民就业的生产者社会，贫穷是一回事；在生活围绕消费者选择建立（而非围绕工作、专业技能或岗位建立）的消费者社会里，贫穷是另一回事。如果说“贫穷”曾经来自失业，那么今天它主要来自有缺陷的消费者的困境。这个区别改变了人们对贫困生活的体验方式，也改变了摆脱贫困的机会和前景。

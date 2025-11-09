@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Nacos源码分析 8:05正式上课
 
 ![image.png](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/1396/1650540523037/b025eb1a9b2b41449fd0e7e92074a336.png)

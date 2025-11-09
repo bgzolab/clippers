@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '鬼父 Refresh'
   - 'Oni Chichi Refresh'
@@ -15,7 +16,6 @@ title: 鬼父 Refresh
 type: bangumi/anime
 website: ['http://www.poro.cc/product_list/product_oni.html']
 ---
-
 # 鬼父 Refresh
 
 ## Characters

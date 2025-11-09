@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "csstools/normalize.css"
 aliases: "normalize.css"
 created: 2025-03-22T16:10:45
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/csstools/normalize.css?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/csstools/normalize.css?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/csstools/normalize.css?style=for-the-badge&label=since)

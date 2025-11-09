@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Typefaces vs. fonts_ here's how they're different"
 created: 2025-04-05T15:51:01
 modified: 2025-04-05T15:51:01
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # Never be confused by typefaces vs. fonts again: here’s how they’re different
 
 Never be confused by the typographic terms again: we break down the difference with this explainer.

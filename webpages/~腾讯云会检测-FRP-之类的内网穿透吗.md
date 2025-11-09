@@ -1,4 +1,5 @@
 ---
+draft: true
 created: 2025-05-31T21:20:37
 modified: 2025-05-31T21:20:45
 source: "https://www.v2ex.com/t/1122997"
@@ -6,7 +7,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 
 比如我在云服务器上面跑一些脚本，然后运行结果通过 FRP 写入我内网的一台服务器不知道这种会不会算违规操作？

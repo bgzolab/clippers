@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "如何对 Siri 说话"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

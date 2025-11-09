@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-12-28T10:25:47
 source: "https://www.cnblogs.com/thisiswhy/p/17965123"
 type: "archive-web"
 modified: 2025-01-15T11:38:15
 ---
-
 你好呀，我是歪歪。
 
 Spring 的事件监听机制，不知道你有没有用过，实际开发过程中用来进行代码解耦简直不要太爽。

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - MySQL 13 为什么表数据删掉一半，表文件大小不变？ - 叁沐
 created: 2025-07-16T10:01:03
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/san-mu/p/18982701
 title: MySQL 13 为什么表数据删掉一半，表文件大小不变？ - 叁沐
 type: archive-web
 ---
-
 # MySQL 13 为什么表数据删掉一半，表文件大小不变？ - 叁沐
 
 一个 InnoDB 表包含两部分：表结构定义和数据。在 MySQL 8.0 版本前，表结构存在以.frm 为后缀的文件里。之后的版本允许把表结构定义放在系统数据表中。由于表结构定义占用空间很小，所以主要讨论表数据。

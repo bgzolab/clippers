@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 大狗熊
 cover: https://wsrv.nl/?url=https%3A%2F%2Fmedia.redcircle.com%2Fimages%2F2022%2F9%2F11%2F7%2Fa92f5b30-baac-4bca-9195-ed8856586a64_302_209cb34e-b697-493c-afd9-4ff7a430e392_cover.jpg&w=200&h=200
 created: '2024-05-12T09:36:39'
@@ -10,8 +11,6 @@ source: http://www.beartalking.com
 title: 481 / 看不见的女性 - Invisible Women
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 在这一集《狗熊有话说》中，我们将深入探讨日常生活中隐形的性别偏见问题，从城市设计到科技领域，这些看似性别中立的设计和政策对女性产生了不成比例的影响。本期灵感来源于《看不见的女性》一书，揭示了一个以男性为默认的世界。
 > 本期亮点: 

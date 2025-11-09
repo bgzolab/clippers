@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 硅谷101
 cover: https://wsrv.nl/?url=https%3A%2F%2Fassets.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2Ff%2Ff0f20376-8faf-4940-b920-84af6c734e2d%2Fcover.jpg%3Fv%3D6&w=200&h=200
 created: '2025-01-07T09:36:39'
@@ -10,8 +11,6 @@ source: https://sv101.fireside.fm/184
 title: E177｜“没有AI我会难受至极”：与大学生聊聊智能工具的依赖与适应
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 从学生的角度来说，AI已经成为他们学习过程的一部分，尤其是对这一代的大学生而言。本期节目我们邀请到了四位学生朋友，一起探讨他们日常如何使用AI工具，而这些工具又是如何影响和改变他们的思考方式。其中最核心的问题是：AI时代，人变了吗？
 > 

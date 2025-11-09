@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://img9.doubanio.com/view/subject/s/public/s34587985.jpg
 aliases: 戒掉恋爱脑：战胜情感依赖，找回独立自我
 author: 西尔维·田纳本, 彭璐琪
@@ -13,7 +14,6 @@ type: book
 douban: https://book.douban.com/subject/36461204
 weread: https://weread.qq.com/web/bookDetail/711326f0813ab7f96g0131fa
 ---
-
 ## 目录
   - 第一章 关系的病态：对爱上瘾
     - 不惜一切代价取悦他人

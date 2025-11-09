@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "go-telegram/bot"
 aliases: "bot"
 created: 2025-07-19T18:43:09

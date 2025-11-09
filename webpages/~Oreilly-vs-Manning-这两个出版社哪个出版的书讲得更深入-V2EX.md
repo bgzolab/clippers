@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Oreilly vs Manning 这两个出版社哪个出版的书讲得更深入? - V2EX"
 created: 2025-04-05T13:02:46
 modified: 2025-04-05T13:02:46

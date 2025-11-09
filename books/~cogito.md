@@ -1,3 +1,6 @@
+---
+draft: true
+---
 aliases: 佐藤谦一
 created: 2021
 

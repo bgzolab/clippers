@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "spring-projects/spring-boot"
 aliases: "spring-boot"
 created: 2025-06-07T11:39:22

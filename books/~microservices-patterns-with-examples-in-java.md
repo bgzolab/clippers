@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://img9.doubanio.com/view/subject/s/public/s34666774.jpg
 author: 克里斯·理查森（Chris Richardson）
 created: 2022-12-13
@@ -12,7 +13,6 @@ type: book/dev
 douban: https://book.douban.com/subject/33425123
 weread: 
 ---
-
 - [microservices-patterns/ftgo-application: Example code for the book Microservice patterns](https://github.com/microservices-patterns/ftgo-application);
 
 

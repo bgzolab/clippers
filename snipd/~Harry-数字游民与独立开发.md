@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 枫影 Justin Yan & 自力 hzlzh
 cover: https://wsrv.nl/?url=https%3A%2F%2Fcdn.justinbot.com%2Fwp-content%2Fuploads%2F2020%2F02%2FPodcast-Cover1400.png&w=200&h=200
 created: '2023-08-28T09:36:39'
@@ -10,8 +11,6 @@ source: https://justinyan.me/post/5785
 title: 'Vol. 97 Harry: 数字游民与独立开发'
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 疫情过去以后，数字游民 (Digital Nomad) 的生活方式似乎又再次被推向大众视野。时隔多年，数字游民不仅跟独立开发，还和新兴起的 FIRE 概念经常摆在一起。那么什么样的生活算是数字游民呢？
 > 

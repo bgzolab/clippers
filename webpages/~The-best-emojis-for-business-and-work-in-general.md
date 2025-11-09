@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The best emojis for business and work in general"
 created: 2025-04-05T15:50:54
 modified: 2025-04-05T15:50:54
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 [ forum.asana.com /t/the-best-emojis-for-business-and-work-in-general/69408 ](https://forum.asana.com/t/the-best-emojis-for-business-and-work-in-general/69408)
 
 # The best emojis for business and work in general

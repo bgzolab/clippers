@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "如何拷贝软连接(symbol link)? - 问题求助 - 小众软件官方论坛"
 created: 2025-03-31T22:20:09
 modified: 2025-03-31T22:20:09

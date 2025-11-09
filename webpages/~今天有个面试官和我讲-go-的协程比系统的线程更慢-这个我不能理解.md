@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 今天有个面试官和我讲-go-的协程比系统的线程更慢-这个我不能理解
 created: 2025-03-24T20:14:35
 modified: 2025-03-24T20:45:03
@@ -8,7 +9,6 @@ tags-link:
   - "[[golang]]"
 type: archive-web
 ---
-
 ## Origin Content
 
 我不知道他的回答和我的回答哪个是有依据的，麻烦有大佬知道的，指正我一下，仅是探讨技术对错问题，谢谢。

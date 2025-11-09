@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "信仰 – zmt"
 created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59
@@ -7,8 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
-
 # 信仰
 
 前一阵，有报道说，有点作家只研究星座，每周写两篇有关星座的文章，就可以月收入几万。我对星座这种东西是丝毫丝毫没 … [继续阅读“信仰”](https://zmt.pub/2011/04/11/%e4%bf%a1%e4%bb%b0-2/)

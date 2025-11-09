@@ -1,4 +1,5 @@
 ---
+draft: true
 created: 2025-04-18T21:17:31
 modified: 2025-04-25T20:21:04
 source: https://fylsen.com/posts/2024/05/sidestore-install-guide-ios-ipados-sideload-apps/
@@ -6,7 +7,6 @@ tags:
 tags-link: 
 type: archive-web
 ---
-
 ## SideStore 安装指南：如何在 iOS/iPadOS 设备上侧载应用
 
 这篇文章最后修改于 24 年 5 月 30 日 星期四，部分内容可能已经不适用，如有疑问可联系作者。

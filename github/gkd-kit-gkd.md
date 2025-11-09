@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "gkd-kit/gkd"
 aliases: "gkd"
 created: 2025-01-19T01:41:16
@@ -9,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-
 ## Meta
 
 ![](https://img.shields.io/github/stars/gkd-kit/gkd?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/gkd-kit/gkd?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/gkd-kit/gkd?style=for-the-badge&label=date)

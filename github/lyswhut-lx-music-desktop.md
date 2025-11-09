@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "lyswhut/lx-music-desktop"
 aliases: "lx-music-desktop"
 created: 2025-06-07T14:16:58

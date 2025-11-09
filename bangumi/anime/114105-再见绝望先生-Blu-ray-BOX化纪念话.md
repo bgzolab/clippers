@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '再见绝望先生 Blu-ray BOX化纪念话'
   - 'さよなら絶望先生 Blu-ray BOX化記念 完全新作話'
@@ -15,7 +16,6 @@ title: 再见绝望先生 Blu-ray BOX 化纪念话
 type: bangumi/anime
 website: ['http://www.starchild.co.jp/special/zetsubou_bd/']
 ---
-
 # 再见绝望先生 Blu-ray BOX 化纪念话
 
 集齐全三季 さよなら絶望先生 BD 可以召唤出的隐藏话。

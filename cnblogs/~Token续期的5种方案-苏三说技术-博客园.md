@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Token 续期的 5 种方案 - 苏三说技术
 created: 2025-08-25T16:47:00
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/12lisu/p/19055246
 title: Token 续期的 5 种方案 - 苏三说技术
 type: archive-web
 ---
-
 # Token 续期的 5 种方案 - 苏三说技术
 
 ## 前言

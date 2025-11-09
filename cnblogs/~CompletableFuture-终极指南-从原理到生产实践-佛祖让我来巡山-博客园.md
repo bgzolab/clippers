@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 【CompletableFuture 终极指南】从原理到生产实践 - 佛祖让我来巡山
 created: 2025-07-18T17:30:16
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/sun-10387834/p/18990243
 title: 【CompletableFuture 终极指南】从原理到生产实践 - 佛祖让我来巡山
 type: archive-web
 ---
-
 # 【CompletableFuture 终极指南】从原理到生产实践 - 佛祖让我来巡山
 
 ## 引言：异步编程的演进之路

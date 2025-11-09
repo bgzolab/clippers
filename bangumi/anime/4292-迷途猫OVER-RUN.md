@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '娇蛮猫娘大横行'
   - '迷途猫'
@@ -17,7 +18,6 @@ title: 迷途猫 OVER RUN
 type: bangumi/anime
 website: ['http://www.patisserie-straycats.com/']
 ---
-
 # 迷途猫 OVER RUN
 
 男子之间的友情与美少女要素满载的超级爆笑恋爱喜剧开始了！

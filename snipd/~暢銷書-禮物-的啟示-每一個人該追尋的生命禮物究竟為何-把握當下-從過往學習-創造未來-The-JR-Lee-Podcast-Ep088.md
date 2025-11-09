@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2025-06-02T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/The-JR-Lee-Podca
 title: 暢銷書《禮物》的啟示。每一個人該追尋的生命禮物究竟為何？｜把握當下、從過往學習、創造未來｜The JR Lee Podcast Ep088
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 重溫2003年的暢銷短篇故事書《禮物》(The Present)，透過一則短篇故事，讓我們了解到每一個人生命中都有一個該尋找的「禮物」，而且是只有自己能夠找到。有的人在二十歲初頭的時候找尋到，有的人到中年，有的人則是在人生的黃昏時找到，也有人很遺憾終其一生都沒有發現。今天就來輕鬆聽故事吧～
 > 

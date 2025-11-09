@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 咪咪 & 淳淳
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.firstory-cdn.me%2FAvatar%2Fcka6k6bqhcrtk087375gj8mxj%2F1734278849291.jpg&w=200&h=200
 created: '2025-06-03T09:36:39'
@@ -10,8 +11,6 @@ source: https://open.firstory.me/story/cmbereb5w0l3n01xw8ala0bgr
 title: EP192 多人Pa竟然是異男帶一群Gay探索女體！當砲房變成性愛工作坊 Feat.雙
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 想要創業卻不知道如何開始？
 > 114年U-start計畫創創工作坊

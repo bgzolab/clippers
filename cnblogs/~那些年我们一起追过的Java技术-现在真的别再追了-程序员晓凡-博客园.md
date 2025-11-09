@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 那些年我们一起追过的 Java 技术，现在真的别再追了！ - 程序员晓凡
 created: 2025-07-24T11:05:28
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/xiezhr/p/19001990
 title: 那些年我们一起追过的 Java 技术，现在真的别再追了！ - 程序员晓凡
 type: archive-web
 ---
-
 # 那些年我们一起追过的 Java 技术，现在真的别再追了！ - 程序员晓凡
 
 大家好，我是晓凡。

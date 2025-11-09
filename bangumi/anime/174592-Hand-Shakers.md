@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '握手者'
   - 'Hand Shakers'
@@ -16,7 +17,6 @@ title: Hand Shakers
 type: bangumi/anime
 website: ['http://www.project-hs.net/']
 ---
-
 # Hand Shakers
 
 Hand Shakers——

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'King Exit'
   - King Exit
@@ -16,7 +17,6 @@ title: King Exit
 type: bangumi/game
 website: ['http://akaimato.blog.fc2.com/blog-entry-185.html', 'https://akamatoghost.wixsite.com/kingexit', 'https://store.steampowered.com/app/712840/King_Exit']
 ---
-
 # King Exit
 
 ![](https://raw.githack.com/bGZo/assets/dev/2025/202501120946209.png)

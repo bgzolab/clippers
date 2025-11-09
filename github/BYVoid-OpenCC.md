@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "BYVoid/OpenCC"
 aliases: "OpenCC"
 created: 2025-06-07T14:12:45

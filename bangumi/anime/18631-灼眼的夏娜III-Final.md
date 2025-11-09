@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '灼眼的夏娜 Final'
   - '灼眼的夏娜III -Final-'
@@ -17,7 +18,6 @@ title: 灼眼的夏娜 III -Final-
 type: bangumi/anime
 website: ['https://www.shakugan.com/']
 ---
-
 # 灼眼的夏娜 III -Final-
 
 ## Characters

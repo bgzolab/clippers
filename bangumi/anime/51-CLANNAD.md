@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '小镇家族'
   - 'CLANNAD -クラナド-'
@@ -17,7 +18,6 @@ title: CLANNAD
 type: bangumi/anime
 website: ['http://www.tbs.co.jp/clannad/clannad1/']
 ---
-
 # CLANNAD
 
 故事发生在一个小镇上，冈崎朋也是光坂高中在校生，因为家庭原因他一直过着浑浑噩噩的生活。他不参加任何社团活动，唯一的朋友是春原阳平。

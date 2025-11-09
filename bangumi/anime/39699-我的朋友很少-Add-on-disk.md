@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '僕は友達が少ない あどおんでぃすく'
   - '我的朋友很少 Add-on disk'
@@ -16,7 +17,6 @@ title: 我的朋友很少 Add-on disk
 type: bangumi/anime
 website: []
 ---
-
 # 我的朋友很少 Add-on disk
 
 TV 未放送第 13 话

@@ -1,10 +1,10 @@
 ---
+draft: true
 aliases: Structure and Interpretation of Computer Programs, book/sicp
 published:
 tags: gtd/todo
 source: https://book.douban.com/subject/
 ---
-
 ## Ch1 [Building Abstractions with Procedures](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-9.html#%_chap_1)
   - The third is separating them from all other ideas that accompany them in their real existence: this is called **abstraction**, and thus all its general ideas are made.
     id: dd297c86-e433-4fba-90b0-a3d7350d9d21

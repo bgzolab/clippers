@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: ["Kazumi", Predidit/Kazumi]
 created: 2025-04-13T19:25:23
 description: "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
@@ -9,7 +10,6 @@ tags-link:
 title: Predidit/Kazumi
 type: "repo"
 ---
-
 # Predidit/Kazumi
 
 ![](https://img.shields.io/github/stars/Predidit/Kazumi?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Predidit/Kazumi?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Predidit/Kazumi?style=for-the-badge&label=since)

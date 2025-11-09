@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Aidoku/Aidoku"
 aliases: "Aidoku"
 created: 2025-04-23T05:58:48

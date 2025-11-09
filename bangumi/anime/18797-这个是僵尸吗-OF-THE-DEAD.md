@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '这个是僵尸吗？地狱变'
   - '这个是僵尸吗？第二季'
@@ -22,7 +23,6 @@ title: 这个是僵尸吗？OF THE DEAD
 type: bangumi/anime
 website: ['http://newtype.kadocomic.jp/zombie/']
 ---
-
 # 这个是僵尸吗？OF THE DEAD
 
 ネクロマンサーのユーによってゾンビに、天才少女ハルナによって魔装少女にされた主人公・相川歩であったが、最近は平穏な日々を送っていた。だが、運命は彼に安息の日々を許さなかった。

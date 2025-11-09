@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '扰乱 THE PRINCESS OF SNOW AND BLOOD'
   - '擾乱 THE PRINCESS OF SNOW AND BLOOD'
@@ -17,7 +18,6 @@ title: 扰乱 THE PRINCESS OF SNOW AND BLOOD
 type: bangumi/anime
 website: ['https://joran.jp/']
 ---
-
 # 扰乱 THE PRINCESS OF SNOW AND BLOOD
 
 時は、明治 64 年。

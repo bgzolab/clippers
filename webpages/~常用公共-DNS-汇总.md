@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 常用公共 DNS 汇总 - V2EX
 created: 2025-05-11T10:41:21
 modified: 2025-05-11T10:41:57
@@ -8,7 +9,6 @@ tags-link:
   - "[[dns]]"
 type: archive-web
 ---
-
 ## Origin Content
 
 收藏癖，表格放在这里，更多及详情更新放在博客了： [https://frytea.com/archives/1372/](https://frytea.com/archives/1372/)

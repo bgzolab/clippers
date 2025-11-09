@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2025-01-02T05:31:55
 source: "https://www.douban.com/group/topic/12121637/?_i=5810274JHPxyP7"
 type: "archive-web"
 modified: 2025-01-15T11:38:19
 ---
-
 录一篇旧文 作者：王垠
 
 完全用 Linux 工作，抛弃 windows 我已经半年没有使用 Windows 的方式工作了。Linux 高效的完成了我所有的工作。

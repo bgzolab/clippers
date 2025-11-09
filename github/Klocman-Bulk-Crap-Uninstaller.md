@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Klocman/Bulk-Crap-Uninstaller"
 aliases: "Bulk-Crap-Uninstaller"
 created: 2025-06-07T14:43:19

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "term.everything"
   - term.everything
@@ -9,7 +10,6 @@ source: "https://github.com/mmulet/term.everything"
 title: term.everything
 type: "repo"
 ---
-
 # term.everything
 
 ![](https://img.shields.io/github/stars/mmulet/term.everything?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mmulet/term.everything?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mmulet/term.everything?style=for-the-badge&label=since)

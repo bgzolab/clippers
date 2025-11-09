@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "hoppscotch/hoppscotch"
 aliases: "hoppscotch"
 created: 2025-06-07T14:11:08

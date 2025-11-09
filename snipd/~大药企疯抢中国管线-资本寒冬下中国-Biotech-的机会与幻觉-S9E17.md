@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 声动活泼
 cover: https://wsrv.nl/?url=https%3A%2F%2Fmedia24.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2F4%2F4931937e-0184-4c61-a658-6b03c254754d%2Fcover.jpg%3Fv%3D10&w=200&h=200
 created: '2025-06-04T09:36:39'
@@ -10,8 +11,6 @@ source: http://www.shengfm.cn//20240379
 title: 大药企疯抢中国管线：资本寒冬下中国 Biotech 的机会与幻觉 | S9E17
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 近十年来，中国的创新药行业经历了「过山车式」的发展。2015年的药政改革和随之而来的资本助推，让中国的 biotech 呈爆发式的增长，截至2023年，中国创新药企的数量已经从个位数增长到了超过 1000 家，在多个创新药赛道都取得了突破性的进展。而然最近三年，随着资本回归理性，创新药企也遭遇了前所未有的危机，不少 biotech 以对外授权 （License-out）的形式向国外大药企出售自己的产品，也有不少中国药企选择出海。 
 > 跨国药企在中国疯狂扫货背后的动机是什么？中国的新药管线为何物美价廉？中国的 biotech 是否有机会成长为全球性的 biopharma？本期节目，我们请到两位在中美两国都有丰富工作经验的医药投资人和创业者，与大家聊一聊中国创新药企在资本寒冬下正在经历的危机与未来发展的挑战。

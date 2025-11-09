@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "pyrogram"
   - Pyrogram
@@ -9,7 +10,6 @@ source: "https://github.com/KurimuzonAkuma/pyrogram"
 title: Pyrogram
 type: "repo"
 ---
-
 # Pyrogram
 
 ![](https://img.shields.io/github/stars/KurimuzonAkuma/pyrogram?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/KurimuzonAkuma/pyrogram?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/KurimuzonAkuma/pyrogram?style=for-the-badge&label=since)

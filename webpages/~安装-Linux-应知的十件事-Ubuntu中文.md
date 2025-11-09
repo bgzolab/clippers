@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "安装 Linux 应知的十件事 - Ubuntu中文"
 created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # 安装 Linux 应知的十件事
 
 ### 来自Ubuntu中文

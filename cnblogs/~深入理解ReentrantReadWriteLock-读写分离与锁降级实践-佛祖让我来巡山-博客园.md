@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 【深入理解 ReentrantReadWriteLock】读写分离与锁降级实践 - 佛祖让我来巡山
 created: 2025-07-16T10:00:05
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/sun-10387834/p/18978350
 title: 【深入理解 ReentrantReadWriteLock】读写分离与锁降级实践 - 佛祖让我来巡山
 type: archive-web
 ---
-
 # 【深入理解 ReentrantReadWriteLock】读写分离与锁降级实践 - 佛祖让我来巡山
 
 ## 一、读写锁的核心价值

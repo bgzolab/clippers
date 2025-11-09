@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '混沌子 SILENT SKY'
   - 'CHAOS;CHILD SILENT SKY'
@@ -15,7 +16,6 @@ title: 混沌子 SILENT SKY
 type: bangumi/anime
 website: ['http://chaoschildanime.com/']
 ---
-
 # 混沌子 SILENT SKY
 
 宫代拓留与尾上世莉架

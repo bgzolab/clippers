@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '驱动妖精AI-deal-Rays'
   - '駆動妖精アイディールレイズ'
@@ -15,7 +16,6 @@ title: 驱动妖精 AI-deal-Rays
 type: bangumi/game
 website: []
 ---
-
 # 驱动妖精 AI-deal-Rays
 
 「起舞吧，超音速的风精灵」

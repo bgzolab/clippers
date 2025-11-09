@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 关于最近-@clowwindy-事件的整理
 created: 2025-01-15T08:08:12
 
@@ -8,7 +9,6 @@ tags:
 tags-link: "[[proxy]]"
 type: archive-web
 ---
-
 2015-08-27 Category: [随笔](https://printempw.github.io/categories/essay/) [GFW](https://printempw.github.io/tag/GFW/) loading views
 
 本文最后修订于 3421 天前（2015-09-03），其中的信息可能已经有所发展或者不再适用于现阶段。

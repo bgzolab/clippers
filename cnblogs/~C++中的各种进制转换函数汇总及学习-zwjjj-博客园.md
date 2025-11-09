@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - C++ 中的各种进制转换函数汇总及学习
   - ~C++ 中的各种进制转换函数汇总及学习 -zwjjj- 博客园
@@ -8,7 +9,6 @@ source: https://www.cnblogs.com/zwjjj/p/9953718.html
 title: C++ 中的各种进制转换函数汇总及学习
 type: archive-web
 ---
-
 # C++ 中的各种进制转换函数汇总及学习
 
 一.指定格式输出

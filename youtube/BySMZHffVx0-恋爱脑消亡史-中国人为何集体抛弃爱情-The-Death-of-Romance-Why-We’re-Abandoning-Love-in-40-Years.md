@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 恋爱脑消亡史 中国人为何集体抛弃爱情 The Death of Romance Why We’re Abandoning Love in 40 Years
 author:
@@ -15,7 +16,6 @@ tags-link:
 title: 恋爱脑消亡史 中国人为何集体抛弃爱情 The Death of Romance Why We’re Abandoning Love in 40 Years
 type: video
 ---
-
 # 恋爱脑消亡史 中国人为何集体抛弃爱情 The Death of Romance Why We’re Abandoning Love in 40 Years
 
 ## Source

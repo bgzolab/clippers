@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '煋红'
   - 'MARS RED'
@@ -15,7 +16,6 @@ title: MARS RED
 type: bangumi/anime
 website: ['https://marsred.tv']
 ---
-
 # MARS RED
 
 時は大正十二年、東京の夜に其の者どもは現れた。

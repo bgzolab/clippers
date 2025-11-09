@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2024-12-16T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/iPhoneAmazonThe-
 title: 四種系統性思考，幫助你想出更多創意點子｜iPhone、Amazon雲端、特斯拉、天花疫苗的創意故事｜The JR Lee Podcast
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 如何利用系統性思考，來幫助自己生成更多創意點子。心理學家歸納有四種創意型態，借助iPhone、亞馬遜雲端服務、汽車自動駕駛、天花疫苗的發明故事，今天來聊聊！
 > 

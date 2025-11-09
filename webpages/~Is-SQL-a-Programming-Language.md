@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Is SQL a Programming Language_ _ LearnSQL.com"
 created: 2025-04-05T15:50:55
 modified: 2025-04-05T15:50:55
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # Is SQL a Programming Language?
 
 

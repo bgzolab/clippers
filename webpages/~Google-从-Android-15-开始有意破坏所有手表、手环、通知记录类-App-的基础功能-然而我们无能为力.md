@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Google-从-Android-15-开始有意破坏所有手表、手环、通知记录类-App-的基础功能-然而我们无能为力"
 created: 2025-03-24T21:32:16
 modified: 2025-03-24T21:32:21
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 我是通知滤盒的开发者，相信这个 App 在 V2EX 已经够有名了就不再给自己硬广了。
 
 最近时不时收到用户反馈，通知滤盒里的部分通知内容变成了「已隐藏敏感通知内容」。 研究原来是 Android 15 开始 Google Protect 加了个所谓隐私防护措施，对可能含有 OTP 验证码的通知直接隐藏内容 [https://www.theverge.com/2024/5/15/24157547/android-15-will-hide-one-time-passwords-in-notifications](https://www.theverge.com/2024/5/15/24157547/android-15-will-hide-one-time-passwords-in-notifications)

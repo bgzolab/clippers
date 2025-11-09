@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # 一、为什么有这课程
 
 Spring Cloud Alibaba 新版本中Seata 1.5.2和Nacos 2.1.0 在性能和使用方面都有很大提升，这节课将从使用和源码的角度详细讲解这两个框架。

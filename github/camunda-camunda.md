@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - camunda
   - Camunda
@@ -14,7 +15,6 @@ title: Camunda
 type: repo
 wikipedia: https://en.wikipedia.org/wiki/Camunda
 ---
-
 # Camunda
 
 ![](https://img.shields.io/github/stars/camunda/camunda?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/camunda/camunda?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/camunda/camunda?style=for-the-badge&label=since)

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Maven 中的这些坑，99% 的人不知道！ - 苏三说技术
 created: 2025-07-29T09:58:38
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/12lisu/p/19004912
 title: Maven 中的这些坑，99% 的人不知道！ - 苏三说技术
 type: archive-web
 ---
-
 # Maven 中的这些坑，99% 的人不知道！ - 苏三说技术
 
 ## 前言

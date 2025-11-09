@@ -1,10 +1,10 @@
 ---
+draft: true
 aliases: 最长递增子序列
 tags: leetcode/medium dynamic-programming
 created: 2024-12-08T21:26:22
 modified: 2025-03-17T22:45:16
 ---
-
 ## Content
 
 <iframe src="https://leetcode.cn/problems/longest-increasing-subsequence" style="height: 400px"></iframe>

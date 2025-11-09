@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "How-to-Use-Optionals-in-Java"
 created: 2025-03-16T14:20:25
 modified: 2025-03-16T14:57:02
@@ -8,7 +9,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 The introduction of the `Optional` class was a major improvement in the design of the Java language, but this improvement has been controversial. Prior the `Optional` class, many developers used either `null` or exceptions to denote when a desired value was not present; using the `Optional` class, however, allows us to explicitly state when a value may or may not be present. Despite this improvement, the `Optional` class can be applied inappropriately and cause more harm than good.
 
 In this article, we will look at the fundamentals of the `Optional` class, including:

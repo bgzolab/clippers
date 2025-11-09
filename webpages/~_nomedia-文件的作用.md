@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - .nomedia 文件的作用
 created: 2025-07-19T12:36:50
@@ -9,7 +10,6 @@ tags: []
 title: .nomedia 文件的作用
 type: "archive-web"
 ---
-
 # .nomedia 文件的作用
 
 > 本文最近更新于 2018 年 5 月 25 日「 星期五 」

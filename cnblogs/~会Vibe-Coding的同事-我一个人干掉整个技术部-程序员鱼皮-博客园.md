@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 会 Vibe Coding 的同事：我一个人干掉整个技术部！ - 程序员鱼皮
 created: 2025-07-18T17:31:50
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/yupi/p/18991174
 title: 会 Vibe Coding 的同事：我一个人干掉整个技术部！ - 程序员鱼皮
 type: archive-web
 ---
-
 # 会 Vibe Coding 的同事：我一个人干掉整个技术部！ - 程序员鱼皮
 
 大家好，我是程序员鱼皮。随着 AI 的发展，大家有没有听说过一个词？叫 Vibe Coding。

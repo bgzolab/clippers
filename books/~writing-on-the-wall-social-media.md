@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 社交媒体简史
 cover: https://img9.doubanio.com/view/subject/s/public/s30010624.jpg
@@ -18,7 +19,6 @@ type: book
 douban: https://book.douban.com/subject/30434010
 weread: https://weread.qq.com/web/bookDetail/56932c70718625e4569abd0
 ---
-
 ## Contents
 ### 版权信息
 ### 前言 西塞罗的网络

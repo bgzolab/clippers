@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Lessica/TrollFools"
 aliases: "TrollFools"
 created: 2025-05-03T10:48:46
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/Lessica/TrollFools?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Lessica/TrollFools?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Lessica/TrollFools?style=for-the-badge&label=since)

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 如何更好地使用 AI 编程？ - mingupupup
 created: 2025-08-18T14:06:52
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/mingupupu/p/19038290
 title: 如何更好地使用 AI 编程？ - mingupupup
 type: archive-web
 ---
-
 # 如何更好地使用 AI 编程？ - mingupupup
 
 ## 前言

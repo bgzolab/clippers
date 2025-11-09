@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://res.weread.qq.com/wrepub/CB_BIE766756Ci46iS6gb5gm8R5_parsecover
 aliases: PostgreSQL修炼之道：从小工到专家
 author:  唐成
@@ -13,7 +14,6 @@ type: book/dev
 douban: https://book.douban.com/subject/35224053
 weread: https://weread.qq.com/web/bookDetail/0cd32840720867f00cd9cb3
 ---
-
 ## Contents
   - 前言
   - 第一篇 准备篇

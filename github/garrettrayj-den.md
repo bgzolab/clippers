@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "garrettrayj/den"
 aliases: "den"
 created: 2025-05-10T22:26:44

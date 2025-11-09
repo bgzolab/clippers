@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 巫醫後代 Beta 老師
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffiles.soundon.fm%2F1698915163352-fee17485-c19d-49f2-8251-954daf3bd4c6.jpeg&w=200&h=200
 created: '2025-04-15T09:36:39'
@@ -10,8 +11,6 @@ source: https://player.soundon.fm/p/5ed1fa4b-6edb-4d18-a6d5-3417d1304af2/episode
 title: S4EP8｜男生要練腿、女生凱格爾，加強性福體驗！聽眾福利見資訊欄～ ft. 世界健身天母德行店
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 【聽眾福利！免費健身諮詢授課、場館體驗快來看～】 
 > 想要增肌減脂瘦身的聽眾有福了！收聽本集的聽眾，報上命理脫口秀粉絲名號至 World gym 德行店，找帥氣 Esther 和美麗教練 Joda 

@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-10-12T12:00:00
 source: {{nav-ri https://blog.skk.moe/post/why-not-use-firefox/}}
 type: archive-web
 modified: 2025-01-15T11:38:18
 ---
-
 最近一直被「抛弃 Chrome 使用 Firefox」的言论包围着。然而我一直坚持使用 Chrome，因为 Firefox 并不像 Mozilla 所说的那样「生为民，不作恶」，也并没有鼓吹者说的那么优秀。
 
 当然我也不是完全不使用 Firefox，至少测试浏览器兼容性还需要用到它，但它注定在未来一段时间里都不会成为我的主力浏览器。

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Gemini cli
   - Gemini Cli
@@ -11,7 +12,6 @@ source: https://github.com/google-gemini/gemini-cli
 title: Gemini cli
 type: repo
 ---
-
 # Gemini cli
 
 ![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/google-gemini/gemini-cli?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/google-gemini/gemini-cli?style=for-the-badge&label=since)

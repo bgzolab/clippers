@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - ActiveRecord 与 Castle ActiveRecord
   - ~ActiveRecord 与 Castle-ActiveRecord-Payne- 博客园
@@ -8,7 +9,6 @@ source: https://www.cnblogs.com/payne/archive/2007/05/22/755751.html
 title: ActiveRecord 与 Castle ActiveRecord
 type: archive-web
 ---
-
 # ActiveRecord 与 Castle ActiveRecord
 
 [![](https://img2024.cnblogs.com/blog/35695/202508/35695-20250830122018806-1574270965.jpg)](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101750143863263087?ha_source=BKYQ3&ha_sourceId=89000408)

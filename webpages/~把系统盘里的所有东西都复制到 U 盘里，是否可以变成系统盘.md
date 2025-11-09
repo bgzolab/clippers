@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-07-27T12:00:00
 source: https://www.zhihu.com/question/22641275/answer/27214049
 type: archive-web
 modified: 2025-01-15T11:38:18
 ---
-
 刚好家里有台闲置的台式机正在装系统，所以实际做了个实验：
 
 硬件配置：

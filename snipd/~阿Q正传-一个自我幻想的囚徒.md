@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 赵艾文
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F2e29-audiofreehighqps%2F36%2F40%2FGKwRIW4H_rnAAAPy2AIJ6MR9.jpeg&w=200&h=200
 created: '2024-01-05T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/697815266
 title: 《阿Q正传》一个自我幻想的囚徒
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 《阿Q正传》是中国现代文学的重要作品之一，鲁迅于1921年创作。这部小说通过描述主人公阿Q的一系列失败和自我安慰的故事，深刻揭示了当时中国社会的落后和愚昧，以及人民的精神困境。
 > 鲁迅以其独特的讽刺和幽默手法，描绘了阿Q这一形象，使其成为了一个典型的“失败者”，但同时也具有一种让人同情的悲剧色彩。通过阿Q的形象，鲁迅不仅批判了封建社会的残酷和无知，也反映了普通人在那个时代的无奈和挣扎。

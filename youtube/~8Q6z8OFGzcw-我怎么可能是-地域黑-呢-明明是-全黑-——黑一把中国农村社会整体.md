@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "我怎么可能是-地域黑-呢-明明是-全黑-——黑一把中国农村社会整体"
 cover: "https://i.ytimg.com/vi/8Q6z8OFGzcw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVihIMA8=&rs=AOn4CLAPNykKl4YrZPayjotES2OkxewIyA"
 author:

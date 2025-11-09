@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '出包王女 第三季'
   - '出包王女Darkness'
@@ -17,7 +18,6 @@ title: 出包王女 Darkness
 type: bangumi/anime
 website: ['http://www.j-toloveru.com/']
 ---
-
 # 出包王女 Darkness
 
       梨斗出包连连的每一天回来了。菈菈的双胞胎妹妹‧梦梦与娜娜转学到彩南高中。为了帮助梨斗变成肉食系男孩，梦梦正策划着「打造后宫」这样的诡异计划……？！不仅如此，还出现了神秘敌人袭击梨斗？！

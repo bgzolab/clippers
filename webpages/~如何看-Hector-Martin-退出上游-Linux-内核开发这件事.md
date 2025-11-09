@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "如何看-Hector-Martin-退出上游-Linux-内核开发这件事"
 created: 2025-03-24T21:25:06
 modified: 2025-03-24T21:25:14
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 
 不确定这件事将来对 Asahi Linux 的用户会产生多大的影响，目前我能感受到的影响是 marcan 的社交帐号消失了，之前这个账号发布的很多 Asahi Linux 相关的帖子都看不到了，就是下面这个帐号：

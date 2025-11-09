@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2025-02-24T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/20252The-JR-Lee-
 title: 實際體驗美國人的美式幽默：美國人真的很愛聊天｜暖新聞2025年2月號｜The JR Lee Podcast Ep074
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 實際走上美國西岸的街頭，感受到美國人真的很愛聊天，而且有種「很鬧」的美式幽默。另外也帶到這個月份的暖新聞，來聽聽看這個月當中，發生了哪些感人的故事，讓自己的心情晴空無雲一下！
 > 

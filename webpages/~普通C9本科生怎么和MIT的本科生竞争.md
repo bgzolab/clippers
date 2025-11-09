@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "普通C9本科生怎么和MIT的本科生竞争？"
 created: 2025-04-05T13:01:54
 modified: 2025-04-05T13:01:54

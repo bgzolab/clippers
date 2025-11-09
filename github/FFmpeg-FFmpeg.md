@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - FFmpeg
   - FFmpeg/FFmpeg
@@ -11,7 +12,6 @@ tags-link:
 title: FFmpeg
 type: repo
 ---
-
 # FFmpeg
 
 ![](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/FFmpeg/FFmpeg?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/FFmpeg/FFmpeg?style=for-the-badge&label=since)

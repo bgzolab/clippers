@@ -1,4 +1,5 @@
 ---
+draft: true
 title: online-judge
 aliases:
   - open judge
@@ -10,7 +11,6 @@ tags-link:
   - "[[data-structure]]"
   - "[[skills/computer-science/algorithm|algorithm]]"
 ---
-
 ## `Accepted`
 
 你的程序对所有的测试数据都输出了正确的答案，你已经得到了该题的所有分数，恭喜。

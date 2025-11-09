@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # 1.MySQL体系架构
 
 ## 1.1.MySQL的分支与变种

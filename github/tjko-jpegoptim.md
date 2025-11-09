@@ -1,4 +1,5 @@
 ---
+draft: true
 title: tjko/jpegoptim
 aliases:
   - jpegoptim

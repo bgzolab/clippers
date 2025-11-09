@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "MisakaTranslator"
   - hanmin0822/MisakaTranslator
@@ -12,7 +13,6 @@ tags-link:
 title: hanmin0822/MisakaTranslator
 type: "repo"
 ---
-
 # hanmin0822/MisakaTranslator
 
 ![](https://img.shields.io/github/stars/hanmin0822/MisakaTranslator?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/hanmin0822/MisakaTranslator?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/hanmin0822/MisakaTranslator?style=for-the-badge&label=since)

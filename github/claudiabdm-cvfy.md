@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: [claudiabdm/cvfy, "cvfy"]
 created: 2025-07-05T10:50:24
 description: "CV generator built with Nuxt.js, TailwindCSS, deployed on Cloudflare Pages."
@@ -9,7 +10,6 @@ tags-link:
 title: claudiabdm/cvfy
 type: "repo"
 ---
-
 # claudiabdm/cvfy
 
 ![](https://img.shields.io/github/stars/claudiabdm/cvfy?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/claudiabdm/cvfy?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/claudiabdm/cvfy?style=for-the-badge&label=since)

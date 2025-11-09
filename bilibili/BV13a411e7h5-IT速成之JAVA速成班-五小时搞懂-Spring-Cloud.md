@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "IT速成之JAVA速成班-五小时搞懂-Spring-Cloud"
 cover: "http://i0.hdslb.com/bfs/archive/76644bb61423d9b489c1b1ccba233ae5e0a67618.jpg@189w_107h.webp"
 author: "乐学教程"
@@ -11,7 +12,6 @@ tags:
   - "video/bilibili"
 type: "video"
 ---
-
 ## Source
 
 <iframe src='https://player.bilibili.com/player.html?isOutside=true&bvid=BV13a411e7h5&p=1&autoplay=false' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>

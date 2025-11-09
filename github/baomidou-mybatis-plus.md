@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "baomidou/mybatis-plus"
 aliases: "mybatis-plus"
 created: 2025-03-16T00:36:42

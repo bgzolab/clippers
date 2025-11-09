@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "serhii-londar/open-source-mac-os-apps"
 aliases: "open-source-mac-os-apps"
 created: 2025-01-20T20:15:33
@@ -9,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-
 ## Meta
 
 ![](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/serhii-londar/open-source-mac-os-apps?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/serhii-londar/open-source-mac-os-apps?style=for-the-badge&label=date)

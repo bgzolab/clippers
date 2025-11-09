@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://img1.doubanio.com/view/subject/s/public/s29263759.jpg
 author: 伊夫·博萨尔特
 created: 2022-01-01
@@ -10,7 +11,6 @@ type: book
 douban: https://book.douban.com/subject/26949210
 weread: https://weread.qq.com/web/bookDetail/59432af071e6018c594f07d
 ---
-
 - Ohne-Heute-gäbe-es-morgen-kein-Gestern
 - Content
   - 封面

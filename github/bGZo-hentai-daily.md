@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "bGZo/hentai-daily"
 aliases: "hentai-daily"
 created: 2025-06-15T17:30:52
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/bGZo/hentai-daily?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bGZo/hentai-daily?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bGZo/hentai-daily?style=for-the-badge&label=since)

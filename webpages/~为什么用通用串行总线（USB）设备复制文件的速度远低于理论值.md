@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-07-27T12:00:00
 source: https://www.zhihu.com/question/20186057/answer/15893951
 type: archive-web
 modified: 2025-01-15T11:38:16
 ---
-
 https://www.zhihu.com/question/20186057/answer/15893951)
 
 我就是做 USB 驱动的，U 盘驱动也做过，控制器驱动也做过，我来解释一下速度的问题：

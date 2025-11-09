@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '伏行吧！奈亚子 Remember My Love'
   - '潜行吧！奈亚动画 Remember My Love'
@@ -17,7 +18,6 @@ title: 潜行吧！奈亚动画 Remember My Love
 type: bangumi/anime
 website: ['http://ga.sbcr.jp/bunko_blog/nyaruani/']
 ---
-
 # 潜行吧！奈亚动画 Remember My Love
 
 动画版「潜行吧！奈亚子」第二季基本沿用了第一季的制作阵容和声优阵容。

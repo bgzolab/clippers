@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Countering an Authoritarian Overhaul of the Internet
 created: 2025-01-17T10:21:31
@@ -7,7 +8,6 @@ source: "https://freedomhouse.org/report/freedom-net/2022/countering-authoritari
 title: Countering an Authoritarian Overhaul of the Internet
 type: "archive-web"
 ---
-
 # Countering an Authoritarian Overhaul of the Internet
 
 ## Key Findings 主要发现

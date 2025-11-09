@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 端传媒音頻 | Initium Audio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fassets.pippa.io%2Fshows%2F66b07190af99592b5329f43a%2Fshow-cover.jpeg&w=200&h=200
 created: '2025-05-21T09:36:39'
@@ -10,8 +11,6 @@ source: https://theinitium.com/audio/20250521-initium-audio-chatgpt-emotional-su
 title: 你有心事嗎？有人在跟ChatGPT說
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 在數位時代，一種新的心靈慰藉方式悄然興起：人們轉向與ChatGPT傾訴心事。與心理諮商相比，AI談心有著即時、成本低且不會耗費他人情感能量的優勢。然而，當我們習慣了這種不帶評判的陪伴，AI真能滿足人類最深層的情感需求嗎？在科技與心理健康的交會處，我們探索人機情感連結的可能與界限。
 > 本期「端聞」，端傳媒特約撰稿人呂苡榕和你分享她了解到的那些AI談心故事，以及它們折射出什麼樣的情感需求與現代孤獨？

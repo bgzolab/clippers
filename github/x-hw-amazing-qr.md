@@ -1,4 +1,5 @@
 ---
+draft: true
 title: x-hw/amazing-qr
 aliases:
   - amazing-qr

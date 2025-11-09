@@ -1,8 +1,8 @@
 ---
+draft: true
 created: 2024-12-16T07:58:06
 modified: 2025-01-15T11:39:52
 ---
-
 source: https://medium.com/@karolisram/preventing-burnout-for-programmers-12b4968adbaa
 type: archive-web
 ---

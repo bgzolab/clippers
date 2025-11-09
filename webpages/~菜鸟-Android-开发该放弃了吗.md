@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "菜鸟-Android-开发该放弃了吗"
 created: 2025-03-24T21:04:42
 modified: 2025-03-24T21:04:52
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 
 个人开发者，技术栈是 Java 、Kotlin 和 Compose 。21 年做过全职开发，之后就转行了，也有持续关注 Android 开发，GitHub 上 Kotlin 、Compose 相关的库一起大概有一千多的星，自认为相关技术掌握度还可以。

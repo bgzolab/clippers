@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "一加全能工具箱安装adb和fastboot驱动教程"
 aliases: "一加全能工具箱安装adb和fastboot驱动教程"
 created: 2025-04-09T22:50:33
@@ -9,7 +10,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 «
 
 [大侠阿木](https://optool.daxiaamu.com/?author=1) 发布于 2024-4-15 22:24 阅读：255477

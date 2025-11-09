@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '命运守护夜 无限剑制'
   - '命运之夜 无限剑制'
@@ -20,7 +21,6 @@ title: Fate/stay Night [Unlimited Blade Works]
 type: bangumi/anime
 website: ['http://www.fate-sn.com/ubw/']
 ---
-
 # Fate/stay Night [Unlimited Blade Works]
 
 舞台は海と山に囲まれた都市・冬木市。

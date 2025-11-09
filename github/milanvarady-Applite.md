@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "Applite"
   - Applite
@@ -9,7 +10,6 @@ source: "https://github.com/milanvarady/Applite"
 title: Applite
 type: "repo"
 ---
-
 # Applite
 
 ![](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/milanvarady/Applite?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/milanvarady/Applite?style=for-the-badge&label=since)

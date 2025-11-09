@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 为什么国内的微服务框架都不用 gorm 作为微服务框架的 orm？
 created: 2025-07-29T20:40:13
@@ -8,7 +9,6 @@ tags: []
 title: 为什么国内的微服务框架都不用 gorm 作为微服务框架的 orm？
 type: "archive-web"
 ---
-
 # 为什么国内的微服务框架都不用 gorm 作为微服务框架的 orm？
 
 Go 编程语言 - @higanbana - 如题，同问，观察了一下，go-zero 用的是自己封装的 sqlx ，还可以理解是最简化，但是完全没好到哪儿去，复杂 sql 很麻烦，kratos 直接用了国外的 Ent ，其他的几个没接触过，想知道

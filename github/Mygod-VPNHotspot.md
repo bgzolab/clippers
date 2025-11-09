@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Mygod/VPNHotspot"
 aliases: "VPNHotspot"
 created: 2025-04-13T19:24:16

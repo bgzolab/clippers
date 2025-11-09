@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 杨轩轩轩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFr0RmkjK7utr_UDmZplanU7J_Ey5.png&w=200&h=200
 created: '2025-06-17T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/6851ddf44abe6e29cba9dc97?utm_source
 title: 汪华的预言：AI应用到了爆发点，但红利期只有一年｜S5E03
 type: podcast-episode
 ---
-
-
 ## Show notes
 > update：汪华本次演讲的PPT已经发布到“商业why酱”的微信公众号，why是小写的why。 
 > update2：PPT在“商业why酱”的微信公众号 汪华稿件的最！后！一部分，请翻到文章最后～～ 

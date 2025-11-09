@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 监视资本主义：智能陷阱 The Social Dilemma
 cover: https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2618618715.jpg
 aliases:
@@ -18,7 +19,6 @@ type: video
 douban: https://movie.douban.com/subject/34960008/
 imdb: https://www.imdb.com/title/
 ---
-
 ## Comments
 
 他们像蜘蛛一样测试你的神经, 这是很恐怖的

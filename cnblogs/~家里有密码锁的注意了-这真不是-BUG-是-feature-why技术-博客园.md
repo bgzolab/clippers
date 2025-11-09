@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 家里有密码锁的注意了，这真不是 BUG，是 feature。 - Why 技术
 created: 2025-08-19T10:19:49
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/thisiswhy/p/19045449
 title: 家里有密码锁的注意了，这真不是 BUG，是 feature。 - Why 技术
 type: archive-web
 ---
-
 # 家里有密码锁的注意了，这真不是 BUG，是 feature。 - Why 技术
 
 你好呀，我是歪歪。

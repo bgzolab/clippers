@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Dubbo 源码—1.服务发布的主要流程 - 东阳马生架构
 created: 2025-08-18T14:03:52
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/mjunz/p/19033131
 title: Dubbo 源码—1.服务发布的主要流程 - 东阳马生架构
 type: archive-web
 ---
-
 # Dubbo 源码—1.服务发布的主要流程 - 东阳马生架构
 
 大纲

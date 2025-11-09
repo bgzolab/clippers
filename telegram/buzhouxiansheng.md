@@ -1,11 +1,11 @@
 ---
+draft: true
 aliases: buzhouxiansheng
 created: 2024-08-18
 description: 想写就写，让思绪流淌
 source:
 type: telegram/channel
 ---
-
 ## 词语解释
 我经常在互联网上看到类似的对话：
 A：中国没有言论自由。

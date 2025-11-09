@@ -1,4 +1,5 @@
 ---
+draft: true
 title: asLody/VirtualApp
 aliases:
   - VirtualApp
@@ -12,7 +13,6 @@ tags:
 tags-link: 
 type: repo
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/asLody/VirtualApp?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/asLody/VirtualApp?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/asLody/VirtualApp?style=for-the-badge&label=since)

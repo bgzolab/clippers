@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Yao Lin
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F6571074%2F6571074-1592839444173-043e611f31c44.jpg&w=200&h=200
 created: '2025-06-03T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/yao-lin/episodes/E-41-Is-a-Good-
 title: E.41 善在，善哉？Is a "Good Place" Any Good? (2020.4.4)
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 2020年4月4日的旧录音：和《小声喧哗》的主播们借着电视剧  The Good Place  的由头，聊了聊从人生意义到自由意志到个体责任到电车难题到永生与来世到绝对律令到道德分歧到神学与哲学之别等等各种哲学话题。我们也讨论了剧集对阶级、性别、种族等维度的呈现是否令人满意，以及剧集在哲学思考上所缺失的政治性和结构性的视角及其后果。聊天中可能提到的剧集角色有Eleanor、Chidi、Jason、Tahini、Janet、Michael等；提到的当代哲学家有 T. M. Scanlon （ What We Owe to Each Other 一书作者）、Todd May 以及 Pamela Hieronymi（后两位是剧集的哲学顾问）等。
 > 【附：我参与的其它几期《小声喧哗》】

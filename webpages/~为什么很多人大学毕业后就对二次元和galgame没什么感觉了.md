@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "为什么很多人大学毕业后就对二次元和galgame没什么感觉了？"
 created: 2021-04-05T12:39:34
 modified: 2021-04-05T12:39:34

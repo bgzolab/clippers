@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Playnite
   - "Playnite"
@@ -9,7 +10,6 @@ source: "https://github.com/JosefNemec/Playnite"
 title: Playnite
 type: "repo"
 ---
-
 # Playnite
 
 ![](https://img.shields.io/github/stars/JosefNemec/Playnite?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/JosefNemec/Playnite?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/JosefNemec/Playnite?style=for-the-badge&label=since)

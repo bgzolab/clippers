@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2023-12-11T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/The-JR-Lee-Podca
 title: 如何擊退焦慮感？越只想到自己越容易焦慮｜The JR Lee Podcast EP012
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 今天來談談社交上的焦慮感，備感壓力的時候，其實有一些小技巧可以幫助自己立馬舒緩心中的不安感。而現代心理學又是如何看待一整個世代心理健康的變遷呢？趕快來收聽吧！
 

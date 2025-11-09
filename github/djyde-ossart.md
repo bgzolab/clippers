@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "djyde/ossart"
 aliases: "ossart"
 created: 2025-06-07T14:45:05

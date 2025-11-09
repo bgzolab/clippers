@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 问题青年Wonderers
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F60e6-audiofreehighqps%2FB7%2F35%2FGMCoOSII9_k4AAGNyAJn07Rg.jpeg&w=200&h=200
 created: '2023-11-25T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/687916044
 title: 99.今天，你社交降级了吗？｜串台“Talk三联”
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 这是一期和「talk三联」的串台节目，我们和他们的内容编辑高一丁、《三联生活周刊》记者肖楚舟聊了聊，为什么大家今天纷纷“社交降级”，以及，什么才是理想的社交？ 
 > 【本期介绍】 

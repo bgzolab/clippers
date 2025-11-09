@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '公主代理人'
   - '公主委托人'
@@ -20,7 +21,6 @@ title: Princess Principal
 type: bangumi/anime
 website: ['https://pripri-anime.jp/tv']
 ---
-
 # Princess Principal
 
 在东西分裂的伦敦所展开的，少女们的谍战动作剧！

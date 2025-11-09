@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "浅谈中国电信出口网络的链路情况（什么是 ChinaNet,CN2,GT,GIA）"
 created: 2021-02-27T01:40:16+0800
 modified: 2021-02-27T01:40:16+0800
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # 浅谈中国电信出口网络的链路情况（什么是 ChinaNet,CN2,GT,GIA）
 
 ## 前言

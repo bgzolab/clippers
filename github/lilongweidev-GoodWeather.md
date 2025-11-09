@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "lilongweidev/GoodWeather"
 aliases: "GoodWeather"
 created: 2025-06-07T14:52:51

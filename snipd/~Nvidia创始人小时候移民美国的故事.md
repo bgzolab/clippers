@@ -1,4 +1,5 @@
 ---
+draft: true
 Export date: 2025-01-19T11:14
 Show notes link: '[open website](https://liuyandong.com/archives/podcast/no403)'
 author: 栋哥的赛博空间
@@ -12,8 +13,6 @@ source: https://liuyandong.com/archives/podcast/no403
 title: No. 403 Nvidia创始人小时候移民美国的故事
 type: podcast-episode
 ---
-
-
 ## Snips
 ### [22:21] 移民是为了避免痛苦。
 [🎧 Play snip - 1min️ (22:20 - 22:52)](https://share.snipd.com/snip/8d678e70-fa7d-4023-be8d-b5100edf1775)

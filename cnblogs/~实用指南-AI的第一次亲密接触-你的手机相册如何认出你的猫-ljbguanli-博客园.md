@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 实用指南：AI 的第一次亲密接触——你的手机相册如何认出你的猫？ - Ljbguanli
 created: 2025-08-06T15:19:12
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/ljbguanli/p/19025050
 title: 实用指南：AI 的第一次亲密接触——你的手机相册如何认出你的猫？ - Ljbguanli
 type: archive-web
 ---
-
 # 实用指南：AI 的第一次亲密接触——你的手机相册如何认出你的猫？ - Ljbguanli
 
 ## AI 的第一次亲密接触——你的手机相册如何认出你的猫？**

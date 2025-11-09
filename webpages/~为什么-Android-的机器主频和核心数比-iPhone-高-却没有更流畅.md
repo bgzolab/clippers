@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "为什么 Android 的机器主频和核心数比 iPhone 高，却没有更流畅？ - 知乎"
 created: 2025-04-04T21:13:11
 modified: 2025-04-04T21:13:15
@@ -8,7 +9,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 我们可以从硬件、操作系统、应用软件三方面来回答这个问题。
 
 

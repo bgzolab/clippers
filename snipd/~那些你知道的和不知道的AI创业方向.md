@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 庄明浩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFmjICGq_6HGf-_e1Rh11N-hjoWNI.png&w=200&h=200
 created: '2024-05-26T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/664f5b60c59d1e57573fa1fe?utm_source
 title: Vol.21 那些你知道的和不知道的AI创业方向
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 【写在前面】 
 > (需要加粉丝群的可以先添加微信Rosicky311)

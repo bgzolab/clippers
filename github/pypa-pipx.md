@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Pipx
   - "pipx"
@@ -13,7 +14,6 @@ tags-link:
 title: Pipx
 type: "repo"
 ---
-
 # Pipx
 
 ![](https://img.shields.io/github/stars/pypa/pipx?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/pypa/pipx?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/pypa/pipx?style=for-the-badge&label=since)

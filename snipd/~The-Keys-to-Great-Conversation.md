@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Harvard Business Review
 cover: https://wsrv.nl/?url=https%3A%2F%2Fhbr.org%2Fresources%2Fimages%2Fpodcasts%2F1400-hbr-ideacast-lg-3.jpg&w=200&h=200
 created: '2025-03-25T09:36:39'
@@ -10,8 +11,6 @@ source: https://hbr.org/podcast/2025/03/the-keys-to-great-conversation
 title: The Keys to Great Conversation
 type: podcast-episode
 ---
-
-
 ## Show notes
 > Whether we’re interacting with colleagues, clients, friends, family members or strangers, conversations are the way most of us build — or break — relationships. And yet we don’t often think deeply about how to approach this type of casual communication.  Alison Wood Brooks, associate professor at Harvard Business School, has studied what it takes to create a great conversation and offers research-backed tips for improving your skills. Brooks is the author of the book Talk: The Science of Conversation and the Art of Being Ourselves.
 

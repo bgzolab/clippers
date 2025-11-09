@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Yao Lin
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F6571074%2F6571074-1592839444173-043e611f31c44.jpg&w=200&h=200
 created: '2025-03-15T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/yao-lin/episodes/E-33--Race-and-
 title: E.33 中国语境下的种族话语和种族主义 Race and Racism in the Chinese Context (2020.6.18)
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 今天上传一份来自2020年6月的“怀旧”音频：《时差 in-betweenness》（ Buzzsprout主站 、 小宇宙镜像 ）播客的第一次录音（原本分为 上 、 下 两期节目发出）；当时我的设备出了点问题，所以每当轮到我说话时音质就比较炸裂，还请大家多多包涵。 
 > 《时差》成立于2020年，是我和张晨晨、郭婷、李瀚伦共同主持的一档播客，旨在向中文听众介绍海外人文社科领域的最新发展，以及这些领域中的年轻华人学者的研究。《时差》的主站在 Buzzsprout ，国内朋友可以在“ 小宇宙 ”上收听；但从去年开始，在小宇宙上无法直接搜索《时差》（搜到的都是别的同名播客），只能通过点击播客的 链接地址 间接进入节目（其中有几期节目只能在外服上收听；我在下面的文案中会分别列出迄今各期节目的国内外收听链接以及文字整理稿——如果有的话）。

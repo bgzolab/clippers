@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2024-01-01T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/2024-The-JR-Lee-
 title: 2024年如何規劃自己的人生？— 最暢銷個人成長類書籍《與成功有約》｜The JR Lee Podcast Ep017
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 2024年如何規劃規劃自己的人生？我非常喜愛的一本經典個人成長類書籍就是《與成功有約：高效能人士的七個習慣》。今天來聊聊利用其中的哲學和觀念，可以如何優化自己的生活！
 

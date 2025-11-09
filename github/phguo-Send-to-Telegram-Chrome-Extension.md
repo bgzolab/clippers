@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "phguo/Send-to-Telegram-Chrome-Extension"
 aliases: "Send-to-Telegram-Chrome-Extension"
 created: 2025-06-07T14:13:01

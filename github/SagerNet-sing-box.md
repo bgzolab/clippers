@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: ["sing-box", SagerNet/sing-box]
 created: 2025-07-01T20:39:31
 description: "The universal proxy platform"
@@ -9,7 +10,6 @@ tags-link:
 title: SagerNet/sing-box
 type: "repo"
 ---
-
 # SagerNet/sing-box
 
 ![](https://img.shields.io/github/stars/SagerNet/sing-box?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/SagerNet/sing-box?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/SagerNet/sing-box?style=for-the-badge&label=since)

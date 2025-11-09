@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 生而为👴-我很抱歉
 cover: http://i1.hdslb.com/bfs/archive/b816bb4346e8f477dc29cf7b8faaff648e87f6eb.jpg@189w_107h.webp
 author:
@@ -14,7 +15,6 @@ tags:
 tags-link: 
 type: video
 ---
-
 ## Source
 
 <iframe src='https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ua4y1E7kf&p=1&autoplay=false' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>

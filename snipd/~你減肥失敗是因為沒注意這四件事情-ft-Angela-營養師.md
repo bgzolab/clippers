@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 曾博恩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FAvatar%2Fckyjmnkp0166d0830od1kznfj%2F1642480792231.png&w=200&h=200
 created: '2025-03-17T09:36:39'
@@ -10,8 +11,6 @@ source: https://open.firstory.me/story/cm88jbnnz013701yr58160mo0
 title: EP166 | 你減肥失敗是因為沒注意這四件事情 ft. Angela 營養師
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 這一集我們討論了進食時段、升糖指數、咖啡，以及減重的人卡關最大的難點：心理    ▹ ▹ 追蹤看更多  訂閱最新消息 » https://str.network/rnbrian  Instagram » https://www.instagram.com/brianptseng/  Facebook » https://www.facebook.com/brianstandup  YouTube »   ｜曾博恩：https://www.youtube.com/@brianptseng  ｜博恩站起來：https://www.youtube.com/@StandupBrian  ⠀  小額贊助支持本節目：  https://open.firstory.me/user/ckyjmnkp0166d0830od1kznfj   ⠀  本節目由【月城南廣告】業務代理及製作  💌 Podcast 商業合作信箱：business@lumosads.biz
 > Powered by  Firstory Hosting

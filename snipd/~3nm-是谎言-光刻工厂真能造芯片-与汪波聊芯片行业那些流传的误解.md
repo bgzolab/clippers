@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 晚点 LatePost
 cover: https://wsrv.nl/?url=https%3A%2F%2Fassets.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2F1%2F19a49f52-28ee-4e25-b8e9-4f0ee70917e0%2Fcover.jpg%3Fv%3D5&w=200&h=200
 created: '2023-10-25T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcast.latepost.com/49
 title: '49: 3nm 是谎言？光刻工厂真能造芯片？与汪波聊芯片行业那些流传的误解'
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 芯片曾是全球协作最发达通畅的行业之一，近些年因非技术和行业的外部因素成了公众议题。关于芯片的讨论越来越多，不少历史与概念误读也逐渐流传。
 > 

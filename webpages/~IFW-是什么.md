@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - IFW 是什么？
 created: 2025-07-19T12:35:39
@@ -9,7 +10,6 @@ tags: []
 title: IFW 是什么？
 type: "archive-web"
 ---
-
 # IFW 是什么？
 
 > 本文最近更新于 2019 年 7 月 9 日「 星期二 」

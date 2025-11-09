@@ -1,4 +1,5 @@
 ---
+draft: true
 title: microsoft/terminal
 aliases: tool/windows-terminal-preview
 created: 2025-06-07T16:16:42
@@ -10,7 +11,6 @@ tags:
 tags-link: 
 type: repo
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/microsoft/terminal?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/microsoft/terminal?style=for-the-badge&label=since)

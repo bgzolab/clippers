@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 不鳥萬如一
 cover: https://wsrv.nl/?url=https%3A%2F%2Fi.typlog.com%2Fyitianshijie%2F7W%2FtnVvKh-Z0xzWG-t4G7mA.png%3Fx-oss-process%3Dstyle%2Fsl&w=200&h=200
 created: '2024-04-10T09:36:39'
@@ -10,8 +11,6 @@ source: https://yitianshijie.net/episodes/84
 title: 'EP84: 說書人、播客、口語文化（Orality）'
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 中國人不愛說話？未免太過荒謬。
 > 

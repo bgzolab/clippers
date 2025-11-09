@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Cursor 入门教程 -JetBrains 过度向 - LemonDus
 created: 2025-07-22T14:05:03
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/lemondu/p/18829218
 title: Cursor 入门教程 -JetBrains 过度向 - LemonDus
 type: archive-web
 ---
-
 # Cursor 入门教程 -JetBrains 过度向 - LemonDus
 
 # Cursor 使用笔记

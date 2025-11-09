@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '不死者之王 第二季'
   - 'OVERLORD 第二季'
@@ -16,7 +17,6 @@ title: OVERLORD 第二季
 type: bangumi/anime
 website: ['http://overlord-anime.com/']
 ---
-
 # OVERLORD 第二季
 
 时为 2138 年。曾卷起一大风潮的虚拟现实体感型网络游戏《YGGDRASIL》即将迎来停服。

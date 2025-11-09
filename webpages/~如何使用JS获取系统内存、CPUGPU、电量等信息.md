@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "如何使用JS获取系统内存、CPUGPU、电量等信息-«-张鑫旭-鑫空间-鑫生活"
 created: 2025-03-02T20:31:25
 modified: 2025-03-02T20:31:25

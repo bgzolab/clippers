@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-01-06T12:00:00
 source: https://blog.csdn.net/yjy420/article/details/132305356
 type: archive-web
 modified: 2025-01-15T11:38:16
 ---
-
 ### 省流版总结
 
   凡是使用了命令 `nvidia docker` 或者在 docker 中引入了 `--runtime=nvidia` 参数的都是过时教程，最新方法只需要下载 `nvidia-container-toolkits`，在 docker 中引入 `--gpus` 参数即可。

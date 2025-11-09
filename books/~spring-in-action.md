@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://img3.doubanio.com/view/subject/s/public/s34360957.jpg
 author: Craig Walls
 created: 2023-01-11
@@ -12,7 +13,6 @@ type: book/dev
 douban: https://book.douban.com/subject/36142064
 weread: https://weread.qq.com/web/bookDetail/c6d32700813ab77d1g0136f4
 ---
-
 [habuma/spring-in-action-6-samples: Sample code from Spring in Action 6](https://github.com/habuma/spring-in-action-6-samples)
 
 ## 📄 Contents

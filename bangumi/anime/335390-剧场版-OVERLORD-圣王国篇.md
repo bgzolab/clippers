@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '剧场版 不死者之王 圣王国篇'
   - '剧场版 OVERLORD 圣王国篇'
@@ -18,7 +19,6 @@ title: 剧场版 OVERLORD 圣王国篇
 type: bangumi/anime
 website: ['https://overlord-anime.com/']
 ---
-
 # 剧场版 OVERLORD 圣王国篇
 
 丸山くがねの人気ライトノベルを原作とするテレビアニメ「オーバーロード」シリーズの劇場版で、原作でも人気の高い「聖王国編」のエピソードをアニメ化。

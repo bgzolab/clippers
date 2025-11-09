@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - ~Python-Go- 比较两个 JSON 文件之间的差异 - 花酒锄作田 - 博客园
 created: 2025-08-15T09:29:42
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/XY-Heruo/p/19031081
 title: ~Python-Go- 比较两个 JSON 文件之间的差异 - 花酒锄作田 - 博客园
 type: archive-web
 ---
-
 # ~Python-Go- 比较两个 JSON 文件之间的差异 - 花酒锄作田 - 博客园
 
 ## 前言

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 404神隐体验馆
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFgcvRTuBSvcaed0fE05NJfm7RElV.jpg&w=200&h=200
 created: '2025-03-18T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/67d8ea6278103db3bd1fd417?utm_source
 title: 72｜老板是个NPD，我应该如何不内耗地相处？
 type: podcast-episode
 ---
-
-
 ## Show notes
 > /🎬 引言/    自恋型人格障碍   （英语：Narcissistic personality disorder，简称为 NPD）又称自恋型人格、自我陶醉人，是一种长久性的人格疾患。患者往往会过度夸大自我的重要性，过度渴求别人的赞赏，缺乏同理别人行为的能力。 
 > NPD差不多是一个职场上面快要被用「烂」的标签了，但是到现在都没有解决办法！？今天我们给正在上海职场水深火热的朋友莫莫，聊了聊他最近遭遇的职场问题。 在一个NPD手下工作，除了「逃走」真的没有别的途径了吗？对抗是否真的会带来「好下场」？ 我相信这一次的话题是具有普世意义的，就算老板不是NPD，也能从里面学到很多厚黑的阳谋。

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "1c7/crash-course-computer-science-chinese"
 aliases: "crash-course-computer-science-chinese"
 created: 2023-03-24T01:48:36
@@ -9,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-
 ## Meta
 
 ![](https://img.shields.io/github/stars/1c7/crash-course-computer-science-chinese?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/1c7/crash-course-computer-science-chinese?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/1c7/crash-course-computer-science-chinese?style=for-the-badge&label=date)

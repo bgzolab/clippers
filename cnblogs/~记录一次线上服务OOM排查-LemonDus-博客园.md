@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 记录一次线上服务 OOM 排查 - LemonDus
 created: 2025-07-22T14:02:39
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/lemondu/p/18652339
 title: 记录一次线上服务 OOM 排查 - LemonDus
 type: archive-web
 ---
-
 # 记录一次线上服务 OOM 排查 - LemonDus
 
 外面，阳光明媚，一切正好。\n 就在我欢天喜地准备迎来愉快的双休时，忽然之间，天塌了。\n 刚上线一小时的服务内存异常 OOM 了！

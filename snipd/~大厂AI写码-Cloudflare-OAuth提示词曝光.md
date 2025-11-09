@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 椰子
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFhPLm8QaOQyJtw6QAqQbDKtdyOrG.png&w=200&h=200
 created: '2025-06-02T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/683e2e7c31215eb506fa67b4?utm_source
 title: Vol.32 大厂AI写码：Cloudflare OAuth提示词曝光！
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 本期节目聚焦开发者职业发展与前沿技术融合。探讨“有用”与“被重视”在职场中的区别，并分析 AI 在软件工程领域日益增强的影响及对未来工程师角色的重塑。推荐实用开源工具 Syncthing（去中心化文件同步）和 Agent Zero（AI Agent 开发框架）。同时，聊聊个人内容创作坚持与新技术落地中的用户价值考量。希望为你的技术进阶和职业规划带来启发。
 > 【内容提要】

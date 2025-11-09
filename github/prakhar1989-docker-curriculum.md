@@ -1,4 +1,5 @@
 ---
+draft: true
 title: prakhar1989/docker-curriculum
 aliases:
   - docker-curriculum

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "如何根除和预防-腰肌劳损-大多数人不知道的病因"
 cover: "https://i.ytimg.com/vi/04OsMQbA5qQ/maxresdefault.jpg"
 author:

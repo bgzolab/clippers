@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 我们找到了Windows电脑续航差的原因-苹果M2深度分析
 cover: https://i.ytimg.com/vi/Z0tNtMwYrGA/maxresdefault.jpg
 author: 极客湾Geekerwan
@@ -13,7 +14,6 @@ tags:
 tags-link: 
 type: video
 ---
-
 ## Source
 
 <iframe src="https://www.youtube.com/embed/Z0tNtMwYrGA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

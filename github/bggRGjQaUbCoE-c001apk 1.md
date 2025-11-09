@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: ["c001apk", bggRGjQaUbCoE/c001apk]
 created: 2025-07-05T11:20:34
 description: "fake coolapk"
@@ -9,7 +10,6 @@ tags-link:
 title: bggRGjQaUbCoE/c001apk
 type: "repo"
 ---
-
 # bggRGjQaUbCoE/c001apk
 
 ![](https://img.shields.io/github/stars/bggRGjQaUbCoE/c001apk?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bggRGjQaUbCoE/c001apk?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bggRGjQaUbCoE/c001apk?style=for-the-badge&label=since)

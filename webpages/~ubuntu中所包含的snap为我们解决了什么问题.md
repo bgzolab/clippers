@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-06-05T12:00:00
 source: https://www.qiyichao.cn/archives/18/
 type: archive-web
 modified: 2025-01-15T11:38:16
 ---
-
 在过去，想发布一个 Linux 应用程序会带来很多问题：
 
   - 程序文件遍布整个系统

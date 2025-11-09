@@ -1,4 +1,5 @@
 ---
+draft: true
 Export date: 2025-07-19T19:13
 Show notes link: '[open website](https://hosting.wavpub.cn/osf2f/2025/05/29/s03e05-daocloud-%e7%9a%84%e4%b8%80%e4%ba%9b%e5%bc%80%e6%ba%90%e6%80%9d%e8%80%83%e4%b8%8e%e5%ae%9e%e8%b7%b5/)'
 author: 开源面对面
@@ -12,8 +13,6 @@ source: https://hosting.wavpub.cn/osf2f/2025/05/29/s03e05-daocloud-%e7%9a%84%e4%
 title: S03E05 DaoCloud 的一些开源思考与实践
 type: podcast-episode
 ---
-
-
 ## Snips
 ### [35:27] Untitled
 [🎧 Play snip - 1min️ (34:07 - 35:27)](https://share.snipd.com/snip/cce33dd5-7c35-4a44-8b2e-d025ced2fbd5)

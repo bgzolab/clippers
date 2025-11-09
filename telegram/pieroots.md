@@ -1,4 +1,5 @@
 ---
+draft: true
 alias:
   - Word Power Made Easy
 created: 2022-12-20T00:00:00
@@ -10,7 +11,6 @@ tags:
 title: Word Power Made Easy
 type: telegram/channel
 ---
-
 # Word Power Made Easy
 
 关于词根词缀，简单地说，词尾可以看做是一个特殊的后缀，而词干则是单词去除了词尾后的剩余部分。词根是单词去除了所有词缀（包括前缀和后缀）后的剩余部分。**词干等于或大于词尾**，即有时候词干恰好就是一个词根，或称自由词根。但更多时候词干是词根加上若干词缀。

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "codexu/note-gen"
 aliases: "note-gen"
 created: 2025-05-26T20:20:43
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/codexu/note-gen?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/codexu/note-gen?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/codexu/note-gen?style=for-the-badge&label=since)

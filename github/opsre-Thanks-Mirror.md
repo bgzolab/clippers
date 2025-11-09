@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "opsre/Thanks-Mirror"
 aliases: "Thanks-Mirror"
 created: 2025-01-20T20:26:06
@@ -9,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-
 ## Meta
 
 ![](https://img.shields.io/github/stars/opsre/Thanks-Mirror?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/opsre/Thanks-Mirror?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/opsre/Thanks-Mirror?style=for-the-badge&label=date)

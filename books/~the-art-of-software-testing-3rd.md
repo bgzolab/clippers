@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: books/软件测试的艺术(第3版)
 tags: #develop #testing
 author: Glenford J. Myers / Tom Badgett
@@ -9,7 +10,6 @@ created: 2022-12-04
 douban: https://book.douban.com/subject/10549782/
 weread: https://weread.qq.com/web/bookDetail/2e8328c0721bc5672e85953
 ---
-
 - Content
   - 版权信息
   - 译者序

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Blowfish
   - "blowfish"
@@ -9,7 +10,6 @@ source: "https://github.com/nunocoracao/blowfish"
 title: Blowfish
 type: "repo"
 ---
-
 # Blowfish
 
 ![](https://img.shields.io/github/stars/nunocoracao/blowfish?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/nunocoracao/blowfish?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/nunocoracao/blowfish?style=for-the-badge&label=since)

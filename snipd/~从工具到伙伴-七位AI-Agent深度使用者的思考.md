@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 硅谷101
 cover: https://wsrv.nl/?url=https%3A%2F%2Fmedia24.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2Ff%2Ff0f20376-8faf-4940-b920-84af6c734e2d%2Fcover.jpg%3Fv%3D6&w=200&h=200
 created: '2025-06-10T09:36:39'
@@ -10,8 +11,6 @@ source: https://sv101.fireside.fm/205
 title: E195｜从工具到伙伴：七位AI Agent深度使用者的思考
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 本期节目，我们邀请了7位来自不同领域的嘉宾，展开了一场关于AI Agent的多维度探讨： 
 > 从日常体验出发——用户们分享了Agent带来的惊喜与槽点，而开发者们则回应了这些痛点背后的技术挑战； 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Apple-watch-值得买吗
 created: 2025-03-24T20:49:35
 modified: 2025-03-24T20:49:44
@@ -8,7 +9,6 @@ tags-link:
   - "[[apple-watch-s8]]"
 type: archive-web
 ---
-
 ## Origin Content
 
  WATCH - @scalaer - 主要有以下需求：习惯培养，做一些数据收集, 每日热量摄入, 睡眠监控, 运动数据收集人很懒， 担心要频繁充电

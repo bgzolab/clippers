@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 瞬息全宇宙 Everything Everywhere All at Once
 cover: https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869765076.jpg
 aliases:
@@ -22,7 +23,6 @@ type: video
 douban: https://movie.douban.com/subject/30314848/
 imdb: https://www.imdb.com/title/
 ---
-
 ## Comments
 
 - [01:01:05] Feel nice, doesn't it? If nothing matters, then all the pain and guilt you feel for making nothing of your life, it goes away.

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "LINE 五周年，今天可以用它免费拨全球任何电话号码"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

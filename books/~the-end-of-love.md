@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://img9.doubanio.com/view/subject/s/public/s34641524.jpg
 aliases:
   - 爱的终结

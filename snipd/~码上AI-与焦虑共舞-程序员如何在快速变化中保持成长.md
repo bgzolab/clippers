@@ -1,4 +1,5 @@
 ---
+draft: true
 author: DAO
 cover: https://wsrv.nl/?url=https%3A%2F%2Fcdn.daopub.com%2Fimages%2FLogo_DAO.png&w=200&h=200
 created: '2024-12-06T09:36:39'
@@ -10,8 +11,6 @@ source: https://dao.fm/2024/12/07/%e7%a0%81%e4%b8%8aai%ef%bc%9a%e4%b8%8e%e7%84%a
 title: 码上AI：与焦虑共舞，程序员如何在快速变化中保持成长？
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 在这个技术飞速发展的时代，程序员们面对快速更新的技术和激烈的职业竞争，究竟会产生怎样的焦虑与挑战？
 > 本期节目，我们邀请到独立开发者、开源项目积极参与者白宦成，以及字节跳动豆包 MarsCode 智能编程助手团队架构师刘夏，与大家一起深入探讨这一话题。

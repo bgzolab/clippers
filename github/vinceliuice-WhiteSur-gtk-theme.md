@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "WhiteSur-gtk-theme"
   - WhiteSur-gtk-theme
@@ -9,7 +10,6 @@ source: "https://github.com/vinceliuice/WhiteSur-gtk-theme"
 title: WhiteSur-gtk-theme
 type: "repo"
 ---
-
 # WhiteSur-gtk-theme
 
 ![](https://img.shields.io/github/stars/vinceliuice/WhiteSur-gtk-theme?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/vinceliuice/WhiteSur-gtk-theme?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/vinceliuice/WhiteSur-gtk-theme?style=for-the-badge&label=since)

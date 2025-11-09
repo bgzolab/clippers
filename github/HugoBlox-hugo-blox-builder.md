@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "HugoBlox/hugo-blox-builder"
 aliases: "hugo-blox-builder"
 created: 2025-06-07T14:17:28

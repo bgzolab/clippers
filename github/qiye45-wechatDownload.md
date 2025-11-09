@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "wechatDownload"
   - wechatDownload
@@ -9,7 +10,6 @@ source: "https://github.com/qiye45/wechatDownload"
 title: wechatDownload
 type: "repo"
 ---
-
 # wechatDownload
 
 ![](https://img.shields.io/github/stars/qiye45/wechatDownload?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/qiye45/wechatDownload?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/qiye45/wechatDownload?style=for-the-badge&label=since)

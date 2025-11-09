@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "saicaca/fuwari"
 aliases: "fuwari"
 created: 2025-07-04T23:06:33

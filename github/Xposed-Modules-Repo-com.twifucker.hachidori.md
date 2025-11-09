@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Xposed-Modules-Repo/com.twifucker.hachidori
 aliases:
   - com.twifucker.hachidori
@@ -13,7 +14,6 @@ tags-link:
   - "[[xposed]]"
 type: repo
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.twifucker.hachidori?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Xposed-Modules-Repo/com.twifucker.hachidori?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Xposed-Modules-Repo/com.twifucker.hachidori?style=for-the-badge&label=since)

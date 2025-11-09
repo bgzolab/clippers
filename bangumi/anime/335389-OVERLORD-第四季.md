@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '不死者之王 第四季'
   - 'OVERLORD 第四季'
@@ -16,7 +17,6 @@ title: OVERLORD 第四季
 type: bangumi/anime
 website: ['http://overlord-anime.com/']
 ---
-
 # OVERLORD 第四季
 
 アインズは悩んでいた。

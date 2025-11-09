@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 打個電話給你 One Call Away
 cover: https://wsrv.nl/?url=https%3A%2F%2Fi1.sndcdn.com%2Favatars-B2BMSVh50YmC1jAG-vLKGHw-original.jpg&w=200&h=200
 created: '2024-03-14T09:36:39'
@@ -10,8 +11,6 @@ source: https://soundcloud.com/wendyhasatail/222-cutting-off-relatives
 title: 222 斷親：家人們你們真的不懂嗎？Cutting Off Relatives?
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 你和家人的關係怎麼樣？今年過年期間，「斷親」成為一種有點流行的現象：年輕人選擇不回家過年，並且把父母接來自己所在的城市，因此減少了走親戚拜年的行為。於是我們不禁回想起自己過年的體驗，以及我們怎麼看待「斷親」這個現象呢？
 > /

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 庄明浩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFmjICGq_6HGf-_e1Rh11N-hjoWNI.png&w=200&h=200
 created: '2025-02-07T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/67a5a7e4247d51713c228ca1?utm_source
 title: Vol.51 那些关于DeepSeek的谣言与误解
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 春节期间整个科技行业最大的新闻应该是DeepSeek了，
 > 假期中就有很多朋友问我是否要做一期关于DeepSeek的节目，

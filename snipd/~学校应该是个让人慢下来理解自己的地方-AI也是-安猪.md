@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 凉意
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F4d1e-audiofreehighqps%2F7E%2F39%2FCMCoOSEDXNxhAAOwEQBdODX4.jpeg&w=200&h=200
 created: '2024-04-01T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/719322681
 title: E147 学校应该是个让人慢下来理解自己的地方，AI也是｜安猪
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 【内容简介】本期节目邀请到“多背一公斤”“一公斤盒子”以及“慢学校”的创始人安猪。顺着教育这个脉络，我们展开了关于AI与人类发展的对谈。随着对话的深入，我们发现AI的真正价值其实被封印着，AI被现代人的思维局限所“封印”的用法，指向人类与社会不一样的未来。
 > 【摘要】 

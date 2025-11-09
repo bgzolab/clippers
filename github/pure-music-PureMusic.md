@@ -1,4 +1,5 @@
 ---
+draft: true
 title: pure-music/PureMusic
 aliases:
   - PureMusic
@@ -12,7 +13,6 @@ tags:
 tags-link: 
 type: repo
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/pure-music/PureMusic?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/pure-music/PureMusic?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/pure-music/PureMusic?style=for-the-badge&label=since)

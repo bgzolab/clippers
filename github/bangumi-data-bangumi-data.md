@@ -1,4 +1,5 @@
 ---
+draft: true
 title: bangumi-data/bangumi-data
 aliases:
   - bangumi-data

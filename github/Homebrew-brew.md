@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "brew"
 created: 2025-01-20T20:57:26
@@ -10,7 +11,6 @@ tags:
 title: Homebrew-brew
 type: "repo"
 ---
-
 # Homebrew-brew
 
 ## Meta

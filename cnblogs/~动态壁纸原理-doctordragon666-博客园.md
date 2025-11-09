@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 动态壁纸原理
   - ~动态壁纸原理 -doctordragon666- 博客园
@@ -8,7 +9,6 @@ source: https://www.cnblogs.com/riverstream/p/-/dynamic_paper
 title: 动态壁纸原理
 type: archive-web
 ---
-
 # 动态壁纸原理
 
 ## 动态壁纸原理揭秘

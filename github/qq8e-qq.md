@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "qq8e/qq"
 aliases: "qq"
 created: 2025-06-07T14:44:54

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 404神隐体验馆
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFgcvRTuBSvcaed0fE05NJfm7RElV.jpg&w=200&h=200
 created: '2025-03-25T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/67e21f9cdd11f9c8c1eaea95?utm_source
 title: 75｜你还拥有这种「不会被AI取代」的能力吗？
 type: podcast-episode
 ---
-
-
 ## Show notes
 > /🎬 引言/  这一期节目是从我们跟朋友小袁先聊起的话题——我们平时都在如何使用AI？
 > 我们观察到两种情况，一种是无论任何事情都将AI当作是「搜索引擎」，另一种会先思考答案再询问AI。这两种方式并没有谁对谁错的区别，只是 我们也在这样的「惯性思维」里面渐渐发现了一个问题——人们对问题解构的能力正在丧失？ 

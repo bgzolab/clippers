@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 我为什么放弃了 iPad Pro？
 created: 2025-09-06T11:57:20
@@ -9,7 +10,6 @@ tags: []
 title: 我为什么放弃了 iPad Pro？
 type: "archive-web"
 ---
-
 # 我为什么放弃了 iPad Pro？
 
 [数字工具指南](https://www.huxiu.com/club/1016.html?object_type=51&object_id=23)

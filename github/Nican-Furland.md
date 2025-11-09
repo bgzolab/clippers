@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Nican/Furland"
 aliases: "Furland"
 created: 2025-06-07T14:37:42

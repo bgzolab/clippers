@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 携隐Melody
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F8457-audiofreehighqps%2FA8%2F57%2FGKwRIMAICqZJAAaI0gINeweX.jpeg&w=200&h=200
 created: '2023-02-17T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/611583415
 title: EP010.《毫无意义的工作》：ChatGPT们能让我们脱离996吗？
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 英国有37%的人，认为自己的工作是毫无意义的狗屁工作，取消了也不会对这个世界产生任何影响，甚至可能还会让世界更美好。在剩下63%的非狗屁工作中，一半工作内容也是狗屁化的，比如开无用的会议，和应付各种行政工作，并且大部分工作目前还在快速进一步狗屁化中。
 > 这么一算，超过2/3的工作是狗屁工作。把这些工作全取消，我们就进入了凯恩斯在1930年预测的，由于科技进步，20世纪末人们将「每周工作15小时」的美好生活。那为什么我们还要把剩余的时间用狗屁工作填满？David Graeber的这本《毫无意义的工作》，提供了犀利而深刻的答案。 

@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-08-05T12:00:00
 source: https://www.coolapk.com/feed/55898308?shareKey=NTZlMmRhYzg2NDk0NjZiMGVmZWU~
 type: archive-web
 modified: 2025-01-15T11:38:15
 ---
-
 tags: #samsung
 
 众嗦粥汁，平板上的 oneUI 功能丰富，可最最基础的系统流畅度却依旧开摆。恰巧遇上自家半导体犯病，这代平板的日用体验堪称灾难。（很难不联想到某 UI12.5![白眼](http://static.coolapk.com/emoticons/v9/coolapk_emotion_84_baiyan.png)） 面对这样一台用着旗舰芯片却难以确保日用流畅度的机器，必须重拳出击！👊🏻 本文将围绕系统服务、Kernel SU 模块、GPU 降压超频和 Femind 进行优化，所有文件打包放在文末

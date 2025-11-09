@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 吴涛-开发者-podcast主播-利器
 created: 2022-01-19T09:41:00
 modified: 2025-01-19T12:09:19
@@ -8,7 +9,6 @@ tags:
 tags-link: 
 type: archive-web
 ---
-
 Jun 7, 2015 00:00 · 1667 words · 4 minute read
 
 ![](https://liqi.io/images/wutao1.jpg)

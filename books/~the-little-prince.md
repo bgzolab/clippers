@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: 
 aliases: 小王子
 author: Antoine de Saint-Exupéry
@@ -13,7 +14,6 @@ type: book
 douban: https://book.douban.com/subject/1370897
 weread: 
 ---
-
   - > 1943 年 首次出版
     > 1944 年 7 月, 作者在执行飞行任务时失联，从此再也没有回来
   - 小王子与玫瑰的爱情、可怕的猴面包树、专制的国王、痴迷于加法的红脸先生、执着的点灯人、小王子与狐狸的友情、沙漠中的水井与歌

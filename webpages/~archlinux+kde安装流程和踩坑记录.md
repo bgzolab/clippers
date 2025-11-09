@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-01-06T12:00:00
 source: https://blog.azurezeng.com/installation-guide-for-archlinux-kde/
 type: archive-web
 modified: 2025-01-15T11:38:16
 ---
-
 ## Arch Linux+KDE 安装流程和踩坑记录 – Azure Zeng Blog
 
   由于对 Ubuntu 的 Snap Store 存在不满，并且自己也想整一个个性化，最新内核，并且能做到所有安装的功能都用在刀刃上的 Linux，于是这段时间对 Arch Linux 进行了一些研究。当然，学到了很多。

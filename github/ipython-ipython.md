@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "ipython/ipython"
 aliases: "ipython"
 created: 2025-06-07T15:25:01

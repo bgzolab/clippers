@@ -1,10 +1,10 @@
 ---
+draft: true
 aliases: 显然乐队
 created: 2023-01-15
 tags:
 type: band
 ---
-
 ## Members
   - 阿琺－主唱、吉他
   - 小杜－鼓手

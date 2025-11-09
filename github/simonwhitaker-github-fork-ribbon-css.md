@@ -1,4 +1,5 @@
 ---
+draft: true
 title: simonwhitaker/github-fork-ribbon-css
 aliases:
   - github-fork-ribbon-css
@@ -10,7 +11,6 @@ tags:
   - github/star
 type: repo
 ---
-
 ## Meta
 
 ![](https://img.shields.io/github/stars/simonwhitaker/github-fork-ribbon-css?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/simonwhitaker/github-fork-ribbon-css?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/simonwhitaker/github-fork-ribbon-css?style=for-the-badge&label=date)

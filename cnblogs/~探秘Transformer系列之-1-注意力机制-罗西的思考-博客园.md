@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 探秘 Transformer 系列之（1）：注意力机制 - 罗西的思考
 created: 2025-07-22T13:59:01
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/rossiXYZ/p/18705809
 title: 探秘 Transformer 系列之（1）：注意力机制 - 罗西的思考
 type: archive-web
 ---
-
 # 探秘 Transformer 系列之（1）：注意力机制 - 罗西的思考
 
 # 探秘 Transformer 系列之（1）：注意力机制

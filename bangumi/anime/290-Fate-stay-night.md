@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '命运守护夜'
   - '命运之漫漫长夜'
@@ -19,7 +20,6 @@ title: Fate/stay Night
 type: bangumi/anime
 website: ['https://www.nbcuni.co.jp/rondorobe/anime/staynight/top.html']
 ---
-
 # Fate/stay Night
 
 传说中，圣杯是能够实现拥有者愿望的宝物。 为了让这圣杯出现必须要进行一项仪式 被圣杯所选的七位魔术师 MASTER 将被赐与圣杯所选出的七位使魔 SERVANT 剑士“SABER” 枪兵“LANCER” 弓兵“ARCHER” 骑兵“RIDER” 魔术师“CASTER” 暗杀者“ASSASSIN” 狂战士“BERSERKER” 魔术师必须与这七种类的使魔其中一位订下契约并证明自己是最适合圣杯的人 换言之，魔术师必须消去其它的魔术师来证明自己是最强的 这样一整个求取圣杯的仪式被称为 “圣杯战争……

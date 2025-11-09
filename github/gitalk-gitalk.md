@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: [gitalk/gitalk, "gitalk"]
 created: 2025-07-02T22:58:02
 description: "Gitalk is a modern comment component based on Github Issue and Preact."
@@ -9,7 +10,6 @@ tags-link:
 title: gitalk/gitalk
 type: "repo"
 ---
-
 # gitalk/gitalk
 
 ![](https://img.shields.io/github/stars/gitalk/gitalk?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/gitalk/gitalk?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/gitalk/gitalk?style=for-the-badge&label=since)

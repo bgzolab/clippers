@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "学鲁迅救不了中国人 – zmt"
 created: 2025-04-05T15:50:55
 modified: 2025-04-05T15:50:55
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # 学鲁迅救不了中国人
 
 最近有医生被刁患斩杀，又有人把鲁迅的经典名言搬了出来“学医救不了中国人”。  

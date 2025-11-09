@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - cli
   - cli/cli
@@ -13,7 +14,6 @@ tags-link:
 title: cli/cli
 type: repo
 ---
-
 # cli/cli
 
 ![](https://img.shields.io/github/stars/cli/cli?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/cli/cli?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/cli/cli?style=for-the-badge&label=since)

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Lessica/TrollRecorder"
 aliases: "TrollRecorder"
 created: 2025-05-11T11:07:19

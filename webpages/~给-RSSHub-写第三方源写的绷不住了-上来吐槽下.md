@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "给-RSSHub-写第三方源写的绷不住了-上来吐槽下"
 created: 2025-03-24T20:52:27
 modified: 2025-03-24T20:52:38
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 
 看我这大晚上发帖，你们应该能想到我现在的心情，纯粹牢骚一下。也许你会说发牢骚干嘛不去 RSSHub repo 下。额，主要还是因为我已经放弃了给它写源了，所以也不打算去 repo 下多引发争议。

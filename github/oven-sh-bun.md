@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "bun"
   - Bun
@@ -9,7 +10,6 @@ source: "https://github.com/oven-sh/bun"
 title: Bun
 type: "repo"
 ---
-
 # Bun
 
 ![](https://img.shields.io/github/stars/oven-sh/bun?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/oven-sh/bun?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/oven-sh/bun?style=for-the-badge&label=since)

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "allejo/jekyll-toc"
 aliases: "jekyll-toc"
 created: 2025-06-07T13:56:39

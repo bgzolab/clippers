@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - (已解决) 求安卓 tachiyomi/mihon 添加 webdav/FTP/SMB 服务器方式/软件
 created: 2025-10-16T05:16:35
@@ -9,7 +10,6 @@ tags: []
 title: (已解决) 求安卓 tachiyomi/mihon 添加 webdav/FTP/SMB 服务器方式/软件
 type: "archive-web"
 ---
-
 # (已解决) 求安卓 tachiyomi/mihon 添加 webdav/FTP/SMB 服务器方式/软件
 
 虽然 tachiyomi 插件 Mango, lanraragi, komga​, Suwayomi，Kavita 等这些服务器支持但都依赖 PC❗而且貌似还只支持独家的，所以想找摆脱 PC 能用的，以下是窝搜集到的相关信息：

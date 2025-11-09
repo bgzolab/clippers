@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: Designing Data-Intensive Applications, books/设计数据密集型应用
 tags: #database
 author: Martin Kleppmann
@@ -10,7 +11,6 @@ created: 2023-03-28
 douban: https://book.douban.com/subject/26197294 ； https://book.douban.com/subject/30329536/
 source: https://github.com/Vonng/ddia
 ---
-
 ## ![Designing Data-Intensive Applications](../assets/book_designing_data-Intensive_applications.pdf)
 ## Contents
   - [序言](http://ddia.vonng.com/#/preface)

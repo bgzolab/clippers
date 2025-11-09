@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Yt-dlp 使用教程 - Leone-
 created: 2025-08-07T15:08:36
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/doseoer/p/19026892
 title: Yt-dlp 使用教程 - Leone-
 type: archive-web
 ---
-
 # Yt-dlp 使用教程 - Leone-
 
 之前用 you-get、youtube-dl 下载油管视频都很慢，只有几十 KB 最多。于是网上找到了这个 yt-dlp 的代替工具。项目地址：https://github.com/yt-dlp/yt-dlp

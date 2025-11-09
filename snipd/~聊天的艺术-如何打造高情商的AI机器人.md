@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 硅谷101
 cover: https://wsrv.nl/?url=https%3A%2F%2Fmedia24.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2Ff%2Ff0f20376-8faf-4940-b920-84af6c734e2d%2Fcover.jpg%3Fv%3D6&w=200&h=200
 created: '2025-02-26T09:36:39'
@@ -10,8 +11,6 @@ source: https://sv101.fireside.fm/189
 title: E181｜聊天的艺术：如何打造高情商的AI机器人？
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 在ChatGPT Moment之后，AI的进化方向也悄然发生了分化。一个会 示弱 的AI，反而因为不完美而显得更真实。本期节目我们将探讨当AI具备共情力和高情商，人机互动与社交体验将会迎来怎样的转变。
 > 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: MonitorControl/MonitorControl
 aliases:
   - MonitorControl
@@ -12,7 +13,6 @@ tags:
 tags-link: 
 type: repo
 ---
-
 ## Meta
 
 ![](https://img.shields.io/github/stars/MonitorControl/MonitorControl?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/MonitorControl/MonitorControl?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/MonitorControl/MonitorControl?style=for-the-badge&label=since)

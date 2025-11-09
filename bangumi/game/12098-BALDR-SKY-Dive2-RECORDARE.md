@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 'BALDR SKY Dive2 RECORDARE'
   - 'Baldrsky 2'
@@ -15,7 +16,6 @@ title: BALDR SKY Dive2 RECORDARE
 type: bangumi/game
 website: ['http://www.web-giga.com/baldrsky/']
 ---
-
 # BALDR SKY Dive2 RECORDARE
 
 某一天，星修学园的学生门仓甲，在虚构的战场中醒来了。

@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-07-27T12:00:00
 source: https://www.zhihu.com/question/23728226/answer/25530432
 type: archive-web
 modified: 2025-01-15T11:38:20
 ---
-
 做过 AES 加密，隐约记得 AES-256 的处理速度好像是 10MB/s，假设破解 ZIP 文件需要读一个扇区的数据，那么一秒能处理 20480 个扇区，24 小时一共能处理:
 
 20480*3600*24=1769472000 = 1.769472e+9

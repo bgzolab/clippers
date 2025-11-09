@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 曾博恩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FAvatar%2Fckyjmnkp0166d0830od1kznfj%2F1642480792231.png&w=200&h=200
 created: '2025-03-24T09:36:39'
@@ -10,8 +11,6 @@ source: https://open.firstory.me/story/cm8injrwu045p010ba4yl9m0s
 title: EP167 | 關於音樂關於愛 ft. 怡岑
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 這一集我們討論了怡岑的起源故事、音樂喜劇的不同寫法，以及戀愛實境節目    ✧ 2025 怡岑《要到你想逃》音樂喜劇專場 ✧  🍒 好評加場熱賣中 ➨ https://str.network/EXITSB  ⠀  用一把吉他唱出你各位  那些不敢說的情勒日常  \#怡岑 \#要到你想逃 \#音樂喜劇    ▹ ▹ 追蹤看更多  訂閱最新消息 » https://str.network/rnbrian  Instagram » https://www.instagram.com/brianptseng/  Facebook » https://www.facebook.com/brianstandup  YouTube »   ｜曾博恩： https://www.youtube.com/@brianptseng   ｜博恩站起來：https://www.youtube.com/@StandupBrian    本節目由【月城南廣告】業務代理及製作  💌Podcast 商業合作信箱：business@lumosads.biz
 > Powered by  Firstory Hosting

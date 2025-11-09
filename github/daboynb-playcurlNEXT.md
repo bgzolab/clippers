@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "daboynb/playcurlNEXT"
 aliases: "playcurlNEXT"
 created: 2025-05-11T15:45:52

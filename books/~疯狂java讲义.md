@@ -1,4 +1,5 @@
 ---
+draft: true
 cover: https://img3.doubanio.com/view/subject/s/public/s27273703.jpg
 author: 李刚
 created: 2022-11-25T00:00:00
@@ -13,7 +14,6 @@ douban: https://book.douban.com/subject/10436048
 weread: https://weread.qq.com/web/bookDetail/239324a05a6578239cd415d
 modified: 2025-03-30T22:49:35
 ---
-
 ## Backgroud
   - [Java 从开始到放弃 求大佬推荐一本书 - V2EX](https://v2ex.com/t/714143)
   - [《On Java 8》中文版 | OnJava8](https://lingcoder.github.io/OnJava8/#/)

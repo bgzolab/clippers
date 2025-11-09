@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: ["awesome-diff-tools", mmueller2012/awesome-diff-tools]
 created: 2025-07-01T21:02:06
 description: "Awesome tools that show differences between files and folders."
@@ -9,7 +10,6 @@ tags-link:
 title: mmueller2012/awesome-diff-tools
 type: "repo"
 ---
-
 # mmueller2012/awesome-diff-tools
 
 ![](https://img.shields.io/github/stars/mmueller2012/awesome-diff-tools?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mmueller2012/awesome-diff-tools?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mmueller2012/awesome-diff-tools?style=for-the-badge&label=since)

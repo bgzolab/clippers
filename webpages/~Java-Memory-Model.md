@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Java-Memory-Model"
 created: 2025-03-16T22:46:01
 modified: 2025-03-16T22:46:01

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 庄明浩
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFmjICGq_6HGf-_e1Rh11N-hjoWNI.png&w=200&h=200
 created: '2025-05-30T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/683937c838dcc57c64b99ab3?utm_source
 title: Vol.62 AI会带来智力平权吗？如果是，那然后呢？--狂喜播客节-贰狂
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 这是贰狂上一场发生在“老朋友”之间的对谈。
 > 晚点聊 LateTalk  的主播曼祺    果壳网 CEO 姬十三     乱翻书  的主播潘乱   一起聊了聊AI的话题……

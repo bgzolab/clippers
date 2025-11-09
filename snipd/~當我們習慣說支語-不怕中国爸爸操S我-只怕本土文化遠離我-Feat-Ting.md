@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 咪咪 & 淳淳
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.firstory-cdn.me%2FAvatar%2Fcka6k6bqhcrtk087375gj8mxj%2F1734278849291.jpg&w=200&h=200
 created: '2025-03-11T09:36:39'
@@ -10,8 +11,6 @@ source: https://open.firstory.me/story/cm836r7uy0e8m0113e6omdno9
 title: EP180 當我們習慣說支語：不怕中国爸爸操S我，只怕本土文化遠離我 Feat.Ting
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 充滿人情味的在地Podcast《彰話噪咖》
 > 帶大家探索彰化

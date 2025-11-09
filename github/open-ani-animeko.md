@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Animeko
   - "animeko"
@@ -13,7 +14,6 @@ tags-link:
 title: Animeko
 type: "repo"
 ---
-
 # Animeko
 
 ![](https://img.shields.io/github/stars/open-ani/animeko?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/open-ani/animeko?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/open-ani/animeko?style=for-the-badge&label=since)

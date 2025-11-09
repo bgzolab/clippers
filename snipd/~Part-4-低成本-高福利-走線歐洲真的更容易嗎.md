@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 端传媒音頻 | Initium Audio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fassets.pippa.io%2Fshows%2F66b07190af99592b5329f43a%2Fshow-cover.jpeg&w=200&h=200
 created: '2024-08-16T09:36:39'
@@ -10,8 +11,6 @@ source: https://theinitium.com/article/20240816-initium-audio-china-migrants-eur
 title: Part 4｜「低成本、高福利」走線歐洲真的更容易嗎？
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 來自世界各地的移民，一直試圖走「巴爾幹路線」進入歐盟；而最近一年，不少中國人加入了這一行列。他們說，比起美國，走線到歐洲的時間更短，成本更低。
 > 在當地，偷渡並不叫做走線，而叫做「game」，就是英文的「遊戲」。

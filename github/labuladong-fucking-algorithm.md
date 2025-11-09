@@ -1,4 +1,5 @@
 ---
+draft: true
 title: labuladong/fucking-algorithm
 aliases: fucking-algorithm
 created: 2025-04-03T23:53:06
@@ -11,7 +12,6 @@ tags:
 tags-link: 
 type: repo
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/labuladong/fucking-algorithm?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/labuladong/fucking-algorithm?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/labuladong/fucking-algorithm?style=for-the-badge&label=since)

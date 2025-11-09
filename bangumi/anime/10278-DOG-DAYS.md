@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '犬勇者物语'
   - '三伏天'
@@ -16,7 +17,6 @@ title: DOG DAYS
 type: bangumi/anime
 website: ['http://www.dogdays.tv']
 ---
-
 # DOG DAYS
 
 总而言之是日本少年被召唤到异世界的兽耳王国成为勇士的故事。

@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-12-28T10:34:03
 source: "https://aries15.github.io/dlsite-guide/"
 type: "archive-web"
 modified: 2025-01-15T11:38:15
 ---
-
 原本是写在知乎上的，曾经被人举报删了一次回答，现在居然整个问题都被举报没了。
 
 ## 访问

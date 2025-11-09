@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 「统计」一些 STEAM 未能过审的 GAL 作品整理
 created: 2023-03-22T20:13:06
@@ -9,7 +10,6 @@ tags: []
 title: 「统计」一些 STEAM 未能过审的 GAL 作品整理
 type: "archive-web"
 ---
-
 # 「统计」一些 STEAM 未能过审的 GAL 作品整理
 
 「统计」一些 STEAM 未能过审的 GAL 作品整理 [APhantom](https://www.xiaoheihe.cn/app/user/profile/26015759)

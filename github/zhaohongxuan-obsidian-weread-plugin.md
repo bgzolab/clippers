@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Obsidian weread plugin
 created: 2025-03-09T10:49:58
@@ -11,7 +12,6 @@ tags-link:
 title: Obsidian weread plugin
 type: repo
 ---
-
 # Obsidian [[weread]] plugin
 
 ![](https://img.shields.io/github/stars/zhaohongxuan/obsidian-weread-plugin?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/zhaohongxuan/obsidian-weread-plugin?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/zhaohongxuan/obsidian-weread-plugin?style=for-the-badge&label=since)

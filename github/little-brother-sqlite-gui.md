@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "sqlite-gui"
   - Little-brother-sqlite-gui
@@ -12,7 +13,6 @@ tags-link:
 title: Little-brother-sqlite-gui
 type: "repo"
 ---
-
 # Little-brother-sqlite-gui
 
 ## Repo Meta

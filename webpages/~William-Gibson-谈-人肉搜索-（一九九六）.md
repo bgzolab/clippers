@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "William Gibson 谈「人肉搜索」（一九九六）"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

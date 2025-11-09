@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "gohugoio/hugo"
 aliases: "hugo"
 created: 2025-06-08T00:43:37

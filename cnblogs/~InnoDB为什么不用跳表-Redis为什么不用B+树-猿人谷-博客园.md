@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - InnoDB 为什么不用跳表，Redis 为什么不用 B+ 树？ - 猿人谷
 created: 2025-08-19T10:21:58
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/heyonggang/p/19032169
 title: InnoDB 为什么不用跳表，Redis 为什么不用 B+ 树？ - 猿人谷
 type: archive-web
 ---
-
 # InnoDB 为什么不用跳表，Redis 为什么不用 B+ 树？ - 猿人谷
 
 要回答为什么 InnoDB（MySQL 的存储引擎）使用 B+ 树而不是跳表（Skip List），以及为什么 Redis 使用跳表而不是 B+ 树，需要分析两者的数据结构特性、使用场景和设计目标。以下是详细的对比和原因分析。

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '命运守护夜 无限剑制'
   - '命运之夜 无限剑制'
@@ -20,7 +21,6 @@ title: Fate/stay Night [Unlimited Blade Works] 第二季
 type: bangumi/anime
 website: ['http://www.fate-sn.com/ubw/']
 ---
-
 # Fate/stay Night [Unlimited Blade Works] 第二季
 
 Fate/stay night [Unlimited Blade Works] 分割放送的第二期

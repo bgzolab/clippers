@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Web-Fonts"
 created: 2025-01-16T08:57:49
 modified: 2025-01-16T09:29:07
@@ -8,7 +9,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 [Back to Class Four page »](http://web.simmons.edu/~grabiner/comm244/class4.html)
 
 In the labs we have over **2,500** fonts to choose from.

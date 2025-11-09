@@ -1,4 +1,5 @@
 ---
+draft: true
 title: ~Mihon-(Tachiyomi)-使用教學-手機免費看漫畫的開源APP-附常用漫畫源
 aliases: []
 created: 2025-04-13T23:34:30
@@ -8,7 +9,6 @@ tags:
 tags-link: 
 type: archive-web
 ---
-
 這是一款讓你自由看線上漫畫的好用 APP「Mihon」，完全免費，無廣告。![](https://freehands.cc/posts/mihon-manga-reader/images/title.webp)
 
 Mihon 特色如下：

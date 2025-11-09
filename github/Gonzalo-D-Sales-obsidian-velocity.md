@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Gonzalo-D-Sales/obsidian-velocity"
 aliases: "obsidian-velocity"
 created: 2025-09-14T09:37:02

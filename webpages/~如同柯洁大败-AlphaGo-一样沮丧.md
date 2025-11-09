@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 如同柯洁大败-AlphaGo-一样沮丧
 created: 2025-03-24T20:40:54
 modified: 2025-03-24T20:42:01
@@ -7,7 +8,6 @@ tags:
 tags-link: 
 type: archive-web
 ---
-
 ## Origin Content
 
 职场话题 - @zhoumin9602 - 一个经验丰富，敲码如神得程序员能够快速的实现需求和定位处理问题，靠的是丰富的知识储备，和活跃的编程思维，以及准备的问题检索能力。但是这些靠时间和经历积累来的能力，好像在 ai 面前不值一提。一个普

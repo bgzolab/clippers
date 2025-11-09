@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "esofar/cnblogs-theme-silence"
 aliases: "cnblogs-theme-silence"
 created: 2025-06-07T14:09:59

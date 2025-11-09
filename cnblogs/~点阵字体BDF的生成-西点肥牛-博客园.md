@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 点阵字体 BDF 的生成 - 西点肥牛
 created: 2025-08-11T09:39:01
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/kenlewis/p/19028193
 title: 点阵字体 BDF 的生成 - 西点肥牛
 type: archive-web
 ---
-
 # 点阵字体 BDF 的生成 - 西点肥牛
 
 做点阵字体的原因，是我觉得 Windows 下的 16 点阵的宋体不如原来 DOS 下的好看。在分析点阵字体的时候，就萌生了要把 Windows 下的 TTF 字体转成点阵字体的想法。

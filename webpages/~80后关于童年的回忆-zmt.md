@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "80后关于童年的回忆 – zmt"
 created: 2025-04-05T15:50:56
 modified: 2025-04-05T15:50:56
@@ -7,8 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
-
 # 80后关于童年的回忆
 
 今天看到9岁女孩作业做不完跳楼自杀的新闻，深感震惊。

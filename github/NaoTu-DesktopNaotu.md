@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "NaoTu/DesktopNaotu"
 aliases: "DesktopNaotu"
 created: 2025-06-07T15:55:59

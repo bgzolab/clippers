@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "h5player"
   - h5player
@@ -9,7 +10,6 @@ source: "https://github.com/xxxily/h5player"
 title: h5player
 type: "repo"
 ---
-
 # h5player
 
 ![](https://img.shields.io/github/stars/xxxily/h5player?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/xxxily/h5player?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/xxxily/h5player?style=for-the-badge&label=since)

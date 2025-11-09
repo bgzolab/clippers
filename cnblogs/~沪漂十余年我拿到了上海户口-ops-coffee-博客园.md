@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 沪漂十余年我拿到了上海户口
   - ~沪漂十余年我拿到了上海户口 -ops-coffee- 博客园
@@ -8,7 +9,6 @@ source: https://www.cnblogs.com/37Y37/p/17584152.html
 title: 沪漂十余年我拿到了上海户口
 type: archive-web
 ---
-
 # 沪漂十余年我拿到了上海户口
 
 [![](https://img2024.cnblogs.com/blog/35695/202508/35695-20250830122018806-1574270965.jpg)](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101750143863263087?ha_source=BKYQ3&ha_sourceId=89000408)

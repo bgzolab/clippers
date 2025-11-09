@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Extreme frugality is a personal finance problem no one talks about—but it can be bad to save too much"
 created: 2025-04-05T15:50:55
 modified: 2025-04-05T15:50:55
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # Extreme frugality is a personal finance problem no one talks about—but it can be bad to save too much
 
 

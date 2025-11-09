@@ -1,4 +1,5 @@
 ---
+draft: true
 author: JR Lee Radio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11838469%2F11838469-1610182098785-d439d38e8e027.jpg&w=200&h=200
 created: '2025-02-17T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/jr-lee/episodes/The-JR-Lee-Podca
 title: 《高效回報》如何成為領袖：成為培育更多領袖的領導者｜The JR Lee Podcast Ep073
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 《高效回報》一書是約翰・麥斯威爾關於栽培領袖的著作。領導文化是培育新秀，為組織帶來複利效應的必要文化。今天來淺談，如何成為一個樹人無數的優秀領導者。
 > 

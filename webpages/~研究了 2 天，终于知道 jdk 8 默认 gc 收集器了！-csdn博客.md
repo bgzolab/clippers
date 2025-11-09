@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-05-25T12:00:00
 source: https://blog.csdn.net/youanyyou/article/details/106464291
 type: archive-web
 modified: 2025-01-15T11:39:54
 ---
-
 > JDK 8 到底默认用的是哪款 GC 收集器？
 
 为啥是 JDK8？不是 9 也不是 10？因为 JDK8 还是市场占有率最高的，所以针对这个版本我做了深入的探索。

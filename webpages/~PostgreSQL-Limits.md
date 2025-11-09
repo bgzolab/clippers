@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - PostgreSQL Limits
 created: 2025-07-19T12:24:33
@@ -9,7 +10,6 @@ tags: []
 title: PostgreSQL Limits
 type: "archive-web"
 ---
-
 # PostgreSQL Limits
 
 [Table K.1](https://www.postgresql.org/docs/13/limits.html#LIMITS-TABLE "Table K.1. PostgreSQL Limitations") describes various hard limits of PostgreSQL. However, practical limits, such as performance limitations or available disk space may apply before absolute hard limits are reached.

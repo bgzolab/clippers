@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 全世界为什么只有中国人把 吃苦 当美德 吃苦真的能带来成功吗 Why Do Chinese People Glorify Hardship
 author:
@@ -15,7 +16,6 @@ tags:
 title: 全世界为什么只有中国人把 吃苦 当美德 吃苦真的能带来成功吗 Why Do Chinese People Glorify Hardship
 type: "video"
 ---
-
 # 全世界为什么只有中国人把 吃苦 当美德 吃苦真的能带来成功吗 Why Do Chinese People Glorify Hardship
 
 ## Source

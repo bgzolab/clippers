@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "我给Linux提交了漏洞，能保送深圳大学研究生吗？"
 created: 2021-04-05T12:39:34
 modified: 2021-04-05T12:39:34

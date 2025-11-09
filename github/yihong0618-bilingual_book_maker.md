@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "yihong0618/bilingual_book_maker"
 aliases: "bilingual_book_maker"
 created: 2025-06-07T15:17:46
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/yihong0618/bilingual_book_maker?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/yihong0618/bilingual_book_maker?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/yihong0618/bilingual_book_maker?style=for-the-badge&label=since)

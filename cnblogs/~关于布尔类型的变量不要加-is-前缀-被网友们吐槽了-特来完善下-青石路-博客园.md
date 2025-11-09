@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 关于布尔类型的变量不要加 is 前缀，被网友们吐槽了，特来完善下 - 青石路
 created: 2025-08-18T14:20:10
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/youzhibing/p/19034101
 title: 关于布尔类型的变量不要加 is 前缀，被网友们吐槽了，特来完善下 - 青石路
 type: archive-web
 ---
-
 # 关于布尔类型的变量不要加 is 前缀，被网友们吐槽了，特来完善下 - 青石路
 
 ## 开心一刻

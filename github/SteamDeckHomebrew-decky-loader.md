@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "SteamDeckHomebrew/decky-loader"
 aliases: "decky-loader"
 created: 2024-04-07T13:16:04

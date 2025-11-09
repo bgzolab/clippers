@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 宇宙模特公司
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F597e-audiofreehighqps%2F6D%2F90%2FGKwRIJIIQonMAAmg6QIgSPm9.jpeg&w=200&h=200
 created: '2024-03-10T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/712966480
 title: VOL 137 - 曾经我茫然前行，现在我爆锤傻X
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 人类发明了一个新的科技，给每个人都植入一种芯片，每当有人作恶犯浑，他的脑袋就会突然瞬间爆炸，嘭一声，升起一片红色的血雾，化作一朵绯色的云霞。
 > 有人随地吐痰，嘭！

@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 少数派
 cover: https://wsrv.nl/?url=https%3A%2F%2Fi.typlog.com%2Fsspai%2F8339963934_163514.png%3Fx-oss-process%3Dstyle%2Fsl&w=200&h=200
 created: '2023-09-11T09:36:39'
@@ -10,8 +11,6 @@ source: https://sspai.typlog.io/episodes/ep108
 title: 劲爆、缺德大集合：漫谈 Apple 新品发布会
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 本期节目是我派友台《 皮蛋漫游记 》（两颗皮蛋）的经典保留项目，Nick 再度参与录制。节目主要针对即将召开的 Apple 九月新品发布会展开了预测，并在一次次「缺德」发言中演变成了一场大型暴言表演。
 > 

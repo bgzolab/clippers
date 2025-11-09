@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2023-04-08T12:00:00
 source: "https://blog.simona.life/posts/chatgpt_sql"
 type: "archive-web"
 modified: 2025-01-15T11:38:18
 ---
-
 ![alt text](https://i.typlog.com/simona/8320703910_016098.png)朋友们，想转行数据吗？那我的第一个问题就会是，你会写 SQL 吗？
 
 之前有 [推荐过几个SQL的课程](https://blog.simona.life/posts/how-to-start-learning-data-analytics-with-zero-background)，其实有了 ChatGPT 之后，连 SQL 课程都不需要了。甚至连在电脑上安装 SQL，这件曾经让我很崩溃，几乎要放弃 SQL 的事情也不需要了。家庭教师 ChatGPT 都可以提供！

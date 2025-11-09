@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "emuplace/sudachi.emuplace.app"
 aliases: "sudachi.emuplace.app"
 created: 2025-05-11T15:12:25

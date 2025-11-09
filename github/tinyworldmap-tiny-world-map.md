@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "tinyworldmap/tiny-world-map"
 aliases: "tiny-world-map"
 created: 2025-03-31T22:15:36

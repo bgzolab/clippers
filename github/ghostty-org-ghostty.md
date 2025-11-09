@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "ghostty"
   - Ghostty
@@ -9,7 +10,6 @@ source: "https://github.com/ghostty-org/ghostty"
 title: Ghostty
 type: "repo"
 ---
-
 # Ghostty
 
 ![](https://img.shields.io/github/stars/ghostty-org/ghostty?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ghostty-org/ghostty?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ghostty-org/ghostty?style=for-the-badge&label=since)

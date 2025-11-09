@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - GitHub 上 Star 数量前 20 的开源 AI 项目 - NocoBase
 created: 2025-08-07T11:21:10
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/nocobase/p/19026380
 title: GitHub 上 Star 数量前 20 的开源 AI 项目 - NocoBase
 type: archive-web
 ---
-
 # GitHub 上 Star 数量前 20 的开源 AI 项目 - NocoBase
 
 原文链接：https://www.nocobase.com/cn/blog/github-open-source-ai-projects.

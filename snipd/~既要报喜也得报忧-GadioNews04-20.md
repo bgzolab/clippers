@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 机核网
 cover: https://wsrv.nl/?url=https%3A%2F%2Falioss.gcores.com%2Fdownload%2Fpodcast%2Fgadio.png%3Fv%3D1&w=200&h=200
 created: '2024-04-20T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.gcores.com/radios/180244
 title: 既要报喜也得报忧 GadioNews04.20
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 4月17日任天堂Indie World独立游戏直面会多款新作消息，拉瑞安针对行业锐评频出，《空洞骑士：丝之歌》消息连连。XGP、PS+游戏库辞旧迎新。
 

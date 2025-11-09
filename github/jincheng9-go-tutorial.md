@@ -1,4 +1,5 @@
 ---
+draft: true
 title: jincheng9/go-tutorial
 aliases:
   - go-tutorial
@@ -12,7 +13,6 @@ tags-link:
   - "[[golang]]"
 type: repo
 ---
-
 ## Meta
 
 ![](https://img.shields.io/github/stars/jincheng9/go-tutorial?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jincheng9/go-tutorial?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jincheng9/go-tutorial?style=for-the-badge&label=since)

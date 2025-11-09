@@ -1,4 +1,5 @@
 ---
+draft: true
 title: microsoft/winget-cli
 aliases: winget-cli
 created: 2025-04-04T11:00:05

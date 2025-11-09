@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2025-01-10T10:57:15
 source: "https://www.ffutop.com/posts/2021-03-15-datetime-vs-calendar/"
 type: "archive-web"
 modified: 2025-01-15T11:38:19
 ---
-
 一个特殊的日期 (`1988-04-10`, 字段类型 `date`)，从数据库尝试读取却始终抛出异常 `HOUR_OF_DAY: 0->1` 。最初百思不得其解，其后发现这个日期恰好是夏令时的起始日，而后又纠结于 1988 年夏令时“从 04 月 10 日早晨 2 时起，将时针往前拨一小时，即二时变三时”。
 
 ## 重现

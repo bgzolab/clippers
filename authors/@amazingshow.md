@@ -1,10 +1,10 @@
 ---
+draft: true
 aliases: 美秀集團
 tags: #taiwan
 created: 2023-01-15
 type: band
 ---
-
 ## Members
   - 狗柏（主唱、吉他手）
   - 修齊（吉他手）

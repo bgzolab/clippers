@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - AI 聊天应用的 10 条高级需求 - ExperDot
 created: 2025-07-13T13:28:53
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/experdot/p/18924253
 title: AI 聊天应用的 10 条高级需求 - ExperDot
 type: archive-web
 ---
-
 # AI 聊天应用的 10 条高级需求 - ExperDot
 
 ## 最新动态

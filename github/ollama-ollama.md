@@ -1,4 +1,5 @@
 ---
+draft: true
 title: ollama/ollama
 aliases: ollama
 created: 2025-01-20T20:58:45
@@ -9,7 +10,6 @@ tags:
   - github/star
 type: repo
 ---
-
 ## Meta
 
 ![](https://img.shields.io/github/stars/ollama/ollama?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ollama/ollama?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ollama/ollama?style=for-the-badge&label=since)

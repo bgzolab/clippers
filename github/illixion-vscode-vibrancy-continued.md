@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "vscode-vibrancy-continued"
   - Vscode-vibrancy-continued
@@ -9,7 +10,6 @@ source: "https://github.com/illixion/vscode-vibrancy-continued"
 title: Vscode-vibrancy-continued
 type: "repo"
 ---
-
 # Vscode-vibrancy-continued
 
 ![](https://img.shields.io/github/stars/illixion/vscode-vibrancy-continued?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/illixion/vscode-vibrancy-continued?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/illixion/vscode-vibrancy-continued?style=for-the-badge&label=since)

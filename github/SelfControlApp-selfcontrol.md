@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "SelfControlApp/selfcontrol"
 aliases: "selfcontrol"
 created: 2025-05-11T15:36:15
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/SelfControlApp/selfcontrol?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/SelfControlApp/selfcontrol?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/SelfControlApp/selfcontrol?style=for-the-badge&label=since)

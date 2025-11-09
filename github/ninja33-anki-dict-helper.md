@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "ninja33/anki-dict-helper"
 aliases: "anki-dict-helper"
 created: 2025-06-07T15:24:39

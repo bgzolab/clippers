@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "论女德班的倒掉 – zmt"
 created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # 论女德班的倒掉
 
 对于女德班的批判，由来已久，最近已经上升到官方程度，CCTV点名批评女德班、女德夏令营。

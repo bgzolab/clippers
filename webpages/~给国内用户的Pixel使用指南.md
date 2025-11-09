@@ -1,10 +1,10 @@
 ---
+draft: true
 created: 2024-08-05T12:00:00
 source: https://www.coolapk.com/feed/57502239?shareKey=NWRiYTJkZWM3MDVhNjZiMGViNDA~
 type: archive-web
 modified: 2025-01-15T11:38:20
 ---
-
 注：本文原作者为少数派用户“克莱德”，本文著作权归属于原始作者“克莱德”所有，经许可使用。
 
 原作者文章传送门：[查看链接](https://sspai.com/post/78200) 一个比较残忍的现实是：因为近几年 Google 越来越喜欢将平台特性打包进 Google 服务进行分发，在没有 Google 服务或没有完整 Google 服务的 Android 设备上，想要体验照片选择器、快速分享等特性，感受完整、纯粹的 Android 体验，通过诸如亚马逊海外淘这样的渠道获取一台 Google Pixel 设备是为数不多的选择之一。 种草预警：

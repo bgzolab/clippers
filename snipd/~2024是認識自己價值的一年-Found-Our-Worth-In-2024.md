@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 打個電話給你 One Call Away
 cover: https://wsrv.nl/?url=https%3A%2F%2Fi1.sndcdn.com%2Favatars-B2BMSVh50YmC1jAG-vLKGHw-original.jpg&w=200&h=200
 created: '2025-01-09T09:36:39'
@@ -10,8 +11,6 @@ source: https://soundcloud.com/wendyhasatail/243-2024-found-our-worth-in-2025
 title: 243 2024是認識自己價值的一年 Found Our Worth In 2024
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 本期節目最初上傳於2024年12月31日，因文檔錯誤原因重新上傳。
 > /

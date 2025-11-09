@@ -1,4 +1,5 @@
 ---
+draft: true
 author: ETW Studio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fmedia24.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2F8%2F8dd8a56f-9636-415a-8c00-f9ca6778e511%2Fcover.jpg%3Fv%3D4&w=200&h=200
 created: '2025-03-13T09:36:39'
@@ -10,7 +11,6 @@ source: http://etw.fm/2147
 title: '#338  AI 快速演进下的教育应该教什么？一个创新学校校长的思考'
 type: podcast-episode
 ---
-
 # 338  AI 快速演进下的教育应该教什么？一个创新学校校长的思考
 ## Show notes
 > 当 AI 超越人类教师，学校能为学生提供什么？

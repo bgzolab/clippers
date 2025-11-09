@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Understanding Discourse Trust Levels"
 created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 #### [Jeff Atwood](https://blog.discourse.org/author/codinghorror/)
 
 Jun 25, 2018 • 6 min read

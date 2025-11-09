@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "rvm/rvm"
 aliases: "rvm"
 created: 2025-05-04T19:55:52

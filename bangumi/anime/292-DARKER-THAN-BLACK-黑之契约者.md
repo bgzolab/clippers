@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '比黑更黑 -黑之契约者-'
   - 'DARKER THAN BLACK -黒の契約者-'
@@ -18,7 +19,6 @@ title: DARKER THAN BLACK - 黑之契约者 -
 type: bangumi/anime
 website: ['http://www.d-black.net/1st/index.html']
 ---
-
 # DARKER THAN BLACK - 黑之契约者 -
 
 BONES 的原创 TV 动画《Darker than BLACK－黑之契约者》，于 2007 年初春重磅登场。动画剧情围绕着超能力和间谍活动展开，故事的舞台定于喧嚣繁华的都市——东京。某日东京突然出现了异现象——不能解析的领域“地狱门”。在那里，有着人们从未遇见过并持有着超能力的来访者。人们称这些来放者为“契约者”，他们有的失去心智，有时甚至会残酷地杀害人类，“契约者”来到东京到底意欲何为……？

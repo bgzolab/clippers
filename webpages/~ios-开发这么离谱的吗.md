@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "ios 开发这么离谱的吗 - V2EX"
 created: 2025-05-04T19:53:42
 modified: 2025-05-04T19:54:14
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 
 我的 mac book 版本是 14.7.4 (23H420) Sonoma

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - "onedrive"
   - Onedrive for linux
@@ -13,7 +14,6 @@ tags-link:
 title: OneDrive for linux
 type: "repo"
 ---
-
 # OneDrive for linux
 
 ## Repo Meta

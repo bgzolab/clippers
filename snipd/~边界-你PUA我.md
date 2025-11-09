@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Eddy
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FAvatar%2Fcl7zkcpvy0a0h01wi8uxbccdv%2F1666234585141.jpg&w=200&h=200
 created: '2022-09-13T09:36:39'
@@ -10,8 +11,6 @@ source: https://open.firstory.me/story/cl7zlh42103qz01wm8mrq0uqh
 title: 【圆桌派 第五季】EP5 边界：“你PUA我！”
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 【圆桌派 第五季】《圆桌派》第五季节目以圆桌为名，旨在体现圆桌席上人人平等，每期由窦文涛携手三位嘉宾，还原在生活中发生在圆桌旁、海阔天空的精彩聊天。延续真实不“装”的窦式主持风格，立足网络，放眼世间，神侃包罗万象的话题，嬉笑言谈中彼此迸发出智慧火花。  ★主持人：窦文涛  ★嘉宾：周轶君 / 马未都 / 许子东 / 邓亚萍 / 陈佩斯 / 陈晓卿 / 任长箴 / 李松蔚 / 肖全 / 尹烨 / 刘子超     2:02  被“曝光”隐私？周轶君曾患产后抑郁     6:09  中国人对于土地，有着最深沉的情感     14:14  人际关系或为心理咨询的首要问题     21:44  PUA与鞭策的区别：是目的还是过程？     28:49  大力出奇迹？人的潜能是无穷无尽的     36:19  规避PUA？保持自我认知的“原始”状态     47:22  鲁迅告诫我们 “工具人”要不忘初心！     55:13  人类的感情应该超越工具理性
 > Powered by  Firstory Hosting

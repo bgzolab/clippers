@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '星空的记忆 永恒之心'
   - '星空的记忆 Eternal Heart'
@@ -16,7 +17,6 @@ title: 星空的记忆 Eternal Heart
 type: bangumi/game
 website: ['http://www.favo-soft.jp/soft/product/EternalHeart/index.htm']
 ---
-
 # 星空的记忆 Eternal Heart
 
 仿如这片星空的永恒的光辉一样。

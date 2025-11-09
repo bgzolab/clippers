@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 面基
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFtol1VYmqtTUXqIxdMjkt0BcBuFX.png&w=200&h=200
 created: '2025-01-22T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/67905f309420ede9d1bb3904?utm_source
 title: 松弛人生的底气：现金流！现金流！还是TMD现金流！
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 🎤 本期嘉宾： 
 > 盛玉洁，金融从业者

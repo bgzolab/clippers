@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 必看！导致事务失效的 7 大典型场景！ - 磊哥
 created: 2025-08-06T12:51:00
@@ -7,7 +8,6 @@ source: https://www.cnblogs.com/vipstone/p/19023587
 title: 必看！导致事务失效的 7 大典型场景！ - 磊哥
 type: archive-web
 ---
-
 # 必看！导致事务失效的 7 大典型场景！ - 磊哥
 
 @Transactional 声明式事务失效的场景是 Java 面试中经常被问到的问题，所以今天咱们就来系统的盘点一下导致 @Transactional 失效的场景有哪些？以及导致的原因和解决方案详解。

@@ -1,10 +1,10 @@
 ---
+draft: true
 alias: 数字移民
 created: 2024-01-02
 source: https://blog.shuziyimin.org, https://img.shields.io/github/stars/shuziyimin
 tags: \#migrant/digtal
 ---
-
 > 肉体和精神，总要有一个是自由的
 
 - [翻墙后可以看什么？我做了一个数字移民导航站，已收集 200+ 网站 – 数字移民](https://blog.shuziyimin.org/1321)

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "TheWaWaR/simple-http-server"
 aliases: "simple-http-server"
 created: 2025-04-25T20:13:51

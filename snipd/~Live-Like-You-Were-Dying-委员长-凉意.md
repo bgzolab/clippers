@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 凉意
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fstorages%2F4d1e-audiofreehighqps%2F7E%2F39%2FCMCoOSEDXNxhAAOwEQBdODX4.jpeg&w=200&h=200
 created: '2025-03-30T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.ximalaya.com/sound/828591480
 title: E182 Live Like You Were Dying｜委员长&凉意
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 【内容简介】 前段时间几位明星的离世消息，让委员长在感叹生命无常的惋惜之余，也不得不直面一个问题：我想要怎样度过我的一生？每个人的焦虑、执著、恐惧，在生命的渴望面前都变成需要化解与修炼的课题，而我们自己是为自己写下答案的人。
 > 【摘要】  00:01:59  “有质量的亲密关系”工作坊广告 

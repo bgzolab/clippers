@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 端传媒音頻 | Initium Audio
 cover: https://wsrv.nl/?url=https%3A%2F%2Fassets.pippa.io%2Fshows%2F66b07190af99592b5329f43a%2Fshow-cover.jpeg&w=200&h=200
 created: '2025-01-22T09:36:39'
@@ -10,8 +11,6 @@ source: https://theinitium.com/article/20250122-initium-audio-tiktok-refugee-flo
 title: 「TikTok難民」湧入小紅書：意外相遇的中美網友
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 美國的「TikTok禁令」原定於1月19日生效。但就在生效之際，這項禁令在短短24小時內經歷一系列急轉直下的變化——從應用商店下架、停止運營，到宣布即將恢復服務。1月20日，特朗普正式宣誓就職時，簽署了一系列行政命令，包括將「TikTok禁令」的執行延後75天。
 > 然而，在TikTok禁令生效前夕，一場前所未有的「網絡移民潮」也引發廣泛關注。數以萬計的美國用戶湧入中國社交平台「小紅書」，在短短數天內形成了一個獨特的跨文化社群現象。

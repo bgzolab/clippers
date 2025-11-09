@@ -1,4 +1,5 @@
 ---
+draft: true
 author: 椰子
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFhUeiIQmiec2bYYctUWw-bA_FewW.jpg&w=200&h=200
 created: '2025-05-12T09:36:39'
@@ -10,8 +11,6 @@ source: https://www.xiaoyuzhoufm.com/episode/6822788fb7c8a9962cc4aa6a?utm_source
 title: Vol.11 AI版权风暴、代码零度推理与GitHub热榜
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 本期字节篝火，我们深入技术前沿与社区热点。一起探讨无需人工数据、通过自我博弈学习的新型AI推理范式（Absolute Zero Reasoning），这可能颠覆未来的模型训练；关注美国版权局的最新动态及其对AI版权合规性的影响。此外，我们还将介绍多个实用的开源项目，包括一键生成短视频的AI工具（MoneyPrinterTurbo）、安全隐私友好的AI邮件解决方案（Zero）以及助力开发者成长的全栈学习路线图（developer-roadmap）。从操作系统底层探索到AI应用开发，希望能为中文开发者带来技术趋势洞察和实践启发。
 > 【内容提要】

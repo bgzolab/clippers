@@ -1,4 +1,5 @@
 ---
+draft: true
 title: TomMannion/ai-text-adventure
 aliases:
   - ai-text-adventure

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # springboot源码解析(三)：springboot内嵌tomcat
 
 ​		在使用springboot搭建一个web应用程序的时候，我们发现不需要自己搭建一个tomcat服务器，只需要引入spring-boot-starter-web,在应用启动时会自动启动嵌入式的tomcat作为服务器，下面来分析下源码的分析流程：

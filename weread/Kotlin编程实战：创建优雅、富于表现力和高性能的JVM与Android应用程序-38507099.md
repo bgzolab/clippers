@@ -1,4 +1,5 @@
 ---
+draft: true
 doc_type: weread-highlights-reviews
 bookId: "38507099"
 reviewCount: 0
@@ -21,8 +22,6 @@ type: weread-notes
 weread: https://weread.qq.com/web/reader/376323a0724b925b376fe83
 
 ---
-
-
 ## 封面
 
 ## 版权页

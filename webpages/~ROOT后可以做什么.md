@@ -1,4 +1,5 @@
 ---
+draft: true
 title: ROOT后可以做什么
 aliases:
   - ROOT后可以做什么
@@ -11,7 +12,6 @@ tags-link:
   - "[[root]]"
 type: archive-web
 ---
-
 «
 
 [大侠阿木](https://optool.daxiaamu.com/?author=1) 发布于 2024-6-9 01:22 阅读：23036

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases: [chawyehsu/lxgw-wenkai-webfont, lxgw-wenkai-webfont]
 created: 2025-07-02T22:43:17
 description: webfont package for the LXGW WenKai typeface
@@ -10,7 +11,6 @@ tags-link:
 title: chawyehsu/lxgw-wenkai-webfont
 type: repo
 ---
-
 # chawyehsu/lxgw-wenkai-webfont
 
 ![](https://img.shields.io/github/stars/chawyehsu/lxgw-wenkai-webfont?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/chawyehsu/lxgw-wenkai-webfont?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/chawyehsu/lxgw-wenkai-webfont?style=for-the-badge&label=since)

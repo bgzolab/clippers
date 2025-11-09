@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - c++ 中函数参数的求值顺序
   - ~c++ 中函数参数的求值顺序 -Leon-Yan- 博客园
@@ -8,7 +9,6 @@ source: https://www.cnblogs.com/Leon-Yan/p/7567766.html
 title: c++ 中函数参数的求值顺序
 type: archive-web
 ---
-
 # c++ 中函数参数的求值顺序
 
 [![](https://img2024.cnblogs.com/blog/35695/202508/35695-20250830122018806-1574270965.jpg)](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101750143863263087?ha_source=BKYQ3&ha_sourceId=89000408)

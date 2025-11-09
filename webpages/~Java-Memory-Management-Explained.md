@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - Java Memory Management Explained
 created: 2025-08-31T13:37:03
@@ -9,7 +10,6 @@ tags: []
 title: Java Memory Management Explained
 type: "archive-web"
 ---
-
 # Java Memory Management Explained
 
 ![Java Memory Management Explained](https://www.digitalocean.com/api/static-content/v1/images?src=https%3A%2F%2Fdoimages.nyc3.cdn.digitaloceanspaces.com%2F006Community%2FMisc%2Fjvm-memory-management.png&width=1920 "Java Memory Management Explained")

@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - 聊聊@Transactional 注解和事务的使用
   - ~聊聊 -Transactional- 注解和事务的使用 - 字节悦动 - 博客园
@@ -8,7 +9,6 @@ source: https://www.cnblogs.com/better-farther-world2099/articles/14982412.html
 title: 聊聊@Transactional 注解和事务的使用
 type: archive-web
 ---
-
 # 聊聊@Transactional 注解和事务的使用
 
 \>

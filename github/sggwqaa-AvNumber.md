@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "sggwqaa/AvNumber"
 aliases: "AvNumber"
 created: 2025-05-31T23:31:24
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/sggwqaa/AvNumber?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/sggwqaa/AvNumber?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/sggwqaa/AvNumber?style=for-the-badge&label=since)

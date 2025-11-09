@@ -1,4 +1,5 @@
 ---
+draft: true
 doc_type: weread-highlights-reviews
 bookId: CB_9OK6Se6TtEeK6vM6t1BTLEah
 reviewCount: 0
@@ -21,8 +22,6 @@ type: weread-notes
 weread: https://weread.qq.com/web/reader/8d342243643425f394f4b36536536547445654b36764d36743142544c4561687a0
 
 ---
-
-
 ## 第1章
 
 ### 一瞬之光

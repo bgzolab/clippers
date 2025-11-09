@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "611Study-ICU"
 created: 2025-03-24T21:05:04
 modified: 2025-03-24T21:06:45
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ## Origin Content
 
 少时学习 611 ，长大工作 996 ，最后猝死/跳楼/自杀终结于 ICU ，这不该是初高中生应有的生活

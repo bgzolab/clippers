@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Linux服务器综合测试工具 LemonBench (Beta) - 极光星空"
 created: 2025-04-05T15:50:57
 modified: 2025-04-05T15:50:57
@@ -7,7 +8,6 @@ tags:
 tags-link:
 type: archive-web
 ---
-
 # Linux服务器综合测试工具 LemonBench (Beta) 
 
   * 博主： [ iLemonrain](https://blog.ilemonrain.com/author/1/)

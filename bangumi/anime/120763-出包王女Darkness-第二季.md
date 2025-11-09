@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '出包王女 第四季'
   - '出包王女Darkness 2nd'
@@ -19,7 +20,6 @@ title: 出包王女 Darkness 第二季
 type: bangumi/anime
 website: ['http://www.j-toloveru.com/']
 ---
-
 # 出包王女 Darkness 第二季
 
 ## Characters

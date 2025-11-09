@@ -1,11 +1,11 @@
 ---
+draft: true
 aliases: 月光博客
 created: 2024-08-18
 description:
 source: {{tg williamlong}}
 type: telegram/channel
 ---
-
 - 【Twitter禁止第三方客户端】1月20日消息，推特（Twitter）于近日发布了《DeveloperAgreement》更新条款，明确不允许开发者继续开发第三方Twitter应用程序。在条款中明确提及不允许开发人员“为Twitter应用程序 https://t.co/mgZUr2M2ln
 - 1 月 20 日消息，推特（Twitter）于近日发布了《Developer Agreement》更新条款，明确不允许开发者继续开发第三方 Twitter 应用程序。在条款中明确提及不允许开发人员“为 Twitter 应用程序创建替代或类似的服务 / 产品”。
 - 台服的《魔兽世界》目前是这副景象。 https://t.co/xSmYA5jdc6

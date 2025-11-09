@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Wei&amp;Michelle
 cover: https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F11667696%2F11667696-1609830901337-19ceeec01a918.jpg&w=200&h=200
 created: '2025-05-05T09:36:39'
@@ -10,8 +11,6 @@ source: https://podcasters.spotify.com/pod/show/wei48/episodes/SP4-e32da3b
 title: SP4 间歇性指摘他人，持续性自我反思
 type: podcast-episode
 ---
-
-
 ## Show notes
 > 在经历了十年断断续续的打工生活之后，我们最近又又又一次双双选择了裸辞，跳出熟悉的轨道，投入到一场全新的生活实验中。在这种不确定中探索，我们意外地与那个久违的自己更近了一些。我们开始察觉，那些习以为常的看问题方式，那些与人互动时不自觉的姿态，背后似乎藏着我们长期忽略的思维惯性与情绪动机。惰于对细节的探究和思索、对深入钻研的畏惧、在人群中不自知的“傲慢”、对网络上刻意造作表达的抗拒，都成为了这趟旅程中不可回避的镜子。于是我们想要追问：这些模式从何而来？我们是该挣脱它们，还是窥探背后深层次的原因并与之和解？
 >  

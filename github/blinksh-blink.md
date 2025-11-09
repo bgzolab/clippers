@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "blinksh/blink"
 aliases: "blink"
 created: 2025-04-21T22:08:35

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "PythonMonday"
 created: 2021-01-28T12:34:36
 modified: 2025-03-22T12:39:49
@@ -8,7 +9,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 ![[book_pythonmonday.pdf]]
 
 If you want to learn how to write computer programs, you have come to the right place, every Monday I'll be posting a single page of a book that I hope to write with you about computer programming. Together we are going to explore why writing programs is a political act, and we'll learn how to write programs using the Python Programming Language.

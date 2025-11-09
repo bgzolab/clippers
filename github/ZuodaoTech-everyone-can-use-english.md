@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "ZuodaoTech/everyone-can-use-english"
 aliases: "everyone-can-use-english"
 created: 2025-09-14T22:15:34

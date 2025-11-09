@@ -1,11 +1,11 @@
 ---
+draft: true
 aliases:
   - Mofanpy-scraping
 created: 2025-01-13T20:06:17
 modified: 2025-08-31T13:46:30
 title: Mofanpy-scraping
 ---
-
 # Mofanpy-scraping
 
 - [[python-beautifulsoup]]

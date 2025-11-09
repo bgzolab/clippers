@@ -1,4 +1,5 @@
 ---
+draft: true
 aliases:
   - '任性High Spec'
   - '任性HighSpec'
@@ -16,7 +17,6 @@ title: 任性 HighSpec
 type: bangumi/anime
 website: ['http://whanime.com/']
 ---
-
 # 任性 HighSpec
 
 “高配置人们的低配置日常”

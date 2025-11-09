@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "FooSoft/yomichan"
 aliases: "yomichan"
 created: 2025-06-07T14:38:23

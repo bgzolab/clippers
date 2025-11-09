@@ -1,4 +1,5 @@
 ---
+draft: true
 doc_type: weread-highlights-reviews
 bookId: MP_WXS_2396211700
 reviewCount: 0
@@ -21,8 +22,6 @@ type: weread-notes
 weread: https://weread.qq.com/web/reader/5894225224d505f5758535f32333936323131373030eb6
 
 ---
-
-
 ### 风声｜万圣书园30年：一部北京文化圈的历史
 
 > [!NOTE] 

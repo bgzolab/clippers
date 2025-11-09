@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "rosuH/EasyWatermark"
 aliases: "EasyWatermark"
 created: 2025-04-13T19:27:03
@@ -10,7 +11,6 @@ tags:
 tags-link:
 type: "repo"
 ---
-
 ## Repo Meta
 
 ![](https://img.shields.io/github/stars/rosuH/EasyWatermark?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/rosuH/EasyWatermark?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/rosuH/EasyWatermark?style=for-the-badge&label=since)

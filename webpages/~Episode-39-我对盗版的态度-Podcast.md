@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Episode 39: 我对盗版的态度 - Podcast"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

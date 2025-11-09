@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "青龙面板配置Telegram机器人接收提醒消息 - 逍遥观世界"
 aliases: "青龙面板配置Telegram机器人接收提醒消息 - 逍遥观世界"
 created: 2025-04-12T10:45:31
@@ -9,7 +10,6 @@ tags:
 tags-link:
 type: "archive-web"
 ---
-
 上篇文章我们记录了青龙面板的搭建，还没有搭建青龙面板的朋友 [点击这里](https://www.xiaoyao01.com/jddzjdjcqlmacj/)。这次我们来演示一下使用 TG 机器人来接收青龙面板的通知设置
 
 ## 新建 TG 机器人
