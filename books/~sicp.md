@@ -1,7 +1,6 @@
 ---
 draft: true
 aliases: Structure and Interpretation of Computer Programs, book/sicp
-published:
 tags: gtd/todo
 source: https://book.douban.com/subject/
 ---

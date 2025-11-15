@@ -1,6 +1,5 @@
 ---
 draft: true
-{}
 ---
 - [ ] #gtd/todo j继续学习 serverless  
 - 现实问题
