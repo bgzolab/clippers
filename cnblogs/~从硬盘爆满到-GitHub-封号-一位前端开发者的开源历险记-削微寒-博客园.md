@@ -8,4 +8,4 @@ source: https://www.cnblogs.com/xueweihan/p/18996224
 title: ~从硬盘爆满到 -GitHub- 封号 - 一位前端开发者的开源历险记 - 削微寒 - 博客园
 type: archive-web
 ---
-# ~从硬盘爆满到 -GitHub- 封号 - 一位前端开发者的开源历险记 - 削微寒 - 博客园
+# 从硬盘爆满到 -GitHub- 封号 - 一位前端开发者的开源历险记 - 削微寒 - 博客园

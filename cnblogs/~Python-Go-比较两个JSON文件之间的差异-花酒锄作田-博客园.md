@@ -8,7 +8,7 @@ source: https://www.cnblogs.com/XY-Heruo/p/19031081
 title: ~Python-Go- 比较两个 JSON 文件之间的差异 - 花酒锄作田 - 博客园
 type: archive-web
 ---
-# ~Python-Go- 比较两个 JSON 文件之间的差异 - 花酒锄作田 - 博客园
+# Python-Go- 比较两个 JSON 文件之间的差异 - 花酒锄作田 - 博客园
 
 ## 前言
 
