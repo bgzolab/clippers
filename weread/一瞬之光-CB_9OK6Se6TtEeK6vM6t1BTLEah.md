@@ -21,8 +21,6 @@ weread: https://weread.qq.com/web/reader/8d342243643425f394f4b36536536547445654b
 finishedDate: 2025-04-17
 
 ---
-
-
 ## 第1章
 
 ### 一瞬之光
