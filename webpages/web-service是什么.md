@@ -1,13 +1,16 @@
 ---
+comments: true
 draft: true
 aliases:
   - Web service 是什么
 created: 2025-08-31T10:39:58
-modified: 2025-08-31T10:40:30
+modified: 2025-12-07T11:30:41
 source: https://www.ruanyifeng.com/blog/2009/08/what_is_web_service.html
+tags: []
 title: Web service 是什么
 type: archive-web
 ---
+
 # Web service 是什么
 
 我认为，下一代互联网软件将建立在 Web service（也就是 " 云 "）的基础上。
