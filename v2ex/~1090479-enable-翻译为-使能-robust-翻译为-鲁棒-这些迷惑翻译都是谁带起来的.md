@@ -1,0 +1,18 @@
+---
+comments: true
+created: '2024-11-18T13:18:51'
+draft: true
+modified: '2024-11-18T13:18:51'
+source: https://www.v2ex.com/t/1090479
+title: enable 翻译为「使能」， robust 翻译为「鲁棒」，这些迷惑翻译都是谁带起来的？
+type: archive-web
+---
+
+就不能
+
+- enable: 开启
+- robust: 强健
+
+吗？
+
+主要是，人家在英文里，明明是很常用、很普通的一个词。结果中文翻译时，硬是要译为一个晦涩难懂的新造词——难道就为了强行产生「术语感」，让人第一次看到时看不懂吗？

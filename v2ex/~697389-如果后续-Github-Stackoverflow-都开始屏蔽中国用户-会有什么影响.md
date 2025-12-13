@@ -1,0 +1,13 @@
+---
+comments: true
+created: '2020-08-11T15:35:02'
+draft: true
+modified: '2020-08-11T22:36:07'
+source: https://www.v2ex.com/t/697389
+title: 如果后续 Github， Stackoverflow 都开始屏蔽中国用户，会有什么影响？
+type: archive-web
+---
+
+这几天大家都在讨论 Google 地图主动屏蔽中国内地用户了，前几天 Zoom 也是主动放弃了中国业务，个人没办法创建会议，估计后面 Zoom 也会逐渐不可用。
+
+如果下一步轮到各种技术类网站了，中文技术类的要么是 CSDN 这种垃圾集散地；要么是各种采集站，千篇一律没有半点实质性内容。稍微复杂一点的问题，还得去 Github 和 so 上面找答案。如果这两家也主动屏蔽中国用户了，实在是无法想象。
