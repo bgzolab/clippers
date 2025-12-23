@@ -1,0 +1,54 @@
+---
+comments: true
+created: '2025-12-16T15:27:59'
+draft: true
+modified: '2025-12-16T15:27:59'
+source: https://www.vox.com/life/472211/anxiety-treatment-supplement-diet-magnesium-choline
+title: The unexpected link between your diet and your anxiety
+type: archive-web
+---
+By May 2024, Ebony Dupas knew she had a problem. She had started to feel a mild anxiety about her sense of direction and purpose in life earlier that year, but within a couple months, that had spiraled into a paranoia that she could neither shake nor explain.
+
+Referred by her doctor, Dupas began consulting with different psychiatrists, all of whom considered diagnosing her with generalized anxiety disorder, bipolar disorder, or schizophrenia. Most wanted to put her on medication right away. But one psychiatrist first ordered bloodwork to see if something else might be going on. “I was mostly depleted of magnesium,” Dupas says. 
+
+Most people being treated for mental health conditions such as anxiety or depression typically use a mix of just two strategies: medication (usually an SSRI) and psychotherapy. But there’s increasing interest in the connection between food and the brain, and especially how nutrition could affect psychiatric conditions. Researchers have not only found a connection between the [gut microbiome](https://www.vox.com/2014/11/26/7289495/microbiome-gut-bacteria-health) and mental health, but also connections between deficiencies in certain micronutrients, including [magnesium](https://www.sciencedirect.com/science/article/pii/S0028390811003054) or [choline](https://www.nature.com/articles/s41380-025-03206-7#Sec28), and conditions like anxiety and depression. 
+
+What’s less clear is how supplementation could alleviate certain symptoms. We don’t have robust clinical trial data showing how micronutrients affect people’s mental health, and the role of supplements in mental health is understudied, particularly because the research can be so challenging. Most supplements also don’t require approval by the Food and Drug Administration (FDA) to go to market, meaning there’s an abundance of different options, most of which have different formulas that aren’t robustly studied. 
+
+While researchers have long understood that nutrition is important for brain health, people don’t typically look to their diets as a way to improve their mental health, and doctors don’t always think to connect mental health with diet. The link between food and the brain “is overlooked by most people,” says [Uma Naidoo](https://www.massgeneral.org/doctors/18123/uma-naidoo), director of nutritional and lifestyle psychiatry at Massachusetts General Hospital and author of the 2023 book _[Calm Your Mind With Food](https://www.hachettebookgroup.com/titles/uma-naidoo-md/calm-your-mind-with-food/9780316502092/)_. Future research to clarify the link between micronutrients — through either food or supplements — and mental health outcomes could help us stop underestimating that link.
+
+## **How diet is linked to mental health**
+
+The connection between diet and the brain seems counterintuitive, but it’s actually linked to basic biology. “The same environment where food is being digested is also the environment where neurotransmitters are produced,” Naidoo says. The gut produces most of the body’s serotonin, as well as a good portion of the neurotransmitter GABA. Drugs used to alter levels of serotonin are frequently used to treat depression and anxiety. The most common group are known as selective serotonin reuptake inhibitors (SSRIs). 
+
+One of the best understood links between nutrition and mental health involves how food affects the gut microbiome. Researchers have known for years now that [gut inflammation](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13712) and changes in the gut microbiome are linked to mental conditions like [anxiety and depression](https://www.cell.com/trends/neurosciences/abstract/S0166-2236\(13\)00008-8?kuid=79939ea6-6dfb-43bc-b620-d9ab0df56eaf&kref=https%3A%2F%2Fkemperwellness.com%2Fblog%2Flets-get-real-about-anxiety-and-mental-health%2F), and possibly other [psychiatric disorders](https://link.springer.com/article/10.1186/s12888-023-05003-4). But there’s also a growing and ongoing interest in how specific vitamins and minerals affect the brain.
+
+> “The brain and mental health are no longer just ‘above the neck’ problems.”
+> 
+> Uma Naidoo, director of nutritional and lifestyle psychiatry at Mass General
+
+Deficiencies in several different micronutrients, including magnesium, [B vitamins](https://www.mdpi.com/2072-6643/11/9/2232), [vitamin D](https://link.springer.com/article/10.1007/s40263-019-00640-4), [omega-3s](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2702216), [choline](https://www.nature.com/articles/s41380-025-03206-7#Sec28), and [L-theanine](https://pubmed.ncbi.nlm.nih.gov/16930802/) have been shown to affect mental health conditions. Researchers can [induce anxiety in mice](https://www.sciencedirect.com/science/article/pii/S0028390811003054), for example, by manipulating and lowering their magnesium levels. The extent to which supplementation affects mental health in humans is less well-established.
+
+The research so far is a little sparse and mixed. A [2024 review](https://assets.cureus.com/uploads/review_article/pdf/237565/20240430-16558-smymmw.pdf?) found that “supplemental magnesium is likely useful in the treatment of mild anxiety and insomnia,” especially in people with already low magnesium. But across studies, results showing how much magnesium supplements can help people with mental health conditions like anxiety or depression are often inconsistent, likely because there are so many different forms these supplements can take. 
+
+Magnesium, for example, can be taken as a supplement in the forms of magnesium citrate, magnesium malate, magnesium glycinate, magnesium oxide, magnesium chloride, and more. How well the body can make use of magnesium in these different forms, and how good these different forms are at delivering magnesium to the brain still needs to be better studied, says Alexander Rawji, a psychiatrist in Long Island, New York, and the lead author of the paper. Similar challenges exist for other micronutrients.
+
+As you may have learned in high school biology, eating varied foods rich in certain vitamins and minerals is crucial because your body cannot make its own supply and yet relies on them to perform critical functions. And research suggests that most Americans don’t get nearly enough of many micronutrients. Previous [national survey data](https://lpi.oregonstate.edu/mic/micronutrient-inadequacies/overview#toc-micronutrient-deficiencies-and-inadequacies-) said that as much as 94 percent of the US population does not get adequate daily vitamin D, 52 percent don’t get enough magnesium, and 92 percent don’t get enough choline.
+
+Few people would argue that diet is completely unimportant for brain health. But while a connection between nutrition and brain health is clear, the persistent gaps in scientific knowledge make it difficult to really say what role supplements should play in the treatment of mental illness. Ideally, future research would get us to a place where we better understand how micronutrients in the diet distinctly affect the workings of the brain, as well as which supplements are best absorbed by the body and brain. On top of that, we don’t even fully [understand the mechanisms that cause most mental health disorders](https://www.psychologytoday.com/us/blog/the-neuroscientist-who-lost-her-mind/201804/we-scientists-know-so-little-about-mental-illness).
+
+## **What role should nutrition play in mental health care?**
+
+Once her blood test results came back, Dupas’ psychiatrist put her on a regimen of supplements — magnesium, L-theanine, B-complex vitamins, and omega-3s — in addition to a small dose of an SSRI. But Dupas didn’t stay on the medication for long. After a couple weeks, “I felt really clear again,” she says. “I could focus again and not feel paranoid that people are coming after me.”
+
+Dupas could be an outlier. Research suggests the vast majority of people with a mental health condition won’t see dramatic improvement of their symptoms from supplementation alone. Nevertheless, she’s grateful that she stumbled across a doctor who actually ordered bloodwork to see if there may be any hidden culprits exacerbating symptoms and hopes more patients get similar treatment. 
+
+Providers should be ordering bloodwork for patients, especially if they have multiple health conditions and medications that could be affecting their health, Rawji says. And if they have a deficiency, that’s certainly something to address. A complicating factor, however, is the fact that blood panels can’t always give you a perfect picture of what’s going on — tests to detect magnesium levels in blood serum often come back normal even if their body stores of magnesium are low.
+
+Regardless, Rawji uses supplements as “part of a multipronged approach” in his treatment of patients, he says. How much the supplements will help will vary person to person, and they definitely shouldn’t replace other treatments, including medications like SSRIs or benzodiazepines. “If you expect magnesium to be a benzo for anxiety then you’re going to be very disappointed,” he adds.
+
+Not all psychiatrists are trained to ask questions related to diet when assessing patients or to look for nutrition deficiencies, according to Naidoo, the doctor from Mass General. This could lead to ignoring relatively easy interventions that can make real differences. Furthermore, overemphasizing supplements comes with its own risks. If you eat a healthy, well-balanced whole foods diet, you’ll probably get more than enough of the vitamins and minerals you need. 
+
+There’s “almost always” an opportunity to use nutrition to improve mental health, since no one really has a perfect diet, says Naidoo. If you’re particularly concerned with including more of certain micronutrients into your diet, she suggests eating more green leafy vegetables, nuts, and legumes for magnesium. Milk, eggs, and whole grains are good sources of B vitamins; eggs, beans and cruciferous vegetables are good for choline; fatty fish and eggs are good for vitamin D; and you can get L-theanine from green tea.
+
+Nutrition is a huge, consequential tool for how we maintain our bodies. And we understand, now more than ever, that the importance of food for the body includes benefits for the brain. “The brain and mental health are no longer just ‘above the neck’ problems,” Naidoo says.
