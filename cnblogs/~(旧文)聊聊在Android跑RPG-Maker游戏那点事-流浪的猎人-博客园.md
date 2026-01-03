@@ -1,0 +1,13 @@
+---
+comments: true
+created: '2025-12-29T15:16:11.983'
+draft: true
+modified: '2025-12-29T15:16:11.983'
+source: https://www.cnblogs.com/liulangdelieren/p/19413173
+title: (旧文)聊聊在Android跑RPG Maker游戏那点事 - 流浪的猎人 - 博客园
+type: archive-web
+---
+
+聊聊在Android跑RPG Maker游戏那点事\n这篇文章是我在2021年9月14日在知乎二次编辑过的，应该是在2020-2021年这个期间发布的，现阶段的Android RPG Maker项目已经和过去不太一样了，而且考虑到转译的问题，我们不太需要考虑这事了。
+
+虽然这事情还挺那啥的，不过还是可以聊聊的。\nPS:本文不涉及例如exagear，云电脑，limbo模拟器这类操作。\n目前Android平台有4个可以模拟RM游戏的模拟器。\n1.RMRunner\n基本只能跑只有原版工程制作的游戏，并且也不能加密工程运行。\n有意思的是这也是唯一一个中国人开发的，贴吧名字叫追风的码农\n关于脚本这方面可以参考下面一段话\n请从RMXP的安装目录取已知ruby脚本兼容性问题：begin obj = obj.newend until obj.inputable?obj在begin end里初始化会报空对象错误，放在语句块外面可以不能用$1 $2这样取正则结果，只能用Regexp.last_match[1]，Regexp.last_match[2]这样Tags : RPGXP, RPG-XP, RPG Maker XP, RGSS, RKC, Android\nPS:这个模拟器可以整合RPGMakerXP游戏使得变成一个APK安装包，但是如何操作暂不知晓。\n2.rmxp4droid\n也是一个早期的Android平台的RPGMakerXP游戏模拟器，好像是基于C++做的？\n能够模拟一部分脚本不太复杂的游戏，但是部分游戏仍然会出现闪退现象。\n开发者之后弃坑了，并且推荐去用Neko RPG XP。\n3.Neko RPG XP\n目前对脚本兼容性较好的一个模拟器（部分较复杂脚本的游戏也可以运行），但是对于使用涉及PC操作的脚本的RM游戏仍然无法运行，并且虽然支持VX和VA的游戏，一样要开源工程，并且对图块透明度的支持很烂，没法使用渐变的同时对战斗动画旋转的图片和透明度基本没有支持。\n并且部分游戏运行也会导致打开菜单或是进入战斗时闪退。\n最大的问题是虽然在最新的2.01版本能流畅运行（1.5Ghz的4核处理器），但是会设定为60FPS运行，而不是40FPS。\n这个好像是韩国人做的模拟器？\nPS:这个模拟器也可以整合RPGMakerXP游戏使得变成一个APK安装包，但是如何操作暂不知晓（可以试试找到整合游戏然后替换文件后APK签名安装测试？）\n4.joiplay\n对开源的RPGMakerXP/VS/VXAce/MV游戏都支持运行，至少兼容性和Neko RPG XP很接近，并且在1.8Ghz的8核处理器设备上运行也没有问题，并且开发者还在继续更新中，还是等后续情况吧。\n总结\n如果不是比较闲的话个人并不建议在Android跑这个，尤其是模拟MV游戏，一个是Android的MV游戏就是H5浏览器上跑，一个是模拟器触屏操作得考虑分辨率，6.5寸屏幕玩PC上1080P/720P的游戏确定你要点那些很小的按键吗？\n（括号内容为9月14日补充，顺便再补一句，Android的RM模拟器大部分面对复杂脚本的游戏就跑不起来了，哪怕是对着模拟器做适配.....）\n至于有没有解决方案，可以海鲜市场200搞个Windows寨板（再怎么着也比手机屏幕大），然后下例如微派平板助手这类软件解决你想躺床上玩RM游戏的愿望。
