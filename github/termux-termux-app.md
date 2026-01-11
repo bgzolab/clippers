@@ -1,4 +1,5 @@
 ---
+comments: true
 draft: true
 aliases:
   - android/app/termux
@@ -6,7 +7,7 @@ aliases:
 changelog: https://github.com/termux/termux-app/releases
 created: 2025-06-07T14:33:50
 description: Termux - a terminal emulator application for Android OS extendible by variety of packages.
-modified: 2025-07-19T12:07:52
+modified: 2026-01-03T22:26:41
 source: https://github.com/termux/termux-app
 tags:
   - github/star
@@ -14,6 +15,7 @@ tags-link:
 title: Termux-termux-app
 type: repo
 ---
+
 # Termux-termux-app
 
 ## Repo Meta
@@ -118,6 +120,10 @@ via https://15tar.com/linux/2017/07/31/ssh-session-timeout.html
 ### 关闭终端?
 
 - 继续执行 `ssh -f`
+
+## 备份还原
+
+- [[~Backing-up-Termux-Termux-Wiki]]
 
 ## References
 
