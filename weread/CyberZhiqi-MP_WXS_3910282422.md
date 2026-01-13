@@ -20,6 +20,7 @@ tags:
   - weread/
 type: weread-notes
 weread: https://weread.qq.com/web/reader/c9f421d224d505f5758535f33393130323832343232ca9
+onewisdom: "false"
 
 ---
 ### 当男人去上班 | issue006

@@ -20,6 +20,7 @@ tags:
   - weread/计算机-计算机综合
 type: weread-notes
 weread: https://weread.qq.com/web/reader/e8d3200059fb19e8d3b2af6
+onewisdom: "false"
 
 ---
 ## 封面
