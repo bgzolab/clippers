@@ -6,7 +6,6 @@ reviewCount: 0
 noteCount: 6
 author:
   - 公众号
-  - 
 cover: http://wx.qlogo.cn/mmhead/Q3auHgzwzM5aljzuLBOQdjWhFAzrDMicxSczxFAicb9gv6ib7mNaAY1Gg/0
 readingStatus: 在读
 progress: "-1"
@@ -47,11 +46,7 @@ weread: https://weread.qq.com/web/reader/b83424b224d505f5758535f3330383637323035
 > 2024-02-12 22:56:01 ^MP-WXS-3086720555-wOwBxy-IINz5M2bg9PlB2Q-1329-1439
 
 > [!NOTE] 
-> 可是，除了痛，人到底要如何通过握紧自己的身体，去把握自己的主体性呢？
-   
-   电影给出了它中肯的建议：去打拳吧。
-   
-   拳击就像一个最最精准的比喻：人活着的时候，会挨拳，那我们就要会格挡，也要会出拳。而一次又一次为了拳击而训练，就是在一次又一次强化自己的自性，和那装载自性的身体。
+> 可是，除了痛，人到底要如何通过握紧自己的身体，去把握自己的主体性呢？电影给出了它中肯的建议：去打拳吧。拳击就像一个最最精准的比喻：人活着的时候，会挨拳，那我们就要会格挡，也要会出拳。而一次又一次为了拳击而训练，就是在一次又一次强化自己的自性，和那装载自性的身体。
 > 
 > 2024-02-12 22:57:55 ^MP-WXS-3086720555-wOwBxy-IINz5M2bg9PlB2Q-2531-2666
 

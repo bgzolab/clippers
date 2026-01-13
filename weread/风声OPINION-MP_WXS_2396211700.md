@@ -6,7 +6,6 @@ reviewCount: 0
 noteCount: 2
 author:
   - 公众号
-  - 
 cover: http://wx.qlogo.cn/mmhead/Q3auHgzwzM7doiaTLjukWwS68HaoMZnXgiaUm2yoBicWnia2Y1qe6OtWhw/0
 readingStatus: 在读
 progress: "-1"

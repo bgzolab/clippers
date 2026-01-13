@@ -6,7 +6,6 @@ reviewCount: 0
 noteCount: 4
 author:
   - 公众号
-  - 
 cover: http://wx.qlogo.cn/mmhead/Q3auHgzwzM5ianrQHA7D9XLTfianRnBtvfxictz4lQMX4JibcIuiaRoCc8g/0
 readingStatus: 在读
 progress: "-1"
@@ -26,9 +25,7 @@ onewisdom: "false"
 ### 当男人去上班 | issue006
 
 > [!NOTE] 
-> 但老板是真的想要喝酒吗，还是老板也觉得“老板”应该要喝酒？我还没问出口，他接着说，老板不在，公司就好像没有老师的幼儿园。
-   
-   从来没坐过班的我，时常感觉自己因此没有正式步入过成年世界的大门，万万没想到，这扇门后面，是一个幼儿园。
+> 但老板是真的想要喝酒吗，还是老板也觉得“老板”应该要喝酒？我还没问出口，他接着说，老板不在，公司就好像没有老师的幼儿园。从来没坐过班的我，时常感觉自己因此没有正式步入过成年世界的大门，万万没想到，这扇门后面，是一个幼儿园。
 > 
 > 2024-02-12 23:04:32 ^MP-WXS-3910282422-j95im4aO4dGbY1gEtfmzmw-124-237
 
