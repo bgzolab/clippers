@@ -1,9 +1,3 @@
----
-draft: true
-created: 2025-01-12T02:17:53
-modified: 2025-03-30T09:48:07
-comments: false
----
 ![](https://img.shields.io/github/stars/bGZo/clippers?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bGZo/clippers?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bGZo/clippers?style=for-the-badge&label=since)
 
 What we ignored is, the web is week, one research[^web-page-research] published in 2024, said 38% of webpages that existed in 2013 are no longer accessible a decade later.
@@ -81,3 +75,13 @@ rsync -avz --progress --delete bgzo@192.168.31.20:/home/bgzo/workspaces/telegram
     - solidot
 
 [^web-page-research]: https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears, https://www.reddit.com/r/ExperiencedDevs/comments/129faxx/running_a_website_after_you_die/
+
+
+## Schema
+
+1. 
+
+
+Name should be with prefix '~'
+2. 
+

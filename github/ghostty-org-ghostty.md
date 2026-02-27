@@ -1,15 +1,18 @@
 ---
-draft: true
+title: Ghostty
 aliases:
   - "ghostty"
   - Ghostty
 created: 2025-09-26T20:57:19
+modified: 2026-02-26T21:55:06
+comments: true
+draft: true
 description: "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
-modified: 2025-09-26T22:03:28
 source: "https://github.com/ghostty-org/ghostty"
-title: Ghostty
+tags: []
 type: "repo"
 ---
+
 # Ghostty
 
 ![](https://img.shields.io/github/stars/ghostty-org/ghostty?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ghostty-org/ghostty?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ghostty-org/ghostty?style=for-the-badge&label=since)
@@ -22,8 +25,15 @@ type: "repo"
 brew install --cask ghostty
 ```
 
-## 唯一有用的东西
+## 幽灵动画
 
 ```shell
 ghostty +boo
+```
+
+## 配合终端徒刑协议预览文件
+
+```shell
+brew install yazi ffmpeg ffmpegthumbnailer
+yazi
 ```
