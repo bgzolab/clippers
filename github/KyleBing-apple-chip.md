@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/KyleBing/apple-chip?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/KyleBing/apple-chip?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/KyleBing/apple-chip?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=KyleBing&repo=apple-chip&bg_color=00000000)](https://github.com/KyleBing/apple-chip)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=KyleBing&repo=apple-chip&bg_color=00000000)](https://github.com/KyleBing/apple-chip)
 
 ## Online
 

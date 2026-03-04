@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/star7th/showdoc?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/star7th/showdoc?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/star7th/showdoc?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=star7th&repo=showdoc&bg_color=00000000)](https://github.com/star7th/showdoc)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=star7th&repo=showdoc&bg_color=00000000)](https://github.com/star7th/showdoc)
 
 ## Notes
 

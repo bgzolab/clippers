@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/K11MCH1/AdrenoToolsDrivers?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/K11MCH1/AdrenoToolsDrivers?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/K11MCH1/AdrenoToolsDrivers?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=K11MCH1&repo=AdrenoToolsDrivers&bg_color=00000000)](https://github.com/K11MCH1/AdrenoToolsDrivers)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=K11MCH1&repo=AdrenoToolsDrivers&bg_color=00000000)](https://github.com/K11MCH1/AdrenoToolsDrivers)
 
 ## Notes
 

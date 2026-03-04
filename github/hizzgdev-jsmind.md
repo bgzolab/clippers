@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/hizzgdev/jsmind?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/hizzgdev/jsmind?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/hizzgdev/jsmind?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=hizzgdev&repo=jsmind&bg_color=00000000)](https://github.com/hizzgdev/jsmind)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=hizzgdev&repo=jsmind&bg_color=00000000)](https://github.com/hizzgdev/jsmind)
 
 ## Notes
 

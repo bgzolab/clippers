@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/yangyangwithgnu/the_new_world_linux?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/yangyangwithgnu/the_new_world_linux?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/yangyangwithgnu/the_new_world_linux?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yangyangwithgnu&repo=the_new_world_linux&bg_color=00000000)](https://github.com/yangyangwithgnu/the_new_world_linux)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=yangyangwithgnu&repo=the_new_world_linux&bg_color=00000000)](https://github.com/yangyangwithgnu/the_new_world_linux)
 
 # Readme
 ## ##【正文】

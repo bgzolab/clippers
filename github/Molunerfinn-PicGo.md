@@ -18,7 +18,7 @@ status:
 
 ![](https://img.shields.io/github/stars/Molunerfinn/PicGo?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Molunerfinn/PicGo?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Molunerfinn/PicGo?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Molunerfinn&repo=PicGo&bg_color=00000000)](https://github.com/Molunerfinn/PicGo)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Molunerfinn&repo=PicGo&bg_color=00000000)](https://github.com/Molunerfinn/PicGo)
 
 ## Backup commandline
 

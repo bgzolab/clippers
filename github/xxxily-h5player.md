@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/xxxily/h5player?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/xxxily/h5player?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/xxxily/h5player?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xxxily&repo=h5player&bg_color=00000000)](https://github.com/xxxily/h5player)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=xxxily&repo=h5player&bg_color=00000000)](https://github.com/xxxily/h5player)
 
 ## Shortcuts
 

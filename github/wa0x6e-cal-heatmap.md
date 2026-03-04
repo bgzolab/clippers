@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/wa0x6e/cal-heatmap?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/wa0x6e/cal-heatmap?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/wa0x6e/cal-heatmap?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=wa0x6e&repo=cal-heatmap&bg_color=00000000)](https://github.com/wa0x6e/cal-heatmap)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=wa0x6e&repo=cal-heatmap&bg_color=00000000)](https://github.com/wa0x6e/cal-heatmap)
 
 ## Notes
 

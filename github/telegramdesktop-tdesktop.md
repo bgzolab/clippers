@@ -27,7 +27,7 @@ type: tool
 
 ![](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/telegramdesktop/tdesktop?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/telegramdesktop/tdesktop?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=telegramdesktop&repo=tdesktop&bg_color=00000000)](https://github.com/telegramdesktop/tdesktop)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=telegramdesktop&repo=tdesktop&bg_color=00000000)](https://github.com/telegramdesktop/tdesktop)
 
 ## Why
 

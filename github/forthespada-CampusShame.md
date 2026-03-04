@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/forthespada/CampusShame?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/forthespada/CampusShame?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/forthespada/CampusShame?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=forthespada&repo=CampusShame&bg_color=00000000)](https://github.com/forthespada/CampusShame)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=forthespada&repo=CampusShame&bg_color=00000000)](https://github.com/forthespada/CampusShame)
 
 ## Notes
 

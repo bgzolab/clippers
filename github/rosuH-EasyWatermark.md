@@ -14,6 +14,6 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/rosuH/EasyWatermark?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/rosuH/EasyWatermark?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/rosuH/EasyWatermark?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rosuH&repo=EasyWatermark&bg_color=00000000)](https://github.com/rosuH/EasyWatermark)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=rosuH&repo=EasyWatermark&bg_color=00000000)](https://github.com/rosuH/EasyWatermark)
 
 ## Notes

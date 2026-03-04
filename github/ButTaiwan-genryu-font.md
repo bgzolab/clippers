@@ -12,4 +12,4 @@ draft: "true"
 
 ![](https://img.shields.io/github/stars/ButTaiwan/genryu-font?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ButTaiwan/genryu-font?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ButTaiwan/genryu-font?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ButTaiwan&repo=genryu-font&bg_color=00000000)](https://github.com/ButTaiwan/genryu-font)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ButTaiwan&repo=genryu-font&bg_color=00000000)](https://github.com/ButTaiwan/genryu-font)

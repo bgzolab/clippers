@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/ilius/pyglossary?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ilius/pyglossary?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ilius/pyglossary?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ilius&repo=pyglossary&bg_color=00000000)](https://github.com/ilius/pyglossary)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ilius&repo=pyglossary&bg_color=00000000)](https://github.com/ilius/pyglossary)
 
 ## Notes
 

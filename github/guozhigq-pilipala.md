@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/guozhigq/pilipala?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/guozhigq/pilipala?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/guozhigq/pilipala?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=guozhigq&repo=pilipala&bg_color=00000000)](https://github.com/guozhigq/pilipala)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=guozhigq&repo=pilipala&bg_color=00000000)](https://github.com/guozhigq/pilipala)
 
 ## Notes
 

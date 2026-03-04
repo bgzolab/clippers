@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/Grasscutters/Grasscutter?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Grasscutters/Grasscutter?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Grasscutters/Grasscutter?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Grasscutters&repo=Grasscutter&bg_color=00000000)](https://github.com/Grasscutters/Grasscutter)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Grasscutters&repo=Grasscutter&bg_color=00000000)](https://github.com/Grasscutters/Grasscutter)
 
 ## Notes
 

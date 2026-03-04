@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/Winand/screen_on?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Winand/screen_on?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Winand/screen_on?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Winand&repo=screen_on&bg_color=00000000)](https://github.com/Winand/screen_on)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Winand&repo=screen_on&bg_color=00000000)](https://github.com/Winand/screen_on)
 
 ## Notes
 

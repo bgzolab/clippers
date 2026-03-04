@@ -14,6 +14,6 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/vinceliuice/WhiteSur-gtk-theme?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/vinceliuice/WhiteSur-gtk-theme?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/vinceliuice/WhiteSur-gtk-theme?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vinceliuice&repo=WhiteSur-gtk-theme&bg_color=00000000)](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=vinceliuice&repo=WhiteSur-gtk-theme&bg_color=00000000)](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
 Linux 下面最喜欢的主题

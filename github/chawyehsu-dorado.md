@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/chawyehsu/dorado?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/chawyehsu/dorado?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/chawyehsu/dorado?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=chawyehsu&repo=dorado&bg_color=00000000)](https://github.com/chawyehsu/dorado)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=chawyehsu&repo=dorado&bg_color=00000000)](https://github.com/chawyehsu/dorado)
 
 ## Notes
 

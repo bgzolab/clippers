@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/http-party/http-server?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/http-party/http-server?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/http-party/http-server?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=http-party&repo=http-server&bg_color=00000000)](https://github.com/http-party/http-server)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=http-party&repo=http-server&bg_color=00000000)](https://github.com/http-party/http-server)
 
 ## Notes
 

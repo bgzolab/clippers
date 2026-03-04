@@ -16,7 +16,7 @@ status: tool/deprecated
 
 ![](https://img.shields.io/github/stars/torne/Tiny-Tiny-RSS?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/torne/Tiny-Tiny-RSS?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/torne/Tiny-Tiny-RSS?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=torne&repo=Tiny-Tiny-RSS&bg_color=00000000)](https://github.com/torne/Tiny-Tiny-RSS)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=torne&repo=Tiny-Tiny-RSS&bg_color=00000000)](https://github.com/torne/Tiny-Tiny-RSS)
 
 ## Notes
 

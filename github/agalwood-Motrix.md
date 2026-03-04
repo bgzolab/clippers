@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/agalwood/Motrix?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/agalwood/Motrix?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/agalwood/Motrix?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=agalwood&repo=Motrix&bg_color=00000000)](https://github.com/agalwood/Motrix)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=agalwood&repo=Motrix&bg_color=00000000)](https://github.com/agalwood/Motrix)
 
 ## Notes
 

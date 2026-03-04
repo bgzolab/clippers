@@ -14,6 +14,6 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/SelfControlApp/selfcontrol?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/SelfControlApp/selfcontrol?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/SelfControlApp/selfcontrol?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SelfControlApp&repo=selfcontrol&bg_color=00000000)](https://github.com/SelfControlApp/selfcontrol)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=SelfControlApp&repo=selfcontrol&bg_color=00000000)](https://github.com/SelfControlApp/selfcontrol)
 
 ## Notes

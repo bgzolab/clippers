@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/fei-ke/HMSPush?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/fei-ke/HMSPush?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/fei-ke/HMSPush?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fei-ke&repo=HMSPush&bg_color=00000000)](https://github.com/fei-ke/HMSPush)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=fei-ke&repo=HMSPush&bg_color=00000000)](https://github.com/fei-ke/HMSPush)
 
 ## Notes
 

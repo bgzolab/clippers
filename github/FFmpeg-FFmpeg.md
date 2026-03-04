@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/FFmpeg/FFmpeg?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/FFmpeg/FFmpeg?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=FFmpeg&repo=FFmpeg&bg_color=00000000)](https://github.com/FFmpeg/FFmpeg)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=FFmpeg&repo=FFmpeg&bg_color=00000000)](https://github.com/FFmpeg/FFmpeg)
 
 ## 子程序 (4)
 

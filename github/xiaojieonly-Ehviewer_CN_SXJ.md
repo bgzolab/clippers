@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/xiaojieonly/Ehviewer_CN_SXJ?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/xiaojieonly/Ehviewer_CN_SXJ?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/xiaojieonly/Ehviewer_CN_SXJ?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaojieonly&repo=Ehviewer_CN_SXJ&bg_color=00000000)](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=xiaojieonly&repo=Ehviewer_CN_SXJ&bg_color=00000000)](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
 
 ## Notes
 

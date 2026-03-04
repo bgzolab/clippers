@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/axzxc1236/pySharepointDownloader?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/axzxc1236/pySharepointDownloader?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/axzxc1236/pySharepointDownloader?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=axzxc1236&repo=pySharepointDownloader&bg_color=00000000)](https://github.com/axzxc1236/pySharepointDownloader)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=axzxc1236&repo=pySharepointDownloader&bg_color=00000000)](https://github.com/axzxc1236/pySharepointDownloader)
 
 ## Notes
 

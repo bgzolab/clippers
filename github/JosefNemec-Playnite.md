@@ -14,6 +14,6 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/JosefNemec/Playnite?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/JosefNemec/Playnite?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/JosefNemec/Playnite?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JosefNemec&repo=Playnite&bg_color=00000000)](https://github.com/JosefNemec/Playnite)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=JosefNemec&repo=Playnite&bg_color=00000000)](https://github.com/JosefNemec/Playnite)
 
 - [[~使用playnite整理本地黄油和模拟器游戏的一些方法]]

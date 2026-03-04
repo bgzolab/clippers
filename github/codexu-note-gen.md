@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/codexu/note-gen?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/codexu/note-gen?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/codexu/note-gen?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=codexu&repo=note-gen&bg_color=00000000)](https://github.com/codexu/note-gen)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=codexu&repo=note-gen&bg_color=00000000)](https://github.com/codexu/note-gen)
 
 ## Notes
 

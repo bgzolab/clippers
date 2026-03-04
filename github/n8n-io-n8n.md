@@ -14,4 +14,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/n8n-io/n8n?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/n8n-io/n8n?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/n8n-io/n8n?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=n8n-io&repo=n8n&bg_color=00000000)](https://github.com/n8n-io/n8n)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=n8n-io&repo=n8n&bg_color=00000000)](https://github.com/n8n-io/n8n)

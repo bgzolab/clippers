@@ -18,7 +18,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/videolan/vlc?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/videolan/vlc?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/videolan/vlc?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=videolan&repo=vlc&bg_color=00000000)](https://github.com/videolan/vlc)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=videolan&repo=vlc&bg_color=00000000)](https://github.com/videolan/vlc)
 
 ## Why
 

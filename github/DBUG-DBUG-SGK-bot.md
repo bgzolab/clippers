@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/DBUG-DBUG/SGK-bot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/DBUG-DBUG/SGK-bot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/DBUG-DBUG/SGK-bot?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=DBUG-DBUG&repo=SGK-bot&bg_color=00000000)](https://github.com/DBUG-DBUG/SGK-bot)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=DBUG-DBUG&repo=SGK-bot&bg_color=00000000)](https://github.com/DBUG-DBUG/SGK-bot)
 
 ## Notes
 

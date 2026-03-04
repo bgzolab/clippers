@@ -12,4 +12,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/jordanbaird/Ice?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jordanbaird/Ice?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jordanbaird/Ice?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jordanbaird&repo=Ice&bg_color=00000000)](https://github.com/jordanbaird/Ice)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=jordanbaird&repo=Ice&bg_color=00000000)](https://github.com/jordanbaird/Ice)

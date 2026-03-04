@@ -19,7 +19,7 @@ donation: https://getsharex.com/donate
 
 ![](https://img.shields.io/github/stars/ShareX/ShareX?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ShareX/ShareX?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ShareX/ShareX?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ShareX&repo=ShareX&bg_color=00000000)](https://github.com/ShareX/ShareX)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ShareX&repo=ShareX&bg_color=00000000)](https://github.com/ShareX/ShareX)
 
 ## Notes
 

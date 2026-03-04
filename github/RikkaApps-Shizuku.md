@@ -16,7 +16,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/RikkaApps/Shizuku?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/RikkaApps/Shizuku?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/RikkaApps/Shizuku?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RikkaApps&repo=Shizuku&bg_color=00000000)](https://github.com/RikkaApps/Shizuku)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=RikkaApps&repo=Shizuku&bg_color=00000000)](https://github.com/RikkaApps/Shizuku)
 
 <iframe src='https://shizuku.rikka.app/introduction' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>
 <center>via: <a href='https://shizuku.rikka.app/introduction' target='_blank' class='external-link'>https://shizuku.rikka.app/introduction</a></center>

@@ -14,4 +14,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/KurimuzonAkuma/pyrogram?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/KurimuzonAkuma/pyrogram?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/KurimuzonAkuma/pyrogram?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=KurimuzonAkuma&repo=pyrogram&bg_color=00000000)](https://github.com/KurimuzonAkuma/pyrogram)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=KurimuzonAkuma&repo=pyrogram&bg_color=00000000)](https://github.com/KurimuzonAkuma/pyrogram)

@@ -14,4 +14,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/miaomiaosoft/PandaOCR?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/miaomiaosoft/PandaOCR?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/miaomiaosoft/PandaOCR?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=miaomiaosoft&repo=PandaOCR&bg_color=00000000)](https://github.com/miaomiaosoft/PandaOCR)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=miaomiaosoft&repo=PandaOCR&bg_color=00000000)](https://github.com/miaomiaosoft/PandaOCR)

@@ -16,4 +16,4 @@ tags:
 
 ![](https://img.shields.io/github/stars/github/awesome-copilot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/github/awesome-copilot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/github/awesome-copilot?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=github&repo=awesome-copilot&bg_color=00000000)](https://github.com/github/awesome-copilot)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=github&repo=awesome-copilot&bg_color=00000000)](https://github.com/github/awesome-copilot)

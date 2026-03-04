@@ -18,7 +18,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/cooderl/wewe-rss?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/cooderl/wewe-rss?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/cooderl/wewe-rss?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cooderl&repo=wewe-rss&bg_color=00000000)](https://github.com/cooderl/wewe-rss)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=cooderl&repo=wewe-rss&bg_color=00000000)](https://github.com/cooderl/wewe-rss)
 
 ## Notes
 

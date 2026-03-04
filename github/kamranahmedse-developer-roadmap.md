@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/kamranahmedse/developer-roadmap?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/kamranahmedse/developer-roadmap?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap&bg_color=00000000)](https://github.com/kamranahmedse/developer-roadmap)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap&bg_color=00000000)](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Notes
 

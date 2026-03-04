@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/prakhar1989/docker-curriculum?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/prakhar1989/docker-curriculum?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/prakhar1989/docker-curriculum?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=prakhar1989&repo=docker-curriculum&bg_color=00000000)](https://github.com/prakhar1989/docker-curriculum)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=prakhar1989&repo=docker-curriculum&bg_color=00000000)](https://github.com/prakhar1989/docker-curriculum)
 
 ## Notes
 

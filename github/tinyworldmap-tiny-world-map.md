@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/tinyworldmap/tiny-world-map?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/tinyworldmap/tiny-world-map?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/tinyworldmap/tiny-world-map?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=tinyworldmap&repo=tiny-world-map&bg_color=00000000)](https://github.com/tinyworldmap/tiny-world-map)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=tinyworldmap&repo=tiny-world-map&bg_color=00000000)](https://github.com/tinyworldmap/tiny-world-map)
 
 ## Notes
 

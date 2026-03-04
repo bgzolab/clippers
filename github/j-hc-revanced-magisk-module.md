@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/j-hc/revanced-magisk-module?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/j-hc/revanced-magisk-module?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/j-hc/revanced-magisk-module?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=j-hc&repo=revanced-magisk-module&bg_color=00000000)](https://github.com/j-hc/revanced-magisk-module)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=j-hc&repo=revanced-magisk-module&bg_color=00000000)](https://github.com/j-hc/revanced-magisk-module)
 
 ## Notes
 

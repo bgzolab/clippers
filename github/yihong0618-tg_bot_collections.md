@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/yihong0618/tg_bot_collections?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/yihong0618/tg_bot_collections?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/yihong0618/tg_bot_collections?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yihong0618&repo=tg_bot_collections&bg_color=00000000)](https://github.com/yihong0618/tg_bot_collections)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=yihong0618&repo=tg_bot_collections&bg_color=00000000)](https://github.com/yihong0618/tg_bot_collections)
 
 ## Notes
 

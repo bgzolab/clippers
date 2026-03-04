@@ -12,4 +12,4 @@ draft: true
 
 ![](https://img.shields.io/github/stars/Caldis/Mos?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Caldis/Mos?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Caldis/Mos?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Caldis&repo=Mos&bg_color=00000000)](https://github.com/Caldis/Mos)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Caldis&repo=Mos&bg_color=00000000)](https://github.com/Caldis/Mos)

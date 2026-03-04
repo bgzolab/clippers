@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/lyswhut/lx-music-desktop?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/lyswhut/lx-music-desktop?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lyswhut&repo=lx-music-desktop&bg_color=00000000)](https://github.com/lyswhut/lx-music-desktop)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=lyswhut&repo=lx-music-desktop&bg_color=00000000)](https://github.com/lyswhut/lx-music-desktop)
 
 ## Notes
 

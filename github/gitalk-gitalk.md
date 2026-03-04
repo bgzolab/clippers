@@ -13,4 +13,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/gitalk/gitalk?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/gitalk/gitalk?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/gitalk/gitalk?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=gitalk&repo=gitalk&bg_color=00000000)](https://github.com/gitalk/gitalk)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=gitalk&repo=gitalk&bg_color=00000000)](https://github.com/gitalk/gitalk)

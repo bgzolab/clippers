@@ -12,4 +12,4 @@ draft: "true"
 
 ![](https://img.shields.io/github/stars/dockur/windows?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/dockur/windows?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/dockur/windows?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dockur&repo=windows&bg_color=00000000)](https://github.com/dockur/windows)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=dockur&repo=windows&bg_color=00000000)](https://github.com/dockur/windows)

@@ -13,4 +13,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/giscus/giscus?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/giscus/giscus?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/giscus/giscus?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=giscus&repo=giscus&bg_color=00000000)](https://github.com/giscus/giscus)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=giscus&repo=giscus&bg_color=00000000)](https://github.com/giscus/giscus)

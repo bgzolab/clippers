@@ -12,4 +12,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/yt-dlp/yt-dlp?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/yt-dlp/yt-dlp?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yt-dlp&repo=yt-dlp&bg_color=00000000)](https://github.com/yt-dlp/yt-dlp)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=yt-dlp&repo=yt-dlp&bg_color=00000000)](https://github.com/yt-dlp/yt-dlp)

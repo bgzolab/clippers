@@ -19,7 +19,7 @@ a distribution of the `Code - OSS` repository with Microsoft-specific customizat
 
 ![](https://img.shields.io/github/stars/microsoft/vscode?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/microsoft/vscode?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/microsoft/vscode?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&bg_color=00000000)](https://github.com/microsoft/vscode)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=microsoft&repo=vscode&bg_color=00000000)](https://github.com/microsoft/vscode)
 
 ## Shortcuts
 

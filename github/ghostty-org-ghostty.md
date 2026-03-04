@@ -17,7 +17,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/ghostty-org/ghostty?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ghostty-org/ghostty?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ghostty-org/ghostty?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ghostty-org&repo=ghostty&bg_color=00000000)](https://github.com/ghostty-org/ghostty)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ghostty-org&repo=ghostty&bg_color=00000000)](https://github.com/ghostty-org/ghostty)
 
 ## Install
 

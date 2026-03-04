@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/AyraHikari/OneUIAppsPort?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/AyraHikari/OneUIAppsPort?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/AyraHikari/OneUIAppsPort?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AyraHikari&repo=OneUIAppsPort&bg_color=00000000)](https://github.com/AyraHikari/OneUIAppsPort)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=AyraHikari&repo=OneUIAppsPort&bg_color=00000000)](https://github.com/AyraHikari/OneUIAppsPort)
 
 ## Notes
 

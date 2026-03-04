@@ -14,4 +14,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/github/gh-copilot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/github/gh-copilot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/github/gh-copilot?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=github&repo=gh-copilot&bg_color=00000000)](https://github.com/github/gh-copilot)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=github&repo=gh-copilot&bg_color=00000000)](https://github.com/github/gh-copilot)

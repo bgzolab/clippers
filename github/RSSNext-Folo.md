@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/RSSNext/Folo?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/RSSNext/Folo?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/RSSNext/Folo?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RSSNext&repo=Folo&bg_color=00000000)](https://github.com/RSSNext/Folo)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=RSSNext&repo=Folo&bg_color=00000000)](https://github.com/RSSNext/Folo)
 
 ## Notes
 

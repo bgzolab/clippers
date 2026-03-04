@@ -15,6 +15,6 @@ type: repo
 
 ![](https://img.shields.io/github/stars/anthropics/claude-code?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/anthropics/claude-code?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/anthropics/claude-code?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=anthropics&repo=claude-code&bg_color=00000000)](https://github.com/anthropics/claude-code)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=anthropics&repo=claude-code&bg_color=00000000)](https://github.com/anthropics/claude-code)
 
 # Claude

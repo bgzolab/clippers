@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/google-gemini/gemini-cli?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/google-gemini/gemini-cli?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=google-gemini&repo=gemini-cli&bg_color=00000000)](https://github.com/google-gemini/gemini-cli)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=google-gemini&repo=gemini-cli&bg_color=00000000)](https://github.com/google-gemini/gemini-cli)
 
 # Gemini Cli
 

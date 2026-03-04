@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/s8ngyu/Mugunghwa?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/s8ngyu/Mugunghwa?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/s8ngyu/Mugunghwa?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=s8ngyu&repo=Mugunghwa&bg_color=00000000)](https://github.com/s8ngyu/Mugunghwa)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=s8ngyu&repo=Mugunghwa&bg_color=00000000)](https://github.com/s8ngyu/Mugunghwa)
 
 ## Notes
 

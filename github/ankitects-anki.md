@@ -18,7 +18,7 @@ wikipedia: https://en.wikipedia.org/wiki/Anki_(software)
 
 ![](https://img.shields.io/github/stars/ankitects/anki?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ankitects/anki?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ankitects/anki?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ankitects&repo=anki&bg_color=00000000)](https://github.com/ankitects/anki)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ankitects&repo=anki&bg_color=00000000)](https://github.com/ankitects/anki)
 
 ## Why
 

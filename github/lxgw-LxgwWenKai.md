@@ -12,4 +12,4 @@ draft: "true"
 
 ![](https://img.shields.io/github/stars/lxgw/LxgwWenKai?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/lxgw/LxgwWenKai?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/lxgw/LxgwWenKai?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lxgw&repo=LxgwWenKai&bg_color=00000000)](https://github.com/lxgw/LxgwWenKai)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=lxgw&repo=LxgwWenKai&bg_color=00000000)](https://github.com/lxgw/LxgwWenKai)

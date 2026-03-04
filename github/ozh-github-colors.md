@@ -14,4 +14,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/ozh/github-colors?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ozh/github-colors?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ozh/github-colors?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ozh&repo=github-colors&bg_color=00000000)](https://github.com/ozh/github-colors)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ozh&repo=github-colors&bg_color=00000000)](https://github.com/ozh/github-colors)

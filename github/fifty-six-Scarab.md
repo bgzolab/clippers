@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/fifty-six/Scarab?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/fifty-six/Scarab?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/fifty-six/Scarab?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fifty-six&repo=Scarab&bg_color=00000000)](https://github.com/fifty-six/Scarab)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=fifty-six&repo=Scarab&bg_color=00000000)](https://github.com/fifty-six/Scarab)
 
 ## Notes
 

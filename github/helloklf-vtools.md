@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/helloklf/vtools?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/helloklf/vtools?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/helloklf/vtools?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=helloklf&repo=vtools&bg_color=00000000)](https://github.com/helloklf/vtools)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=helloklf&repo=vtools&bg_color=00000000)](https://github.com/helloklf/vtools)
 
 ## Notes
 

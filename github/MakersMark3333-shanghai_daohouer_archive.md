@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/MakersMark3333/shanghai_daohouer_archive?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/MakersMark3333/shanghai_daohouer_archive?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/MakersMark3333/shanghai_daohouer_archive?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=MakersMark3333&repo=shanghai_daohouer_archive&bg_color=00000000)](https://github.com/MakersMark3333/shanghai_daohouer_archive)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=MakersMark3333&repo=shanghai_daohouer_archive&bg_color=00000000)](https://github.com/MakersMark3333/shanghai_daohouer_archive)
 
 ## Notes
 

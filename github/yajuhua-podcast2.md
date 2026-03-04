@@ -12,4 +12,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/yajuhua/podcast2?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/yajuhua/podcast2?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/yajuhua/podcast2?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yajuhua&repo=podcast2&bg_color=00000000)](https://github.com/yajuhua/podcast2)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=yajuhua&repo=podcast2&bg_color=00000000)](https://github.com/yajuhua/podcast2)

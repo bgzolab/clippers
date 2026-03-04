@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/andylshort/rss-finder?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/andylshort/rss-finder?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/andylshort/rss-finder?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=andylshort&repo=rss-finder&bg_color=00000000)](https://github.com/andylshort/rss-finder)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=andylshort&repo=rss-finder&bg_color=00000000)](https://github.com/andylshort/rss-finder)
 
 ## Notes
 

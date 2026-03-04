@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=Mastering-GitHub-Copilot-for-Paired-Programming&bg_color=00000000)](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=microsoft&repo=Mastering-GitHub-Copilot-for-Paired-Programming&bg_color=00000000)](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 
 ## Review
 

@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/ninja33/anki-dict-helper?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ninja33/anki-dict-helper?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ninja33/anki-dict-helper?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ninja33&repo=anki-dict-helper&bg_color=00000000)](https://github.com/ninja33/anki-dict-helper)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ninja33&repo=anki-dict-helper&bg_color=00000000)](https://github.com/ninja33/anki-dict-helper)
 
 ## Notes
 

@@ -15,7 +15,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/karan/projects-solutions?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/karan/projects-solutions?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/karan/projects-solutions?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=karan&repo=projects-solutions&bg_color=00000000)](https://github.com/karan/projects-solutions)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=karan&repo=projects-solutions&bg_color=00000000)](https://github.com/karan/projects-solutions)
 
 ## Notes
 

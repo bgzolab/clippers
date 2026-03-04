@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/ezshine/AwesomeSites?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ezshine/AwesomeSites?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ezshine/AwesomeSites?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ezshine&repo=AwesomeSites&bg_color=00000000)](https://github.com/ezshine/AwesomeSites)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ezshine&repo=AwesomeSites&bg_color=00000000)](https://github.com/ezshine/AwesomeSites)
 
 ## Notes
 

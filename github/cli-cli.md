@@ -18,4 +18,4 @@ type: repo
 
 ![](https://img.shields.io/github/stars/cli/cli?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/cli/cli?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/cli/cli?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cli&repo=cli&bg_color=00000000)](https://github.com/cli/cli)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=cli&repo=cli&bg_color=00000000)](https://github.com/cli/cli)

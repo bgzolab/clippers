@@ -17,7 +17,7 @@ status: tool/star
 
 ![](https://img.shields.io/github/stars/Tampermonkey/tampermonkey?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Tampermonkey/tampermonkey?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Tampermonkey/tampermonkey?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Tampermonkey&repo=tampermonkey&bg_color=00000000)](https://github.com/Tampermonkey/tampermonkey)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Tampermonkey&repo=tampermonkey&bg_color=00000000)](https://github.com/Tampermonkey/tampermonkey)
 
 ## Notes
 

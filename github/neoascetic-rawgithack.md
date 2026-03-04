@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/neoascetic/rawgithack?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/neoascetic/rawgithack?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/neoascetic/rawgithack?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=neoascetic&repo=rawgithack&bg_color=00000000)](https://github.com/neoascetic/rawgithack)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=neoascetic&repo=rawgithack&bg_color=00000000)](https://github.com/neoascetic/rawgithack)
 
 ## Notes
 

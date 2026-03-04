@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/go-shiori/shiori?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/go-shiori/shiori?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/go-shiori/shiori?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=go-shiori&repo=shiori&bg_color=00000000)](https://github.com/go-shiori/shiori)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=go-shiori&repo=shiori&bg_color=00000000)](https://github.com/go-shiori/shiori)
 
 ## Notes
 

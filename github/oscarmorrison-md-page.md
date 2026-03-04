@@ -14,4 +14,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/oscarmorrison/md-page?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/oscarmorrison/md-page?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/oscarmorrison/md-page?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=oscarmorrison&repo=md-page&bg_color=00000000)](https://github.com/oscarmorrison/md-page)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=oscarmorrison&repo=md-page&bg_color=00000000)](https://github.com/oscarmorrison/md-page)

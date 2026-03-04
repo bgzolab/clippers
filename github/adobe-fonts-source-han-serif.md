@@ -12,4 +12,4 @@ draft: "true"
 
 ![](https://img.shields.io/github/stars/adobe-fonts/source-han-serif?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/adobe-fonts/source-han-serif?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/adobe-fonts/source-han-serif?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=adobe-fonts&repo=source-han-serif&bg_color=00000000)](https://github.com/adobe-fonts/source-han-serif)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=adobe-fonts&repo=source-han-serif&bg_color=00000000)](https://github.com/adobe-fonts/source-han-serif)

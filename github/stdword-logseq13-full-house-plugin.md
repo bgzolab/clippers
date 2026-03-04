@@ -14,7 +14,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/stdword/logseq13-full-house-plugin?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/stdword/logseq13-full-house-plugin?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/stdword/logseq13-full-house-plugin?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=stdword&repo=logseq13-full-house-plugin&bg_color=00000000)](https://github.com/stdword/logseq13-full-house-plugin)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=stdword&repo=logseq13-full-house-plugin&bg_color=00000000)](https://github.com/stdword/logseq13-full-house-plugin)
 
 ## Notes
 

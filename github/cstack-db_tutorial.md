@@ -15,7 +15,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/cstack/db_tutorial?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/cstack/db_tutorial?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/cstack/db_tutorial?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cstack&repo=db_tutorial&bg_color=00000000)](https://github.com/cstack/db_tutorial)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=cstack&repo=db_tutorial&bg_color=00000000)](https://github.com/cstack/db_tutorial)
 
 ## P01
   - **REPL** (read-execute-print loop)

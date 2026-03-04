@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/GangJust/FreedomPlus?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/GangJust/FreedomPlus?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/GangJust/FreedomPlus?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=GangJust&repo=FreedomPlus&bg_color=00000000)](https://github.com/GangJust/FreedomPlus)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=GangJust&repo=FreedomPlus&bg_color=00000000)](https://github.com/GangJust/FreedomPlus)
 
 ## Notes
 

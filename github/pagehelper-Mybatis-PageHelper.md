@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/pagehelper/Mybatis-PageHelper?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/pagehelper/Mybatis-PageHelper?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/pagehelper/Mybatis-PageHelper?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pagehelper&repo=Mybatis-PageHelper&bg_color=00000000)](https://github.com/pagehelper/Mybatis-PageHelper)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=pagehelper&repo=Mybatis-PageHelper&bg_color=00000000)](https://github.com/pagehelper/Mybatis-PageHelper)
 
 ## Notes
 

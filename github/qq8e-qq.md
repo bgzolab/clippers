@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/qq8e/qq?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/qq8e/qq?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/qq8e/qq?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=qq8e&repo=qq&bg_color=00000000)](https://github.com/qq8e/qq)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=qq8e&repo=qq&bg_color=00000000)](https://github.com/qq8e/qq)
 
 ## Notes
 

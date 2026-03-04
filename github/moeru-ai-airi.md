@@ -14,4 +14,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/moeru-ai/airi?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/moeru-ai/airi?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/moeru-ai/airi?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=moeru-ai&repo=airi&bg_color=00000000)](https://github.com/moeru-ai/airi)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=moeru-ai&repo=airi&bg_color=00000000)](https://github.com/moeru-ai/airi)

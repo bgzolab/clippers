@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/Youjingyu/web_mind_mapping?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Youjingyu/web_mind_mapping?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Youjingyu/web_mind_mapping?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Youjingyu&repo=web_mind_mapping&bg_color=00000000)](https://github.com/Youjingyu/web_mind_mapping)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Youjingyu&repo=web_mind_mapping&bg_color=00000000)](https://github.com/Youjingyu/web_mind_mapping)
 
 ## Notes
 

@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/jason5ng32/MyIP?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jason5ng32/MyIP?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jason5ng32/MyIP?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jason5ng32&repo=MyIP&bg_color=00000000)](https://github.com/jason5ng32/MyIP)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=jason5ng32&repo=MyIP&bg_color=00000000)](https://github.com/jason5ng32/MyIP)
 
 ## Notes
 

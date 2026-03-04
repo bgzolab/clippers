@@ -15,7 +15,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/ArchiveBox/ArchiveBox?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ArchiveBox/ArchiveBox?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ArchiveBox/ArchiveBox?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiveBox&repo=ArchiveBox&bg_color=00000000)](https://github.com/ArchiveBox/ArchiveBox)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ArchiveBox&repo=ArchiveBox&bg_color=00000000)](https://github.com/ArchiveBox/ArchiveBox)
 
 ## Notes
 

@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/jekyll/jekyll-feed?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jekyll/jekyll-feed?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jekyll/jekyll-feed?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jekyll&repo=jekyll-feed&bg_color=00000000)](https://github.com/jekyll/jekyll-feed)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=jekyll&repo=jekyll-feed&bg_color=00000000)](https://github.com/jekyll/jekyll-feed)
 
 ## Notes
 

@@ -14,4 +14,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/ikatyang/emoji-cheat-sheet?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ikatyang/emoji-cheat-sheet?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ikatyang/emoji-cheat-sheet?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ikatyang&repo=emoji-cheat-sheet&bg_color=00000000)](https://github.com/ikatyang/emoji-cheat-sheet)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ikatyang&repo=emoji-cheat-sheet&bg_color=00000000)](https://github.com/ikatyang/emoji-cheat-sheet)

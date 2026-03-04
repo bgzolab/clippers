@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/tjko/jpegoptim?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/tjko/jpegoptim?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/tjko/jpegoptim?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=tjko&repo=jpegoptim&bg_color=00000000)](https://github.com/tjko/jpegoptim)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=tjko&repo=jpegoptim&bg_color=00000000)](https://github.com/tjko/jpegoptim)
 
 ## Notes
 

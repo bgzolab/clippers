@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/lonekorean/wordpress-export-to-markdown?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/lonekorean/wordpress-export-to-markdown?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/lonekorean/wordpress-export-to-markdown?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lonekorean&repo=wordpress-export-to-markdown&bg_color=00000000)](https://github.com/lonekorean/wordpress-export-to-markdown)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=lonekorean&repo=wordpress-export-to-markdown&bg_color=00000000)](https://github.com/lonekorean/wordpress-export-to-markdown)
 
 ## Notes
 

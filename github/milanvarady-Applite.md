@@ -14,6 +14,6 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/milanvarady/Applite?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/milanvarady/Applite?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=milanvarady&repo=Applite&bg_color=00000000)](https://github.com/milanvarady/Applite)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=milanvarady&repo=Applite&bg_color=00000000)](https://github.com/milanvarady/Applite)
 
 ## 我希望有一个 Linux 的版本 #issue

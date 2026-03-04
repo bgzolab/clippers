@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/anmol098/waka-readme-stats?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/anmol098/waka-readme-stats?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/anmol098/waka-readme-stats?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=anmol098&repo=waka-readme-stats&bg_color=00000000)](https://github.com/anmol098/waka-readme-stats)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=anmol098&repo=waka-readme-stats&bg_color=00000000)](https://github.com/anmol098/waka-readme-stats)
 
 ## Notes
 

@@ -17,7 +17,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/uazo/cromite?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/uazo/cromite?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/uazo/cromite?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=uazo&repo=cromite&bg_color=00000000)](https://github.com/uazo/cromite)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=uazo&repo=cromite&bg_color=00000000)](https://github.com/uazo/cromite)
 
 ## Notes
 

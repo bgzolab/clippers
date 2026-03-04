@@ -17,7 +17,7 @@ status: tool/star
 
 ![](https://img.shields.io/github/stars/microsoft/WSL?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/microsoft/WSL?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/microsoft/WSL?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=WSL&bg_color=00000000)](https://github.com/microsoft/WSL)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=microsoft&repo=WSL&bg_color=00000000)](https://github.com/microsoft/WSL)
 
 ## Notes
 

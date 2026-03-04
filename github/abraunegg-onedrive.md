@@ -19,7 +19,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/abraunegg/onedrive?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/abraunegg/onedrive?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/abraunegg/onedrive?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=abraunegg&repo=onedrive&bg_color=00000000)](https://github.com/abraunegg/onedrive)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=abraunegg&repo=onedrive&bg_color=00000000)](https://github.com/abraunegg/onedrive)
 
 ## Install
 

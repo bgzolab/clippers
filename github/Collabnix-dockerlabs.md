@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/Collabnix/dockerlabs?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Collabnix/dockerlabs?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Collabnix/dockerlabs?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Collabnix&repo=dockerlabs&bg_color=00000000)](https://github.com/Collabnix/dockerlabs)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Collabnix&repo=dockerlabs&bg_color=00000000)](https://github.com/Collabnix/dockerlabs)
 
 ## Notes
 

@@ -13,7 +13,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/osy/Jitterbug?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/osy/Jitterbug?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/osy/Jitterbug?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=osy&repo=Jitterbug&bg_color=00000000)](https://github.com/osy/Jitterbug)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=osy&repo=Jitterbug&bg_color=00000000)](https://github.com/osy/Jitterbug)
 
 ## Issue: 没有提供 ARM 的版本
 

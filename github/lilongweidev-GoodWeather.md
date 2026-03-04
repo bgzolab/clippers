@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/lilongweidev/GoodWeather?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/lilongweidev/GoodWeather?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/lilongweidev/GoodWeather?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lilongweidev&repo=GoodWeather&bg_color=00000000)](https://github.com/lilongweidev/GoodWeather)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=lilongweidev&repo=GoodWeather&bg_color=00000000)](https://github.com/lilongweidev/GoodWeather)
 
 ## Notes
 

@@ -13,7 +13,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/SagerNet/sing-box?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/SagerNet/sing-box?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/SagerNet/sing-box?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SagerNet&repo=sing-box&bg_color=00000000)](https://github.com/SagerNet/sing-box)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=SagerNet&repo=sing-box&bg_color=00000000)](https://github.com/SagerNet/sing-box)
 
 ## Notes
 

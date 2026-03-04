@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/koodo-reader/koodo-reader?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/koodo-reader/koodo-reader?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/koodo-reader/koodo-reader?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=koodo-reader&repo=koodo-reader&bg_color=00000000)](https://github.com/koodo-reader/koodo-reader)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=koodo-reader&repo=koodo-reader&bg_color=00000000)](https://github.com/koodo-reader/koodo-reader)
 
 ## Notes
 

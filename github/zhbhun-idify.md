@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/zhbhun/idify?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/zhbhun/idify?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/zhbhun/idify?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zhbhun&repo=idify&bg_color=00000000)](https://github.com/zhbhun/idify)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=zhbhun&repo=idify&bg_color=00000000)](https://github.com/zhbhun/idify)
 
 ## Notes
 

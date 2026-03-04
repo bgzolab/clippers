@@ -13,7 +13,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/mmueller2012/awesome-diff-tools?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mmueller2012/awesome-diff-tools?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mmueller2012/awesome-diff-tools?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=mmueller2012&repo=awesome-diff-tools&bg_color=00000000)](https://github.com/mmueller2012/awesome-diff-tools)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=mmueller2012&repo=awesome-diff-tools&bg_color=00000000)](https://github.com/mmueller2012/awesome-diff-tools)
 
 # Awesome Diff Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 

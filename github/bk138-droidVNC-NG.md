@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/bk138/droidVNC-NG?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bk138/droidVNC-NG?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bk138/droidVNC-NG?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=bk138&repo=droidVNC-NG&bg_color=00000000)](https://github.com/bk138/droidVNC-NG)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=bk138&repo=droidVNC-NG&bg_color=00000000)](https://github.com/bk138/droidVNC-NG)
 
 ## Notes
 

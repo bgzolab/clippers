@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/gandf/slick-rss?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/gandf/slick-rss?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/gandf/slick-rss?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=gandf&repo=slick-rss&bg_color=00000000)](https://github.com/gandf/slick-rss)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=gandf&repo=slick-rss&bg_color=00000000)](https://github.com/gandf/slick-rss)
 
 ## Notes
 

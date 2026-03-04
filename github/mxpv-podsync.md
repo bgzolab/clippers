@@ -12,4 +12,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/mxpv/podsync?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mxpv/podsync?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mxpv/podsync?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=mxpv&repo=podsync&bg_color=00000000)](https://github.com/mxpv/podsync)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=mxpv&repo=podsync&bg_color=00000000)](https://github.com/mxpv/podsync)

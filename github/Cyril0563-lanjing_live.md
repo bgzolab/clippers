@@ -17,7 +17,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/Cyril0563/lanjing_live?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Cyril0563/lanjing_live?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Cyril0563/lanjing_live?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Cyril0563&repo=lanjing_live&bg_color=00000000)](https://github.com/Cyril0563/lanjing_live)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Cyril0563&repo=lanjing_live&bg_color=00000000)](https://github.com/Cyril0563/lanjing_live)
 
 ## Notes
 

@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/badges/shields?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/badges/shields?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/badges/shields?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&bg_color=00000000)](https://github.com/badges/shields)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=badges&repo=shields&bg_color=00000000)](https://github.com/badges/shields)
 
 ## Notes
 

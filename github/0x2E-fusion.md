@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/0x2E/fusion?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/0x2E/fusion?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/0x2E/fusion?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=0x2E&repo=fusion&bg_color=00000000)](https://github.com/0x2E/fusion)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=0x2E&repo=fusion&bg_color=00000000)](https://github.com/0x2E/fusion)
 
 ## Notes
 

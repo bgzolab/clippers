@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/LizardByte/Sunshine?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/LizardByte/Sunshine?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/LizardByte/Sunshine?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LizardByte&repo=Sunshine&bg_color=00000000)](https://github.com/LizardByte/Sunshine)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=LizardByte&repo=Sunshine&bg_color=00000000)](https://github.com/LizardByte/Sunshine)
 
 ## Notes
 

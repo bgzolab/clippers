@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/ismartcoding/plain-app?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ismartcoding/plain-app?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ismartcoding/plain-app?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ismartcoding&repo=plain-app&bg_color=00000000)](https://github.com/ismartcoding/plain-app)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ismartcoding&repo=plain-app&bg_color=00000000)](https://github.com/ismartcoding/plain-app)
 
 ## Notes
 

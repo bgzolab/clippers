@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/kodjodevf/mangayomi?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/kodjodevf/mangayomi?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/kodjodevf/mangayomi?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodjodevf&repo=mangayomi&bg_color=00000000)](https://github.com/kodjodevf/mangayomi)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=kodjodevf&repo=mangayomi&bg_color=00000000)](https://github.com/kodjodevf/mangayomi)
 
 ## Notes
 

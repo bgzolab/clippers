@@ -12,4 +12,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/Gonzalo-D-Sales/obsidian-velocity?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Gonzalo-D-Sales/obsidian-velocity?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Gonzalo-D-Sales/obsidian-velocity?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Gonzalo-D-Sales&repo=obsidian-velocity&bg_color=00000000)](https://github.com/Gonzalo-D-Sales/obsidian-velocity)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Gonzalo-D-Sales&repo=obsidian-velocity&bg_color=00000000)](https://github.com/Gonzalo-D-Sales/obsidian-velocity)

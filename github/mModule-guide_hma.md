@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/mModule/guide_hma?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mModule/guide_hma?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mModule/guide_hma?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=mModule&repo=guide_hma&bg_color=00000000)](https://github.com/mModule/guide_hma)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=mModule&repo=guide_hma&bg_color=00000000)](https://github.com/mModule/guide_hma)
 
 ## Notes
 

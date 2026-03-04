@@ -13,4 +13,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/claudiabdm/cvfy?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/claudiabdm/cvfy?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/claudiabdm/cvfy?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=claudiabdm&repo=cvfy&bg_color=00000000)](https://github.com/claudiabdm/cvfy)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=claudiabdm&repo=cvfy&bg_color=00000000)](https://github.com/claudiabdm/cvfy)

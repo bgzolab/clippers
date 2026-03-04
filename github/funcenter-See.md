@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/funcenter/See?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/funcenter/See?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/funcenter/See?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=funcenter&repo=See&bg_color=00000000)](https://github.com/funcenter/See)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=funcenter&repo=See&bg_color=00000000)](https://github.com/funcenter/See)
 
 ## Notes
 

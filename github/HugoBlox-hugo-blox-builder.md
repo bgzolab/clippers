@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/HugoBlox/hugo-blox-builder?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/HugoBlox/hugo-blox-builder?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/HugoBlox/hugo-blox-builder?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=HugoBlox&repo=hugo-blox-builder&bg_color=00000000)](https://github.com/HugoBlox/hugo-blox-builder)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=HugoBlox&repo=hugo-blox-builder&bg_color=00000000)](https://github.com/HugoBlox/hugo-blox-builder)
 
 ## Notes
 

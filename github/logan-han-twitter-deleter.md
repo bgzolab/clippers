@@ -17,7 +17,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/logan-han/twitter-deleter?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/logan-han/twitter-deleter?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/logan-han/twitter-deleter?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=logan-han&repo=twitter-deleter&bg_color=00000000)](https://github.com/logan-han/twitter-deleter)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=logan-han&repo=twitter-deleter&bg_color=00000000)](https://github.com/logan-han/twitter-deleter)
 
 ## Notes
 

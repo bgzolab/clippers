@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/Uahh/ToastFish?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Uahh/ToastFish?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Uahh/ToastFish?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Uahh&repo=ToastFish&bg_color=00000000)](https://github.com/Uahh/ToastFish)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Uahh&repo=ToastFish&bg_color=00000000)](https://github.com/Uahh/ToastFish)
 
 ## Notes
 

@@ -17,4 +17,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/localsend/localsend?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/localsend/localsend?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=localsend&repo=localsend&bg_color=00000000)](https://github.com/localsend/localsend)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=localsend&repo=localsend&bg_color=00000000)](https://github.com/localsend/localsend)

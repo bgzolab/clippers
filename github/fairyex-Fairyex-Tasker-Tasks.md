@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/fairyex/Fairyex-Tasker-Tasks?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/fairyex/Fairyex-Tasker-Tasks?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/fairyex/Fairyex-Tasker-Tasks?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fairyex&repo=Fairyex-Tasker-Tasks&bg_color=00000000)](https://github.com/fairyex/Fairyex-Tasker-Tasks)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=fairyex&repo=Fairyex-Tasker-Tasks&bg_color=00000000)](https://github.com/fairyex/Fairyex-Tasker-Tasks)
 
 ## Notes
 

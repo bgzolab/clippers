@@ -14,6 +14,6 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/morkt/garbro?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/morkt/garbro?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/morkt/garbro?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=morkt&repo=garbro&bg_color=00000000)](https://github.com/morkt/garbro)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=morkt&repo=garbro&bg_color=00000000)](https://github.com/morkt/garbro)
 
 ## Notes

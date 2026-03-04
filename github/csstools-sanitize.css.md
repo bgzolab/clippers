@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/csstools/sanitize.css?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/csstools/sanitize.css?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/csstools/sanitize.css?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=csstools&repo=sanitize.css&bg_color=00000000)](https://github.com/csstools/sanitize.css)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=csstools&repo=sanitize.css&bg_color=00000000)](https://github.com/csstools/sanitize.css)
 
 ## Notes
 

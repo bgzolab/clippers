@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/howie6879/weekly?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/howie6879/weekly?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/howie6879/weekly?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=howie6879&repo=weekly&bg_color=00000000)](https://github.com/howie6879/weekly)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=howie6879&repo=weekly&bg_color=00000000)](https://github.com/howie6879/weekly)
 
 ## Notes
 

@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/DimensionDev/Flare?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/DimensionDev/Flare?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/DimensionDev/Flare?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=DimensionDev&repo=Flare&bg_color=00000000)](https://github.com/DimensionDev/Flare)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=DimensionDev&repo=Flare&bg_color=00000000)](https://github.com/DimensionDev/Flare)
 
 ## Notes
 

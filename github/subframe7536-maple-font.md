@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/subframe7536/maple-font?tab=readme-ov-file#preset?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/subframe7536/maple-font?tab=readme-ov-file#preset?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/subframe7536/maple-font?tab=readme-ov-file#preset?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=subframe7536&repo=maple-font&bg_color=00000000)](https://github.com/subframe7536/maple-font?tab=readme-ov-file#preset)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=subframe7536&repo=maple-font&bg_color=00000000)](https://github.com/subframe7536/maple-font?tab=readme-ov-file#preset)
 
 ## Notes
 

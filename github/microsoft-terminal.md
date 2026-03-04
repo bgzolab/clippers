@@ -15,7 +15,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/microsoft/terminal?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/microsoft/terminal?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=terminal&bg_color=00000000)](https://github.com/microsoft/terminal)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=microsoft&repo=terminal&bg_color=00000000)](https://github.com/microsoft/terminal)
 
 ## Notes
 

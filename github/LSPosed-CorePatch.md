@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/LSPosed/CorePatch?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/LSPosed/CorePatch?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/LSPosed/CorePatch?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LSPosed&repo=CorePatch&bg_color=00000000)](https://github.com/LSPosed/CorePatch)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=LSPosed&repo=CorePatch&bg_color=00000000)](https://github.com/LSPosed/CorePatch)
 
 ## Notes
 

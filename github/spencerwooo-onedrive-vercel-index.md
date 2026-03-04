@@ -17,7 +17,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/spencerwooo/onedrive-vercel-index?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/spencerwooo/onedrive-vercel-index?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/spencerwooo/onedrive-vercel-index?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=spencerwooo&repo=onedrive-vercel-index&bg_color=00000000)](https://github.com/spencerwooo/onedrive-vercel-index)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=spencerwooo&repo=onedrive-vercel-index&bg_color=00000000)](https://github.com/spencerwooo/onedrive-vercel-index)
 
 ## Notes
 

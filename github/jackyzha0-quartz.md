@@ -18,7 +18,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/jackyzha0/quartz?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jackyzha0/quartz?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jackyzha0/quartz?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jackyzha0&repo=quartz&bg_color=00000000)](https://github.com/jackyzha0/quartz)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=jackyzha0&repo=quartz&bg_color=00000000)](https://github.com/jackyzha0/quartz)
 
 ## Notes
 

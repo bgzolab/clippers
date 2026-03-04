@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/bellingcat/telegram-phone-number-checker?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bellingcat/telegram-phone-number-checker?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bellingcat/telegram-phone-number-checker?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=bellingcat&repo=telegram-phone-number-checker&bg_color=00000000)](https://github.com/bellingcat/telegram-phone-number-checker)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=bellingcat&repo=telegram-phone-number-checker&bg_color=00000000)](https://github.com/bellingcat/telegram-phone-number-checker)
 
 ## Notes
 

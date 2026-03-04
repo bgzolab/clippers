@@ -15,7 +15,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/judasn/intellij-idea-tutorial?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/judasn/intellij-idea-tutorial?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/judasn/intellij-idea-tutorial?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=judasn&repo=intellij-idea-tutorial&bg_color=00000000)](https://github.com/judasn/intellij-idea-tutorial)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=judasn&repo=intellij-idea-tutorial&bg_color=00000000)](https://github.com/judasn/intellij-idea-tutorial)
 
 ## Notes
 

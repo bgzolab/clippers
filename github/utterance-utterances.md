@@ -14,4 +14,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/utterance/utterances?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/utterance/utterances?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/utterance/utterances?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=utterance&repo=utterances&bg_color=00000000)](https://github.com/utterance/utterances)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=utterance&repo=utterances&bg_color=00000000)](https://github.com/utterance/utterances)

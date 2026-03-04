@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/baomidou/mybatis-plus?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/baomidou/mybatis-plus?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/baomidou/mybatis-plus?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=baomidou&repo=mybatis-plus&bg_color=00000000)](https://github.com/baomidou/mybatis-plus)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=baomidou&repo=mybatis-plus&bg_color=00000000)](https://github.com/baomidou/mybatis-plus)
 
 ## Notes
 

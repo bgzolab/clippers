@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/andy-portmen/open-in?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/andy-portmen/open-in?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/andy-portmen/open-in?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=andy-portmen&repo=open-in&bg_color=00000000)](https://github.com/andy-portmen/open-in)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=andy-portmen&repo=open-in&bg_color=00000000)](https://github.com/andy-portmen/open-in)
 
 ## Notes
 

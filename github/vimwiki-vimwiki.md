@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/vimwiki/vimwiki?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/vimwiki/vimwiki?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/vimwiki/vimwiki?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vimwiki&repo=vimwiki&bg_color=00000000)](https://github.com/vimwiki/vimwiki)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=vimwiki&repo=vimwiki&bg_color=00000000)](https://github.com/vimwiki/vimwiki)
 
 ## Notes
 

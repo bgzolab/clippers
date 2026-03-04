@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/Predidit/oneAnime?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Predidit/oneAnime?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Predidit/oneAnime?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Predidit&repo=oneAnime&bg_color=00000000)](https://github.com/Predidit/oneAnime)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Predidit&repo=oneAnime&bg_color=00000000)](https://github.com/Predidit/oneAnime)
 
 ## Notes
 

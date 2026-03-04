@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/phguo/Send-to-Telegram-Chrome-Extension?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/phguo/Send-to-Telegram-Chrome-Extension?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/phguo/Send-to-Telegram-Chrome-Extension?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=phguo&repo=Send-to-Telegram-Chrome-Extension&bg_color=00000000)](https://github.com/phguo/Send-to-Telegram-Chrome-Extension)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=phguo&repo=Send-to-Telegram-Chrome-Extension&bg_color=00000000)](https://github.com/phguo/Send-to-Telegram-Chrome-Extension)
 
 ## Notes
 

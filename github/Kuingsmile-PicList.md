@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/Kuingsmile/PicList?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Kuingsmile/PicList?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Kuingsmile/PicList?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Kuingsmile&repo=PicList&bg_color=00000000)](https://github.com/Kuingsmile/PicList)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Kuingsmile&repo=PicList&bg_color=00000000)](https://github.com/Kuingsmile/PicList)
 
 ## Notes
 

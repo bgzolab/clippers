@@ -17,7 +17,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/asLody/VirtualApp?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/asLody/VirtualApp?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/asLody/VirtualApp?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=asLody&repo=VirtualApp&bg_color=00000000)](https://github.com/asLody/VirtualApp)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=asLody&repo=VirtualApp&bg_color=00000000)](https://github.com/asLody/VirtualApp)
 
 ## Notes
 

@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/crossutility/Quantumult-X?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/crossutility/Quantumult-X?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/crossutility/Quantumult-X?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=crossutility&repo=Quantumult-X&bg_color=00000000)](https://github.com/crossutility/Quantumult-X)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=crossutility&repo=Quantumult-X&bg_color=00000000)](https://github.com/crossutility/Quantumult-X)
 
 ## Notes
 

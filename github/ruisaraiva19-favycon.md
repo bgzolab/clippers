@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/ruisaraiva19/favycon?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ruisaraiva19/favycon?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ruisaraiva19/favycon?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ruisaraiva19&repo=favycon&bg_color=00000000)](https://github.com/ruisaraiva19/favycon)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ruisaraiva19&repo=favycon&bg_color=00000000)](https://github.com/ruisaraiva19/favycon)
 
 ## Notes
 

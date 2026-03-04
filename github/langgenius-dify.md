@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/langgenius/dify?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/langgenius/dify?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/langgenius/dify?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=langgenius&repo=dify&bg_color=00000000)](https://github.com/langgenius/dify)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=langgenius&repo=dify&bg_color=00000000)](https://github.com/langgenius/dify)
 
 ## Notes
 

@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/Theblockbuster1/spicetify-extensions?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Theblockbuster1/spicetify-extensions?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Theblockbuster1/spicetify-extensions?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Theblockbuster1&repo=spicetify-extensions&bg_color=00000000)](https://github.com/Theblockbuster1/spicetify-extensions)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Theblockbuster1&repo=spicetify-extensions&bg_color=00000000)](https://github.com/Theblockbuster1/spicetify-extensions)
 
 ## Notes
 

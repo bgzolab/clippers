@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/X-LANCE/SLAM-LLM?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/X-LANCE/SLAM-LLM?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/X-LANCE/SLAM-LLM?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=X-LANCE&repo=SLAM-LLM&bg_color=00000000)](https://github.com/X-LANCE/SLAM-LLM)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=X-LANCE&repo=SLAM-LLM&bg_color=00000000)](https://github.com/X-LANCE/SLAM-LLM)
 
 ## Notes
 

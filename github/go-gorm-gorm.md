@@ -12,4 +12,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/go-gorm/gorm?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/go-gorm/gorm?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/go-gorm/gorm?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=go-gorm&repo=gorm&bg_color=00000000)](https://github.com/go-gorm/gorm)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=go-gorm&repo=gorm&bg_color=00000000)](https://github.com/go-gorm/gorm)

@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/immersive-translate/old-immersive-translate?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/immersive-translate/old-immersive-translate?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/immersive-translate/old-immersive-translate?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=immersive-translate&repo=old-immersive-translate&bg_color=00000000)](https://github.com/immersive-translate/old-immersive-translate)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=immersive-translate&repo=old-immersive-translate&bg_color=00000000)](https://github.com/immersive-translate/old-immersive-translate)
 
 ## Notes
 

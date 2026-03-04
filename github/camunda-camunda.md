@@ -19,7 +19,7 @@ wikipedia: https://en.wikipedia.org/wiki/Camunda
 
 ![](https://img.shields.io/github/stars/camunda/camunda?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/camunda/camunda?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/camunda/camunda?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=camunda&repo=camunda&bg_color=00000000)](https://github.com/camunda/camunda)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=camunda&repo=camunda&bg_color=00000000)](https://github.com/camunda/camunda)
 
 ## How
 

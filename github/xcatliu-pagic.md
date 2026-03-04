@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/xcatliu/pagic?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/xcatliu/pagic?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/xcatliu/pagic?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xcatliu&repo=pagic&bg_color=00000000)](https://github.com/xcatliu/pagic)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=xcatliu&repo=pagic&bg_color=00000000)](https://github.com/xcatliu/pagic)
 
 ## Notes
 

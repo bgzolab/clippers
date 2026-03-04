@@ -12,4 +12,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/i3arnon/YouCast?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/i3arnon/YouCast?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/i3arnon/YouCast?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=i3arnon&repo=YouCast&bg_color=00000000)](https://github.com/i3arnon/YouCast)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=i3arnon&repo=YouCast&bg_color=00000000)](https://github.com/i3arnon/YouCast)

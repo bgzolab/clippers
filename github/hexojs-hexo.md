@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/hexojs/hexo?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/hexojs/hexo?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/hexojs/hexo?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=hexojs&repo=hexo&bg_color=00000000)](https://github.com/hexojs/hexo)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=hexojs&repo=hexo&bg_color=00000000)](https://github.com/hexojs/hexo)
 
 ## Notes
 

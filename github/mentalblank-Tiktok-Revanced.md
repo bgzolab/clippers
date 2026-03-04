@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/mentalblank/Tiktok-Revanced?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mentalblank/Tiktok-Revanced?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mentalblank/Tiktok-Revanced?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=mentalblank&repo=Tiktok-Revanced&bg_color=00000000)](https://github.com/mentalblank/Tiktok-Revanced)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=mentalblank&repo=Tiktok-Revanced&bg_color=00000000)](https://github.com/mentalblank/Tiktok-Revanced)
 
 ## Notes
 

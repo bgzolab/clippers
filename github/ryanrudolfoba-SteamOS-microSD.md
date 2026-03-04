@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/ryanrudolfoba/SteamOS-microSD?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ryanrudolfoba/SteamOS-microSD?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ryanrudolfoba/SteamOS-microSD?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ryanrudolfoba&repo=SteamOS-microSD&bg_color=00000000)](https://github.com/ryanrudolfoba/SteamOS-microSD)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=ryanrudolfoba&repo=SteamOS-microSD&bg_color=00000000)](https://github.com/ryanrudolfoba/SteamOS-microSD)
 
 ## Notes
 

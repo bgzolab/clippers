@@ -18,4 +18,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/little-brother/sqlite-gui?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/little-brother/sqlite-gui?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/little-brother/sqlite-gui?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=little-brother&repo=sqlite-gui&bg_color=00000000)](https://github.com/little-brother/sqlite-gui)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=little-brother&repo=sqlite-gui&bg_color=00000000)](https://github.com/little-brother/sqlite-gui)

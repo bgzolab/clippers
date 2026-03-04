@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/utmapp/UTM?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/utmapp/UTM?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/utmapp/UTM?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=utmapp&repo=UTM&bg_color=00000000)](https://github.com/utmapp/UTM)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=utmapp&repo=UTM&bg_color=00000000)](https://github.com/utmapp/UTM)
 
 ## Notes
 

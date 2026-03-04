@@ -14,4 +14,4 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/go-telegram/bot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/go-telegram/bot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/go-telegram/bot?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=go-telegram&repo=bot&bg_color=00000000)](https://github.com/go-telegram/bot)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=go-telegram&repo=bot&bg_color=00000000)](https://github.com/go-telegram/bot)

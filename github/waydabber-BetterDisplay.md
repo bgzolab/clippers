@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/waydabber/BetterDisplay?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/waydabber/BetterDisplay?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/waydabber/BetterDisplay?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=waydabber&repo=BetterDisplay&bg_color=00000000)](https://github.com/waydabber/BetterDisplay)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=waydabber&repo=BetterDisplay&bg_color=00000000)](https://github.com/waydabber/BetterDisplay)
 
 ## Notes
 

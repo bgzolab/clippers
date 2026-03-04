@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/allejo/jekyll-toc?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/allejo/jekyll-toc?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/allejo/jekyll-toc?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=allejo&repo=jekyll-toc&bg_color=00000000)](https://github.com/allejo/jekyll-toc)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=allejo&repo=jekyll-toc&bg_color=00000000)](https://github.com/allejo/jekyll-toc)
 
 ## Notes
 

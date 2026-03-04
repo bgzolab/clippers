@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/Hiram-Wong/ZyPlayer?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Hiram-Wong/ZyPlayer?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Hiram-Wong/ZyPlayer?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Hiram-Wong&repo=ZyPlayer&bg_color=00000000)](https://github.com/Hiram-Wong/ZyPlayer)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Hiram-Wong&repo=ZyPlayer&bg_color=00000000)](https://github.com/Hiram-Wong/ZyPlayer)
 
 ## Notes
 

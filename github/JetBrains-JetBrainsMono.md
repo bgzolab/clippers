@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/JetBrains/JetBrainsMono?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/JetBrains/JetBrainsMono?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/JetBrains/JetBrainsMono?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JetBrains&repo=JetBrainsMono&bg_color=00000000)](https://github.com/JetBrains/JetBrainsMono)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=JetBrains&repo=JetBrainsMono&bg_color=00000000)](https://github.com/JetBrains/JetBrainsMono)
 
 ## Notes
 

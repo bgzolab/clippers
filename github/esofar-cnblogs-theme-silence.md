@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/esofar/cnblogs-theme-silence?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/esofar/cnblogs-theme-silence?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/esofar/cnblogs-theme-silence?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=esofar&repo=cnblogs-theme-silence&bg_color=00000000)](https://github.com/esofar/cnblogs-theme-silence)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=esofar&repo=cnblogs-theme-silence&bg_color=00000000)](https://github.com/esofar/cnblogs-theme-silence)
 
 ## Notes
 

@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/moonlight-stream/moonlight-qt?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/moonlight-stream/moonlight-qt?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/moonlight-stream/moonlight-qt?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=moonlight-stream&repo=moonlight-qt&bg_color=00000000)](https://github.com/moonlight-stream/moonlight-qt)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=moonlight-stream&repo=moonlight-qt&bg_color=00000000)](https://github.com/moonlight-stream/moonlight-qt)
 
 ## Notes
 

@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/instaloader/instaloader?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/instaloader/instaloader?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/instaloader/instaloader?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=instaloader&repo=instaloader&bg_color=00000000)](https://github.com/instaloader/instaloader)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=instaloader&repo=instaloader&bg_color=00000000)](https://github.com/instaloader/instaloader)
 
 ## Notes
 

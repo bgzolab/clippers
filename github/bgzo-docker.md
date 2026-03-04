@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/bgzo/docker?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bgzo/docker?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bgzo/docker?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=bgzo&repo=docker&bg_color=00000000)](https://github.com/bgzo/docker)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=bgzo&repo=docker&bg_color=00000000)](https://github.com/bgzo/docker)
 
 ## Notes
 

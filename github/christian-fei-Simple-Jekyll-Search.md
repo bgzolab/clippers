@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/christian-fei/Simple-Jekyll-Search?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/christian-fei/Simple-Jekyll-Search?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/christian-fei/Simple-Jekyll-Search?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=christian-fei&repo=Simple-Jekyll-Search&bg_color=00000000)](https://github.com/christian-fei/Simple-Jekyll-Search)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=christian-fei&repo=Simple-Jekyll-Search&bg_color=00000000)](https://github.com/christian-fei/Simple-Jekyll-Search)
 
 ## Notes
 

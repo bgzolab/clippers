@@ -17,7 +17,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/brunodev85/winlator?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/brunodev85/winlator?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/brunodev85/winlator?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=brunodev85&repo=winlator&bg_color=00000000)](https://github.com/brunodev85/winlator)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=brunodev85&repo=winlator&bg_color=00000000)](https://github.com/brunodev85/winlator)
 
 ## Notes
 

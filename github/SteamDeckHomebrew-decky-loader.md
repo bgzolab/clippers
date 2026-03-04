@@ -14,7 +14,7 @@ type: "repo"
 
 ![](https://img.shields.io/github/stars/SteamDeckHomebrew/decky-loader?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/SteamDeckHomebrew/decky-loader?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/SteamDeckHomebrew/decky-loader?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SteamDeckHomebrew&repo=decky-loader&bg_color=00000000)](https://github.com/SteamDeckHomebrew/decky-loader)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=SteamDeckHomebrew&repo=decky-loader&bg_color=00000000)](https://github.com/SteamDeckHomebrew/decky-loader)
 
 ## Notes
 

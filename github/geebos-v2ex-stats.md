@@ -12,4 +12,4 @@ draft: true
 
 ![](https://img.shields.io/github/stars/geebos/v2ex-stats?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/geebos/v2ex-stats?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/geebos/v2ex-stats?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=geebos&repo=v2ex-stats&bg_color=00000000)](https://github.com/geebos/v2ex-stats)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=geebos&repo=v2ex-stats&bg_color=00000000)](https://github.com/geebos/v2ex-stats)

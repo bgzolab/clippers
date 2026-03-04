@@ -17,7 +17,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/QianJianTech/LaTeXLive?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/QianJianTech/LaTeXLive?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/QianJianTech/LaTeXLive?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=QianJianTech&repo=LaTeXLive&bg_color=00000000)](https://github.com/QianJianTech/LaTeXLive)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=QianJianTech&repo=LaTeXLive&bg_color=00000000)](https://github.com/QianJianTech/LaTeXLive)
 
 ## Notes
 

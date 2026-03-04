@@ -16,7 +16,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/my19940202/wx-read-comment-extension?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/my19940202/wx-read-comment-extension?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/my19940202/wx-read-comment-extension?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=my19940202&repo=wx-read-comment-extension&bg_color=00000000)](https://github.com/my19940202/wx-read-comment-extension)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=my19940202&repo=wx-read-comment-extension&bg_color=00000000)](https://github.com/my19940202/wx-read-comment-extension)
 
 ## Notes
 

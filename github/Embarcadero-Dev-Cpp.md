@@ -15,7 +15,7 @@ type: repo
 
 ![](https://img.shields.io/github/stars/Embarcadero/Dev-Cpp?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Embarcadero/Dev-Cpp?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Embarcadero/Dev-Cpp?style=for-the-badge&label=since)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Embarcadero&repo=Dev-Cpp&bg_color=00000000)](https://github.com/Embarcadero/Dev-Cpp)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Embarcadero&repo=Dev-Cpp&bg_color=00000000)](https://github.com/Embarcadero/Dev-Cpp)
 
 <iframe src='https://oi-wiki.org/tools/editor/devcpp' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>
 <center>via: <a href='https://oi-wiki.org/tools/editor/devcpp' target='_blank' class='external-link'>https://oi-wiki.org/tools/editor/devcpp</a></center>
