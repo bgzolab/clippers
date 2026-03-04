@@ -11,7 +11,6 @@ description:
 source: "https://www.youtube.com/watch?v=8Q6z8OFGzcw"
 tags:
   - video/youtube
-tags-link:
 type: "video"
 ---
 ## Source

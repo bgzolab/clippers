@@ -8,7 +8,6 @@ description: "基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 
 source: "https://github.com/fighting41love/funNLP"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

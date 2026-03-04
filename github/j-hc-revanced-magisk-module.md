@@ -8,7 +8,6 @@ description: "Extensive ReVanced builder. Builds both modules and APKs. Updated 
 source: "https://github.com/j-hc/revanced-magisk-module"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -6,7 +6,6 @@ modified: 2025-04-05T17:34:36
 description: "本脚本适用环境   系统支持：CentOS 6+，Debian 7+，Ubuntu 12+ 内存要求：≥128M 日期  ：2019 年 01 月 11 日   	关于本脚本   1、一键安装 Shadowsocks-Python， ShadowsocksR， Shadowsocks-Go， Shadowsocks-libev 版（四选一）服务端； 2、各版本的启动脚本及配置文件名不再重合； 3、每次运行可安装一种版本； 4、支持以多次"
 source: "https://teddysun.com/486.html"
 tags:
-tags-link:
 type: "archive-web"
 ---
 [![](https://teddysun.com/wp-content/uploads/2014/shadowsocks.png "Shadowsocks一键安装脚本（四合一版）")](https://teddysun.com/486.html)

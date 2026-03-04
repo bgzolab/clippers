@@ -6,7 +6,6 @@ description: "Run your GitHub Actions locally 🚀"
 modified: 2025-07-01T21:16:48
 source: "https://github.com/nektos/act"
 tags: ["star"]
-tags-link:
 title: nektos/act
 type: "repo"
 ---

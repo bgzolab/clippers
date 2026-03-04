@@ -8,7 +8,6 @@ description: "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)"
 source: "https://github.com/moonlight-stream/moonlight-qt"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

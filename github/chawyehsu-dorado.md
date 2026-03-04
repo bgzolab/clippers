@@ -8,7 +8,6 @@ description: "🐟 Yet Another bucket for lovely Scoop"
 source: "https://github.com/chawyehsu/dorado"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

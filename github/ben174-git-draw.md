@@ -8,7 +8,6 @@ description: "Allows you to draw in your github heatmap"
 source: "https://github.com/ben174/git-draw"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

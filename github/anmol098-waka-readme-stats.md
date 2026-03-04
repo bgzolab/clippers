@@ -8,7 +8,6 @@ description: "This GitHub action helps to add cool dev metrics to your github pr
 source: "https://github.com/anmol098/waka-readme-stats"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

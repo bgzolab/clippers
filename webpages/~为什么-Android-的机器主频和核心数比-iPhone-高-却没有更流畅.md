@@ -6,7 +6,6 @@ modified: 2025-04-04T21:13:15
 description: "以 Nexus 5 和 iPhone 5s 为例，部分硬件对比如下:CPU:Nexus 5 ：Krait 400架构 2.3GHziPhone5S : Cyclon…"
 source: "https://www.zhihu.com/question/22836307"
 tags:
-tags-link:
 type: "archive-web"
 ---
 我们可以从硬件、操作系统、应用软件三方面来回答这个问题。

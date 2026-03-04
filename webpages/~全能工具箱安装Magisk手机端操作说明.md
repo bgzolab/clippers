@@ -8,7 +8,6 @@ modified: 2025-04-09T22:48:54
 description: 请注意 此页面是一加全能工具箱跳转过来的，如果你是主动打开本页面的，请忽略本篇文章内容只有当你通过工具箱完成了刷入Magisk的前序流程，自动跳转到本页面后，你才可以/也应该按本页面所述内容操作 刷面具后手机端操作流程如果你的手机型号不是【一加9R、一加8T】，请看1~3步，如果你的型号是一加9R、8T，请查看下面的【特殊机型操作流程】 手机上打开Magisk APP，提示你修复的话，你点击确...
 source: https://optool.daxiaamu.com/magisk_installing
 tags: 
-tags-link:
   - "[[root]]"
 type: archive-web
 ---

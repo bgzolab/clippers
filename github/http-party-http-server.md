@@ -8,7 +8,6 @@ description: "a simple zero-configuration command-line http server"
 source: "https://github.com/http-party/http-server"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

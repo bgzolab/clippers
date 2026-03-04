@@ -8,7 +8,6 @@ description: "Command-line program to download videos from YouTube.com and other
 source: "https://github.com/ytdl-org/youtube-dl"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

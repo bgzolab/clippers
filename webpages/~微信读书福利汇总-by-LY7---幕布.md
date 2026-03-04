@@ -6,7 +6,6 @@ modified: 2025-04-05T17:23:44
 description: "2020.08.25更新     善用折叠功能——“＋”展开 “－”收缩 底部菜单中可以选择一键展开/收缩所有一、二、三级主题    所有福利均是免费的，此文只做收集汇总。     福利汇总：https://mubu.com/doc/sCVBk_uoF0     书单汇总：https://shimo.im/docs/9hQHYgjdcvrgrJWr"
 source: "https://mubu.com/doc/sCVBk_uoF0"
 tags:
-tags-link:
 type: "archive-web"
 ---
 ⚠️微读长期活动，福利包含书币、书籍、听书、无限卡、实体书等。福利场进入方式：①微读 app-“发现”页面往下拉；②微读 app- 我 - 福利场；③微信 app-“微信读书”小程序 - 福利。

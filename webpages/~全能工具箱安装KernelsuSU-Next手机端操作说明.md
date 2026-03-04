@@ -7,7 +7,6 @@ modified: 2025-04-09T22:51:55
 description: "请注意 此页面是一加全能工具箱跳转过来的，如果你是主动打开本页面的，请忽略本篇文章内容只有当你通过工具箱完成了刷入KernelSU的前序流程，自动跳转到本页面后，你才可以/也应该按本页面所述内容操作 操作流程 跳转到本页面后，打开手机上的KernelSU APP按这个视频教程，依次安装对应三个模块即可zygisk-Next、lsposed、shamiko 截止到这里，KernelSU-Nex..."
 source: "https://optool.daxiaamu.com/kernelsu-next_installing"
 tags:
-tags-link:
 type: "archive-web"
 ---
 [一加全能盒子 | 工具箱](https://optool.daxiaamu.com/)

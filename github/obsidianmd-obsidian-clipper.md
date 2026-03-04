@@ -9,7 +9,6 @@ description: Highlight and capture the web in your favorite browser. The officia
 source: https://github.com/obsidianmd/obsidian-clipper
 tags:
   - github/star
-tags-link:
   - "[[obsidian]]"
 type: repo
 ---

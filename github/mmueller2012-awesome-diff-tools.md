@@ -6,7 +6,6 @@ description: "Awesome tools that show differences between files and folders."
 modified: 2025-07-01T21:03:15
 source: "https://github.com/mmueller2012/awesome-diff-tools"
 tags: ["star"]
-tags-link:
 title: mmueller2012/awesome-diff-tools
 type: "repo"
 ---

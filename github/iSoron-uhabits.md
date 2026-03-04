@@ -8,7 +8,6 @@ description: "Loop Habit Tracker, a mobile app for creating and maintaining long
 source: "https://github.com/iSoron/uhabits"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

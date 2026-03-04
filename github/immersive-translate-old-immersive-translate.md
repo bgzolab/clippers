@@ -8,7 +8,6 @@ description: "Let's experience immersive web translation, with bilingual simulta
 source: "https://github.com/immersive-translate/old-immersive-translate"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -8,7 +8,6 @@ description: "好天气APP（天气预报、空气质量、生活建议、灾害
 source: "https://github.com/lilongweidev/GoodWeather"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

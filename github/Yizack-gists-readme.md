@@ -8,7 +8,6 @@ description: "Display a card wtih your Gists on your GitHub README.md. Made with
 source: "https://github.com/Yizack/gists-readme"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

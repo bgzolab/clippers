@@ -8,7 +8,6 @@ description: "ehviewer，用爱发电，快乐前行"
 source: "https://github.com/xiaojieonly/Ehviewer_CN_SXJ"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -8,7 +8,6 @@ description: "A free, self-hostable news aggregator…"
 source: "https://github.com/FreshRSS/FreshRSS"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

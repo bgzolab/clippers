@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:54
 modified: 2025-04-05T15:50:54
 source: https://zmt.pub/2019/04/10/%e6%88%91%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e6%83%b3%e5%87%ba%e5%90%8d/
 tags:
-tags-link:
 type: archive-web
 ---
 # 我为什么不想出名

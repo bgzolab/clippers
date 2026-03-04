@@ -8,7 +8,6 @@ description: A PHP and Ajax feed reader
 source: https://github.com/torne/Tiny-Tiny-RSS
 tags:
   - github/star
-tags-link:
 type: tool
 document:
 status: tool/deprecated
@@ -115,25 +114,25 @@ status: tool/deprecated
 ```
         - Then if everything work well, you'll be able to visit your PC LAN IP to visit TTRSS. But on my machine it still not work. That's really wired... Open `firewall & network protection` -> `advanced settings` -> `inbound rules `-> `new rules`: `port`  -> `TCP&&4040` -> `defalut`...
         - Then everything work well for me. Nice🍻
-  - [ ] #gtd/todo 怎么删除多出来文件, 自己练手的几个 docker 啊...  
-  - [ ] #gtd/todo windows 安装了 docker, 如何迁移自己的数据啊  
-    - [ ] #gtd/todo [🎯 备份和迁移数据 - Docker 快速入门 - 易文档](https://docker.easydoc.net/doc/81170005/cCewZWoN/XQEqNjiu)  
-  - [ ] #gtd/todo `build` vs `run` vs `up`  
-  - [ ] #gtd/todo how to use https://github.com/HobaiRiku/wsl2-auto-portproxy  
-  - [ ] #gtd/todo dockerd vs containerd  
-  - [ ] #gtd/todo log in `/var/www/log`  
-  - [ ] #gtd/todo `localhost` vs `127.0.0.1` vs `0.0.0.0`  
+  - [ ] 怎么删除多出来文件, 自己练手的几个 docker 啊...  
+  - [ ] windows 安装了 docker, 如何迁移自己的数据啊  
+    - [ ] [🎯 备份和迁移数据 - Docker 快速入门 - 易文档](https://docker.easydoc.net/doc/81170005/cCewZWoN/XQEqNjiu)  
+  - [ ] `build` vs `run` vs `up`  
+  - [ ] how to use https://github.com/HobaiRiku/wsl2-auto-portproxy  
+  - [ ] dockerd vs containerd  
+  - [ ] log in `/var/www/log`  
+  - [ ] `localhost` vs `127.0.0.1` vs `0.0.0.0`  
     localhost其實是域名，一般windows系統默認將localhost指向127.0.0.1，但是localhost並不等於127.0.0.1，localhost指向的IP地址是可以配置的
     凡是以127開頭的IP地址，都是迴環地址（Loop back address），其所在的迴環接口一般被理解爲虛擬網卡，並不是真正的路由器接口; 所謂的迴環地址，通俗的講，就是我們在主機上發送給127開頭的IP地址的數據包會被髮送的主機自己接收，根本傳不出去，外部設備也無法通過迴環地址訪問到本機。
     0.0.0.0是不能被ping通的。在服務器中，0.0.0.0並不是一個真實的的IP地址，它表示本機中所有的IPV4地址。監聽0.0.0.0的端口，就是監聽本機中所有IP的端口
-  - [ ] #gtd/todo 老毛子的去广告等等设置, 怎么开命令行, 怎么最大化利用路由...  
+  - [ ] 老毛子的去广告等等设置, 怎么开命令行, 怎么最大化利用路由...  
 ```
     sudo docker-compose --env .env up -d
     sudo docker ps
     sudo docker exec -it 8889c3fc75e9 sh
 ```
-  - [ ] #gtd/todo wsl `df -TH` 挂载的那四个东西是什么...  
-  - [ ] #gtd/todo [老毛子AdGuardhome密码修改后登陆不了 - Padavan - 恩山无线论坛 - Powered by Discuz!](https://www.right.com.cn/forum/thread-1528262-1-1.html)  
+  - [ ] wsl `df -TH` 挂载的那四个东西是什么...  
+  - [ ] [老毛子AdGuardhome密码修改后登陆不了 - Padavan - 恩山无线论坛 - Powered by Discuz!](https://www.right.com.cn/forum/thread-1528262-1-1.html)  
 ## What
 ## Reference
   - [Install Docker Compose | Docker Documentation](https://docs.docker.com/compose/install/)

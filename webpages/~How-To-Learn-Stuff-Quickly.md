@@ -6,7 +6,6 @@ modified: 2025-01-16T08:56:07
 source: "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/"
 tags:
   
-tags-link:
 type: "archive-web"
 ---
 ==It's often said that the internet has democratized education: the sum of human knowledge is only a Google search away!== And yet, ==having access to information is only half of the story; you also need to be able to convert raw information into usable skills.==

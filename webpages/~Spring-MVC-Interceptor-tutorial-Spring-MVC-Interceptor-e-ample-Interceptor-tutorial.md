@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:58
 modified: 2025-04-05T15:50:58
 source: https://www.viralpatel.net/spring-mvc-interceptor-example/
 tags:
-tags-link:
 type: archive-web
 ---
   * [About](https://www.viralpatel.net/about/)

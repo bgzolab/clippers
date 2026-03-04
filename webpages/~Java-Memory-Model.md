@@ -6,7 +6,6 @@ modified: 2025-03-16T22:46:01
 description: "The Java memory model specifies how the Java virtual machine and Java programs and threads work with the memory in the computer your Java programs run on."
 source: "https://jenkov.com/tutorials/java-concurrency/java-memory-model.html"
 tags:
-tags-link:
 type: "archive-web"
 ---
 The Java memory model specifies how the Java virtual machine works with the computer's memory (RAM). The Java virtual machine is a model of a whole computer so this model naturally includes a memory model - AKA the Java memory model.  

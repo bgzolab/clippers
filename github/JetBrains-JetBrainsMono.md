@@ -8,7 +8,6 @@ description: "JetBrains Mono – the free and open-source typeface for developer
 source: "https://github.com/JetBrains/JetBrainsMono"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

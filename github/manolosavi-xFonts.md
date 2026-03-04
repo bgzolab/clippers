@@ -8,7 +8,6 @@ description: "manolosavi/xFonts"
 source: "https://github.com/manolosavi/xFonts"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

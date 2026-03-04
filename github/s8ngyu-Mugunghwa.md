@@ -8,7 +8,6 @@ description: "First-ever system-wide icon theming tool without the need of jailb
 source: "https://github.com/s8ngyu/Mugunghwa"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

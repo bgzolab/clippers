@@ -6,7 +6,6 @@ description: webfont package for the LXGW WenKai typeface
 modified: 2025-07-02T22:48:05
 source: https://github.com/chawyehsu/lxgw-wenkai-webfont
 tags: [star]
-tags-link:
   - "[[fonts]]"
 title: chawyehsu/lxgw-wenkai-webfont
 type: repo

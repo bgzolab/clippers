@@ -8,7 +8,6 @@ description: "蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资�
 source: "https://github.com/anyant/rssant"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

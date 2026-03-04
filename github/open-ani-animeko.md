@@ -10,7 +10,6 @@ modified: 2025-07-27T16:39:42
 source: "https://github.com/open-ani/animeko"
 tags:
   - "github/star"
-tags-link:
 title: Animeko
 type: "repo"
 ---

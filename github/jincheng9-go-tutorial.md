@@ -9,7 +9,6 @@ description: Go learning materials，涵盖基础、中级和高级教程
 source: https://github.com/jincheng9/go-tutorial
 tags:
   - github/star
-tags-link:
   - "[[golang]]"
 type: repo
 ---

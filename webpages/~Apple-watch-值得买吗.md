@@ -5,7 +5,6 @@ created: 2025-03-24T20:49:35
 modified: 2025-03-24T20:49:44
 source: https://www.v2ex.com/t/1006458
 tags: 
-tags-link:
   - "[[apple-watch-s8]]"
 type: archive-web
 ---

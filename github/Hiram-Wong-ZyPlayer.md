@@ -8,7 +8,6 @@ description: "跨平台桌面端视频资源播放器,免费高颜值."
 source: "https://github.com/Hiram-Wong/ZyPlayer"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

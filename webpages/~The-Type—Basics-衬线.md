@@ -6,7 +6,6 @@ modified: 2025-02-01T13:18:35
 description: "The Type 是一个关于文字设计和视觉文化的网站。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。"
 source: "https://www.thetype.com/2010/01/1814/"
 tags:
-tags-link:
 type: "archive-web"
 ---
 ![](https://www.thetype.com/wp-content/uploads/2010/01/serif_1.jpg)

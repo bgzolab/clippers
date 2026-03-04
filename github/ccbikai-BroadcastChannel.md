@@ -8,7 +8,6 @@ description: "Turn your Telegram Channel into a MicroBlog."
 source: "https://github.com/ccbikai/BroadcastChannel"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

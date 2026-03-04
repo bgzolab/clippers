@@ -8,7 +8,6 @@ description: "📝A simple and elegant markdown editor, available for Linux, mac
 source: "https://github.com/marktext/marktext"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -6,7 +6,6 @@ description: "基于自定义规则的番剧采集APP，支持流媒体在线观
 modified: 2025-07-01T21:01:25
 source: "https://github.com/Predidit/Kazumi"
 tags: ["github/star"]
-tags-link:
 title: Predidit/Kazumi
 type: "repo"
 ---

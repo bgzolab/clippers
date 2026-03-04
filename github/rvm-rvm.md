@@ -8,7 +8,6 @@ description: "Ruby enVironment Manager (RVM)"
 source: "https://github.com/rvm/rvm"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

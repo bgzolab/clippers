@@ -6,7 +6,6 @@ modified: 2025-03-09T13:01:00
 description: "虽然 Fake IP 这个概念早在 2001 年就被提出来了，但是到 Clash 提供 fake-ip 增强模式以后，依然有很多人对 Fake IP 这个概念以及其作用知之甚少。本文就简单谈谈在代理环境中，TCP 连接建立之前发生的事。由于移动设备操作系统中网络栈相对复杂，本文的例子也并不一定适用于移动端环境。文章中也许会存在很多错误，也希望各路大佬的勘误和斧正。"
 source: "https://blog.skk.moe/post/what-happend-to-dns-in-proxy/"
 tags:
-tags-link:
 type: "archive-web"
 ---
 ![浅谈在代理环境中的 DNS 解析行为](https://img10.360buyimg.com/ddimg/jfs/t1/135552/15/25291/68779/622032b6E4859ebc2/949482016254a155.png)

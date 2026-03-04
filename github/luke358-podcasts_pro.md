@@ -8,7 +8,6 @@ description: "Podcasts Pro is a podcast application. You can use podcast RSS lin
 source: "https://github.com/luke358/podcasts_pro"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

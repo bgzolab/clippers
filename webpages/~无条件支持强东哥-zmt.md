@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:56
 modified: 2025-04-05T15:50:56
 source: https://zmt.pub/2019/04/22/%e6%97%a0%e6%9d%a1%e4%bb%b6%e6%94%af%e6%8c%81%e5%bc%ba%e4%b8%9c%e5%93%a5/
 tags:
-tags-link:
 type: archive-web
 ---
 # 无条件支持强东哥

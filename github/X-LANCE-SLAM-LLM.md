@@ -8,7 +8,6 @@ description: "Speech, Language, Audio, Music Processing with Large Language Mode
 source: "https://github.com/X-LANCE/SLAM-LLM"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

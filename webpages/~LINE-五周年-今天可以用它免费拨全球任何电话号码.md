@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2016/06/23/line-5th-anniversary/
 tags:
-tags-link:
 type: archive-web
 ---
 [详情在此](http://official-blog.line.me/en/archives/1058679379.html)。

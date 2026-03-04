@@ -5,7 +5,6 @@ created: 2025-04-05T13:02:46
 modified: 2025-04-05T13:02:46
 source: https://www.zhihu.com/question/447208754/answer/1764568582
 tags:
-tags-link:
 type: archive-web
 ---
 这个并不自洽，除了极少数可以不靠学生不靠小弟的一人就可以单干的学科，

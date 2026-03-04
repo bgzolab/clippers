@@ -8,7 +8,6 @@ description: "everything curl."
 source: "https://github.com/curl/everything-curl"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -6,7 +6,6 @@ modified: 2025-01-16T09:29:07
 source: "http://web.simmons.edu/~grabiner/comm244/weekfour/fonts.html"
 tags:
   
-tags-link:
 type: "archive-web"
 ---
 [Back to Class Four page »](http://web.simmons.edu/~grabiner/comm244/class4.html)

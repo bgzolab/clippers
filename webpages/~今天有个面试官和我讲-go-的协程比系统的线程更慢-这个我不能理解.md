@@ -5,7 +5,6 @@ created: 2025-03-24T20:14:35
 modified: 2025-03-24T20:45:03
 source: https://www.v2ex.com/t/1120244#reply37
 tags: 
-tags-link:
   - "[[golang]]"
 type: archive-web
 ---

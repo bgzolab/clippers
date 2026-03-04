@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2016/09/04/apple-store-is-now-apple/
 tags:
-tags-link:
 type: archive-web
 ---
 所谓的高级感（或者用廿一世纪的中国语文，所谓的「屄格」），是由歧义决定的，是由微妙的「氛围气」决定的，是由不说的那部分决定的。这和崇尚透明、开源、凡事要有个解释的信息技术界有本质矛盾。

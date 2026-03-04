@@ -8,7 +8,6 @@ description: "桌面版脑图 (百度脑图离线版，思维导图) 跨平台�
 source: "https://github.com/NaoTu/DesktopNaotu"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

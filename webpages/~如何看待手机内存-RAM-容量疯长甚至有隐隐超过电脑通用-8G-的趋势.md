@@ -5,7 +5,6 @@ created: 2021-04-05T12:39:34
 modified: 2021-04-05T12:39:34
 source: https://www.zhihu.com/question/301805084/answer/656016081
 tags:
-tags-link:
 type: archive-web
 ---
 1. 10g 12g 手机的溢价很高。

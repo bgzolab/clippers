@@ -8,7 +8,6 @@ description: "中华人民共和国法律手册"
 source: "https://github.com/RanKKI/LawRefBook"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

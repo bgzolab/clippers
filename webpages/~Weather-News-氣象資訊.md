@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53
 source: http://w3.tpsh.tp.edu.tw/education/japan/japanese_link/P.6.htm
 tags:
-tags-link:
 type: archive-web
 ---
 |  |  Weather News(氣象資訊) |  [http://www.wni.co.jp](http://www.wni.co.jp/)  

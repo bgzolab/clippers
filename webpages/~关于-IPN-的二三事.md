@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2016/05/20/a-few-things-about-ipn/
 tags:
-tags-link:
 type: archive-web
 ---
 IPN always gives a fuck.

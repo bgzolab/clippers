@@ -8,7 +8,6 @@ description: "AssetStudioMod - modified version of Perfare's AssetStudio, mainly
 source: "https://github.com/aelurum/AssetStudio"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

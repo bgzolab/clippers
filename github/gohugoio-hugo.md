@@ -8,7 +8,6 @@ description: "The world’s fastest framework for building websites."
 source: "https://github.com/gohugoio/hugo"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

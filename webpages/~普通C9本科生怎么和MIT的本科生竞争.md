@@ -5,7 +5,6 @@ created: 2025-04-05T13:01:54
 modified: 2025-04-05T13:01:54
 source: https://www.zhihu.com/question/381410935/answer/2501652929
 tags:
-tags-link:
 type: archive-web
 ---
 你要竞争什么？

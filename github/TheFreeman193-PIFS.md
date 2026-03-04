@@ -8,7 +8,6 @@ description: "A collection of build properties for the PIF module"
 source: "https://github.com/TheFreeman193/PIFS"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -9,7 +9,6 @@ description: Dify is an open-source LLM app development platform. Dify's intuiti
 source: https://github.com/langgenius/dify
 tags:
   - github/star
-tags-link:
   - "[[large-language-model]]"
 type: repo
 ---

@@ -8,7 +8,6 @@ description: "从全网搜集超 100,000 个 Telegram 群组、频道和机器�
 source: "https://github.com/jackhawks/rectg"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

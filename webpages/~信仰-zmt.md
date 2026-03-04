@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59
 source: https://zmt.pub/2011/04/11/%e4%bf%a1%e4%bb%b0-2/
 tags:
-tags-link:
 type: archive-web
 ---
 # 信仰

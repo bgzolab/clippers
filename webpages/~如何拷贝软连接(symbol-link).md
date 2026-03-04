@@ -6,7 +6,6 @@ modified: 2025-03-31T22:20:09
 description: "当我对软连接进行拷贝粘贴的时候, 它操作的对象是软连接的目标文件. 而我只想拷贝粘贴软连接本身, 请问在windows下, 有办法吗？"
 source: "https://meta.appinn.net/t/topic/56698"
 tags:
-tags-link:
 type: "archive-web"
 ---
 xcopy可以，命令是XCOPY source \[destination\] /b  

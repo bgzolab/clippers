@@ -8,7 +8,6 @@ description: "互联网仍有记忆！那些曾经在校招过程中毁过口头
 source: "https://github.com/forthespada/CampusShame"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

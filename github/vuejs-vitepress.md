@@ -8,7 +8,6 @@ description: "Vite & Vue powered static site generator."
 source: "https://github.com/vuejs/vitepress"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

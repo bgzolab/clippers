@@ -8,7 +8,6 @@ description: "Self-hosted game stream host for Moonlight."
 source: "https://github.com/LizardByte/Sunshine"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

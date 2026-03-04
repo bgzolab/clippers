@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59
 source: https://zmt.pub/2019/01/13/%e7%83%ad%e7%83%88%e5%ba%86%e7%a5%9d%e7%ac%ac%e4%ba%8c%e7%af%87%e5%85%ac%e4%bc%97%e5%8f%b7%e6%96%87%e7%ab%a0%e8%a2%ab%e5%88%a0%e9%99%a4/
 tags:
-tags-link:
 type: archive-web
 ---
 # 热烈庆祝第二篇公众号文章被删除

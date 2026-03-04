@@ -5,7 +5,6 @@ created: 2021-04-05T12:39:34
 modified: 2021-04-05T12:39:34
 source: https://www.zhihu.com/question/460275154/answer/1907498833
 tags:
-tags-link:
 type: archive-web
 ---
 重点根本不在于“二次元与 galgame”，而在于“没感觉了”。换个方式问，上一辈喜欢看武侠小说的人为什么成家后就对武侠没感觉了?

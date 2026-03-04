@@ -8,7 +8,6 @@ description: "Create and share beautiful images of your source code"
 source: "https://github.com/carbon-app/carbon"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

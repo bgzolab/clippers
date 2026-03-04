@@ -8,7 +8,6 @@ description: "The best IP Toolbox. Easy to check what's your IPs, IP geolocation
 source: "https://github.com/jason5ng32/MyIP"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

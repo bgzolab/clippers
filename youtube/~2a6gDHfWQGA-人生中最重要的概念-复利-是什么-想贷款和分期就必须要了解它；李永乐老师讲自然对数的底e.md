@@ -11,7 +11,6 @@ description: "有同学问我这个自然对数的底e到底是什么这个复�
 source: "https://www.youtube.com/watch?v=2a6gDHfWQGA"
 tags:
   - video/youtube
-tags-link:
 type: "video"
 ---
 ## Source

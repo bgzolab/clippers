@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:55
 modified: 2025-04-05T15:50:55
 source: https://zmt.pub/2019/04/23/%e5%bc%ba%e4%b8%9c%e5%93%a5%e6%98%af%e6%88%91%e8%a7%81%e8%bf%87%e6%9c%80%e5%8d%95%e7%ba%af%e7%9a%84%e7%94%b7%e4%ba%ba/
 tags:
-tags-link:
 type: archive-web
 ---
 # 强东哥是我见过最单纯的男人

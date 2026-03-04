@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:55
 modified: 2025-04-05T15:50:55
 source: https://zmt.pub/2012/08/08/%e6%88%90%e8%80%85%e5%88%98%e7%bf%94%e8%b4%a5%e8%80%85%e7%bf%94/
 tags:
-tags-link:
 type: archive-web
 ---
 # 成者刘翔败者翔

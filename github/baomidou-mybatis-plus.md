@@ -8,7 +8,6 @@ description: "An powerful enhanced toolkit of MyBatis for simplify development"
 source: "https://github.com/baomidou/mybatis-plus"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

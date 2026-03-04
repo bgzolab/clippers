@@ -6,7 +6,6 @@ modified: 2025-02-06T17:12:51
 description: 这年头让人高兴的事一件没有，让人笑的事见天都是。
 source: https://mp.weixin.qq.com/s/NMPZnlwPI5U76n3l8OBYEQ
 tags: 
-tags-link:
   - "[[official-system-in-china|civil-service]]"
 type: archive-web
 ---

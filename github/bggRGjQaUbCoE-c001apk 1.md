@@ -6,7 +6,6 @@ description: "fake coolapk"
 modified: 2025-07-05T11:20:39
 source: "https://github.com/bggRGjQaUbCoE/c001apk"
 tags: ["star"]
-tags-link:
 title: bggRGjQaUbCoE/c001apk
 type: "repo"
 ---

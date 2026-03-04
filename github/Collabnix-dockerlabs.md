@@ -9,7 +9,6 @@ description: Docker  - Beginners | Intermediate | Advanced
 source: https://github.com/Collabnix/dockerlabs
 tags:
   - github/star
-tags-link:
   - "[[pages/docker|docker]]"
 type: repo
 ---

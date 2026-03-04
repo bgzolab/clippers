@@ -8,7 +8,6 @@ description: "Virtual machines for iOS and macOS"
 source: "https://github.com/utmapp/UTM"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

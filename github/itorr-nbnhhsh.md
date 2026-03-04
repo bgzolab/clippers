@@ -8,7 +8,6 @@ description: "😩「能不能好好说话？」 拼音首字母缩写翻译工�
 source: "https://github.com/itorr/nbnhhsh"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

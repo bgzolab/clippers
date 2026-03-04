@@ -8,7 +8,6 @@ description: "An open-source cross-platform alternative to AirDrop"
 source: "https://github.com/localsend/localsend"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 <iframe src='https://localsend.org' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>

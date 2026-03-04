@@ -8,7 +8,6 @@ description: "8亿QQ绑定数据泄露查询源码，附送数据。不定期更
 source: "https://github.com/qq8e/qq"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59
 source: https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/
 tags:
-tags-link:
 type: archive-web
 ---
 #### [Jeff Atwood](https://blog.discourse.org/author/codinghorror/)

@@ -8,7 +8,6 @@ description: "Download pictures (or videos) along with their captions and other 
 source: "https://github.com/instaloader/instaloader"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

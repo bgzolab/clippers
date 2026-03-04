@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2016/04/13/wechat-against-world-wide-web/
 tags:
-tags-link:
 type: archive-web
 ---
 中文世界一直混淆[互联网](https://en.wikipedia.org/wiki/Internet)（internet）和[万维网](https://en.wikipedia.org/wiki/World_Wide_Web)（web）。人们念兹在兹的「互联网开放精神」，实乃万维网的开放精神。万维网的开放主要就体现在一点：**任何万维网上的文章之间都可以通过网址随意互相链接**。如果我想在文章里介绍 UbuWeb 这个网站，我就可以直接在 [UbuWeb](http://ubu.com/) 这六个字母上添加它的网址 ubu.com

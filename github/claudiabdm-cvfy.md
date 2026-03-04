@@ -6,7 +6,6 @@ description: "CV generator built with Nuxt.js, TailwindCSS, deployed on Cloudfla
 modified: 2025-07-05T10:50:29
 source: "https://github.com/claudiabdm/cvfy"
 tags: ["star"]
-tags-link:
 title: claudiabdm/cvfy
 type: "repo"
 ---

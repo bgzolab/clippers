@@ -8,7 +8,6 @@ description: "A static site generator powered by Deno + React"
 source: "https://github.com/xcatliu/pagic"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

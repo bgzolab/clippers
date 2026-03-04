@@ -5,7 +5,6 @@ created: 2025-04-05T17:45:27
 modified: 2025-04-05T17:45:27
 source: https://www.zhihu.com/question/26750877/answer/33900616
 tags:
-tags-link:
 type: archive-web
 ---
 http://en.wikipedia.org/wiki/Royal_and_noble_ranks

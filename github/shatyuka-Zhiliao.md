@@ -9,7 +9,6 @@ description: 知乎去广告Xposed模块
 source: https://github.com/shatyuka/Zhiliao
 tags:
   - github/star
-tags-link:
   - "[[xposed]]"
 type: repo
 ---

@@ -16,4 +16,4 @@ type: repo
 
 ## Notes
 
-- [ ] #gtd/todo 原理是什么？ 
+- [ ] 原理是什么？ 

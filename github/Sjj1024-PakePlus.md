@@ -8,7 +8,6 @@ description: "Turn any webpage/Vue/React and so on into desktop and mobile app u
 source: "https://github.com/Sjj1024/PakePlus"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

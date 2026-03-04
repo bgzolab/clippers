@@ -8,7 +8,6 @@ description: "Paranoid text spacing in JavaScript"
 source: "https://github.com/vinta/pangu.js"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

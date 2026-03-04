@@ -8,7 +8,6 @@ description: "trzsz is a simple file transfer tools, similar to lrzsz ( rz / sz 
 source: "https://github.com/trzsz/trzsz"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

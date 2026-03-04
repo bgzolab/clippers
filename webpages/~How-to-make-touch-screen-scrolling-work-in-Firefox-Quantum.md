@@ -6,7 +6,6 @@ modified: 2025-04-05T17:31:16
 description: "Using Firefox quantum 57 and Ubuntu 17.10, I am unable to scroll a web page by touching the screen and sliding the page.  However this works in Chrome browser.How to make touch-screen scrolling w..."
 source: "https://askubuntu.com/questions/978226/how-to-make-touch-screen-scrolling-work-in-firefox-quantum"
 tags:
-tags-link:
 type: "archive-web"
 ---
 The same solution for Firefox 50 and Ubuntu 16.xx still works for Firefox Quantum 57 and Ubuntu 17.10: [Ubuntu 16 and touchscreen scrolling in FireFox](https://askubuntu.com/questions/853910/ubuntu-16-and-touchscreen-scrolling-in-firefox)

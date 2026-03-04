@@ -6,7 +6,6 @@ modified: 2025-03-09T12:58:17
 description: "KoolClash 从一开始设计就是为了将 Clash 放在路由器或者网关设备上运行。在 Clash 0.14.0 版本推出 fake-ip 模式以后，KoolClash 实现了相对完善的代理网关。"
 source: "https://blog.skk.moe/post/alternate-surge-koolclash-as-gateway/"
 tags:
-tags-link:
 type: "archive-web"
 ---
 KoolClash 从一开始设计就是为了将 Clash 放在路由器或者网关设备上运行。在 Clash 0.14.0 版本推出 `fake-ip` 模式以后，KoolClash 实现了相对完善的代理网关。

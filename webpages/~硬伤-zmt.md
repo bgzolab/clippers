@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59
 source: https://zmt.pub/2012/03/13/%e7%a1%ac%e4%bc%a4/
 tags:
-tags-link:
 type: archive-web
 ---
 # 硬伤

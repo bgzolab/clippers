@@ -8,7 +8,6 @@ description: "This is a quick guide to hopefully make it a little easier for peo
 source: "https://github.com/mModule/guide_hma"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

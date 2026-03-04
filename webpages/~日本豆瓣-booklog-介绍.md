@@ -6,7 +6,6 @@ modified: 2025-04-05T17:19:39
 description: "最近常常感受到浮躁的心情，诸葛永仁我夜观星象，看到大熊星座推倒小熊星座，两个家伙过着一天二次有时一天三次的幸福快乐生活，心情久久不能平静。这是“大熊之相”，通假写作“大胸之相”。太史公曰：“大胸者..."
 source: "https://www.douban.com/note/99911512/?_i=1413265ARSOxnn,3844759JHPxyP7"
 tags:
-tags-link:
 type: "archive-web"
 ---
 | ![](https://img9.doubanio.com/view/note/large/public/p99911512-45.jpg) |

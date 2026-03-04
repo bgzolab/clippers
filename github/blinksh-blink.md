@@ -8,7 +8,6 @@ description: "blinksh/blink"
 source: "https://github.com/blinksh/blink"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

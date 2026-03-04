@@ -8,7 +8,6 @@ description: "📖 一款专注于阅读的博客园主题"
 source: "https://github.com/esofar/cnblogs-theme-silence"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

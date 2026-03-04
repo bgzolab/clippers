@@ -8,7 +8,6 @@ description: "Web Analytics made simple"
 source: "https://github.com/ihucos/counter.dev"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

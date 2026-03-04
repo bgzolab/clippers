@@ -8,7 +8,6 @@ description: "the new world, linux"
 source: "https://github.com/yangyangwithgnu/the_new_world_linux"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

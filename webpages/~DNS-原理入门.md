@@ -6,7 +6,6 @@ modified: 2025-03-09T12:56:00
 description:
 source: "https://www.ruanyifeng.com/blog/2016/06/dns.html"
 tags:
-tags-link:
 type: "archive-web"
 ---
 DNS 是互联网核心协议之一。不管是上网浏览，还是编程开发，都需要了解一点它的知识。

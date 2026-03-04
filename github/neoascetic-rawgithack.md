@@ -8,7 +8,6 @@ description: "Serves files from github, bitbucket and gitlab, but with the corre
 source: "https://github.com/neoascetic/rawgithack"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

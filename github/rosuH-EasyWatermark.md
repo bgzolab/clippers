@@ -8,7 +8,6 @@ description: "🔒 🖼 Securely, easily add a watermark to your sensitive photo
 source: "https://github.com/rosuH/EasyWatermark"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

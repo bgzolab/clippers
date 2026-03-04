@@ -8,7 +8,6 @@ description: "LawRefBook/Laws"
 source: "https://github.com/LawRefBook/Laws"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

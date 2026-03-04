@@ -8,7 +8,6 @@ description: "Open source API development ecosystem - https://hoppscotch.io (ope
 source: "https://github.com/hoppscotch/hoppscotch"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

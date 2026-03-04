@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:57
 modified: 2025-04-05T15:50:57
 source: https://zmt.pub/2019/04/24/%e6%bb%b4%e6%bb%b4%e6%8a%bd%e6%88%9019%e4%b8%ba%e4%bd%95%e4%bb%8d%e4%ba%8f/
 tags:
-tags-link:
 type: archive-web
 ---
 # 滴滴抽成19%为何仍亏

@@ -8,7 +8,6 @@ description: "A fast, simple & powerful blog framework, powered by Node.js."
 source: "https://github.com/hexojs/hexo"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

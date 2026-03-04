@@ -8,7 +8,6 @@ description: "老胡的信息技术周刊❤️记录我本周看到的有价值
 source: "https://github.com/howie6879/weekly"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

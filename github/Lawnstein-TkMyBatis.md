@@ -8,7 +8,6 @@ description: "Mybatis Common Mapper - Easy to use"
 source: "https://github.com/Lawnstein/TkMyBatis"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

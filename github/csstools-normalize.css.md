@@ -8,7 +8,6 @@ description: "A cross-browser CSS foundation"
 source: "https://github.com/csstools/normalize.css"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -8,7 +8,6 @@ description: "Build mindmaps with plain text"
 source: "https://github.com/markmap/markmap"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

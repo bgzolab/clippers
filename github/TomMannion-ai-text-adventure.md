@@ -9,7 +9,6 @@ description: A choose your own adventure powered by GPT 3.5 turbo.
 source: https://github.com/TomMannion/ai-text-adventure
 tags:
   - github/star
-tags-link:
   - "[[pages/game]]"
 type: repo
 ---

@@ -5,7 +5,6 @@ created: 2025-04-05T18:00:14
 modified: 2025-04-05T18:00:14
 source: https://liqi.io/lepture/
 tags:
-tags-link:
 type: archive-web
 ---
 ### **相比如今公众号等大热的文字创作平台，你如何看待博客？**

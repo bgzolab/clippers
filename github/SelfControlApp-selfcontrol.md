@@ -8,7 +8,6 @@ description: "Mac app to block your own access to distracting websites etc for a
 source: "https://github.com/SelfControlApp/selfcontrol"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

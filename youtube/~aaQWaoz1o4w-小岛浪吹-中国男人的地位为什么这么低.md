@@ -11,7 +11,6 @@ description: "Join this channel to get access to perks:https://www.youtube.com/c
 source: "https://www.youtube.com/watch?v=aaQWaoz1o4w"
 tags:
   - video/youtube
-tags-link:
 type: "video"
 ---
 ## Source

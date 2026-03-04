@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:58
 modified: 2025-04-05T15:50:58
 source: https://zmt.pub/2013/04/21/%e5%bf%8d%e8%80%85%e4%b9%8b%e8%b7%af/
 tags:
-tags-link:
 type: archive-web
 ---
 # 忍者之路

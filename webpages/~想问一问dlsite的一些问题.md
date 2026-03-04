@@ -5,7 +5,6 @@ modified: 2025-05-22T21:26:56
 description: "希望有大佬知道dlsite的一些东西 1.dlsite打折一般规律是怎么样的。 2.支付宝支付有什么要求嘛 3.支付形式是日元还是能换算成RMB。 暂时就些了，谢谢各位大佬"
 source: "https://sstm.moe/topic/282144-%E6%83%B3%E9%97%AE%E4%B8%80%E9%97%AEdlsite%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/"
 tags:
-tags-link:
 type: "archive-web"
 ---
 - 1.dlsite 打折一般规律是怎么样的。

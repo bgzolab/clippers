@@ -8,7 +8,6 @@ description: "Print your GitHub activity as an artwork"
 source: "https://github.com/djyde/ossart"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

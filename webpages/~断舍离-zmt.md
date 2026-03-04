@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:56
 modified: 2025-04-05T17:47:56
 source: https://zmt.pub/2019/05/31/%e6%96%ad%e8%88%8d%e7%a6%bb/
 tags:
-tags-link:
 type: archive-web
 ---
 走在沙滩上，只有两种感觉：这地方我们俩走过、这地方我们俩没走过

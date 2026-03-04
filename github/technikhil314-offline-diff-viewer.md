@@ -6,7 +6,6 @@ description: "A Privacy focused, easy sharable, open source and anonymous tracki
 modified: 2025-07-01T21:11:00
 source: "https://github.com/technikhil314/offline-diff-viewer"
 tags: ["star"]
-tags-link:
 title: technikhil314/offline-diff-viewer
 type: "repo"
 ---

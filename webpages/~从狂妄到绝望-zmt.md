@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:56
 modified: 2025-04-05T15:50:56
 source: https://zmt.pub/2019/01/18/%e4%bb%8e%e7%8b%82%e5%a6%84%e5%88%b0%e7%bb%9d%e6%9c%9b/
 tags:
-tags-link:
 type: archive-web
 ---
 # 从狂妄到绝望

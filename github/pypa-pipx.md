@@ -10,7 +10,6 @@ modified: 2025-07-26T22:55:07
 source: "https://github.com/pypa/pipx"
 tags:
   - "github/star"
-tags-link:
 title: Pipx
 type: "repo"
 ---

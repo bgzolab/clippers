@@ -5,7 +5,6 @@ created: 2025-04-05T15:51:00
 modified: 2025-04-05T15:51:00
 source: https://zmt.pub/2012/06/20/%e9%80%86%e5%8f%8d/
 tags:
-tags-link:
 type: archive-web
 ---
 # 逆反

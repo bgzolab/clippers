@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2016/11/11/william-gibson-on-quote-unquote-doxxing-in-idoru/
 tags:
-tags-link:
 type: archive-web
 ---
 看到张亮[引用](https://zhuanlan.zhihu.com/p/23573723)了一段 William Gibson 的小说[《阿伊朵》](https://book.douban.com/subject/1927801/)（*[Idoru](https://www.amazon.com/Idoru-William-Gibson/dp/0425158640/ref=sr_1_1?ie=UTF8&qid=1478854000&sr=8-1&keywords=idoru)*，一九九六）里的话，顺手翻了翻。Gibson 是一个非常适合引用的小说家——这句话没有丝毫轻视之意。相反，他对未来的抽象想象力和文字意象密度每每令人震慑。在张亮引用的那段文字附近，就有如下令人难忘的片段：

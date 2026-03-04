@@ -8,7 +8,6 @@ description: "Node library for download subtitles from Youtube and translate the
 source: "https://github.com/eliascotto/youtube-subtitles-downloader"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 # eliascotto/youtube-subtitles-downloader

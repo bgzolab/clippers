@@ -13,7 +13,6 @@ source: https://github.com/logseq/logseq
 tags:
   - deprecated
   - github/star
-tags-link:
 title: Logseq
 type: repo
 ---

@@ -8,7 +8,6 @@ description: "an extension for Google Chrome that allows you to send web content
 source: "https://github.com/phguo/Send-to-Telegram-Chrome-Extension"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -6,7 +6,6 @@ modified: 2025-03-16T22:27:51
 description: "This tutorial series explains the basics of dependency injection."
 source: "https://jenkov.com/tutorials/dependency-injection/index.html"
 tags:
-tags-link:
 type: "archive-web"
 ---
 Dependency Injection (DI) has been a hot topic since 2007-2008. Lots have already been said and written about depencency injection, yet I feel there is more to say. This trail will explain and explore dependency injection and related concepts. Below is a list of the topics covered in this trail. The list is repeated at the top right of every page in this trail.

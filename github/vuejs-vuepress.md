@@ -8,7 +8,6 @@ description: "📝 Minimalistic Vue-powered static site generator"
 source: "https://github.com/vuejs/vuepress"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

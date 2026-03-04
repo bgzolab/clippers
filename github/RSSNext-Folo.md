@@ -8,7 +8,6 @@ description: "🧡 Follow everything in one place"
 source: "https://github.com/RSSNext/Folo"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

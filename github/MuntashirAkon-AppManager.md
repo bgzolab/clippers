@@ -8,7 +8,6 @@ description: "A full-featured package manager and viewer for Android"
 source: "https://github.com/MuntashirAkon/AppManager"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

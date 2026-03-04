@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:56
 modified: 2025-04-05T17:47:56
 source: https://zmt.pub/2013/03/08/%e6%b2%99%e8%80%b6%e4%b9%8b%e6%ad%8c/
 tags:
-tags-link:
 type: archive-web
 ---
 从小就没有女生搭理我。构建我爱情观的，就是几个游戏：美少女梦工厂、仙剑奇侠传三和沙耶之歌

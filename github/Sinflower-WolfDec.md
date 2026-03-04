@@ -8,7 +8,6 @@ description: "A Simple Wolf RPG File Decrypter"
 source: "https://github.com/Sinflower/WolfDec"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

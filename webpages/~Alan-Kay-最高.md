@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2016/06/22/alan-kay-is-the-best/
 tags:
-tags-link:
 type: archive-web
 ---
 [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) 昨天在 Hacker News 做了一次 [AMA](https://news.ycombinator.com/item?id=11939851)（无限制问答活动），有很多精彩的讨论。我想特地摘出一条。网友 guelo 问：您在一九七零年代构想未来的电脑时似乎很重视其教育功能，但今天显然电脑作为娱乐工具的角色超越了一切。「有没有什么介面可以引导大脑，让它尽量远离那些最糟糕的本能冲动，用到更有生产力的地方？」

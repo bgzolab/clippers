@@ -8,7 +8,6 @@ description: "Ruby wrapper and CLI for the GitLab REST API"
 source: "https://github.com/NARKOZ/gitlab"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

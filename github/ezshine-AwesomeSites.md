@@ -8,7 +8,6 @@ description: "every websites have been tested and fixed, all can be running in l
 source: "https://github.com/ezshine/AwesomeSites"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

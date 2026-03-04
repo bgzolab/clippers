@@ -6,7 +6,6 @@ modified: 2025-03-13T19:31:13
 description: "漫展这玩意。说白了赚的就是日本二次元文化的钱。赚着钱。当了婊子。还要从自己的顾客里，挑出来一个欺负…"
 source: "https://www.zhihu.com/question/662226621/answer/3570054778"
 tags:
-tags-link:
 type: "archive-web"
 ---
 漫展这玩意。

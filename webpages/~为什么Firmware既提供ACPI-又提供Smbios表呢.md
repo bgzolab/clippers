@@ -6,7 +6,6 @@ modified: 2025-03-13T19:33:54
 description: "UEFI要除了初始化硬件，还提供了两张表：SMBIOS table和ACPI table。两个表的侧重点不同：SMBIOS重点在于…"
 source: "https://www.zhihu.com/question/619432704/answer/3571376762"
 tags:
-tags-link:
 type: "archive-web"
 ---
 UEFI要除了初始化硬件，还提供了两张表：SMBIOS table和ACPI table。两个表的侧重点不同：

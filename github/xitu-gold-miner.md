@@ -9,7 +9,6 @@ description: 🥇掘金翻译计划，可能是世界最大最好的英译中技
 source: https://github.com/xitu/gold-miner
 tags:
   - star
-tags-link:
   - "[[translate]]"
 type: repo
 ---

@@ -8,7 +8,6 @@ description: "Make images smaller using best-in-class codecs, right in the brows
 source: "https://github.com/GoogleChromeLabs/squoosh"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

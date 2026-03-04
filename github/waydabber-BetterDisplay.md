@@ -8,7 +8,6 @@ description: "Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR 
 source: "https://github.com/waydabber/BetterDisplay"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

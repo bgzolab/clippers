@@ -5,7 +5,6 @@ created: 2021-04-05T12:39:34
 modified: 2021-04-05T12:39:34
 source: https://www.zhihu.com/question/474598194/answer/2028725042
 tags:
-tags-link:
 type: archive-web
 ---
 现在有些网友真的缺乏**基本的思考能力**

@@ -8,7 +8,6 @@ description: "Color scheme for UI design."
 source: "https://github.com/yeun/open-color"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

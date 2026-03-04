@@ -6,7 +6,6 @@ modified: 2025-01-19T02:57:24
 source: "https://www.zhihu.com/question/24639606/answer/28476223"
 tags:
   
-tags-link:
 type: "archive-web"
 ---
 首先，题主要说明这个键盘缓冲区是指什么呢？

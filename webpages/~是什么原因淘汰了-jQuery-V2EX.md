@@ -5,7 +5,6 @@ created: 2025-04-05T13:03:48
 modified: 2025-04-05T13:03:48
 source: https://www.v2ex.com/t/576583
 tags:
-tags-link:
 type: archive-web
 ---
 以前的主流是整个页面跳转刷新，后端负责把渲染好的 html 发给前端，前端用 jQuery 之类的做一些简单处理。

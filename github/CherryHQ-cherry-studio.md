@@ -6,7 +6,6 @@ description: "🍒 Cherry Studio is a desktop client that supports for multiple 
 modified: 2025-07-01T22:38:59
 source: "https://github.com/CherryHQ/cherry-studio"
 tags: ["star"]
-tags-link:
 title: CherryHQ/cherry-studio
 type: "repo"
 ---

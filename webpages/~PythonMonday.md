@@ -6,7 +6,6 @@ modified: 2025-03-22T12:39:49
 description:
 source: "https://damiantgordon.com/PythonMonday/"
 tags:
-tags-link:
 type: "archive-web"
 ---
 ![[book_pythonmonday.pdf]]

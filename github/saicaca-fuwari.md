@@ -8,7 +8,6 @@ description: "✨A static blog template built with Astro."
 source: "https://github.com/saicaca/fuwari"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 # saicaca/fuwari

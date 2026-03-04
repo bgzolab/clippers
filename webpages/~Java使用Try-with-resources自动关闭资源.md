@@ -6,7 +6,6 @@ modified: 2025-04-05T17:36:31
 description: "Try-with-resources Try-with-resources是Java7中一个新的异常处理机制，它能够很容易地关闭在try-catch语句块中使用的资源。 利用Try-Catch-Finally管理资源（旧的代码风格） 在Java7以前，程序中使用的资源需要被明确地关闭，这个体验有点繁"
 source: "https://www.cnblogs.com/barrywxx/p/9993005.html"
 tags:
-tags-link:
 type: "archive-web"
 ---
 ## Try-with-resources

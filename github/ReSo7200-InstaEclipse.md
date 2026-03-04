@@ -9,7 +9,6 @@ description: An Instagram Xposed module with features like Developer Options, Gh
 source: https://github.com/ReSo7200/InstaEclipse
 tags:
   - github/star
-tags-link:
   - "[[xposed]]"
 type: repo
 ---

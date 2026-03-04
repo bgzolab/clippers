@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2016/03/06/vr-more-real-than-reality/
 tags:
-tags-link:
 type: archive-web
 ---
 新技术/新媒介初现曙光的时刻，人们兴奋得难以自制。无论是社会还是个人层面的人和变化都会被归因于它。在上周举行的一场关于虚拟现实（VR, Virtual Reality）的活动上，[《纽约时报》的 Sam Dolnick 说](https://twitter.com/GreeterDan/status/706212035265220610)他的一位朋友看了屠宰场的 VR 视频之后，一直就没再吃肉。「理性认识变成了官能体验。」

@@ -8,7 +8,6 @@ description: "The RSS3 Protocol is used to structure Open Information for intero
 source: "https://github.com/RSS3-Network/Protocol"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

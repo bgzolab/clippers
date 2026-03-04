@@ -8,7 +8,6 @@ description: "Virtual whiteboard for sketching hand-drawn like diagrams"
 source: "https://github.com/excalidraw/excalidraw"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

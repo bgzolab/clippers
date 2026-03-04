@@ -8,7 +8,6 @@ description: "Telegram Bot API Go framework"
 source: "https://github.com/go-telegram/bot"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 # go-telegram/bot

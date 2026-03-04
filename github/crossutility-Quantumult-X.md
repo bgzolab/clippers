@@ -8,7 +8,6 @@ description: "crossutility/Quantumult-X"
 source: "https://github.com/crossutility/Quantumult-X"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

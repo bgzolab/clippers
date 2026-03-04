@@ -5,7 +5,6 @@ created: 2025-04-05T15:51:01
 modified: 2025-04-05T15:51:01
 source: https://www.editorx.com/shaping-design/article/typefaces-vs-fonts
 tags:
-tags-link:
 type: archive-web
 ---
 

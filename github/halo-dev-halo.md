@@ -8,7 +8,6 @@ description: "强大易用的开源建站工具。"
 source: "https://github.com/halo-dev/halo"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

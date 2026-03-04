@@ -5,7 +5,6 @@ created: 2025-04-05T18:02:30
 modified: 2025-04-05T18:02:30
 source: https://program-think.blogspot.com/2009/05/defect-of-java-beginner-5-jvm.html
 tags:
-tags-link:
 type: archive-web
 ---
 #jvm

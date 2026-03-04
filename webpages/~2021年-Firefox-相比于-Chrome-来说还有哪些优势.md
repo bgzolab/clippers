@@ -5,7 +5,6 @@ created: 2021-04-05T12:39:34
 modified: 2021-04-05T12:39:34
 source: https://www.zhihu.com/question/490476880/answer/2237840159
 tags:
-tags-link:
 type: archive-web
 ---
 好吧，我就多说一点：Firefox 的 Android 版本是可以随意装插件的，Chrome 的 Android 版本不支持任何插件。

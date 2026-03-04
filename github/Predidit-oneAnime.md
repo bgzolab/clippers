@@ -8,7 +8,6 @@ description: "一款简洁清爽无广告的看番软件。 一款带弹幕的 a
 source: "https://github.com/Predidit/oneAnime"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

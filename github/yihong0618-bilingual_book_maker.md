@@ -8,7 +8,6 @@ description: "Make bilingual epub books Using AI translate"
 source: "https://github.com/yihong0618/bilingual_book_maker"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

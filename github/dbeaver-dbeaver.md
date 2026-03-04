@@ -8,7 +8,6 @@ description: "Free universal database tool and SQL client"
 source: "https://github.com/dbeaver/dbeaver"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

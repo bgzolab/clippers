@@ -8,7 +8,6 @@ description: "A tool for converting dictionary files aka glossaries. Mainly to h
 source: "https://github.com/ilius/pyglossary"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

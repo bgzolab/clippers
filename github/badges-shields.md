@@ -8,7 +8,6 @@ description: "Concise, consistent, and legible badges in SVG and raster format"
 source: "https://github.com/badges/shields"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

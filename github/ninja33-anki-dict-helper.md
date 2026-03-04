@@ -8,7 +8,6 @@ description: "Anki划词制卡助手 --  \"划词翻译，一键制卡\""
 source: "https://github.com/ninja33/anki-dict-helper"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -8,7 +8,6 @@ description: "fake coolapk"
 source: "https://github.com/bggRGjQaUbCoE/c001apk"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

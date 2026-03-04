@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53
 source: https://zmt.pub/2020/07/31/%e8%ae%ba%e5%a5%b3%e5%be%b7%e7%8f%ad%e7%9a%84%e5%80%92%e6%8e%89/
 tags:
-tags-link:
 type: archive-web
 ---
 # 论女德班的倒掉

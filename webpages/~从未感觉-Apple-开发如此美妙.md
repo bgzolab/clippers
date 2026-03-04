@@ -5,7 +5,6 @@ created: 2025-03-24T21:30:04
 modified: 2025-03-24T21:30:10
 source: "https://www.v2ex.com/t/1098890#reply2"
 tags:
-tags-link:
 type: "archive-web"
 ---
 最近开发了一个 iPhone 小玩具 [https://github.com/kekeimiku/LuckySpeeder](https://github.com/kekeimiku/LuckySpeeder)

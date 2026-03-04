@@ -8,7 +8,6 @@ description: "collections of yihong0618's telegram bot"
 source: "https://github.com/yihong0618/tg_bot_collections"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

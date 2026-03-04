@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59
 source: https://www.nytimes.com/zh-hant/interactive/2020/09/11/world/asia/hong-kong-speech.html
 tags:
-tags-link:
 type: archive-web
 ---
 7月，民主派立法會議員們在立法會上舉起白紙，以抗議對言論的限制。Vincent Yu/Associated Press

@@ -6,7 +6,6 @@ modified: 2025-04-05T17:25:47
 description: "经过几个版本的迭代，一键测试脚本 bench.sh 已经几乎适用于各个 Linux 发行版的网络和 IO 测试。 并将测试结果以较为美观的方式显示出来。 总结一下 bench.sh 的特点： 1、显示各种系统信息； 2、取自 Speedtest 世界多处的数据中心的测试点，网络测试比较全面； 3、支持 IPv6 下载测速； 4、IO 测试（顺序写入 1GB 数据）三次，并显示其平均值。    再配合 unixbench.sh 脚本测试，"
 source: "https://teddysun.com/444.html"
 tags:
-tags-link:
 type: "archive-web"
 ---
 [技术](https://teddysun.com/category/tech) [秋水逸冰](https://teddysun.com/author/teddysun) 发布于: 2015-12-28 更新于: 2023-10-16 455132浏览 [99评论](https://teddysun.com/444.html#comments)

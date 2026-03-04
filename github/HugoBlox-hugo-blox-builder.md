@@ -8,7 +8,6 @@ description: "🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, f
 source: "https://github.com/HugoBlox/hugo-blox-builder"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

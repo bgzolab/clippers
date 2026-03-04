@@ -6,7 +6,6 @@ modified: 2025-04-05T16:23:55
 description: "What are depression naps? One or two daytime naps a week is linked to lower risk of heart attack or stroke. But naps shouldn't be an escape from the world."
 source: "https://www.today.com/health/what-are-depression-naps-are-they-sign-trouble-t114981"
 tags:
-tags-link:
 type: "archive-web"
 ---
 You may have seen the memes on Twitter — gifs about falling into bed, hiding under the covers or just collapsing onto the ground for a so-called “depression nap.” The concept describes a lie-down that lets you escape the world through sleep when you’re tired, stressed, anxious or feeling down.

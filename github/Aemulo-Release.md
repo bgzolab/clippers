@@ -8,7 +8,6 @@ description: "Aemulo/Release"
 source: "https://github.com/Aemulo/Release"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

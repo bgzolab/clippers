@@ -8,7 +8,6 @@ description: "A JavaScript library to add search functionality to any Jekyll blo
 source: "https://github.com/christian-fei/Simple-Jekyll-Search"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

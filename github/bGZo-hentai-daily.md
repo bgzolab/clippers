@@ -8,7 +8,6 @@ description: "hentai contents combined with multi sources daily (NSFW)"
 source: "https://github.com/bGZo/hentai-daily"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

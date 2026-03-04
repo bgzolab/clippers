@@ -8,7 +8,6 @@ description: "Official electron build of draw.io"
 source: "https://github.com/jgraph/drawio-desktop"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

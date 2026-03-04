@@ -5,7 +5,6 @@ modified: 2025-05-29T20:01:58
 description: "Apple Music Alac高解析度无损音乐下载教程(2025/1/16)文章最后编辑时间交流群 https://t.me/apple_music_alac原理来自github项目 https://github.com/alacleaker/apple-music-alac-downloader本文为Windows教程其他教程 https://applemusic.mintlify.app/1、安装配置MUMU模拟器#1下载MUMU模拟器安装包https://github.com/itouakirai/apple-music-jshook-script/releases/download/wsa/MuMuInstaller_3.1.13.0.exe#2 下载MUMU模拟器备份还原包https://github.com/itouakirai/apple-music-jshook-script/releases/download/wsa/amdl.mumudata#3 安装MUMU模拟器并运行MUMU多开器12，新建-->导入并新建-->选择还原包2、正式使用#1 运行模拟器中的Ap…"
 source: "https://telegra.ph/Apple-Music-Alac%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B-04-02-2"
 tags:
-tags-link:
 type: "archive-web"
 ---
 ## Apple Music Alac Download

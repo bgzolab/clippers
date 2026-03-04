@@ -8,7 +8,6 @@ description: "Personal Wiki for Vim"
 source: "https://github.com/vimwiki/vimwiki"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

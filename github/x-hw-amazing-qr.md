@@ -9,7 +9,6 @@ description: 💮 amazing QRCode generator in Python (supporting animated gif) -
 source: https://github.com/x-hw/amazing-qr
 tags:
   - github/star
-tags-link:
   - "[[python]]"
 type: repo
 ---

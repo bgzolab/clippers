@@ -6,7 +6,6 @@ description: "The universal proxy platform"
 modified: 2025-07-01T21:01:09
 source: "https://github.com/SagerNet/sing-box"
 tags: ["star"]
-tags-link:
 title: SagerNet/sing-box
 type: "repo"
 ---

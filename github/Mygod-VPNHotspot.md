@@ -8,7 +8,6 @@ description: "Share your VPN connection over hotspot or repeater! (root required
 source: "https://github.com/Mygod/VPNHotspot"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

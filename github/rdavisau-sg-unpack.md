@@ -9,7 +9,6 @@ description: Unpacker for STEINS;GATE (Steam edition) and STEINS;GATE 0 .mpk con
 source: https://github.com/rdavisau/sg-unpack
 tags:
   - github/star
-tags-link:
   - "[[unpack-game]]"
 type: repo
 ---

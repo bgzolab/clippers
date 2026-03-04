@@ -8,7 +8,6 @@ description: "Cal-Heatmap is a javascript charting library to create a time-seri
 source: "https://github.com/wa0x6e/cal-heatmap"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

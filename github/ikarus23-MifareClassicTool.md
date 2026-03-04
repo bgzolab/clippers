@@ -8,7 +8,6 @@ description: "An Android NFC app for reading, writing, analyzing, etc. MIFARE Cl
 source: "https://github.com/ikarus23/MifareClassicTool"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -191,7 +191,7 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 </mappers>
 ```
 
-- [ ] #gtd/todo 手写 MyBatis 框架（掌握原理） 
+- [ ] 手写 MyBatis 框架（掌握原理） 
 - dom4j 解析 XML 文件
 - GodBatis
 - 第一步：IDEA 中创建模块

@@ -8,7 +8,6 @@ description: "A full-featured download manager."
 source: "https://github.com/agalwood/Motrix"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

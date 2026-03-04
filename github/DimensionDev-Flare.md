@@ -8,7 +8,6 @@ description: "The ultimate next generation open-sourced AI powered decentralized
 source: "https://github.com/DimensionDev/Flare"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

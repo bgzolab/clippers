@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53
 source: https://zmt.pub/2020/07/25/%e4%bb%8ee3-1230%e8%af%b4%e8%b5%b7/
 tags:
-tags-link:
 type: archive-web
 ---
 # 从E3-1230说起

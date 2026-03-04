@@ -8,7 +8,6 @@ description: "🚀 A simple & beautiful mobile tool for pictures uploading built
 source: "https://github.com/PicGo/flutter-picgo"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

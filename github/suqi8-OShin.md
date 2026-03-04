@@ -8,7 +8,6 @@ description: "一个专为ColorOS系统设计的辅助模块"
 source: "https://github.com/suqi8/OShin"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

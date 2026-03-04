@@ -9,7 +9,6 @@ description: xfqwdsj/IAmNotADeveloper
 source: https://github.com/xfqwdsj/IAmNotADeveloper
 tags:
   - github/star
-tags-link:
   - "[[xposed]]"
 type: repo
 ---

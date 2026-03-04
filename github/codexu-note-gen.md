@@ -8,7 +8,6 @@ description: "A cross-platform Markdown note-taking application dedicated to usi
 source: "https://github.com/codexu/note-gen"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

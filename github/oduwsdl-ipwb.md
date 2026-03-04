@@ -8,7 +8,6 @@ description: "A distributed and persistent archive replay system using IPFS"
 source: "https://github.com/oduwsdl/ipwb"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

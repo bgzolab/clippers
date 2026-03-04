@@ -9,7 +9,6 @@ modified: 2025-07-16T21:37:56
 source: "https://github.com/little-brother/sqlite-gui"
 tags:
   - "github/star"
-tags-link:
 title: Little-brother-sqlite-gui
 type: "repo"
 ---

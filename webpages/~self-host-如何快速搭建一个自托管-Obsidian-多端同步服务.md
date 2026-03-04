@@ -5,7 +5,6 @@ modified: 2025-06-04T21:19:12
 description: "obsidian 作为一款主打本地化、文件化的笔记软件，本地使用非常方便，但是也总会遇到需要电脑、手机等多端同步的场景。虽然官方提供了云同步的订阅服务，但是本着保障数据安全（其实是不想付费）的态度，咱们还是研究一下怎么搭建一个自托管的同步服务吧。"
 source: "https://aarontalk.com/posts/how-to-setup-obsidian-livesync/"
 tags:
-tags-link:
 type: "archive-web"
 ---
 笔记软件在程序员群体最喜欢折腾的工具清单中属于名列前茅的，估计仅次于博客。我自己就体验过各式各类的笔记软件，从最早的印象笔记、有道云笔记，到 Notion、Flowus 以及思源笔记等等，但都没有成为我的主力记录工具。直到我遇到了 Obisidian。

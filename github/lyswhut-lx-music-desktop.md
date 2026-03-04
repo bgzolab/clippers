@@ -8,7 +8,6 @@ description: "一个基于 electron 的音乐软件"
 source: "https://github.com/lyswhut/lx-music-desktop"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -8,7 +8,6 @@ description: "Lists RSS and Atom feeds available on the current web page"
 source: "https://github.com/andylshort/rss-finder"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

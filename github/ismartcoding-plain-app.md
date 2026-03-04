@@ -8,7 +8,6 @@ description: "PlainApp is an open-source application that allows you to manage y
 source: "https://github.com/ismartcoding/plain-app"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

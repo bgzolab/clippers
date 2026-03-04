@@ -8,7 +8,6 @@ description: "MakersMark3333/shanghai_daohouer_archive"
 source: "https://github.com/MakersMark3333/shanghai_daohouer_archive"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

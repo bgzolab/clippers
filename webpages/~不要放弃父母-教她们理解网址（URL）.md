@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2016/09/20/tell-mum-what-is-url/
 tags:
-tags-link:
 type: archive-web
 ---
 的确有些企业比其它企业更不值得信任，但抓住一家打，容易忘记任何大企业从根本上说都不值得信任。

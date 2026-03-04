@@ -8,7 +8,6 @@ description: "这是一个用于显示当前网速、CPU及内存利用率的桌
 source: "https://github.com/zhongyang219/TrafficMonitor"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

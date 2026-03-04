@@ -8,7 +8,6 @@ description: "多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文�
 source: "https://github.com/weixiansen574/HybridFileXfer"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

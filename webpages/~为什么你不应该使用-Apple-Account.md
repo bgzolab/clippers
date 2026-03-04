@@ -5,7 +5,6 @@ created: 2025-03-24T21:17:37
 modified: 2025-03-24T21:17:45
 source: https://www.v2ex.com/t/1105001#reply17
 tags: 
-tags-link:
   - "[[apple]]"
 type: archive-web
 ---

@@ -8,7 +8,6 @@ description: "Text of government takedown notices as received. GitHub does not e
 source: "https://github.com/github/gov-takedowns"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

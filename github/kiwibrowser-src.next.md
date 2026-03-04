@@ -9,7 +9,6 @@ modified: 2025-11-19T07:20:02
 source: https://github.com/kiwibrowser/src.next
 tags:
   - github/star
-tags-link:
 title: kiwibrowser-src.next
 type: repo
 ---

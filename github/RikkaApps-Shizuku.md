@@ -9,7 +9,6 @@ modified: 2025-07-17T21:31:18
 source: "https://github.com/RikkaApps/Shizuku"
 tags:
   - "star"
-tags-link:
 title: RikkaApps/Shizuku
 type: "repo"
 ---

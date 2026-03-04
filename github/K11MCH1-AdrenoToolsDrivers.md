@@ -8,7 +8,6 @@ description: "A repository for Skyline, Vita3K and Yuzu Android compatible Adren
 source: "https://github.com/K11MCH1/AdrenoToolsDrivers"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

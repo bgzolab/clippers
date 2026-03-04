@@ -5,7 +5,6 @@ created: 2025-04-04T11:01:26
 modified: 2025-04-04T11:01:26
 source: "https://v2ex.com/t/819112"
 tags:
-tags-link:
 type: "archive-web"
 ---
 最近搞农场的越来越多了啊

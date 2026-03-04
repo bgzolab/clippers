@@ -8,7 +8,6 @@ description: "一个利用摸鱼时间背单词的软件。"
 source: "https://github.com/Uahh/ToastFish"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

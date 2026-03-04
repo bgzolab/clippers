@@ -6,7 +6,6 @@ modified: 2025-03-16T14:57:02
 description: "I am devoted to continuously learning and improving as a software developer and sharing my experience with others in order to improve their expertise. I am also dedicated to personal and professional growth through diligent studying, discipline, and meaningful professional relationships. When not writing, I can be found playing hockey, practicing Brazilian Jiu-jitsu, watching the NJ Devils, reading, writing, or drawing. ~II Timothy 1:7~ Twitter: @justinmalbano"
 source: "https://dzone.com/articles/optional-in-java"
 tags:
-tags-link:
 type: "archive-web"
 ---
 The introduction of the `Optional` class was a major improvement in the design of the Java language, but this improvement has been controversial. Prior the `Optional` class, many developers used either `null` or exceptions to denote when a desired value was not present; using the `Optional` class, however, allows us to explicitly state when a value may or may not be present. Despite this improvement, the `Optional` class can be applied inappropriately and cause more harm than good.

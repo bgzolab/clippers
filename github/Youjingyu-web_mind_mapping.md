@@ -8,7 +8,6 @@ description: "基于 D3.js 的 web 思维导图"
 source: "https://github.com/Youjingyu/web_mind_mapping"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

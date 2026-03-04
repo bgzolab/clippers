@@ -8,7 +8,6 @@ description: "ShowDoc is a tool greatly applicable for an IT team to share docum
 source: "https://github.com/star7th/showdoc"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

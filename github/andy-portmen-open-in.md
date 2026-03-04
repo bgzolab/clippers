@@ -8,7 +8,6 @@ description: "Send URLs from one browser to another one"
 source: "https://github.com/andy-portmen/open-in"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

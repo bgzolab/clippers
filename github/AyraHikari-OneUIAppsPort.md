@@ -8,7 +8,6 @@ description: "Apps Port from OneUI for all compatible ROMs"
 source: "https://github.com/AyraHikari/OneUIAppsPort"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

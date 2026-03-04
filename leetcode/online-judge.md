@@ -7,7 +7,6 @@ aliases:
   - oj
 created: 2025-03-17T22:25:24
 modified: 2025-03-17T22:27:14
-tags-link:
   - "[[data-structure]]"
   - "[[skills/computer-science/algorithm|algorithm]]"
 ---

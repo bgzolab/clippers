@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2015/12/05/uber-banned-in-wechat/
 tags:
-tags-link:
 type: archive-web
 ---
 这事腾讯固然小气鸡贼，但公众号就是他们家的，而且服务协议写得很清楚：

@@ -8,7 +8,6 @@ description: "The Sphinx documentation generator"
 source: "https://github.com/sphinx-doc/sphinx"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

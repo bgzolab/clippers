@@ -6,7 +6,6 @@ modified: 2025-01-17T10:34:08
 source: "https://www.zhihu.com/question/24103924/answer/26688840"
 tags:
   
-tags-link:
 type: "archive-web"
 ---
 都是因为万恶的兼容性。

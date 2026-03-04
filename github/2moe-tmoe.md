@@ -8,7 +8,6 @@ description: "TMOE, More Optional Environments."
 source: "https://github.com/2moe/tmoe"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

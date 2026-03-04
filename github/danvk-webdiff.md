@@ -6,7 +6,6 @@ description: "Two-column web-based git difftool"
 modified: 2025-07-01T21:12:04
 source: "https://github.com/danvk/webdiff"
 tags: ["star"]
-tags-link:
 title: danvk/webdiff
 type: "repo"
 ---

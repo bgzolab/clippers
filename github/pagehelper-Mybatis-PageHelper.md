@@ -8,7 +8,6 @@ description: "Mybatis通用分页插件"
 source: "https://github.com/pagehelper/Mybatis-PageHelper"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

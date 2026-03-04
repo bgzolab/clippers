@@ -8,7 +8,6 @@ description: "Termux add-on app for customizing the terminal font and color them
 source: "https://github.com/termux/termux-styling"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

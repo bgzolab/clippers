@@ -8,7 +8,6 @@ description: "Spring Boot helps you to create Spring-powered, production-grade a
 source: "https://github.com/spring-projects/spring-boot"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

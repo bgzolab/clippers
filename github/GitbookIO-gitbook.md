@@ -8,7 +8,6 @@ description: "The open source frontend for GitBook doc sites"
 source: "https://github.com/GitbookIO/gitbook"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

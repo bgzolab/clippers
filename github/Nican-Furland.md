@@ -8,7 +8,6 @@ description: "Building a real-time twitter graph of your friends"
 source: "https://github.com/Nican/Furland"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

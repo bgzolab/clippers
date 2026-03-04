@@ -4,7 +4,6 @@ title: "[[movie]] 基地 Foundation"
 created: 2025-04-05T13:02:46
 modified: 2025-04-05T13:02:46
 tags:
-tags-link:
 type: archive-web
 ---
 （S01E09）

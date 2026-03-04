@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53
 source: https://zmt.pub/2020/02/07/%e6%b2%a1%e6%9c%89%e4%b8%80%e4%b8%aa%e4%ba%ba%e6%98%af%e6%97%a0%e8%be%9c%e7%9a%84/
 tags:
-tags-link:
 type: archive-web
 ---
 # 没有一个人是无辜的

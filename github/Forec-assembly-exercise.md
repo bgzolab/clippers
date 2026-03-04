@@ -8,7 +8,6 @@ description: "汇编基础习题集"
 source: "https://github.com/Forec/assembly-exercise"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

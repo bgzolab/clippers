@@ -8,7 +8,6 @@ description: "See微博"
 source: "https://github.com/funcenter/See"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

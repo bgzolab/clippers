@@ -8,7 +8,6 @@ description: "Simple bookmark manager built with Go"
 source: "https://github.com/go-shiori/shiori"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

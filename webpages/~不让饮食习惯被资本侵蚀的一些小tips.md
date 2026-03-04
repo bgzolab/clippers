@@ -6,7 +6,6 @@ modified: 2025-03-12T20:10:55
 description:
 source: "https://www.douban.com/group/topic/308059041/?_i=1781449JHPxyP7"
 tags:
-tags-link:
 type: "archive-web"
 ---
 前两天看了一个关于“鸭货”的视频，两个男生很夸张的展现了现在各种卤味的离奇价格。

@@ -8,7 +8,6 @@ description: "Free and open source manga reader for iOS and iPadOS"
 source: "https://github.com/Aidoku/Aidoku"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

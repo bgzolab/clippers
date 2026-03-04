@@ -8,7 +8,6 @@ description: "A Chrome extension for auto-generating a table of contents"
 source: "https://github.com/FallenMax/smart-toc"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

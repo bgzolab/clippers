@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2015/11/16/book-review-fearless-genius/
 tags:
-tags-link:
 type: archive-web
 ---
 作为一个文化物件（artifact），《Fearless Genius》非常值得玩味。它记录的对象是数字革命的先锋，但其媒介却是纯然类比（analog）的

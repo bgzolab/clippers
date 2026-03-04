@@ -8,7 +8,6 @@ description: "PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+�
 source: "https://github.com/miaomiaosoft/PandaOCR"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 # miaomiaosoft/PandaOCR

@@ -8,7 +8,6 @@ description: "A GitHub Pages compatible Table of Contents generator without a pl
 source: "https://github.com/allejo/jekyll-toc"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

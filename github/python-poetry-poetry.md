@@ -10,7 +10,6 @@ modified: 2025-08-09T13:50:18
 source: "https://github.com/python-poetry/poetry"
 tags:
   - "github/star"
-tags-link:
 title: Poetry
 type: "repo"
 ---

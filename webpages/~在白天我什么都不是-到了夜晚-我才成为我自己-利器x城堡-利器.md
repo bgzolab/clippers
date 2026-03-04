@@ -5,7 +5,6 @@ created: 2025-04-05T17:58:32
 modified: 2025-04-05T17:58:32
 source: https://liqi.io/chengbao40/
 tags:
-tags-link:
 type: archive-web
 ---
 > 报纸为我们做了所有事。它管理警察和银行，命令军队，控制议会，洗礼幼童，祝福愚者，刺痛安逸之人，抚慰痛苦之人，安葬死者，并祭奠他们。

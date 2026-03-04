@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:55
 modified: 2025-04-05T15:50:55
 source: https://learnsql.com/blog/sql-programming-language/
 tags:
-tags-link:
 type: archive-web
 ---
 # Is SQL a Programming Language?

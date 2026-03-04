@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:56
 modified: 2025-04-05T15:50:56
 source: https://wangwei.info/about-rest-api/
 tags:
-tags-link:
 type: archive-web
 ---
 REST接口设计规范

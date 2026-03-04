@@ -8,7 +8,6 @@ description: "ReVanced Tiktok APK Auto-Builds"
 source: "https://github.com/mentalblank/Tiktok-Revanced"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

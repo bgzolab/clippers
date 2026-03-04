@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2016/04/04/welcome-back-my-friends-to-the-show-that-never-ends/
 tags:
-tags-link:
 type: archive-web
 ---
 在《IT 公论》的简介里，我写道

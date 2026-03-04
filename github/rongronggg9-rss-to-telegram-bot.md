@@ -8,7 +8,6 @@ description: "A Telegram RSS bot that cares about your reading experience"
 source: "https://github.com/rongronggg9/rss-to-telegram-bot"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Meta

@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2015/12/09/forgot-password-is-not-forget-password/
 tags:
-tags-link:
 type: archive-web
 ---
 「忘记密码？」和「请稍后」。

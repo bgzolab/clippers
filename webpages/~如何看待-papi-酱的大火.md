@@ -5,7 +5,6 @@ created: 2025-04-05T17:45:27
 modified: 2025-04-05T17:45:27
 source: https://www.zhihu.com/question/39210742/answer/92723639
 tags:
-tags-link:
 type: archive-web
 ---
 互联网产品和影视作品，有不同的衡量体系，真的完全不一样。

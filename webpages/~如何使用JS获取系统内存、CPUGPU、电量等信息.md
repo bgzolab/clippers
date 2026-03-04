@@ -6,7 +6,6 @@ modified: 2025-03-02T20:31:25
 description: "有些前端开发可能还不知道，JavaScript是有能力获取操作系统的内存、CPU/GPU、电量、蓝牙、掉线等信息的。"
 source: "https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/"
 tags:
-tags-link:
 type: "archive-web"
 ---
 by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=11498](https://www.zhangxinxu.com/wordpress/?p=11498)  

@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2015/11/16/book-review-how-music-got-free/
 tags:
-tags-link:
 type: archive-web
 ---
 在大部分人的想像中，盗版音乐文件的交换是一种去中心化的全球性行为。世界各地的音乐爱好者出于单纯的分享动机，在一个个 p2p 网络上夜以继日地交换着文件。这也是 Witt 最初的想法。但经过了长达五年的调查与采访，他发现了完全违反直觉（但或许符合「二八定律」）的真相：大部分的盗版 MP3 都出自少数几个盗版音乐分享组织，而曾在美国北卡罗莱纳州的宝丽金 CD 工厂工作的 Doll Glover 和名叫「Rabid Neurosis (RNS)」的线上盗版音乐分享团体就是其中的最重要节点

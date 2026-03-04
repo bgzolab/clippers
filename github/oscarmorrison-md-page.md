@@ -8,7 +8,6 @@ description: "📝 create a webpage with just markdown"
 source: "https://github.com/oscarmorrison/md-page"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 # oscarmorrison/md-page

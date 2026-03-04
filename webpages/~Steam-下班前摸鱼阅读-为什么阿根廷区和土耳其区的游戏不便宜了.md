@@ -7,7 +7,6 @@ modified: 2025-01-15T11:39:56
 source: "https://ngabbs.com/read.php?tid=35540058&rand=458"
 tags:
   
-tags-link:
 type: "archive-web"
 ---
 最近有很多坛友反馈，steam 上的阿根廷区游戏和土耳其区游戏价格大幅上涨，甚至有的时候要比中国大陆区 (以下简称“国区”) 还要贵。

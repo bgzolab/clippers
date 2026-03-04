@@ -8,7 +8,6 @@ description: "An opensource static website generator"
 source: "https://github.com/purple-force/docsite"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

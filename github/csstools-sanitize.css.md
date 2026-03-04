@@ -8,7 +8,6 @@ description: "A best-practices CSS foundation"
 source: "https://github.com/csstools/sanitize.css"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

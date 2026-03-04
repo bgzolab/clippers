@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:55
 modified: 2025-04-05T15:50:55
 source: https://zmt.pub/2020/01/07/%e5%ad%a6%e9%b2%81%e8%bf%85%e6%95%91%e4%b8%8d%e4%ba%86%e4%b8%ad%e5%9b%bd%e4%ba%ba/
 tags:
-tags-link:
 type: archive-web
 ---
 # 学鲁迅救不了中国人

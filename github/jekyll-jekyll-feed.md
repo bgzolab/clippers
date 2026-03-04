@@ -8,7 +8,6 @@ description: "A Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll
 source: "https://github.com/jekyll/jekyll-feed"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

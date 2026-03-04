@@ -8,7 +8,6 @@ description: "Wrap long code lines on GitHub"
 source: "https://github.com/StylishThemes/GitHub-code-wrap"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -8,7 +8,6 @@ description: "PiliPala 是使用Flutter开发的BiliBili第三方客户端，感
 source: "https://github.com/guozhigq/pilipala"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

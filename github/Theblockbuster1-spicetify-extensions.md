@@ -8,7 +8,6 @@ description: "Extensions made for Spicetify, installable via Spicetify Marketpla
 source: "https://github.com/Theblockbuster1/spicetify-extensions"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

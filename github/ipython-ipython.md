@@ -8,7 +8,6 @@ description: "Official repository for IPython itself. Other repos in the IPython
 source: "https://github.com/ipython/ipython"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

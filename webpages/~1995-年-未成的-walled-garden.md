@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2015/11/21/msn-the-walled-garden-of-1995/
 tags:
-tags-link:
 type: archive-web
 ---
 在维基百科的 [MSN Dial-up 词条](https://en.wikipedia.org/wiki/MSN_Dial-up)中有这样一段：

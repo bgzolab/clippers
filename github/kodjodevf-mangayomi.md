@@ -8,7 +8,6 @@ description: "Free and open source application for reading manga, novels, and wa
 source: "https://github.com/kodjodevf/mangayomi"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

@@ -5,7 +5,6 @@ created: 2025-04-05T17:45:27
 modified: 2025-04-05T17:45:27
 source: https://www.zhihu.com/question/19556884/answer/12306957
 tags:
-tags-link:
 type: archive-web
 ---
 知乎上了解talich的应该有好些，都没人说，那我说一点。

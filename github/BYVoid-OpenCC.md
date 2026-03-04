@@ -8,7 +8,6 @@ description: "Conversion between Traditional and Simplified Chinese"
 source: "https://github.com/BYVoid/OpenCC"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

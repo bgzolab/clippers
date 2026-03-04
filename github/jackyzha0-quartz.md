@@ -9,7 +9,6 @@ modified: 2025-10-18T05:37:38
 source: "https://github.com/jackyzha0/quartz"
 tags:
   - "github/star"
-tags-link:
 title: jackyzha0-quartz
 type: "repo"
 ---

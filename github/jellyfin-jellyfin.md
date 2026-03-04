@@ -8,7 +8,6 @@ description: "The Free Software Media System - Server Backend & API"
 source: "https://github.com/jellyfin/jellyfin"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Meta

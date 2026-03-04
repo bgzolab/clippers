@@ -5,7 +5,6 @@ created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53
 source: https://wiki.ubuntu.org.cn/%E5%AE%89%E8%A3%85_Linux_%E5%BA%94%E7%9F%A5%E7%9A%84%E5%8D%81%E4%BB%B6%E4%BA%8B
 tags:
-tags-link:
 type: archive-web
 ---
 # 安装 Linux 应知的十件事

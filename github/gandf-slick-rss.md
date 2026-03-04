@@ -9,7 +9,6 @@ description: The news reader extension for Chromium
 source: https://github.com/gandf/slick-rss
 tags:
   - github/star
-tags-link:
   - "[[pages/rss|rss]]"
 type: repo
 ---
@@ -35,7 +34,7 @@ scheme     authority       path        query   fragment
 
 via: [Is it valid to replace \<script src="http://...">?](https://stackoverflow.com/questions/550038/is-it-valid-to-replace-http-with-in-a-script-src-http)
 
-- [ ] #gtd/todo I cannot replace target when all data has loaded. So I try to add a button to replace the RSS content, with [Content Security Policy - Chrome Developers](https://developer.chrome.com/docs/apps/contentSecurityPolicy/#relaxing-inline-script).
+- [ ] I cannot replace target when all data has loaded. So I try to add a button to replace the RSS content, with [Content Security Policy - Chrome Developers](https://developer.chrome.com/docs/apps/contentSecurityPolicy/#relaxing-inline-script).
 ([cordova - The Content Security Policy 'default-src * data:;' was delivered via a  element outside the document's  - Stack Overflow](https://stackoverflow.com/questions/39657544/the-content-security-policy-default-src-data-was-delivered-via-a-meta-el))
 - Cannot run inline javescript
 - [How does inline JavaScript work with HTML ? - GeeksforGeeks](https://www.geeksforgeeks.org/how-does-inline-javascript-work-with-html/)
@@ -59,7 +58,7 @@ via: [javascript - Refused to execute inline event handler because it violates C
 
 - Extra
 - [What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox](https://www.freecodecamp.org/news/what-are-bookmarklets/)
-- [ ] #gtd/todo [异步 JavaScript 简介 - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Asynchronous/Introducing)
+- [ ] [异步 JavaScript 简介 - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Asynchronous/Introducing)
 - JavaScript regex group replace?
 [regex - Javascript replace with reference to matched group? - Stack Overflow](https://stackoverflow.com/questions/1234712/javascript-replace-with-reference-to-matched-group)
 

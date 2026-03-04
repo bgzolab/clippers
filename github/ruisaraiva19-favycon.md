@@ -8,7 +8,6 @@ description: "Favycon - A favicon generator tool"
 source: "https://github.com/ruisaraiva19/favycon"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

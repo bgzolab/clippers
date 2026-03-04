@@ -8,7 +8,6 @@ description: "Project documentation with Markdown."
 source: "https://github.com/mkdocs/mkdocs"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

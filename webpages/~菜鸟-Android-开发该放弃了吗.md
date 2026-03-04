@@ -5,7 +5,6 @@ created: 2025-03-24T21:04:42
 modified: 2025-03-24T21:04:52
 source: "https://www.v2ex.com/t/1113560#reply50"
 tags:
-tags-link:
 type: "archive-web"
 ---
 ## Origin Content

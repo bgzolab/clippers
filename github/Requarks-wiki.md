@@ -8,7 +8,6 @@ description: "Wiki.js | A modern and powerful wiki app built on Node.js"
 source: "https://github.com/Requarks/wiki"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

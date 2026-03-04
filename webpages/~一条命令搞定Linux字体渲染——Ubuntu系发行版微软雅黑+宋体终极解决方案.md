@@ -6,7 +6,6 @@ modified: 2025-01-31T13:04:05
 description: "2021年9月13日声明：字体渲染包已不再更新，如今的freetype库已能完美的渲染微软雅黑字体，请自行安装微软雅黑字体即可 2018年4月28日更新：这个渲染包全兼容于deepin 15.3-15.5、Ubuntu16.04-18.04、LinuxMint18.1-18.3、debian8.7-9"
 source: "https://linux.zone/278"
 tags:
-tags-link:
 type: "archive-web"
 ---
 [![](https://www.linux.zone/wp-content/uploads/ad_kyj.png)](http://www.smsw.com.cn/book4/8925/199469.html "山姆书屋-《孔乙己》")

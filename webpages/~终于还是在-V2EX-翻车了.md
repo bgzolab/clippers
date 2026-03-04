@@ -5,7 +5,6 @@ created: 2021-04-05T12:39:34
 modified: 2021-04-05T12:39:34
 source: https://www.v2ex.com/t/759231
 tags:
-tags-link:
 type: archive-web
 ---
 > 一说工资, 全是几十 k .

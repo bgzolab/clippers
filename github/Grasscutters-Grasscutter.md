@@ -8,7 +8,6 @@ description: "A server software reimplementation for a certain anime game."
 source: "https://github.com/Grasscutters/Grasscutter"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

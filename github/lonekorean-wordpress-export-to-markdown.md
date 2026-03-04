@@ -8,7 +8,6 @@ description: "Converts a WordPress export XML file into Markdown files."
 source: "https://github.com/lonekorean/wordpress-export-to-markdown"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

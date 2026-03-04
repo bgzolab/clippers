@@ -6,7 +6,6 @@ description: "Gitalk is a modern comment component based on Github Issue and Pre
 modified: 2025-07-02T22:58:05
 source: "https://github.com/gitalk/gitalk"
 tags: ["star"]
-tags-link:
 title: gitalk/gitalk
 type: "repo"
 ---

@@ -9,7 +9,6 @@ description: Keep screen on (Windows)
 source: https://github.com/Winand/screen_on
 tags:
   - github/star
-tags-link:
   - "[[windows]]"
 type: repo
 ---

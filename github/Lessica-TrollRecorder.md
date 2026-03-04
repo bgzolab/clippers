@@ -8,7 +8,6 @@ description: "(i18n/CLI) Not the first, but the best phone call recorder with Tr
 source: "https://github.com/Lessica/TrollRecorder"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

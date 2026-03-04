@@ -6,7 +6,6 @@ modified: 2025-01-15T11:38:23
 source: "https://discuss.logseq.com/t/three-choices-new-users-need-to-make/3411"
 tags:
   
-tags-link:
 type: "archive-web"
 ---
 When you start using Logseq you will have a number of decisions to make. Earlier [I’ve shared my own personal workflow](https://discuss.logseq.com/t/my-logseq-workflow/2278), but reading the comments of new users in the forums I felt that people needed more guidance in setting up their own system. This post is my attempt to address that need. This is a very opinionated piece, but I try to explain my reasoning in such a way that others who have different needs will be able to make a clear-headed choice.

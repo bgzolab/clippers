@@ -8,7 +8,6 @@ description: "draw.io is a JavaScript, client-side editor for general diagrammin
 source: "https://github.com/jgraph/drawio"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

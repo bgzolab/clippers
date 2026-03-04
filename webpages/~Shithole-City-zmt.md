@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:56
 modified: 2025-04-05T17:47:56
 source: https://zmt.pub/2019/12/01/shithole-city/
 tags:
-tags-link:
 type: archive-web
 ---
 九年前，我曾经和EX在深圳河对面，注视了香港很久，毕竟那是中国距离自由世界最近的地方。

@@ -9,7 +9,6 @@ description: Open source monospace font with round corner, ligatures and Nerd-Fo
 source: https://github.com/subframe7536/maple-font?tab=readme-ov-file#preset
 tags:
   - github/star
-tags-link:
   - "[[fonts]]"
 type: repo
 ---

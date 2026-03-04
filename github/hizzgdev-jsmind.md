@@ -8,7 +8,6 @@ description: "a mind mapping library built by javascript"
 source: "https://github.com/hizzgdev/jsmind"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

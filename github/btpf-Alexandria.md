@@ -8,7 +8,6 @@ description: "A minimalistic cross-platform eBook reader built with Tauri, Epub.
 source: "https://github.com/btpf/Alexandria"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

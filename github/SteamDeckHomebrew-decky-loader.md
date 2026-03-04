@@ -8,7 +8,6 @@ description: "A plugin loader for the Steam Deck."
 source: "https://github.com/SteamDeckHomebrew/decky-loader"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

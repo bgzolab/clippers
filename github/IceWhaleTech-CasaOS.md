@@ -8,7 +8,6 @@ description: "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud
 source: "https://github.com/IceWhaleTech/CasaOS"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

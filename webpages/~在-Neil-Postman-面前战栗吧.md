@@ -5,7 +5,6 @@ created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24
 source: https://blog.yitianshijie.net/2016/11/13/shiver-in-front-of-neil-postman/
 tags:
-tags-link:
 type: archive-web
 ---
 新技术的好处和坏处并不是平均分布的。总是会有赢家和输家。很多时候，输家还会出于无知为赢家欢呼。这种令人费解又悲哀的事情如今仍在进行。

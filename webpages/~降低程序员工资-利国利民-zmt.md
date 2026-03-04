@@ -5,7 +5,6 @@ created: 2025-04-05T15:51:00
 modified: 2025-04-05T15:51:00
 source: https://zmt.pub/2022/01/25/%e9%99%8d%e4%bd%8e%e7%a8%8b%e5%ba%8f%e5%91%98%e5%b7%a5%e8%b5%84%ef%bc%8c%e5%88%a9%e5%9b%bd%e5%88%a9%e6%b0%91/
 tags:
-tags-link:
 type: archive-web
 ---
 # 降低程序员工资，利国利民

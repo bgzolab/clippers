@@ -8,7 +8,6 @@ description: "Allows adding extensions from chrome web store on ungoogled-chromi
 source: "https://github.com/NeverDecaf/chromium-web-store"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

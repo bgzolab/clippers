@@ -8,7 +8,6 @@ description: "An open-source userscript manager for Safari"
 source: "https://github.com/quoid/userscripts"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

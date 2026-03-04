@@ -8,7 +8,6 @@ description: "daboynb/playcurlNEXT"
 source: "https://github.com/daboynb/playcurlNEXT"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

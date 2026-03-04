@@ -8,7 +8,6 @@ description: "A feature-rich Hacker News client."
 source: "https://github.com/Livinglist/Hacki"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

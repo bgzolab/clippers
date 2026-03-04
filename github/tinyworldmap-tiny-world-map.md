@@ -8,7 +8,6 @@ description: "tinyworldmap is a tiny world map for offline-first and low-bandwid
 source: "https://github.com/tinyworldmap/tiny-world-map"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

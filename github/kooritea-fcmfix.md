@@ -8,7 +8,6 @@ description: "[xposed]让fcm唤醒已完全停止的应用"
 source: "https://github.com/kooritea/fcmfix"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

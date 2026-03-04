@@ -8,7 +8,6 @@ description: "In-place tweak injection with insert_dylib and ChOma."
 source: "https://github.com/Lessica/TrollFools"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

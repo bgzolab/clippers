@@ -8,7 +8,6 @@ description: "Comfy Feed Browsing for iOS & Mac"
 source: "https://github.com/garrettrayj/den"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

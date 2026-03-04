@@ -8,7 +8,6 @@ description: "Simple http server in Rust (Windows/Mac/Linux)"
 source: "https://github.com/TheWaWaR/simple-http-server"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

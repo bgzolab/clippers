@@ -8,7 +8,6 @@ description: "sggwqaa/AvNumber"
 source: "https://github.com/sggwqaa/AvNumber"
 tags:
   - "github/star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta

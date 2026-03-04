@@ -9,7 +9,6 @@ description: This repository contains the instructions and scripts on how to ins
 source: https://github.com/ryanrudolfoba/SteamOS-microSD
 tags:
   - github/star
-tags-link:
   - "[[steam-deck]]"
 type: repo
 ---

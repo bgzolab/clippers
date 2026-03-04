@@ -6,7 +6,6 @@ modified: 2025-04-05T17:15:17
 description: "http://www.codeproject.com/Articles/7042/How-to-interpret-complex-C-C-declarationsContentsIntroductionThe basicsThe const modifierThe subtleties of ty"
 source: "https://www.cnblogs.com/answeryi/archive/2012/07/30/2615409.html"
 tags:
-tags-link:
 type: "archive-web"
 ---
 ## [http://www.codeproject.com/Articles/7042/How-to-interpret-complex-C-C-declarations](http://www.codeproject.com/Articles/7042/How-to-interpret-complex-C-C-declarations)

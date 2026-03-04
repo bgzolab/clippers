@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-- [ ] #gtd/todo j继续学习 serverless  
+- [ ] j继续学习 serverless  
 - 现实问题
   - 说来说去，到底 Serverless 要解决什么问题？
     - 咱们就拿自己部署一套博客来说吧，常见的 Node.js MVC 架构，需要购买云服务商的 Linux 虚拟机、RDS 关系型数据库，做得好的话还要购买 Redis 缓存、负载均衡、CDN 等等。再专业一点，可能还会考虑容灾和备份，这么算下来一年最小开销都在 1 万元左右。但如果你用 Serverless 的话，这个成本可以直接降到 1000 元以下。

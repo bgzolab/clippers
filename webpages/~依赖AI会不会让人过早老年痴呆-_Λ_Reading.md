@@ -5,7 +5,6 @@ created: 2023-03-29T18:06:02+0800
 modified: 2023-03-29T18:06:02+0800
 source: https://rizime.substack.com/p/180
 tags:
-tags-link:
 type: archive-web
 ---
 依赖AI会不会让人过早老年痴呆？ - Λ-Reading

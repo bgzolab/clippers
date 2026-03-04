@@ -8,7 +8,6 @@ description: "🤖 几个数据质量较高的社工库机器人"
 source: "https://github.com/DBUG-DBUG/SGK-bot"
 tags:
   - "star"
-tags-link:
 type: "repo"
 ---
 ## Repo Meta
