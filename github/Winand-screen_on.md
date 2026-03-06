@@ -12,7 +12,6 @@ tags:
   - "[[windows]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/Winand/screen_on?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Winand/screen_on?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Winand/screen_on?style=for-the-badge&label=since)
 

@@ -13,7 +13,6 @@ tags:
 tags-link: 
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/immersive-translate/immersive-translate?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/immersive-translate/immersive-translate?style=for-the-badge&label=since)
 

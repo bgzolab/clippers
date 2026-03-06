@@ -15,7 +15,6 @@ type: repo
 
 # kiwibrowser-src.next
 
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/kiwibrowser/src.next?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/kiwibrowser/src.next?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/kiwibrowser/src.next?style=for-the-badge&label=since)
 

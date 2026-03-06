@@ -15,7 +15,6 @@ changelog: https://getsharex.com/changelog
 community: https://discord.com/invite/ShareX
 donation: https://getsharex.com/donate
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/ShareX/ShareX?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ShareX/ShareX?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ShareX/ShareX?style=for-the-badge&label=since)
 

@@ -12,7 +12,6 @@ tags:
   - "[[large-language-model]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/langgenius/dify?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/langgenius/dify?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/langgenius/dify?style=for-the-badge&label=since)
 

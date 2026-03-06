@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/BlackwinMin/automator-gallery?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/BlackwinMin/automator-gallery?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/BlackwinMin/automator-gallery?style=for-the-badge&label=since)
 

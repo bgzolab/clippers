@@ -14,7 +14,6 @@ document: https://ankiweb.net
 status: tool/star
 wikipedia: https://en.wikipedia.org/wiki/Anki_(software)
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/ankitects/anki?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ankitects/anki?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ankitects/anki?style=for-the-badge&label=since)
 

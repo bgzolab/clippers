@@ -12,7 +12,6 @@ tags:
   - "[[pages/docker|docker]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/bgzo/docker?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bgzo/docker?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bgzo/docker?style=for-the-badge&label=since)
 

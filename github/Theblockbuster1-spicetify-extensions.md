@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/Theblockbuster1/spicetify-extensions?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Theblockbuster1/spicetify-extensions?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Theblockbuster1/spicetify-extensions?style=for-the-badge&label=since)
 

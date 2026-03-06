@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/fighting41love/funNLP?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/fighting41love/funNLP?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/fighting41love/funNLP?style=for-the-badge&label=since)
 

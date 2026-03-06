@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/spring-projects/spring-boot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/spring-projects/spring-boot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/spring-projects/spring-boot?style=for-the-badge&label=since)
 

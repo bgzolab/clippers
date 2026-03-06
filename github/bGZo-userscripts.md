@@ -14,7 +14,6 @@ tags-link:
 type: repo
 wikipedia: https://en.wikipedia.org/wiki/Userscript
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/bGZo/userscripts?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bGZo/userscripts?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bGZo/userscripts?style=for-the-badge&label=since)
 

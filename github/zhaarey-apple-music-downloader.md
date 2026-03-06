@@ -10,7 +10,6 @@ tags:
 tags-link: 
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/zhaarey/apple-music-downloader?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/zhaarey/apple-music-downloader?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/zhaarey/apple-music-downloader?style=for-the-badge&label=since)
 

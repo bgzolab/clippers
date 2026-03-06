@@ -12,7 +12,6 @@ tags:
   - "[[xposed]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/JingMatrix/LSPosed?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/JingMatrix/LSPosed?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/JingMatrix/LSPosed?style=for-the-badge&label=since)
 

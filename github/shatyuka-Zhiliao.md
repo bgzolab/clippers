@@ -12,7 +12,6 @@ tags:
   - "[[xposed]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/shatyuka/Zhiliao?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/shatyuka/Zhiliao?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/shatyuka/Zhiliao?style=for-the-badge&label=since)
 

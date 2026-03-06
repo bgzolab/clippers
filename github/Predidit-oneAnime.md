@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/Predidit/oneAnime?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Predidit/oneAnime?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Predidit/oneAnime?style=for-the-badge&label=since)
 

@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/ninja33/anki-dict-helper?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ninja33/anki-dict-helper?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ninja33/anki-dict-helper?style=for-the-badge&label=since)
 

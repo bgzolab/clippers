@@ -12,7 +12,6 @@ tags:
   - "[[pages/game]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/TomMannion/ai-text-adventure?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/TomMannion/ai-text-adventure?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/TomMannion/ai-text-adventure?style=for-the-badge&label=since)
 

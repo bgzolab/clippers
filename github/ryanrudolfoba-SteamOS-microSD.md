@@ -12,7 +12,6 @@ tags:
   - "[[steam-deck]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/ryanrudolfoba/SteamOS-microSD?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ryanrudolfoba/SteamOS-microSD?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ryanrudolfoba/SteamOS-microSD?style=for-the-badge&label=since)
 

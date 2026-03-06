@@ -13,7 +13,6 @@ tags:
 tags-link: 
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/Cyril0563/lanjing_live?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Cyril0563/lanjing_live?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Cyril0563/lanjing_live?style=for-the-badge&label=since)
 

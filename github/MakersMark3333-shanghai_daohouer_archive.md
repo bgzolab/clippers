@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/MakersMark3333/shanghai_daohouer_archive?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/MakersMark3333/shanghai_daohouer_archive?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/MakersMark3333/shanghai_daohouer_archive?style=for-the-badge&label=since)
 

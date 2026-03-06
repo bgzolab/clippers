@@ -12,7 +12,6 @@ tags:
   - "[[fonts]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/subframe7536/maple-font?tab=readme-ov-file#preset?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/subframe7536/maple-font?tab=readme-ov-file#preset?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/subframe7536/maple-font?tab=readme-ov-file#preset?style=for-the-badge&label=since)
 

@@ -12,7 +12,6 @@ tags:
   - "[[pages/book]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/koodo-reader/koodo-reader?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/koodo-reader/koodo-reader?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/koodo-reader/koodo-reader?style=for-the-badge&label=since)
 

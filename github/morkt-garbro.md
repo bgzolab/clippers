@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/morkt/garbro?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/morkt/garbro?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/morkt/garbro?style=for-the-badge&label=since)
 

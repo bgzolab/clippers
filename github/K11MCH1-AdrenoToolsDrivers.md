@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/K11MCH1/AdrenoToolsDrivers?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/K11MCH1/AdrenoToolsDrivers?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/K11MCH1/AdrenoToolsDrivers?style=for-the-badge&label=since)
 

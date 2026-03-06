@@ -10,7 +10,6 @@ tags:
   - "star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/wa0x6e/cal-heatmap?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/wa0x6e/cal-heatmap?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/wa0x6e/cal-heatmap?style=for-the-badge&label=since)
 

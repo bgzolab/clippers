@@ -12,7 +12,6 @@ type: tool
 document:
 status: tool/deprecated
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/torne/Tiny-Tiny-RSS?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/torne/Tiny-Tiny-RSS?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/torne/Tiny-Tiny-RSS?style=for-the-badge&label=since)
 

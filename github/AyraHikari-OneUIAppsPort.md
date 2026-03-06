@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/AyraHikari/OneUIAppsPort?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/AyraHikari/OneUIAppsPort?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/AyraHikari/OneUIAppsPort?style=for-the-badge&label=since)
 

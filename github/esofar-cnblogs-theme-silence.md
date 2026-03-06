@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/esofar/cnblogs-theme-silence?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/esofar/cnblogs-theme-silence?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/esofar/cnblogs-theme-silence?style=for-the-badge&label=since)
 

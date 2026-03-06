@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/xiaojieonly/Ehviewer_CN_SXJ?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/xiaojieonly/Ehviewer_CN_SXJ?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/xiaojieonly/Ehviewer_CN_SXJ?style=for-the-badge&label=since)
 

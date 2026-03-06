@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/j-hc/revanced-magisk-module?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/j-hc/revanced-magisk-module?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/j-hc/revanced-magisk-module?style=for-the-badge&label=since)
 

@@ -10,7 +10,6 @@ tags:
   - "star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/vimwiki/vimwiki?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/vimwiki/vimwiki?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/vimwiki/vimwiki?style=for-the-badge&label=since)
 

@@ -13,7 +13,6 @@ type: tool
 document: https://github.com/microsoft/WSL
 status: tool/star
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/microsoft/WSL?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/microsoft/WSL?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/microsoft/WSL?style=for-the-badge&label=since)
 

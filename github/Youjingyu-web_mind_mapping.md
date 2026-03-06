@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/Youjingyu/web_mind_mapping?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Youjingyu/web_mind_mapping?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Youjingyu/web_mind_mapping?style=for-the-badge&label=since)
 

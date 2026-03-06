@@ -10,7 +10,6 @@ tags:
   - "star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/jgraph/drawio?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jgraph/drawio?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jgraph/drawio?style=for-the-badge&label=since)
 

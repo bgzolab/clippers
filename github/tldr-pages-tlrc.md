@@ -14,7 +14,6 @@ tags:
 tags-link: 
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/tldr-pages/tlrc?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/tldr-pages/tlrc?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/tldr-pages/tlrc?style=for-the-badge&label=since)
 

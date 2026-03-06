@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/X-LANCE/SLAM-LLM?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/X-LANCE/SLAM-LLM?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/X-LANCE/SLAM-LLM?style=for-the-badge&label=since)
 

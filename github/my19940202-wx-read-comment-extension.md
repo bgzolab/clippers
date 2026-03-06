@@ -12,7 +12,6 @@ tags:
   - "[[weread]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/my19940202/wx-read-comment-extension?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/my19940202/wx-read-comment-extension?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/my19940202/wx-read-comment-extension?style=for-the-badge&label=since)
 

@@ -12,7 +12,6 @@ tags:
   - "[[obsidian]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/obsidianmd/obsidian-clipper?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/obsidianmd/obsidian-clipper?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/obsidianmd/obsidian-clipper?style=for-the-badge&label=since)
 

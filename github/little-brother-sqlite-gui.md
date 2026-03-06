@@ -14,7 +14,6 @@ type: "repo"
 ---
 # Little-brother-sqlite-gui
 
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/little-brother/sqlite-gui?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/little-brother/sqlite-gui?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/little-brother/sqlite-gui?style=for-the-badge&label=since)
 

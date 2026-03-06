@@ -14,7 +14,6 @@ type: repo
 ---
 # VLC
 
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/videolan/vlc?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/videolan/vlc?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/videolan/vlc?style=for-the-badge&label=since)
 

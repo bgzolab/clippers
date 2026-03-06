@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/waydabber/BetterDisplay?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/waydabber/BetterDisplay?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/waydabber/BetterDisplay?style=for-the-badge&label=since)
 

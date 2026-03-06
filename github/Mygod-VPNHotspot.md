@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/Mygod/VPNHotspot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Mygod/VPNHotspot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Mygod/VPNHotspot?style=for-the-badge&label=since)
 

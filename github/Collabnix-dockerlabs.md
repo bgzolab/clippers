@@ -12,7 +12,6 @@ tags:
   - "[[pages/docker|docker]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/Collabnix/dockerlabs?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Collabnix/dockerlabs?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Collabnix/dockerlabs?style=for-the-badge&label=since)
 

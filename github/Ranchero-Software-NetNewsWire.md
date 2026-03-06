@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/Ranchero-Software/NetNewsWire?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Ranchero-Software/NetNewsWire?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Ranchero-Software/NetNewsWire?style=for-the-badge&label=since)
 

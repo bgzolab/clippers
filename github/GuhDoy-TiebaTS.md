@@ -12,7 +12,6 @@ tags:
   - "[[xposed]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/GuhDoy/TiebaTS?tab=readme-ov-file?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/GuhDoy/TiebaTS?tab=readme-ov-file?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/GuhDoy/TiebaTS?tab=readme-ov-file?style=for-the-badge&label=since)
 

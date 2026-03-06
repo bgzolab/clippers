@@ -10,7 +10,6 @@ tags:
   - "star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/howie6879/weekly?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/howie6879/weekly?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/howie6879/weekly?style=for-the-badge&label=since)
 

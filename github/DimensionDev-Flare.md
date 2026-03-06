@@ -10,7 +10,6 @@ tags:
   - "github/star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/DimensionDev/Flare?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/DimensionDev/Flare?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/DimensionDev/Flare?style=for-the-badge&label=since)
 

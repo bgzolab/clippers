@@ -15,7 +15,6 @@ changelog:
 document: 
 status:
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/AlistGo/alist?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/AlistGo/alist?style=for-the-badge&label=since)
 

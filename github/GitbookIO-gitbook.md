@@ -10,7 +10,6 @@ tags:
   - "star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/GitbookIO/gitbook?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/GitbookIO/gitbook?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/GitbookIO/gitbook?style=for-the-badge&label=since)
 

@@ -14,7 +14,6 @@ type: "repo"
 ---
 # jackyzha0-quartz
 
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/jackyzha0/quartz?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jackyzha0/quartz?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jackyzha0/quartz?style=for-the-badge&label=since)
 

@@ -12,7 +12,6 @@ tags:
   - "[[~Fusion-RSS-阅读器-v0-9-3-全新-UI、快捷键、i18n-等]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/0x2E/fusion?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/0x2E/fusion?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/0x2E/fusion?style=for-the-badge&label=since)
 

@@ -12,7 +12,6 @@ tags:
   - "[[xposed]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/ReSo7200/InstaEclipse?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ReSo7200/InstaEclipse?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ReSo7200/InstaEclipse?style=for-the-badge&label=since)
 

@@ -15,7 +15,6 @@ type: "repo"
 ---
 # OneDrive for linux
 
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/abraunegg/onedrive?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/abraunegg/onedrive?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/abraunegg/onedrive?style=for-the-badge&label=since)
 

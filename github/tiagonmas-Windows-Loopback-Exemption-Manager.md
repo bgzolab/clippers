@@ -12,7 +12,6 @@ tags:
   - "[[windows]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/tiagonmas/Windows-Loopback-Exemption-Manager?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/tiagonmas/Windows-Loopback-Exemption-Manager?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/tiagonmas/Windows-Loopback-Exemption-Manager?style=for-the-badge&label=since)
 

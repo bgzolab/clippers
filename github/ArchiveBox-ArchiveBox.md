@@ -11,7 +11,6 @@ tags: []
 tags-link: 
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/ArchiveBox/ArchiveBox?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ArchiveBox/ArchiveBox?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ArchiveBox/ArchiveBox?style=for-the-badge&label=since)
 

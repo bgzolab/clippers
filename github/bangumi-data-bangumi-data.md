@@ -18,7 +18,6 @@ type: repo
 
 # Bangumi-data-bangumi-data
 
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/bangumi-data/bangumi-data?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bangumi-data/bangumi-data?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bangumi-data/bangumi-data?style=for-the-badge&label=since)
 

@@ -12,7 +12,6 @@ tags:
   - "[[android]]"
 type: repo
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/olegos2/mobox?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/olegos2/mobox?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/olegos2/mobox?style=for-the-badge&label=since)
 

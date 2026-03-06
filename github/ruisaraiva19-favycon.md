@@ -10,7 +10,6 @@ tags:
   - "star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/ruisaraiva19/favycon?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ruisaraiva19/favycon?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ruisaraiva19/favycon?style=for-the-badge&label=since)
 

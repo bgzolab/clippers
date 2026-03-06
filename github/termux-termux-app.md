@@ -18,7 +18,6 @@ type: repo
 
 # Termux-termux-app
 
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/termux/termux-app?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/termux/termux-app?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/termux/termux-app?style=for-the-badge&label=since)
 

@@ -13,7 +13,6 @@ type: repo
 document: https://workspacer.org/config/)
 changelog: https://workspacer.org/changelog/)
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/workspacer/workspacer?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/workspacer/workspacer?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/workspacer/workspacer?style=for-the-badge&label=since)
 

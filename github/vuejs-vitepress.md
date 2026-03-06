@@ -10,7 +10,6 @@ tags:
   - "star"
 type: "repo"
 ---
-## Repo Meta
 
 ![](https://img.shields.io/github/stars/vuejs/vitepress?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/vuejs/vitepress?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/vuejs/vitepress?style=for-the-badge&label=since)
 
