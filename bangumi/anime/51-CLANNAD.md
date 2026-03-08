@@ -13,7 +13,6 @@ created: 2007-10-04T21:24:53
 modified: 2025-08-31T18:40:30
 tags:
   - 'bangumi/anime'
-  - 'bangumi/want'
 title: CLANNAD
 type: bangumi/anime
 website: ['http://www.tbs.co.jp/clannad/clannad1/']

@@ -12,7 +12,6 @@ created: 2007-11-22T22:39:11
 modified: 2025-08-31T18:40:34
 tags:
   - 'bangumi/game'
-  - 'bangumi/want'
 title: KIRA☆KIRA 煌煌舞台
 type: bangumi/game
 website: ['http://project.over-drive.jp/kirakira/index.htm']

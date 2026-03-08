@@ -15,7 +15,6 @@ created: 2006-01-06T22:19:48
 modified: 2025-08-31T18:40:24
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Fate/stay Night
 type: bangumi/anime
 website: ['https://www.nbcuni.co.jp/rondorobe/anime/staynight/top.html']

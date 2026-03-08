@@ -12,7 +12,6 @@ created: 2016-07-02T22:15:29
 modified: 2025-08-31T18:40:21
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Rewrite
 type: bangumi/anime
 website: ['http://www.rewrite-anime.tv/']

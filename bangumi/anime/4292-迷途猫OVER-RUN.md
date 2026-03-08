@@ -13,7 +13,6 @@ created: 2010-04-06T22:17:49
 modified: 2025-08-31T18:40:28
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 迷途猫 OVER RUN
 type: bangumi/anime
 website: ['http://www.patisserie-straycats.com/']

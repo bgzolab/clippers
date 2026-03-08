@@ -12,7 +12,6 @@ created: 2011-04-02T22:17:32
 modified: 2025-08-31T18:40:20
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: DOG DAYS
 type: bangumi/anime
 website: ['http://www.dogdays.tv']

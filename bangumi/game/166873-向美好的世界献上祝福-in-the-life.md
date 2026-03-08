@@ -11,7 +11,6 @@ created: 2016-03-25T22:38:45
 modified: 2025-08-31T18:40:33
 tags:
   - 'bangumi/game'
-  - 'bangumi/want'
 title: 向美好的世界献上祝福！in The life
 type: bangumi/game
 website: []

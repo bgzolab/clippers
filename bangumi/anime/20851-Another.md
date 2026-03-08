@@ -12,7 +12,6 @@ created: 2012-01-09T22:17:13
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Another
 type: bangumi/anime
 website: ['http://www.another-anime.jp  https://www.pa-works.jp/works/another/']

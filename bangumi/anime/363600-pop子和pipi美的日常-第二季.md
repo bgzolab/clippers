@@ -14,7 +14,6 @@ created: 2022-10-01T21:24:12
 modified: 2025-08-31T18:40:27
 tags:
   - 'bangumi/anime'
-  - 'bangumi/want'
 title: Pop 子和 pipi 美的日常 第二季
 type: bangumi/anime
 website: ['http://hoshiiro.jp/']

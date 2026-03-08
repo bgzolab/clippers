@@ -16,7 +16,6 @@ created: 2017-07-09T22:15:02
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Princess Principal
 type: bangumi/anime
 website: ['https://pripri-anime.jp/tv']

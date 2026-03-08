@@ -12,7 +12,6 @@ cover: https://lain.bgm.tv/r/800/pic/cover/l/c4/0d/252050_jd88M.jpg
 created: 2019-01-25T22:40:44
 modified: 2025-08-31T18:40:34
 tags:
-  - 'bangumi/done'
   - 'bangumi/game'
 title: SorceressAlive!～世界末日陨落之星～
 type: bangumi/game

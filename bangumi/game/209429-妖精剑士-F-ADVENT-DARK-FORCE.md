@@ -12,7 +12,6 @@ created: 2015-11-05T22:38:36
 modified: 2025-08-31T18:40:33
 tags:
   - 'bangumi/game'
-  - 'bangumi/want'
 title: 妖精剑士 F ADVENT DARK FORCE
 type: bangumi/game
 website: ['http://www.compileheart.com/fairyfencer_f/adf/']

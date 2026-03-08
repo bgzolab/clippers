@@ -12,7 +12,6 @@ created: 2017-01-10T22:15:15
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Hand Shakers
 type: bangumi/anime
 website: ['http://www.project-hs.net/']

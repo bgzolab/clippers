@@ -14,7 +14,6 @@ created: 2022-10-09T22:10:42
 modified: 2025-08-31T18:40:27
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 彼得·格里尔的贤者时间 Super Extra
 type: bangumi/anime
 website: ['https://petergrill-anime.jp/']

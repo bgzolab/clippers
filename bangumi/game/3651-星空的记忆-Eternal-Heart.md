@@ -12,7 +12,6 @@ created: 2010-01-29T22:39:05
 modified: 2025-08-31T18:40:34
 tags:
   - 'bangumi/game'
-  - 'bangumi/want'
 title: 星空的记忆 Eternal Heart
 type: bangumi/game
 website: ['http://www.favo-soft.jp/soft/product/EternalHeart/index.htm']

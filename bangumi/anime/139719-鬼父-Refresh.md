@@ -11,7 +11,6 @@ created: 2015-08-14T22:19:19
 modified: 2025-08-31T18:40:21
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 鬼父 Refresh
 type: bangumi/anime
 website: ['http://www.poro.cc/product_list/product_oni.html']

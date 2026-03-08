@@ -10,7 +10,6 @@ created: 2011-12-22T22:18:55
 modified: 2025-08-31T18:40:24
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 鬼父 Re-born
 type: bangumi/anime
 website: ['http://www.poro.cc/product_list/product_oni.html']

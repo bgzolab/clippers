@@ -14,7 +14,6 @@ created: 2024-09-20T22:06:38
 modified: 2025-08-31T18:40:26
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 剧场版 OVERLORD 圣王国篇
 type: bangumi/anime
 website: ['https://overlord-anime.com/']

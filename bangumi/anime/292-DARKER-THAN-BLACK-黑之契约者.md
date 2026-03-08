@@ -14,7 +14,6 @@ created: 2007-04-05T22:19:47
 modified: 2025-08-31T18:40:24
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: DARKER THAN BLACK - 黑之契约者 -
 type: bangumi/anime
 website: ['http://www.d-black.net/1st/index.html']

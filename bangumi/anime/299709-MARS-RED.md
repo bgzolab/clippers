@@ -11,7 +11,6 @@ created: 2021-04-05T22:12:25
 modified: 2025-08-31T18:40:25
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: MARS RED
 type: bangumi/anime
 website: ['https://marsred.tv']

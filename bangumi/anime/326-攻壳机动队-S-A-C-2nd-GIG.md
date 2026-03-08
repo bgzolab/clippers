@@ -11,7 +11,6 @@ created: 2004-01-01T21:23:52
 modified: 2025-08-31T18:40:26
 tags:
   - 'bangumi/anime'
-  - 'bangumi/want'
 title: 攻壳机动队 S.A.C. 2nd GIG
 type: bangumi/anime
 website: ['https://www.ntv.co.jp/kokaku-s/']

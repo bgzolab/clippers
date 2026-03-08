@@ -14,7 +14,6 @@ cover: https://lain.bgm.tv/r/800/pic/cover/l/16/3a/233030_422zH.jpg
 created: 2019-01-31T22:40:46
 modified: 2025-08-31T18:40:33
 tags:
-  - 'bangumi/done'
   - 'bangumi/game'
 title: "樱花、萌放。-as The Night's, Reincarnation-"
 type: bangumi/game

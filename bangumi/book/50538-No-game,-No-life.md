@@ -12,7 +12,6 @@ created: 2012-04-25T21:19:32
 modified: 2025-08-31T18:40:32
 tags:
   - 'bangumi/book'
-  - 'bangumi/done'
 title: No game, No life
 type: bangumi/book
 website: []

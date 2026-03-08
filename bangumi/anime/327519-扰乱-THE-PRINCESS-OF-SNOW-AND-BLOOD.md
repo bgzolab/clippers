@@ -13,7 +13,6 @@ created: 2021-04-06T22:17:56
 modified: 2025-09-09T20:49:34
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 扰乱 THE PRINCESS OF SNOW AND BLOOD
 type: bangumi/anime
 website: ['https://joran.jp/']

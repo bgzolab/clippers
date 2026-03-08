@@ -6,7 +6,8 @@ bangumi-rating: 5.1
 cover: https://lain.bgm.tv/r/800/pic/cover/l/02/2b/77285_FFDwx.jpg
 created: 2013-07-26T21:29:48
 modified: 2025-12-23T21:29:48
-tags: ['bangumi/done', 'bangumi/game']
+tags:
+  - 'bangumi/game'
 title: 雨音Switch～我与生病的她以及不停歇的雨～
 type: bangumi/game
 website: ['http://www.swaneye.com/kokuchou/amane/index.html']

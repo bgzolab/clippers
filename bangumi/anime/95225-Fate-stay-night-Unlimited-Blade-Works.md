@@ -16,7 +16,6 @@ created: 2014-10-04T22:16:20
 modified: 2025-08-31T18:40:31
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Fate/stay Night [Unlimited Blade Works]
 type: bangumi/anime
 website: ['http://www.fate-sn.com/ubw/']

@@ -13,7 +13,6 @@ created: 2010-12-10T22:17:37
 modified: 2025-08-31T18:40:20
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 潜行吧！奈亚动画 Remember My Love
 type: bangumi/anime
 website: ['http://ga.sbcr.jp/bunko_blog/nyaruani/']

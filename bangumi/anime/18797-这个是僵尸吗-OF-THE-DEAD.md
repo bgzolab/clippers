@@ -18,7 +18,6 @@ created: 2012-04-04T22:17:07
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 这个是僵尸吗？OF THE DEAD
 type: bangumi/anime
 website: ['http://newtype.kadocomic.jp/zombie/']

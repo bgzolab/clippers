@@ -13,7 +13,6 @@ created: 2017-01-14T22:18:27
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Rewrite 第二季
 type: bangumi/anime
 website: ['http://www.rewrite-anime.tv/']

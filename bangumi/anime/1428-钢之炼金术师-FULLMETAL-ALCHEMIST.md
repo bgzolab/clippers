@@ -16,7 +16,6 @@ created: 2009-04-05T22:19:13
 modified: 2025-08-31T18:40:21
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 钢之炼金术师 FULLMETAL ALCHEMIST
 type: bangumi/anime
 website: ['http://www.hagaren.jp/fa/']

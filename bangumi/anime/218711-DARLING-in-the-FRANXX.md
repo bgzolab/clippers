@@ -17,7 +17,6 @@ created: 2018-01-13T21:23:47
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/want'
 title: DARLING in the FRANXX
 type: bangumi/anime
 website: ['http://darli-fra.jp/']

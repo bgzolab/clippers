@@ -12,7 +12,6 @@ created: 2012-09-26T22:17:01
 modified: 2025-08-31T18:40:28
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 我的朋友很少 Add-on disk
 type: bangumi/anime
 website: []

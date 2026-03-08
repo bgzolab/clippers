@@ -15,7 +15,6 @@ created: 2015-07-02T22:16:00
 modified: 2025-08-31T18:40:21
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Chaos Dragon 赤龙战役
 type: bangumi/anime
 website: ['http://chaosdragon.red']

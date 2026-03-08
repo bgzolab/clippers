@@ -10,7 +10,6 @@ cover: https://lain.bgm.tv/r/800/pic/cover/l/f7/3c/12098_fF3m3.jpg
 created: 2009-11-27T22:40:33
 modified: 2025-08-31T18:39:16
 tags:
-  - 'bangumi/done'
   - 'bangumi/game'
 title: BALDR SKY Dive2 RECORDARE
 type: bangumi/game

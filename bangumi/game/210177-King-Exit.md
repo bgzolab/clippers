@@ -12,7 +12,6 @@ modified: 2025-08-30T12:39:24
 rating: ⭐⭐⭐⭐⭐
 tags:
   - 'bangumi/game'
-  - 'bangumi/want'
 title: King Exit
 type: bangumi/game
 website: ['http://akaimato.blog.fc2.com/blog-entry-185.html', 'https://akamatoghost.wixsite.com/kingexit', 'https://store.steampowered.com/app/712840/King_Exit']

@@ -11,7 +11,6 @@ created: 2017-06-17T21:23:06
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/want'
 title: 混沌子 SILENT SKY
 type: bangumi/anime
 website: ['http://chaoschildanime.com/']

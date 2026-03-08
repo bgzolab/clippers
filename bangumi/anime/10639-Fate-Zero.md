@@ -19,7 +19,6 @@ created: 2011-10-01T22:17:14
 modified: 2025-08-31T18:40:20
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Fate/Zero
 type: bangumi/anime
 website: ['http://www.fate-zero.jp/']

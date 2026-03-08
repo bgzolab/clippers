@@ -13,7 +13,6 @@ created: 2017-10-05T22:14:51
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Just Because!
 type: bangumi/anime
 website: ['http://justbecause.jp/']

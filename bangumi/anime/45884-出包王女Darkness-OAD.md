@@ -13,7 +13,6 @@ created: 2012-08-17T22:18:36
 modified: 2025-08-31T18:40:29
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 出包王女 Darkness OAD
 type: bangumi/anime
 website: ['http://www.j-toloveru.com/special/']

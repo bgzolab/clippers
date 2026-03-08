@@ -11,7 +11,6 @@ created: 2021-06-25T22:38:27
 modified: 2025-08-31T18:40:34
 tags:
   - 'bangumi/game'
-  - 'bangumi/want'
 title: ROLEPLAYER：小粥姐妹的黏膜游戏！
 type: bangumi/game
 website: ['http://www.akabeesoft2.com/products/roleplayer/index.html']

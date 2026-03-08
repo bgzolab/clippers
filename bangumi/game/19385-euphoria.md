@@ -9,7 +9,6 @@ cover: https://lain.bgm.tv/r/800/pic/cover/l/c5/3a/19385_Unjr9.jpg
 created: 2011-06-24T22:39:50
 modified: 2025-08-31T18:40:33
 tags:
-  - 'bangumi/done'
   - 'bangumi/game'
 title: Euphoria
 type: bangumi/game

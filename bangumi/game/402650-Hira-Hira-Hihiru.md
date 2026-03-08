@@ -13,7 +13,6 @@ created: 2023-11-17T22:39:10
 modified: 2025-08-31T18:40:34
 tags:
   - 'bangumi/game'
-  - 'bangumi/want'
 title: Hira Hira Hihiru
 type: bangumi/game
 website: ['https://hirahirahihiru.com/']

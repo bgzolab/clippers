@@ -13,7 +13,6 @@ created: 2012-10-05T22:17:00
 modified: 2025-08-31T18:40:27
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 出包王女 Darkness
 type: bangumi/anime
 website: ['http://www.j-toloveru.com/']

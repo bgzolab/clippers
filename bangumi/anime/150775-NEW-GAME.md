@@ -11,7 +11,6 @@ created: 2016-07-04T22:15:32
 modified: 2025-08-31T18:40:21
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: NEW GAME!
 type: bangumi/anime
 website: ['http://newgame-anime.com/']

@@ -14,7 +14,6 @@ created: 2018-03-03T22:14:44
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 文豪野犬 DEAD APPLE
 type: bangumi/anime
 website: ['http://bungo-stray-dogs.jp/']

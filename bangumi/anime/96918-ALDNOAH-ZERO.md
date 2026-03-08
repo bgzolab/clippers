@@ -12,7 +12,6 @@ created: 2014-07-05T21:24:55
 modified: 2025-08-31T18:40:31
 tags:
   - 'bangumi/anime'
-  - 'bangumi/want'
 title: ALDNOAH.ZERO
 type: bangumi/anime
 website: ['http://www.aldnoahzero.com/']

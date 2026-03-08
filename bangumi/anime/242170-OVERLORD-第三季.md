@@ -12,7 +12,6 @@ created: 2018-07-10T22:19:37
 modified: 2025-08-31T18:40:23
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: OVERLORD 第三季
 type: bangumi/anime
 website: ['http://overlord-anime.com/']

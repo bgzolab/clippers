@@ -11,7 +11,6 @@ created: 2012-01-31T22:17:09
 modified: 2025-08-31T18:40:20
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 再见绝望先生 Blu-ray BOX 化纪念话
 type: bangumi/anime
 website: ['http://www.starchild.co.jp/special/zetsubou_bd/']

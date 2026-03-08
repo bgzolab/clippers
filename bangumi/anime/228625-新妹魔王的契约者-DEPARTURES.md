@@ -12,7 +12,6 @@ created: 2018-03-28T22:19:00
 modified: 2025-08-31T18:40:23
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 新妹魔王的契约者 DEPARTURES
 type: bangumi/anime
 website: ['http://anime-shinmaimaou.com/']

@@ -15,7 +15,6 @@ cover: https://lain.bgm.tv/r/800/pic/cover/l/e9/1e/151833_7jTzI.jpg
 created: 2015-10-27T22:39:48
 modified: 2025-08-31T18:40:33
 tags:
-  - 'bangumi/done'
   - 'bangumi/game'
 title: 与奴隶的生活 -Teaching Feeling-
 type: bangumi/game

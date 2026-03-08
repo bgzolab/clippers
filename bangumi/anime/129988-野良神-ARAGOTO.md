@@ -15,7 +15,6 @@ created: 2015-10-02T22:15:52
 modified: 2025-08-31T18:40:21
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 野良神 ARAGOTO
 type: bangumi/anime
 website: ['http://noragami-anime.net/']

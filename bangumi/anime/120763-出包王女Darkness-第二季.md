@@ -15,7 +15,6 @@ created: 2015-07-06T22:15:56
 modified: 2025-08-31T18:40:20
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 出包王女 Darkness 第二季
 type: bangumi/anime
 website: ['http://www.j-toloveru.com/']

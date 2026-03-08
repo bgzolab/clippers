@@ -11,7 +11,6 @@ created: 2022-04-28T23:33:07
 modified: 2025-09-15T23:34:16
 tags:
   - 'bangumi/game'
-  - 'bangumi/want'
 title: Dreamin Her - 我梦见了她。-
 type: bangumi/game
 website: ['https://life0.info/dreaminher/index']

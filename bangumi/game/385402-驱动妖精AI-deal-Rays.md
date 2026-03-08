@@ -10,7 +10,6 @@ cover: https://lain.bgm.tv/r/800/pic/cover/l/8f/3d/385402_WaJI0.jpg
 created: 2023-09-16T22:40:56
 modified: 2025-08-31T18:40:34
 tags:
-  - 'bangumi/done'
   - 'bangumi/game'
 title: 驱动妖精 AI-deal-Rays
 type: bangumi/game

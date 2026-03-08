@@ -14,7 +14,6 @@ created: 2014-11-15T21:24:37
 modified: 2025-08-31T18:40:27
 tags:
   - 'bangumi/anime'
-  - 'bangumi/want'
 title: 乐园追放 -Expelled From Paradise-
 type: bangumi/anime
 website: ['https://rakuen-tsuiho.com/1/top.html']

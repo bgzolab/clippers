@@ -10,7 +10,6 @@ created: 2013-12-27T22:18:52
 modified: 2025-08-31T18:40:31
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 鬼父 Rebuild
 type: bangumi/anime
 website: ['http://www.poro.cc/product_list/product_oni.html']

@@ -12,7 +12,6 @@ created: 2012-10-06T22:18:18
 modified: 2025-08-31T18:40:27
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: Little Busters!
 type: bangumi/anime
 website: ['http://www.litbus-anime.com/']

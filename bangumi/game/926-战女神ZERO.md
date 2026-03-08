@@ -11,7 +11,6 @@ created: 2008-06-13T22:38:22
 modified: 2025-08-31T18:40:34
 tags:
   - 'bangumi/game'
-  - 'bangumi/want'
 title: 战女神 ZERO
 type: bangumi/game
 website: ['http://eukleia.co.jp/eushully/eu009.html']

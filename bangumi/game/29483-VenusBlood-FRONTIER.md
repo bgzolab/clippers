@@ -11,7 +11,6 @@ cover: https://lain.bgm.tv/r/800/pic/cover/l/f6/8b/29483_C6cAc.jpg
 created: 2012-04-27T13:14:00
 modified: 2025-09-06T13:14:59
 tags:
-  - 'bangumi/done'
   - 'bangumi/game'
 title: VenusBlood -FRONTIER-
 type: bangumi/game

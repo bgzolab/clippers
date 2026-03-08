@@ -12,7 +12,6 @@ created: 2015-07-07T22:19:38
 modified: 2025-08-31T18:40:20
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: OVERLORD
 type: bangumi/anime
 website: ['http://overlord-anime.com/']

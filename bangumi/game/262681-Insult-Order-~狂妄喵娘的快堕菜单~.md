@@ -11,7 +11,6 @@ cover: https://lain.bgm.tv/r/800/pic/cover/l/c6/43/262681_5Zh0S.jpg
 created: 2018-09-28T22:40:42
 modified: 2025-08-31T18:40:34
 tags:
-  - 'bangumi/done'
   - 'bangumi/game'
 title: Insult Order ~狂妄喵娘的快堕菜单~
 type: bangumi/game

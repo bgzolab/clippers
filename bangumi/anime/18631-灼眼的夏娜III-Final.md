@@ -13,7 +13,6 @@ created: 2011-10-07T22:17:18
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: 灼眼的夏娜 III -Final-
 type: bangumi/anime
 website: ['https://www.shakugan.com/']

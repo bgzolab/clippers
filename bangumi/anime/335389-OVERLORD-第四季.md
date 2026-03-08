@@ -12,7 +12,6 @@ created: 2022-07-05T22:11:15
 modified: 2025-08-31T18:40:26
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: OVERLORD 第四季
 type: bangumi/anime
 website: ['http://overlord-anime.com/']

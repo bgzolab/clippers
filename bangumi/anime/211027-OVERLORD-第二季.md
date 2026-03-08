@@ -12,7 +12,6 @@ created: 2018-01-09T22:18:49
 modified: 2025-08-31T18:40:22
 tags:
   - 'bangumi/anime'
-  - 'bangumi/done'
 title: OVERLORD 第二季
 type: bangumi/anime
 website: ['http://overlord-anime.com/']
