@@ -7,8 +7,7 @@ modified: 2025-06-07T14:12:45
 description: "Conversion between Traditional and Simplified Chinese"
 source: "https://github.com/BYVoid/OpenCC"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/BYVoid/OpenCC?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/BYVoid/OpenCC?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/BYVoid/OpenCC?style=for-the-badge&label=since)

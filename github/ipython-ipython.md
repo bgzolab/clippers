@@ -7,8 +7,7 @@ modified: 2025-06-07T15:25:01
 description: "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
 source: "https://github.com/ipython/ipython"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/ipython/ipython?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ipython/ipython?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ipython/ipython?style=for-the-badge&label=since)

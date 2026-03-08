@@ -7,8 +7,7 @@ modified: 2025-06-07T15:45:10
 description: "TMOE, More Optional Environments."
 source: "https://github.com/2moe/tmoe"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/2moe/tmoe?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/2moe/tmoe?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/2moe/tmoe?style=for-the-badge&label=since)

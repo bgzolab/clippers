@@ -7,8 +7,7 @@ modified: 2025-05-26T20:20:53
 description: "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note."
 source: "https://github.com/codexu/note-gen"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/codexu/note-gen?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/codexu/note-gen?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/codexu/note-gen?style=for-the-badge&label=since)

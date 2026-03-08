@@ -6,7 +6,8 @@ created: 2025-09-20T20:51:54
 modified: 2025-09-20T20:51:54
 description: "A feature-rich command-line audio/video downloader"
 source: "https://github.com/yt-dlp/yt-dlp"
-type: "repo"
+tags:
+  - github/star
 ---
 # yt-dlp
 

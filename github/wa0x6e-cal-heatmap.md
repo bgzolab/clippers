@@ -7,8 +7,7 @@ modified: 2025-06-19T21:04:07
 description: "Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap"
 source: "https://github.com/wa0x6e/cal-heatmap"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/wa0x6e/cal-heatmap?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/wa0x6e/cal-heatmap?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/wa0x6e/cal-heatmap?style=for-the-badge&label=since)

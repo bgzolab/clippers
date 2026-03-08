@@ -7,8 +7,7 @@ modified: 2025-03-30T21:02:01
 description: "A cross-browser CSS foundation"
 source: "https://github.com/csstools/normalize.css"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/csstools/normalize.css?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/csstools/normalize.css?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/csstools/normalize.css?style=for-the-badge&label=since)

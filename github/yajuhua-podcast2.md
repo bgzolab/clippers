@@ -6,7 +6,8 @@ created: 2025-09-21T00:16:41
 modified: 2025-09-21T00:16:41
 description: "将视频网站转换成播客订阅   Convert a video website into a podcast subscription 支持 哔哩哔哩、YouTube、干净世界和girigirilove 图形化界面"
 source: "https://github.com/yajuhua/podcast2"
-type: "repo"
+tags:
+  - github/star
 ---
 # podcast2
 

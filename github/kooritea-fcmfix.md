@@ -7,8 +7,7 @@ modified: 2025-05-11T15:43:53
 description: "[xposed]让fcm唤醒已完全停止的应用"
 source: "https://github.com/kooritea/fcmfix"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/kooritea/fcmfix?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/kooritea/fcmfix?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/kooritea/fcmfix?style=for-the-badge&label=since)

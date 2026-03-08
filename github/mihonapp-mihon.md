@@ -7,8 +7,7 @@ modified: 2025-04-13T19:22:01
 description: "Free and open source manga reader for Android"
 source: "https://github.com/mihonapp/mihon"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/mihonapp/mihon?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mihonapp/mihon?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mihonapp/mihon?style=for-the-badge&label=since)

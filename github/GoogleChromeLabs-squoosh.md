@@ -7,8 +7,7 @@ modified: 2025-06-07T14:19:46
 description: "Make images smaller using best-in-class codecs, right in the browser."
 source: "https://github.com/GoogleChromeLabs/squoosh"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/GoogleChromeLabs/squoosh?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/GoogleChromeLabs/squoosh?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/GoogleChromeLabs/squoosh?style=for-the-badge&label=since)

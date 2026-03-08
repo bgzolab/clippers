@@ -7,8 +7,7 @@ modified: 2025-05-02T21:34:04
 description: "Aemulo/Release"
 source: "https://github.com/Aemulo/Release"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/Aemulo/Release?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Aemulo/Release?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Aemulo/Release?style=for-the-badge&label=since)

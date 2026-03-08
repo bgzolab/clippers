@@ -7,8 +7,7 @@ modified: 2025-01-20T20:14:41
 description: " Now we have become very big, Different from the original idea. Collect premium software in various categories."
 source: "https://github.com/jaywcjlove/awesome-mac"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 ## Meta
 

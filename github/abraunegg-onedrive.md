@@ -9,9 +9,8 @@ description: "OneDrive Client for Linux"
 modified: 2025-07-22T06:28:30
 source: "https://github.com/abraunegg/onedrive"
 tags:
-  - "github/star"
+  - github/star
 title: OneDrive for linux
-type: "repo"
 ---
 # OneDrive for linux
 

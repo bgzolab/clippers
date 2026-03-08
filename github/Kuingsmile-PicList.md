@@ -7,8 +7,7 @@ modified: 2025-04-03T23:38:23
 description: "An image upload and manage tool, base on PicGo"
 source: "https://github.com/Kuingsmile/PicList"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/Kuingsmile/PicList?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Kuingsmile/PicList?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Kuingsmile/PicList?style=for-the-badge&label=since)

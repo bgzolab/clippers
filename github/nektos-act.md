@@ -5,9 +5,9 @@ created: 2025-07-01T21:13:48
 description: "Run your GitHub Actions locally 🚀"
 modified: 2025-07-01T21:16:48
 source: "https://github.com/nektos/act"
-tags: ["star"]
+tags:
+  - github/star
 title: nektos/act
-type: "repo"
 ---
 # nektos/act
 

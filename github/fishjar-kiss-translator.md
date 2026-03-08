@@ -8,7 +8,8 @@ description: "A simple, open source bilingual translation extension & Greasemonk
 modified: 2025-09-07T19:58:03
 source: "https://github.com/fishjar/kiss-translator"
 title: Kiss-translator
-type: "repo"
+tags:
+  - github/star
 ---
 # Kiss-translator
 

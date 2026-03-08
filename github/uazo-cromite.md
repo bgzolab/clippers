@@ -8,9 +8,9 @@ created: 2025-11-19T07:18:08
 description: "Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!"
 modified: 2025-11-19T07:21:41
 source: "https://github.com/uazo/cromite"
-tags: []
+tags:
+  - github/star
 title: Cromite
-type: "repo"
 ---
 
 # Cromite

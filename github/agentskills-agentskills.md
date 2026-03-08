@@ -5,8 +5,9 @@ created: 2026-01-25T15:25:25
 modified: 2026-01-25T15:25:25
 description: "Specification and documentation for Agent Skills"
 source: "https://github.com/agentskills/agentskills"
-type: "repo"
 draft: true
+tags:
+  - github/star
 ---
 # agentskills
 

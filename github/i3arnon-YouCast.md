@@ -6,7 +6,8 @@ created: 2025-09-21T00:17:03
 modified: 2025-09-21T00:17:03
 description: "Turn YouTube Channels into Subscribable Podcasts."
 source: "https://github.com/i3arnon/YouCast"
-type: "repo"
+tags:
+  - github/star
 ---
 # YouCast
 

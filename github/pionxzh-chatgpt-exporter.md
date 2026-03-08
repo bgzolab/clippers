@@ -8,9 +8,8 @@ description: "Export and Share your ChatGPT conversation history"
 modified: 2025-07-14T21:19:13
 source: "https://github.com/pionxzh/chatgpt-exporter"
 tags:
-  - "star"
+  - github/star
 title: pionxzh/chatgpt-exporter
-type: "repo"
 ---
 # pionxzh/chatgpt-exporter
 

@@ -7,8 +7,7 @@ modified: 2025-06-07T15:04:07
 description: "Paranoid text spacing in JavaScript"
 source: "https://github.com/vinta/pangu.js"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/vinta/pangu.js?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/vinta/pangu.js?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/vinta/pangu.js?style=for-the-badge&label=since)

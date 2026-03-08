@@ -8,9 +8,8 @@ description: "🤗更优雅的微信公众号订阅方式，支持私有化部�
 modified: 2025-09-14T21:44:42
 source: "https://github.com/cooderl/wewe-rss"
 tags:
-  - "github/star"
+  - github/star
 title: Cooderl-wewe-rss
-type: "repo"
 ---
 # Cooderl-wewe-rss
 

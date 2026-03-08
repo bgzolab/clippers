@@ -7,8 +7,7 @@ modified: 2025-04-12T11:02:27
 description: "🚀 A simple & beautiful mobile tool for pictures uploading built by flutter"
 source: "https://github.com/PicGo/flutter-picgo"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/PicGo/flutter-picgo?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/PicGo/flutter-picgo?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/PicGo/flutter-picgo?style=for-the-badge&label=since)

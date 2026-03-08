@@ -8,7 +8,8 @@ description: "The Database Toolkit for Python"
 modified: 2025-07-26T16:00:08
 source: "https://github.com/sqlalchemy/sqlalchemy"
 title: SQLAlchemy
-type: "repo"
+tags:
+  - github/star
 ---
 # SQLAlchemy
 

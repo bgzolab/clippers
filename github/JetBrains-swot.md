@@ -6,7 +6,8 @@ created: 2025-07-26T20:32:27
 modified: 2025-07-26T20:32:27
 description: "Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts."
 source: "https://github.com/JetBrains/swot"
-type: "repo"
+tags:
+  - github/star
 ---
 # swot
 

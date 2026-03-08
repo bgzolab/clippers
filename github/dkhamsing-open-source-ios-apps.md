@@ -7,7 +7,8 @@ created: 2025-01-20T20:08:19
 modified: 2025-01-20T20:08:19
 description: Collaborative List of Open-Source iOS Apps
 source: https://github.com/dkhamsing/open-source-ios-apps
-tags: []
+tags:
+  - github/star
 type: repo
 ---
 ## Meta

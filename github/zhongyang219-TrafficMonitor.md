@@ -7,8 +7,7 @@ modified: 2025-06-07T14:20:11
 description: "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。"
 source: "https://github.com/zhongyang219/TrafficMonitor"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/zhongyang219/TrafficMonitor?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/zhongyang219/TrafficMonitor?style=for-the-badge&label=since)

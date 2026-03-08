@@ -8,7 +8,8 @@ description: "苹果处理器 参数大全"
 modified: 2025-09-14T10:22:32
 source: "https://github.com/KyleBing/apple-chip"
 title: Apple-chip
-type: "repo"
+tags:
+  - github/star
 ---
 # Apple-chip
 

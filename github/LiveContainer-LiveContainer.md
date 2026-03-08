@@ -7,8 +7,7 @@ modified: 2025-04-23T05:47:57
 description: "Run iOS app without actually installing it!"
 source: "https://github.com/LiveContainer/LiveContainer"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/LiveContainer/LiveContainer?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/LiveContainer/LiveContainer?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/LiveContainer/LiveContainer?style=for-the-badge&label=since)

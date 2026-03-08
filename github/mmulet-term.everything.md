@@ -8,7 +8,8 @@ description: "Run any GUI app in the terminal❗"
 modified: 2025-09-20T23:25:20
 source: "https://github.com/mmulet/term.everything"
 title: term.everything
-type: "repo"
+tags:
+  - github/star
 ---
 # term.everything
 

@@ -7,8 +7,7 @@ modified: 2025-06-14T15:04:59
 description: "A distributed and persistent archive replay system using IPFS"
 source: "https://github.com/oduwsdl/ipwb"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/oduwsdl/ipwb?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/oduwsdl/ipwb?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/oduwsdl/ipwb?style=for-the-badge&label=since)

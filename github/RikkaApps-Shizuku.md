@@ -8,9 +8,8 @@ description: "Using system APIs directly with adb/root privileges from normal ap
 modified: 2025-07-17T21:31:18
 source: "https://github.com/RikkaApps/Shizuku"
 tags:
-  - "star"
+  - github/star
 title: RikkaApps/Shizuku
-type: "repo"
 ---
 # RikkaApps/Shizuku
 

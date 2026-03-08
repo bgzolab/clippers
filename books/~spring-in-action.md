@@ -742,7 +742,7 @@ weread: https://weread.qq.com/web/bookDetail/c6d32700813ab77d1g0136f4
           - `query()`
             description: 接受查询所使用的SQL及Spring RowMapper的一个实现（用来将结果集中的每行数据映射为一个对象）; 以最终参数(final argument)的形式接收查询中所需的任意参数
           - 必须先将数据写入数据库，才能读取它
-            - Cases  #chatGPT
+            - Cases  #ai/chatGPT
               description: keep in mind that a database is a persistent storage, so any changes made to the data must be saved/committed to the database before it can be read back.
               - When data is updated: If you want to read the updated data, you must first write the updated data to the database. This is because the database will not reflect the updated data until it is written.
               - When data is deleted: Before reading data that has been deleted, you must first delete it from the database. This is because the data is not available for reading after it has been deleted.
@@ -829,7 +829,7 @@ weread: https://weread.qq.com/web/bookDetail/c6d32700813ab77d1g0136f4
               When you include the Hibernate dependency in your project, you are effectively telling the application to use Hibernate as the JPA implementation. If you later decide that you want to use a different implementation, such as EclipseLink, you will need to exclude the Hibernate dependency from your project. This is because **the application will continue to use Hibernate as the JPA implementation, even if you include the new implementation**.
               The reason for this is that the JPA specification mark: s a set of interfaces that must be implemented by any JPA provider. When an application is using JPA, it communicates with the database through these interfaces, not directly with the JPA provider.
               When you include the Hibernate dependency, it provides an implementation of the JPA interfaces, and it will be used by the application. If you want to use a different JPA provider, you must remove the Hibernate dependency, so that the application will not use it and can find and use the new JPA provider that you have added instead.
-              In summary, if you want to use a different JPA implementation, you need to exclude the Hibernate dependency because the application is looking for the JPA interfaces and Hibernate is an implementation of it, so it will use that as default. If you want to use another provider, you need to let the application know that you are using another provider. #chatGPT
+              In summary, if you want to use a different JPA implementation, you need to exclude the Hibernate dependency because the application is looking for the JPA interfaces and Hibernate is an implementation of it, so it will use that as default. If you want to use another provider, you need to let the application know that you are using another provider. #ai/chatGPT
 ```xml
               <dependency>
                 <groupId>org.springframework.boot</groupId>

@@ -7,8 +7,7 @@ modified: 2025-06-08T22:15:02
 description: "🤖 几个数据质量较高的社工库机器人"
 source: "https://github.com/DBUG-DBUG/SGK-bot"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/DBUG-DBUG/SGK-bot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/DBUG-DBUG/SGK-bot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/DBUG-DBUG/SGK-bot?style=for-the-badge&label=since)

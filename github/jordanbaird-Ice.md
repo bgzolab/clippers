@@ -6,7 +6,8 @@ created: 2025-09-20T10:49:31
 modified: 2025-09-20T10:49:31
 description: "Powerful menu bar manager for macOS"
 source: "https://github.com/jordanbaird/Ice"
-type: "repo"
+tags:
+  - github/star
 ---
 # Ice
 

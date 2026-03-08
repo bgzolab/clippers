@@ -7,8 +7,7 @@ modified: 2025-06-07T14:38:44
 description: "An open-source userscript manager for Safari"
 source: "https://github.com/quoid/userscripts"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/quoid/userscripts?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/quoid/userscripts?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/quoid/userscripts?style=for-the-badge&label=since)

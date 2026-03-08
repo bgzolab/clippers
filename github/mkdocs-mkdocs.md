@@ -7,8 +7,7 @@ modified: 2025-06-08T00:45:18
 description: "Project documentation with Markdown."
 source: "https://github.com/mkdocs/mkdocs"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/mkdocs/mkdocs?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mkdocs/mkdocs?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mkdocs/mkdocs?style=for-the-badge&label=since)

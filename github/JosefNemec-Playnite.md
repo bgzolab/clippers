@@ -8,7 +8,8 @@ description: "Video game library manager with support for wide range of 3rd part
 modified: 2025-09-07T00:24:44
 source: "https://github.com/JosefNemec/Playnite"
 title: Playnite
-type: "repo"
+tags:
+  - github/star
 ---
 # Playnite
 

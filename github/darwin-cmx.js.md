@@ -7,8 +7,7 @@ modified: 2025-06-07T14:49:15
 description: "[prototype] A library/markup for building xkcd-style comic strips"
 source: "https://github.com/darwin/cmx.js"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/darwin/cmx.js?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/darwin/cmx.js?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/darwin/cmx.js?style=for-the-badge&label=since)

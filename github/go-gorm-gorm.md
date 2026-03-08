@@ -6,7 +6,8 @@ created: 2025-07-26T15:00:23
 modified: 2025-07-26T15:00:23
 description: "The fantastic ORM library for Golang, aims to be developer friendly"
 source: "https://github.com/go-gorm/gorm"
-type: "repo"
+tags:
+  - github/star
 ---
 # gorm
 

@@ -7,8 +7,7 @@ modified: 2025-05-10T22:26:44
 description: "Comfy Feed Browsing for iOS & Mac"
 source: "https://github.com/garrettrayj/den"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/garrettrayj/den?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/garrettrayj/den?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/garrettrayj/den?style=for-the-badge&label=since)

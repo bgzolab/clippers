@@ -5,9 +5,9 @@ created: 2025-07-01T20:39:31
 description: "The universal proxy platform"
 modified: 2025-07-01T21:01:09
 source: "https://github.com/SagerNet/sing-box"
-tags: ["star"]
+tags:
+  - github/star
 title: SagerNet/sing-box
-type: "repo"
 ---
 # SagerNet/sing-box
 

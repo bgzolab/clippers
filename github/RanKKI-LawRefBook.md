@@ -7,8 +7,7 @@ modified: 2025-06-07T14:41:56
 description: "中华人民共和国法律手册"
 source: "https://github.com/RanKKI/LawRefBook"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/RanKKI/LawRefBook?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/RanKKI/LawRefBook?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/RanKKI/LawRefBook?style=for-the-badge&label=since)

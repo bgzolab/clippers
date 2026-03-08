@@ -5,8 +5,9 @@ created: 2025-11-14T06:39:47
 modified: 2025-11-14T06:39:47
 description: "An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。"
 source: "https://github.com/lxgw/LxgwWenKai"
-type: "repo"
 draft: "true"
+tags:
+  - github/star
 ---
 # LxgwWenKai
 

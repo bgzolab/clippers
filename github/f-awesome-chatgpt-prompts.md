@@ -10,6 +10,7 @@ modified: 2025-07-20T22:47:40
 source: https://github.com/f/awesome-chatgpt-prompts
 tags:
   - prompt-enginee
+  - github/star
 title: Awesome-chatgpt-prompts
 type: repo
 ---

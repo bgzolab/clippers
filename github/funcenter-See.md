@@ -7,8 +7,7 @@ modified: 2025-05-11T15:50:38
 description: "See微博"
 source: "https://github.com/funcenter/See"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/funcenter/See?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/funcenter/See?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/funcenter/See?style=for-the-badge&label=since)

@@ -8,7 +8,8 @@ description: "variable playback speed, screen capture, video download, custom se
 modified: 2025-07-20T22:32:03
 source: "https://github.com/xxxily/h5player"
 title: h5player
-type: "repo"
+tags:
+  - github/star
 ---
 # h5player
 

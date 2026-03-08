@@ -7,8 +7,7 @@ modified: 2025-07-02T22:57:30
 description: "A lightweight comments widget built on GitHub issues"
 source: "https://github.com/utterance/utterances"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 # utterance/utterances
 

@@ -8,7 +8,8 @@ description: "All your history in one file."
 modified: 2025-09-27T15:39:44
 source: "https://github.com/1History/1History"
 title: 1History
-type: "repo"
+tags:
+  - github/star
 ---
 # 1History
 

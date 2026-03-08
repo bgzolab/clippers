@@ -7,8 +7,7 @@ modified: 2025-06-07T13:47:40
 description: "Extensions made for Spicetify, installable via Spicetify Marketplace."
 source: "https://github.com/Theblockbuster1/spicetify-extensions"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/Theblockbuster1/spicetify-extensions?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Theblockbuster1/spicetify-extensions?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Theblockbuster1/spicetify-extensions?style=for-the-badge&label=since)

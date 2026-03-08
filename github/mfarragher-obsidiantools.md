@@ -6,7 +6,8 @@ created: 2025-08-10T09:16:21
 modified: 2025-08-10T09:16:21
 description: "Obsidian tools - a Python package for analysing an Obsidian.md vault"
 source: "https://github.com/mfarragher/obsidiantools"
-type: "repo"
+tags:
+  - github/star
 ---
 # obsidiantools
 

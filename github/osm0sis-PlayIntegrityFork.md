@@ -7,8 +7,7 @@ modified: 2025-05-11T15:53:58
 description: "Fix Play Integrity <A13 verdicts, allowing custom fields and props"
 source: "https://github.com/osm0sis/PlayIntegrityFork"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/osm0sis/PlayIntegrityFork?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/osm0sis/PlayIntegrityFork?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/osm0sis/PlayIntegrityFork?style=for-the-badge&label=since)

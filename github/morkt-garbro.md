@@ -7,8 +7,7 @@ modified: 2025-06-07T13:30:17
 description: "Visual Novels resource browser"
 source: "https://github.com/morkt/garbro"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/morkt/garbro?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/morkt/garbro?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/morkt/garbro?style=for-the-badge&label=since)

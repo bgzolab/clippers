@@ -8,9 +8,8 @@ description: "Lightweight SQLite editor for Windows"
 modified: 2025-07-16T21:37:56
 source: "https://github.com/little-brother/sqlite-gui"
 tags:
-  - "github/star"
+  - github/star
 title: Little-brother-sqlite-gui
-type: "repo"
 ---
 # Little-brother-sqlite-gui
 

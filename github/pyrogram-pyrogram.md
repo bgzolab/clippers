@@ -9,6 +9,7 @@ modified: 2025-07-19T18:49:19
 source: https://github.com/pyrogram/pyrogram
 tags:
   - github/archive
+  - github/star
 title: Pyrogram
 type: repo
 ---

@@ -8,7 +8,8 @@ description: "微信公众号文章批量下载工具，支持评论、合集下
 modified: 2025-08-23T21:32:59
 source: "https://github.com/qiye45/wechatDownload"
 title: wechatDownload
-type: "repo"
+tags:
+  - github/star
 ---
 # wechatDownload
 

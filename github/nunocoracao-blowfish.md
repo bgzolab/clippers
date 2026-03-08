@@ -8,7 +8,8 @@ description: "Personal Website & Blog Theme for Hugo"
 modified: 2025-09-19T07:01:58
 source: "https://github.com/nunocoracao/blowfish"
 title: Blowfish
-type: "repo"
+tags:
+  - github/star
 ---
 # Blowfish
 

@@ -7,8 +7,7 @@ modified: 2025-06-07T14:45:05
 description: "Print your GitHub activity as an artwork"
 source: "https://github.com/djyde/ossart"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/djyde/ossart?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/djyde/ossart?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/djyde/ossart?style=for-the-badge&label=since)

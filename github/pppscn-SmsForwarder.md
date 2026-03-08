@@ -8,7 +8,8 @@ description: "短信转发器——监控Android手机短信、来电、APP通�
 modified: 2025-10-31T06:59:49
 source: "https://github.com/pppscn/SmsForwarder"
 title: SmsForwarder
-type: "repo"
+tags:
+  - github/star
 ---
 # SmsForwarder
 

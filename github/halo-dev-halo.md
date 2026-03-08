@@ -7,8 +7,7 @@ modified: 2025-06-08T15:56:05
 description: "强大易用的开源建站工具。"
 source: "https://github.com/halo-dev/halo"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/halo-dev/halo?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/halo-dev/halo?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/halo-dev/halo?style=for-the-badge&label=since)

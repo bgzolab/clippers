@@ -7,8 +7,7 @@ modified: 2025-06-07T15:16:07
 description: "Download pictures (or videos) along with their captions and other metadata from Instagram."
 source: "https://github.com/instaloader/instaloader"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/instaloader/instaloader?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/instaloader/instaloader?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/instaloader/instaloader?style=for-the-badge&label=since)

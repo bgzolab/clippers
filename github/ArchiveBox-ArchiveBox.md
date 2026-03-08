@@ -7,7 +7,8 @@ created: 2025-06-14T15:05:16
 modified: 2025-06-14T15:05:16
 description: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 source: https://github.com/ArchiveBox/ArchiveBox
-tags: []
+tags:
+  - github/star
 type: repo
 ---
 

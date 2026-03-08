@@ -7,8 +7,7 @@ modified: 2025-06-14T15:05:55
 description: "Simple bookmark manager built with Go"
 source: "https://github.com/go-shiori/shiori"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/go-shiori/shiori?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/go-shiori/shiori?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/go-shiori/shiori?style=for-the-badge&label=since)

@@ -7,7 +7,8 @@ created: 2026-01-24T20:28:59
 description: A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
 modified: 2026-01-24T20:52:29
 source: https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
-tags: []
+tags:
+  - github/star
 title: Mastering-GitHub-Copilot-for-Paired-Programming
 type: repo
 ---

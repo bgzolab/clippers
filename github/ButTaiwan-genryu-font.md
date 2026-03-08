@@ -5,8 +5,9 @@ created: 2025-11-14T06:36:40
 modified: 2025-11-14T06:36:40
 description: "A free font family derived from Source Han Serif."
 source: "https://github.com/ButTaiwan/genryu-font"
-type: "repo"
 draft: "true"
+tags:
+  - github/star
 ---
 # genryu-font
 

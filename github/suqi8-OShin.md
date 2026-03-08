@@ -7,8 +7,7 @@ modified: 2025-06-28T13:24:38
 description: "一个专为ColorOS系统设计的辅助模块"
 source: "https://github.com/suqi8/OShin"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/suqi8/OShin?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/suqi8/OShin?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/suqi8/OShin?style=for-the-badge&label=since)

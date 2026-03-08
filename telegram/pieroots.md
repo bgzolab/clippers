@@ -308,7 +308,7 @@ deadpan 中的 pan 意思是平底锅，是“脸”的俚语。这里的 pan �
 > "conserve" emphasizes the protection of natural resources;
 "reserve" emphasizes the setting aside of something for future use;
 "preserve" emphasizes the protection of something from change or damage.
-\#chatGPT \#english-word
+\#ai/chatGPT \#english-word
 
 词根 serv- 表示“保存、贮藏”
 
@@ -375,7 +375,7 @@ stationary 是 station 的形容词，表示“固定的、驻扎不动的”。
 stationary 与 stationery 同源。stationery=station（驻扎，驻地）+ery（场所）→固定的店铺→文具店→文具。在中世纪的欧洲，大部分商贩都是流动经商的，只有大学附近才有固定店铺，通常是拥有大学的特许权，可向大学生销售文具的文具店。因此 stationery 一词衍生出“文具店”之意，后来又衍生出“文具”之
 
 > To remember the difference between "stationary" and "stationery," you can associate "stationary" with the idea of something being still or not moving, and "stationery" with the idea of writing materials. Additionally, you can remember that "stationery" has an "e" in it, which can remind you of "envelopes," a type of stationery.
-\#chatGPT \#english-word
+\#ai/chatGPT \#english-word
 
 ## `adolescence` (12 To 18)
 
@@ -384,7 +384,7 @@ ad(去)+ol（滋养，使生长）+esc（表始形式）+ence（名词后缀）�
 esc- 表示动作开始，t- 表示动作完成，就是动词表始形式，表示动作已经开始。adolescent 就是“已经开始生长的”，所以是“青春期的”，表示 ol-（滋养，长大，长高）这个动作已经开始
 
 > To help you remember the meaning of "adolescence," you can think of the word "ad-ole-scent" - you are growing into an older, more mature person.
-\#chatGPT \#english-word
+\#ai/chatGPT \#english-word
 
 ## `-ate`
 

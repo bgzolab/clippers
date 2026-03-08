@@ -7,8 +7,7 @@ modified: 2025-05-03T15:36:49
 description: "In-place tweak injection with insert_dylib and ChOma."
 source: "https://github.com/Lessica/TrollFools"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/Lessica/TrollFools?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Lessica/TrollFools?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Lessica/TrollFools?style=for-the-badge&label=since)

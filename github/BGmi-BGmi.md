@@ -6,7 +6,8 @@ created: 2025-07-28T20:57:44
 modified: 2025-07-28T20:57:44
 description: "[looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi."
 source: "https://github.com/BGmi/BGmi"
-type: "repo"
+tags:
+  - github/star
 ---
 # BGmi
 

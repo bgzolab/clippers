@@ -7,8 +7,7 @@ modified: 2025-06-07T15:17:56
 description: "Make bilingual epub books Using AI translate"
 source: "https://github.com/yihong0618/bilingual_book_maker"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/yihong0618/bilingual_book_maker?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/yihong0618/bilingual_book_maker?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/yihong0618/bilingual_book_maker?style=for-the-badge&label=since)

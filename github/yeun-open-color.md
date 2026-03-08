@@ -7,8 +7,7 @@ modified: 2025-06-07T13:46:47
 description: "Color scheme for UI design."
 source: "https://github.com/yeun/open-color"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/yeun/open-color?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/yeun/open-color?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/yeun/open-color?style=for-the-badge&label=since)

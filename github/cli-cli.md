@@ -9,7 +9,7 @@ description: GitHub’s official command line tool
 modified: 2025-07-01T21:19:49
 source: https://github.com/cli/cli
 tags:
-  - star
+  - github/star
 title: cli/cli
 type: repo
 ---

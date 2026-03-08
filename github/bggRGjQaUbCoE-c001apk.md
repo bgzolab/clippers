@@ -7,8 +7,7 @@ modified: 2025-04-21T20:28:40
 description: "fake coolapk"
 source: "https://github.com/bggRGjQaUbCoE/c001apk"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/bggRGjQaUbCoE/c001apk?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/bggRGjQaUbCoE/c001apk?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/bggRGjQaUbCoE/c001apk?style=for-the-badge&label=since)

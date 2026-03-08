@@ -8,7 +8,8 @@ description: "User-friendly GUI macOS application for Homebrew Casks"
 modified: 2025-07-20T16:44:49
 source: "https://github.com/milanvarady/Applite"
 title: Applite
-type: "repo"
+tags:
+  - github/star
 ---
 # Applite
 

@@ -8,7 +8,8 @@ description: "Ask for assistance right in your terminal."
 modified: 2025-07-27T10:39:16
 source: "https://github.com/github/gh-copilot"
 title: Gh-copilot
-type: "repo"
+tags:
+  - github/star
 ---
 # Gh-copilot
 

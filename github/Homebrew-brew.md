@@ -7,9 +7,8 @@ description: "🍺 The missing package manager for macOS (or Linux)"
 modified: 2025-09-15T07:42:15
 source: "https://github.com/Homebrew/brew"
 tags:
-  - "github/star"
+  - github/star
 title: Homebrew-brew
-type: "repo"
 ---
 # Homebrew-brew
 

@@ -7,8 +7,7 @@ modified: 2025-06-15T16:24:34
 description: "Vite & Vue powered static site generator."
 source: "https://github.com/vuejs/vitepress"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/vuejs/vitepress?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/vuejs/vitepress?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/vuejs/vitepress?style=for-the-badge&label=since)

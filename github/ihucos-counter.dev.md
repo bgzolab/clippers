@@ -7,8 +7,7 @@ modified: 2025-06-07T14:52:03
 description: "Web Analytics made simple"
 source: "https://github.com/ihucos/counter.dev"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/ihucos/counter.dev?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ihucos/counter.dev?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ihucos/counter.dev?style=for-the-badge&label=since)

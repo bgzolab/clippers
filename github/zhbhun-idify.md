@@ -7,8 +7,7 @@ modified: 2025-06-02T12:08:07
 description: "Make ID photo right in the browser."
 source: "https://github.com/zhbhun/idify"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/zhbhun/idify?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/zhbhun/idify?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/zhbhun/idify?style=for-the-badge&label=since)

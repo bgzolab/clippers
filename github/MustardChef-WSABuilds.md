@@ -8,9 +8,8 @@ description: "Run Windows Subsystem For Android on your Windows 10 and Windows 1
 modified: 2025-07-16T21:13:09
 source: "https://github.com/MustardChef/WSABuilds"
 tags:
-  - "star"
+  - github/star
 title: MustardChef/WSABuilds
-type: "repo"
 ---
 # MustardChef/WSABuilds
 

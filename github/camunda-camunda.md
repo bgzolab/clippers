@@ -10,6 +10,7 @@ modified: 2025-07-26T23:27:04
 source: https://github.com/camunda/camunda
 tags:
   - workflow
+  - github/star
 title: Camunda
 type: repo
 wikipedia: https://en.wikipedia.org/wiki/Camunda

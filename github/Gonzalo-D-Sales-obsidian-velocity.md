@@ -6,7 +6,8 @@ created: 2025-09-14T09:37:02
 modified: 2025-09-14T09:37:02
 description: "A radically modern theme for Obsidian."
 source: "https://github.com/Gonzalo-D-Sales/obsidian-velocity"
-type: "repo"
+tags:
+  - github/star
 ---
 # obsidian-velocity
 

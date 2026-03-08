@@ -7,8 +7,7 @@ modified: 2025-06-02T11:21:08
 description: "A server software reimplementation for a certain anime game."
 source: "https://github.com/Grasscutters/Grasscutter"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/Grasscutters/Grasscutter?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Grasscutters/Grasscutter?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Grasscutters/Grasscutter?style=for-the-badge&label=since)

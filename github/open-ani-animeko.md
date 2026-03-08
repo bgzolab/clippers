@@ -9,9 +9,8 @@ description: "集找番、追番、看番的一站式弹幕追番平台，云收
 modified: 2025-07-27T16:39:42
 source: "https://github.com/open-ani/animeko"
 tags:
-  - "github/star"
+  - github/star
 title: Animeko
-type: "repo"
 ---
 # Animeko
 

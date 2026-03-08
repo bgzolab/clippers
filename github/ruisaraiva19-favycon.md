@@ -7,8 +7,7 @@ modified: 2025-06-14T22:55:38
 description: "Favycon - A favicon generator tool"
 source: "https://github.com/ruisaraiva19/favycon"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/ruisaraiva19/favycon?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ruisaraiva19/favycon?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ruisaraiva19/favycon?style=for-the-badge&label=since)

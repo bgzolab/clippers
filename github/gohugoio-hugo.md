@@ -7,8 +7,7 @@ modified: 2025-06-08T00:43:37
 description: "The world’s fastest framework for building websites."
 source: "https://github.com/gohugoio/hugo"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/gohugoio/hugo?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/gohugoio/hugo?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/gohugoio/hugo?style=for-the-badge&label=since)

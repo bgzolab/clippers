@@ -6,7 +6,8 @@ created: 2025-09-21T00:16:09
 modified: 2025-09-21T00:16:09
 description: "Turn YouTube or Vimeo channels, users, or playlists into podcast feeds"
 source: "https://github.com/mxpv/podsync"
-type: "repo"
+tags:
+  - github/star
 ---
 # podsync
 

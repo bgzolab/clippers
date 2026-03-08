@@ -5,9 +5,9 @@ created: 2025-07-01T21:11:59
 description: "Two-column web-based git difftool"
 modified: 2025-07-01T21:12:04
 source: "https://github.com/danvk/webdiff"
-tags: ["star"]
+tags:
+  - github/star
 title: danvk/webdiff
-type: "repo"
 ---
 # danvk/webdiff
 

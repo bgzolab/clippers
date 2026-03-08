@@ -7,8 +7,7 @@ modified: 2025-07-16T20:31:06
 description: "PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码"
 source: "https://github.com/miaomiaosoft/PandaOCR"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 # miaomiaosoft/PandaOCR
 

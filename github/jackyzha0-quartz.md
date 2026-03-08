@@ -8,9 +8,8 @@ description: "🌱 a fast, batteries-included static-site generator that transfo
 modified: 2025-10-18T05:37:38
 source: "https://github.com/jackyzha0/quartz"
 tags:
-  - "github/star"
+  - github/star
 title: jackyzha0-quartz
-type: "repo"
 ---
 # jackyzha0-quartz
 

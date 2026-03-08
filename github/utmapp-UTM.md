@@ -7,8 +7,7 @@ modified: 2025-04-23T05:56:51
 description: "Virtual machines for iOS and macOS"
 source: "https://github.com/utmapp/UTM"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/utmapp/UTM?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/utmapp/UTM?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/utmapp/UTM?style=for-the-badge&label=since)

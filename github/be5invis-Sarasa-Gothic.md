@@ -5,8 +5,9 @@ created: 2025-11-14T06:39:19
 modified: 2025-11-14T06:39:19
 description: "Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕"
 source: "https://github.com/be5invis/Sarasa-Gothic"
-type: "repo"
 draft: "true"
+tags:
+  - github/star
 ---
 # Sarasa-Gothic
 

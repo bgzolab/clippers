@@ -8,7 +8,8 @@ description: "MacOS like theme for all gtk based desktops"
 modified: 2025-07-24T22:43:35
 source: "https://github.com/vinceliuice/WhiteSur-gtk-theme"
 title: WhiteSur-gtk-theme
-type: "repo"
+tags:
+  - github/star
 ---
 # WhiteSur-gtk-theme
 

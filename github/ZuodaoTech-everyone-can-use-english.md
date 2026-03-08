@@ -6,7 +6,8 @@ created: 2025-09-14T22:15:34
 modified: 2025-09-14T22:15:34
 description: "人人都能用英语"
 source: "https://github.com/ZuodaoTech/everyone-can-use-english"
-type: "repo"
+tags:
+  - github/star
 ---
 # everyone-can-use-english
 

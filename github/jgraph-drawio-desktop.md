@@ -7,8 +7,7 @@ modified: 2025-06-14T22:14:05
 description: "Official electron build of draw.io"
 source: "https://github.com/jgraph/drawio-desktop"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jgraph/drawio-desktop?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jgraph/drawio-desktop?style=for-the-badge&label=since)

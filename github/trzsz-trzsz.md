@@ -7,8 +7,7 @@ modified: 2025-06-07T15:24:30
 description: "trzsz is a simple file transfer tools, similar to lrzsz ( rz / sz ), and compatible with tmux."
 source: "https://github.com/trzsz/trzsz"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/trzsz/trzsz?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/trzsz/trzsz?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/trzsz/trzsz?style=for-the-badge&label=since)

@@ -10,6 +10,8 @@ modified: 2025-07-19T21:36:33
 source: https://github.com/anthropics/claude-code
 title: Claude
 type: repo
+tags:
+  - github/star
 ---
 # Claude code
 

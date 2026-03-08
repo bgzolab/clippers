@@ -7,8 +7,7 @@ modified: 2025-05-31T18:01:19
 description: "Serves files from github, bitbucket and gitlab, but with the correct content types"
 source: "https://github.com/neoascetic/rawgithack"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/neoascetic/rawgithack?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/neoascetic/rawgithack?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/neoascetic/rawgithack?style=for-the-badge&label=since)

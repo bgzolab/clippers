@@ -7,8 +7,7 @@ modified: 2025-05-03T12:07:53
 description: "跨平台桌面端视频资源播放器,免费高颜值."
 source: "https://github.com/Hiram-Wong/ZyPlayer"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/Hiram-Wong/ZyPlayer?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Hiram-Wong/ZyPlayer?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Hiram-Wong/ZyPlayer?style=for-the-badge&label=since)

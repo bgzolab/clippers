@@ -7,8 +7,7 @@ modified: 2025-06-07T11:39:22
 description: "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
 source: "https://github.com/spring-projects/spring-boot"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/spring-projects/spring-boot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/spring-projects/spring-boot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/spring-projects/spring-boot?style=for-the-badge&label=since)

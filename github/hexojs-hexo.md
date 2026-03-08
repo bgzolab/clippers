@@ -7,8 +7,7 @@ modified: 2025-06-08T00:43:02
 description: "A fast, simple & powerful blog framework, powered by Node.js."
 source: "https://github.com/hexojs/hexo"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/hexojs/hexo?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/hexojs/hexo?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/hexojs/hexo?style=for-the-badge&label=since)

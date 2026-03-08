@@ -7,8 +7,7 @@ modified: 2025-05-04T19:55:52
 description: "Ruby enVironment Manager (RVM)"
 source: "https://github.com/rvm/rvm"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/rvm/rvm?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/rvm/rvm?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/rvm/rvm?style=for-the-badge&label=since)

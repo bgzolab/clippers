@@ -7,8 +7,7 @@ modified: 2025-06-08T00:49:58
 description: "The Sphinx documentation generator"
 source: "https://github.com/sphinx-doc/sphinx"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/sphinx-doc/sphinx?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/sphinx-doc/sphinx?style=for-the-badge&label=since)

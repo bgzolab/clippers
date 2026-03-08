@@ -7,8 +7,7 @@ modified: 2025-06-07T15:03:49
 description: "For my sspai power+ & other passages."
 source: "https://github.com/fairyex/Fairyex-Tasker-Tasks"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/fairyex/Fairyex-Tasker-Tasks?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/fairyex/Fairyex-Tasker-Tasks?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/fairyex/Fairyex-Tasker-Tasks?style=for-the-badge&label=since)

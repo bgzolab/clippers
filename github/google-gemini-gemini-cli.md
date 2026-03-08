@@ -11,6 +11,8 @@ modified: 2025-07-22T06:29:22
 source: https://github.com/google-gemini/gemini-cli
 title: Gemini cli
 type: repo
+tags:
+  - github/star
 ---
 # Gemini cli
 

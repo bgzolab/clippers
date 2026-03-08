@@ -11,6 +11,8 @@ title: Awesome-copilot
 type: repo
 tags:
   - prompt-enginee
+  - github/star
+
 ---
 # Awesome-copilot
 

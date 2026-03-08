@@ -7,8 +7,7 @@ modified: 2025-06-07T14:16:39
 description: "This GitHub action helps to add cool dev metrics to your github profile Readme"
 source: "https://github.com/anmol098/waka-readme-stats"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/anmol098/waka-readme-stats?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/anmol098/waka-readme-stats?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/anmol098/waka-readme-stats?style=for-the-badge&label=since)

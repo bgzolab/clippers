@@ -5,9 +5,9 @@ created: 2025-07-02T22:42:44
 description: ":gem:"
 modified: 2025-07-02T22:42:49
 source: "https://github.com/giscus/giscus"
-tags: ["star"]
+tags:
+  - github/star
 title: giscus/giscus
-type: "repo"
 ---
 # giscus/giscus
 

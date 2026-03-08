@@ -7,8 +7,7 @@ modified: 2025-06-07T14:35:02
 description: "A static site generator powered by Deno + React"
 source: "https://github.com/xcatliu/pagic"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/xcatliu/pagic?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/xcatliu/pagic?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/xcatliu/pagic?style=for-the-badge&label=since)

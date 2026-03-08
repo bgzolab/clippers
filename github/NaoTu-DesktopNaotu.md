@@ -7,8 +7,7 @@ modified: 2025-06-07T15:55:59
 description: "桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)"
 source: "https://github.com/NaoTu/DesktopNaotu"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/NaoTu/DesktopNaotu?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/NaoTu/DesktopNaotu?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/NaoTu/DesktopNaotu?style=for-the-badge&label=since)

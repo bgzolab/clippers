@@ -8,7 +8,8 @@ description: "💖🧸 Self hosted, you owned Grok Companion, a container of sou
 modified: 2025-08-23T23:47:38
 source: "https://github.com/moeru-ai/airi"
 title: Airi
-type: "repo"
+tags:
+  - github/star
 ---
 # Airi
 

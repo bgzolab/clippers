@@ -8,7 +8,7 @@ modified: 2025-06-14T21:51:08
 description: 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 source: https://github.com/xitu/gold-miner
 tags:
-  - star
+  - github/star
 type: repo
 ---
 

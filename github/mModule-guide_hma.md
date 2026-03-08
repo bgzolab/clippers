@@ -7,8 +7,7 @@ modified: 2025-05-11T15:51:44
 description: "This is a quick guide to hopefully make it a little easier for people new to Hide My Applist."
 source: "https://github.com/mModule/guide_hma"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/mModule/guide_hma?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mModule/guide_hma?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mModule/guide_hma?style=for-the-badge&label=since)

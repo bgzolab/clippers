@@ -7,8 +7,7 @@ modified: 2025-03-22T16:09:57
 description: "A best-practices CSS foundation"
 source: "https://github.com/csstools/sanitize.css"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/csstools/sanitize.css?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/csstools/sanitize.css?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/csstools/sanitize.css?style=for-the-badge&label=since)

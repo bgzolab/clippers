@@ -8,7 +8,8 @@ description: "Fair-code workflow automation platform with native AI capabilities
 modified: 2025-11-06T06:03:38
 source: "https://github.com/n8n-io/n8n"
 title: n8n
-type: "repo"
+tags:
+  - github/star
 ---
 # n8n
 

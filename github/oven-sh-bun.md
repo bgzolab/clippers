@@ -8,7 +8,8 @@ description: "Incredibly fast JavaScript runtime, bundler, test runner, and pack
 modified: 2025-10-19T21:04:05
 source: "https://github.com/oven-sh/bun"
 title: Bun
-type: "repo"
+tags:
+  - github/star
 ---
 # Bun
 

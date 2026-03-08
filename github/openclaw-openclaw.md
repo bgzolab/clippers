@@ -9,8 +9,8 @@ comments: true
 draft: true
 description: "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
 source: "https://github.com/openclaw/openclaw"
-tags: []
-type: "repo"
+tags:
+  - github/star
 ---
 
 # Openclaw

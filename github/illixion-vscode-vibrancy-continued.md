@@ -8,7 +8,8 @@ description: "Enable Acrylic/Glass effect for your VS Code."
 modified: 2025-09-27T19:46:48
 source: "https://github.com/illixion/vscode-vibrancy-continued"
 title: Vscode-vibrancy-continued
-type: "repo"
+tags:
+  - github/star
 ---
 # Vscode-vibrancy-continued
 

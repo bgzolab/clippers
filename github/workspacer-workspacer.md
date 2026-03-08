@@ -7,7 +7,7 @@ modified: 2025-06-08T00:37:46
 description: A tiled windows manager
 source: https://en.wikipedia.org/wiki/Tiling_window_manager, https://www.v2ex.com/t/429177#
 tags:
-  - star
+  - github/star
 type: repo
 document: https://workspacer.org/config/)
 changelog: https://workspacer.org/changelog/)

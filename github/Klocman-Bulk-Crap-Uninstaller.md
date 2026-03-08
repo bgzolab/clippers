@@ -7,8 +7,7 @@ modified: 2025-06-07T14:43:19
 description: "Remove large amounts of unwanted applications quickly."
 source: "https://github.com/Klocman/Bulk-Crap-Uninstaller"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Klocman/Bulk-Crap-Uninstaller?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Klocman/Bulk-Crap-Uninstaller?style=for-the-badge&label=since)

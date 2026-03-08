@@ -7,8 +7,7 @@ modified: 2025-01-19T02:57:18
 description: "基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules"
 source: "https://github.com/gkd-kit/gkd"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 ## Meta
 

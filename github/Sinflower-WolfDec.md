@@ -7,8 +7,7 @@ modified: 2025-06-07T13:10:23
 description: "A Simple Wolf RPG File Decrypter"
 source: "https://github.com/Sinflower/WolfDec"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/Sinflower/WolfDec?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Sinflower/WolfDec?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Sinflower/WolfDec?style=for-the-badge&label=since)

@@ -5,9 +5,9 @@ created: 2025-07-01T21:09:56
 description: "A Privacy focused, easy sharable, open source and anonymous tracking diff viewer."
 modified: 2025-07-01T21:11:00
 source: "https://github.com/technikhil314/offline-diff-viewer"
-tags: ["star"]
+tags:
+  - github/star
 title: technikhil314/offline-diff-viewer
-type: "repo"
 ---
 # technikhil314/offline-diff-viewer
 

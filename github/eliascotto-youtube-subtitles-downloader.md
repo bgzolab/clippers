@@ -7,8 +7,7 @@ modified: 2025-07-01T22:54:16
 description: "Node library for download subtitles from Youtube and translate them or convert to SRT. Also available as CLI"
 source: "https://github.com/eliascotto/youtube-subtitles-downloader"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 # eliascotto/youtube-subtitles-downloader
 

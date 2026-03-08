@@ -7,8 +7,7 @@ modified: 2025-07-19T11:45:12
 description: "A markdown version emoji cheat sheet"
 source: "https://github.com/ikatyang/emoji-cheat-sheet"
 tags:
-  - "star"
-type: "repo"
+  - github/star
 ---
 # ikatyang/emoji-cheat-sheet
 

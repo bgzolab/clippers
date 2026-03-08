@@ -7,8 +7,7 @@ modified: 2025-05-29T19:41:25
 description: "crossutility/Quantumult-X"
 source: "https://github.com/crossutility/Quantumult-X"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/crossutility/Quantumult-X?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/crossutility/Quantumult-X?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/crossutility/Quantumult-X?style=for-the-badge&label=since)

@@ -5,9 +5,9 @@ created: 2025-05-11T11:39:57
 description: "Launch JIT enabled iOS app with a second iOS device"
 modified: 2025-07-01T20:59:19
 source: "https://github.com/osy/Jitterbug"
-tags: ["github/star"]
+tags:
+  - github/star
 title: osy/Jitterbug
-type: "repo"
 ---
 # osy/Jitterbug
 

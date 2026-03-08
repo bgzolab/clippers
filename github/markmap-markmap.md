@@ -7,8 +7,7 @@ modified: 2025-06-07T15:54:48
 description: "Build mindmaps with plain text"
 source: "https://github.com/markmap/markmap"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/markmap/markmap?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/markmap/markmap?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/markmap/markmap?style=for-the-badge&label=since)

@@ -7,8 +7,7 @@ modified: 2025-06-07T14:13:01
 description: "an extension for Google Chrome that allows you to send web content to your own Telegram Bot."
 source: "https://github.com/phguo/Send-to-Telegram-Chrome-Extension"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/phguo/Send-to-Telegram-Chrome-Extension?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/phguo/Send-to-Telegram-Chrome-Extension?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/phguo/Send-to-Telegram-Chrome-Extension?style=for-the-badge&label=since)

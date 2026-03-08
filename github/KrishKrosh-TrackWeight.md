@@ -8,7 +8,8 @@ description: "Use your Mac trackpad as a weighing scale"
 modified: 2025-07-26T13:36:03
 source: "https://github.com/KrishKrosh/TrackWeight"
 title: TrackWeight
-type: "repo"
+tags:
+  - github/star
 ---
 # TrackWeight
 

@@ -7,7 +7,8 @@ created: 2025-07-05T10:38:12
 description: The Intuitive Vue Framework.
 modified: 2025-09-21T11:00:50
 source: https://github.com/nuxt/nuxt
-tags: []
+tags:
+  - github/star
 title: nuxt.js
 type: repo
 ---

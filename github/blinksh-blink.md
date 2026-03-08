@@ -7,8 +7,7 @@ modified: 2025-04-21T22:08:35
 description: "blinksh/blink"
 source: "https://github.com/blinksh/blink"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/blinksh/blink?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/blinksh/blink?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/blinksh/blink?style=for-the-badge&label=since)

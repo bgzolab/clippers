@@ -7,7 +7,8 @@ created: 2025-07-19T10:58:17
 description: Mirror of https://git.ffmpeg.org/ffmpeg.git
 modified: 2025-07-19T11:01:17
 source: https://github.com/FFmpeg/FFmpeg
-tags: []
+tags:
+  - github/star
 title: FFmpeg
 type: repo
 ---

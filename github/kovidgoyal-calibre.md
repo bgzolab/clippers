@@ -8,6 +8,8 @@ modified: 2025-11-10T10:03:16
 source: https://github.com/kovidgoyal/calibre
 title: Calibre
 type: repo
+tags:
+  - github/star
 ---
 
 # Calibre

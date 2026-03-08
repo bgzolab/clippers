@@ -8,7 +8,8 @@ description: "Elegant, modern and asynchronous Telegram MTProto API framework in
 modified: 2025-07-19T18:53:51
 source: "https://github.com/KurimuzonAkuma/pyrogram"
 title: Pyrogram
-type: "repo"
+tags:
+  - github/star
 ---
 # Pyrogram
 

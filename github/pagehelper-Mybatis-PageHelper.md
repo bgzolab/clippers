@@ -7,8 +7,7 @@ modified: 2025-03-16T00:32:45
 description: "Mybatis通用分页插件"
 source: "https://github.com/pagehelper/Mybatis-PageHelper"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/pagehelper/Mybatis-PageHelper?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/pagehelper/Mybatis-PageHelper?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/pagehelper/Mybatis-PageHelper?style=for-the-badge&label=since)

@@ -8,9 +8,8 @@ description: "Opensource IDE For Exploring and Testing API's (lightweight altern
 modified: 2025-07-13T13:59:13
 source: "https://github.com/usebruno/bruno"
 tags:
-  - "star"
+  - github/star
 title: usebruno/bruno
-type: "repo"
 ---
 # usebruno/bruno
 

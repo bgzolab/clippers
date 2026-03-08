@@ -7,8 +7,7 @@ modified: 2025-05-31T23:34:32
 description: "sggwqaa/AvNumber"
 source: "https://github.com/sggwqaa/AvNumber"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/sggwqaa/AvNumber?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/sggwqaa/AvNumber?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/sggwqaa/AvNumber?style=for-the-badge&label=since)

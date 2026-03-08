@@ -9,6 +9,7 @@ description: Anime Girls Holding Programming Books
 source: https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books
 tags:
   - meme
+  - github/star
 type: repo
 ---
 # cat-milk/Anime-Girls-Holding-Programming-Books

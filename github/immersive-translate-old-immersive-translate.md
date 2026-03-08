@@ -7,8 +7,7 @@ modified: 2025-06-07T14:06:22
 description: "Let's experience immersive web translation, with bilingual simultaneous display and translation of only the important content. Think of the browser's reading mode, but in immersive translation."
 source: "https://github.com/immersive-translate/old-immersive-translate"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/immersive-translate/old-immersive-translate?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/immersive-translate/old-immersive-translate?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/immersive-translate/old-immersive-translate?style=for-the-badge&label=since)

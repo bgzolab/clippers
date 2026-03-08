@@ -5,9 +5,9 @@ created: 2025-07-02T22:58:02
 description: "Gitalk is a modern comment component based on Github Issue and Preact."
 modified: 2025-07-02T22:58:05
 source: "https://github.com/gitalk/gitalk"
-tags: ["star"]
+tags:
+  - github/star
 title: gitalk/gitalk
-type: "repo"
 ---
 # gitalk/gitalk
 

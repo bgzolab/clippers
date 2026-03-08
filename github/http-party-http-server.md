@@ -7,8 +7,7 @@ modified: 2025-04-25T20:14:26
 description: "a simple zero-configuration command-line http server"
 source: "https://github.com/http-party/http-server"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/http-party/http-server?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/http-party/http-server?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/http-party/http-server?style=for-the-badge&label=since)

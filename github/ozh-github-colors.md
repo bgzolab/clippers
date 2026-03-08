@@ -8,7 +8,8 @@ description: "🌈 Github colors for all the languages"
 modified: 2025-08-30T23:15:37
 source: "https://github.com/ozh/github-colors"
 title: Github-colors
-type: "repo"
+tags:
+  - github/star
 ---
 # Github-colors
 

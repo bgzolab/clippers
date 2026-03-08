@@ -8,6 +8,7 @@ modified: 2025-07-20T22:48:12
 source: https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 tags:
   - prompt-enginee
+  - github/star
 title: Awesome-chatgpt-prompts-zh
 type: repo
 ---

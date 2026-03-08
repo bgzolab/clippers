@@ -7,8 +7,7 @@ modified: 2025-06-07T15:24:39
 description: "Anki划词制卡助手 --  \"划词翻译，一键制卡\""
 source: "https://github.com/ninja33/anki-dict-helper"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/ninja33/anki-dict-helper?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/ninja33/anki-dict-helper?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/ninja33/anki-dict-helper?style=for-the-badge&label=since)

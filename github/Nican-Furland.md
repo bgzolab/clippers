@@ -7,8 +7,7 @@ modified: 2025-06-07T14:37:42
 description: "Building a real-time twitter graph of your friends"
 source: "https://github.com/Nican/Furland"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/Nican/Furland?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Nican/Furland?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Nican/Furland?style=for-the-badge&label=since)

@@ -7,8 +7,7 @@ modified: 2025-06-07T14:10:54
 description: "ehviewer，用爱发电，快乐前行"
 source: "https://github.com/xiaojieonly/Ehviewer_CN_SXJ"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/xiaojieonly/Ehviewer_CN_SXJ?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/xiaojieonly/Ehviewer_CN_SXJ?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/xiaojieonly/Ehviewer_CN_SXJ?style=for-the-badge&label=since)

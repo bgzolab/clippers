@@ -7,8 +7,7 @@ modified: 2025-06-07T13:58:11
 description: "Original macOS Automator actions by Minja."
 source: "https://github.com/BlackwinMin/automator-gallery"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/BlackwinMin/automator-gallery?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/BlackwinMin/automator-gallery?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/BlackwinMin/automator-gallery?style=for-the-badge&label=since)

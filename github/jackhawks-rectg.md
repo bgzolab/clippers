@@ -7,8 +7,7 @@ modified: 2025-04-03T20:20:32
 description: "从全网搜集超 100,000 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。"
 source: "https://github.com/jackhawks/rectg"
 tags:
-  - "github/star"
-type: "repo"
+  - github/star
 ---
 
 ![](https://img.shields.io/github/stars/jackhawks/rectg?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jackhawks/rectg?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jackhawks/rectg?style=for-the-badge&label=since)
