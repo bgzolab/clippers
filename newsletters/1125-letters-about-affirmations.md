@@ -8,9 +8,8 @@ created: 2023-03-04T11:23:20
 modified: 2025-11-15T11:34:19
 tags:
   - pointless
-  - weekly/1125
+  - writing/newsletter
 title: "夸夸月报 #1"
-type: writing
 ---
 
 # 夸夸月报 #1

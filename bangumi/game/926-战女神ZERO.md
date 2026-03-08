@@ -1,8 +1,8 @@
 ---
 draft: true
 aliases:
-  - '战女神ZERO'
-  - '戦女神ZERO'
+  - 战女神ZERO
+  - 戦女神ZERO
   - 战女神 ZERO
 bangumi: https://bgm.tv/subject/926
 bangumi-rating: 8.2
@@ -10,10 +10,12 @@ cover: https://lain.bgm.tv/r/800/pic/cover/l/cb/b6/926_3jf2F.jpg
 created: 2008-06-13T22:38:22
 modified: 2025-08-31T18:40:34
 tags:
-  - 'bangumi/game'
+  - bangumi/game
+  - gtd/todo
 title: 战女神 ZERO
 type: bangumi/game
-website: ['http://eukleia.co.jp/eushully/eu009.html']
+website:
+  - http://eukleia.co.jp/eushully/eu009.html
 ---
 # 战女神 ZERO
 

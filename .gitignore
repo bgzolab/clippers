@@ -34,3 +34,5 @@ logseq-pdf-file/
 
 # Environement
 .env
+
+snipd-official-TEST/*
