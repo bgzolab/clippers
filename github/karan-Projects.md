@@ -8,7 +8,6 @@ description: 📃 A list of practical projects that anyone cansolve in any progr
 source: https://github.com/karan/Projects
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

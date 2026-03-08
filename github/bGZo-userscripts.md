@@ -10,7 +10,6 @@ description: a program, usually written in JavaScript, for modifying web pages t
 source: https://github.com/bGZo/userscripts
 tags:
   - github/star
-tags-link: 
 type: repo
 wikipedia: https://en.wikipedia.org/wiki/Userscript
 ---

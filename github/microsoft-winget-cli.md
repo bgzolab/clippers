@@ -8,7 +8,6 @@ description: WinGet is the Windows Package Manager. This project includes a CLI 
 source: https://github.com/microsoft/winget-cli
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

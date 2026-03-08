@@ -9,7 +9,6 @@ source: https://github.com/mastodon/mastodon
 tags:
   - github/star
   - - social-media
-tags-link: 
 type: tool
 document: https://github.com/mastodon/mastodon
 status: tool/star

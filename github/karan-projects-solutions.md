@@ -8,7 +8,6 @@ description: Links to others' solutions to Projects (https://github.com/karan/Pr
 source: https://github.com/karan/projects-solutions
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

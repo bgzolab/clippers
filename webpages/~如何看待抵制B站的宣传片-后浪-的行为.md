@@ -5,7 +5,6 @@ created: 2022-01-19T09:58:10
 modified: 2025-01-19T02:57:25
 source: https://www.zhihu.com/question/392763695/answer/1202756759
 tags: []
-tags-link: 
 type: archive-web
 ---
 清末的革命党们仇富吗？

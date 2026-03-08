@@ -11,7 +11,6 @@ tags:
   - document
   - cheatsheet
   - commandline
-tags-link: 
 type: repo
 ---
 

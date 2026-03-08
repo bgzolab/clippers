@@ -9,7 +9,6 @@ description: 刷算法全靠套路
 source: https://github.com/labuladong/fucking-algorithm
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

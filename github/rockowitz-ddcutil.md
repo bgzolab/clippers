@@ -10,7 +10,6 @@ source: https://github.com/rockowitz/ddcutil
 tags:
   - github/star
   - ddc/ci
-tags-link: 
 type: repo
 ---
 ## Meta

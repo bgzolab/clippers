@@ -8,7 +8,6 @@ description: lets you capture or record any area of your screen and share it wit
 source: https://getsharex.com/
 tags:
   - github/star
-tags-link: 
 type: repo
 document: https://getsharex.com/actions
 changelog: https://getsharex.com/changelog

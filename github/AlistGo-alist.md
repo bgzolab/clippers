@@ -9,7 +9,6 @@ source: https://github.com/AlistGo/alist
 tags:
   - github/star
   - docker
-tags-link: 
 type: tool
 changelog: 
 document: 

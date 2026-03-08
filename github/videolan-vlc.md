@@ -8,7 +8,6 @@ modified: 2025-07-27T18:42:01
 source: https://github.com/videolan/vlc
 tags:
   - video
-tags-link: 
 title: VLC
 type: repo
 ---

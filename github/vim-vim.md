@@ -9,7 +9,6 @@ description: The official Vim repository
 source: https://github.com/vim/vim
 tags:
   - github/star
-tags-link: 
 type: tool
 document: 
 status: tool/star

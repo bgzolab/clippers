@@ -11,7 +11,6 @@ description: 为了真正了解M2芯片的新款MacBook的续航表现，我们�
 source: https://www.youtube.com/watch?v=Z0tNtMwYrGA
 tags:
   - video/youtube
-tags-link: 
 type: video
 ---
 ## Source

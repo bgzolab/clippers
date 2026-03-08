@@ -10,7 +10,6 @@ description: LateX公式编辑器-妈叔出品
 source: https://github.com/QianJianTech/LaTeXLive
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

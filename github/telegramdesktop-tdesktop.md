@@ -19,7 +19,6 @@ source: https://github.com/telegramdesktop/tdesktop
 status: tool/star
 tags:
   - instant-message
-tags-link: 
 title: Telegram
 type: tool
 ---

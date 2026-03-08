@@ -8,7 +8,6 @@ description: Anki's shared backend and web components, and the Qt frontend
 source: https://github.com/ankitects/anki
 tags:
   - github/star
-tags-link: 
 type: tool
 document: https://ankiweb.net
 status: tool/star

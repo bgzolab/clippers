@@ -8,7 +8,6 @@ description: The Intuitive Vue Framework.
 modified: 2025-09-21T11:00:50
 source: https://github.com/nuxt/nuxt
 tags: []
-tags-link: 
 title: nuxt.js
 type: repo
 ---

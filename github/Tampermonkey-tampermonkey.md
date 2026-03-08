@@ -8,7 +8,6 @@ description: Tampermonkey is the most popular userscript manager, with over 10 m
 source: https://github.com/Tampermonkey/tampermonkey
 tags:
   - github/star
-tags-link: 
 type: tool
 document: 
 status: tool/star

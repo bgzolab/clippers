@@ -10,7 +10,6 @@ source: https://github.com/Perfare/AssetStudio
 tags:
   - github/star
   - github/archive
-tags-link: 
 type: repo
 ---
 

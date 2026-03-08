@@ -8,7 +8,6 @@ description: The new Windows Terminal and the original Windows console host, all
 source: https://github.com/microsoft/terminal
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

@@ -8,7 +8,6 @@ description: Issues found on WSL
 source: https://github.com/microsoft/WSL
 tags:
   - github/star
-tags-link: 
 type: tool
 document: https://github.com/microsoft/WSL
 status: tool/star

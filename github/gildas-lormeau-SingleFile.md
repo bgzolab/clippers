@@ -9,7 +9,6 @@ description: Web Extension for saving a faithful copy of a complete web page in 
 source: https://github.com/gildas-lormeau/SingleFile
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

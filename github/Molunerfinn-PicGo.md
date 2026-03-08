@@ -8,7 +8,6 @@ description: :rocket:A simple & beautiful tool for pictures uploading built by v
 source: https://github.com/Molunerfinn/PicGo
 tags:
   - github/star
-tags-link: 
 type: tool
 changelog: 
 document: 

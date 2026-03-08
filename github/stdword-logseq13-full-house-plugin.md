@@ -7,7 +7,6 @@ modified: 2025-01-19T12:38:07
 description: Logseq Templates you will really love ❤️ 🏛️
 source: https://github.com/stdword/logseq13-full-house-plugin
 tags: logseq
-tags-link: 
 type: repo
 ---
 

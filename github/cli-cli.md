@@ -10,7 +10,6 @@ modified: 2025-07-01T21:19:49
 source: https://github.com/cli/cli
 tags:
   - star
-tags-link: 
 title: cli/cli
 type: repo
 ---

@@ -10,7 +10,6 @@ description: 本地、百度网盘、阿里云盘、WebDAV、GoogleDrive、OneDr
 source: https://github.com/pure-music/PureMusic
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

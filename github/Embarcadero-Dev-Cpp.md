@@ -8,7 +8,6 @@ description: A fast, portable, simple, and free C/C++ IDE
 source: https://github.com/Embarcadero/Dev-Cpp
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

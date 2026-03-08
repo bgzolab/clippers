@@ -6,7 +6,6 @@ modified: 2025-01-19T02:57:25
 source: https://www.zhihu.com/question/381287746/answer/1637537271
 tags:
   - 笔记本
-tags-link: 
 type: archive-web
 ---
 目前用 DC 的一般是同时支持 DC 跟 typeC 充电，用 typeC 的就只能 typeC 充电。

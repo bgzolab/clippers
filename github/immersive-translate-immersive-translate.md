@@ -10,7 +10,6 @@ source: https://github.com/immersive-translate/immersive-translate
 tags:
   - github/star
   - fake/open-source
-tags-link: 
 type: repo
 ---
 

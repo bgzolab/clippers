@@ -8,7 +8,6 @@ description: IntelliJ IDEA 简体中文专题教程
 source: https://github.com/judasn/intellij-idea-tutorial
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

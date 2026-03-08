@@ -11,7 +11,6 @@ modified: 2026-01-03T22:26:41
 source: https://github.com/termux/termux-app
 tags:
   - github/star
-tags-link: 
 title: Termux-termux-app
 type: repo
 ---

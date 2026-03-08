@@ -10,7 +10,6 @@ source: https://github.com/spencerwooo/onedrive-vercel-index
 tags:
   - github/star
   - github/archive
-tags-link: 
 type: repo
 ---
 

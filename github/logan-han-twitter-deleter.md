@@ -10,7 +10,6 @@ source: https://github.com/logan-han/twitter-deleter
 tags:
   - github/star
   - github/archive
-tags-link: 
 type: repo
 ---
 

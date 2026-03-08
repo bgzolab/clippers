@@ -8,7 +8,6 @@ description: Writing a sqlite clone from scratch in C
 source: https://github.com/cstack/db_tutorial
 tags:
   - github/star
-tags-link: 
 type: repo
 ---
 

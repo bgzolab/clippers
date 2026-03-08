@@ -10,7 +10,6 @@ source: https://github.com/seazon/FeedMe
 tags:
   - github/star
   - fake/open-source
-tags-link: 
 type: repo
 ---
 

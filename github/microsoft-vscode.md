@@ -8,7 +8,6 @@ description: Visual Studio Code
 source: https://github.com/microsoft/vscode
 tags:
   - github/star
-tags-link: 
 type: tool
 document: https://code.visualstudio.com/docs， https://code.visualstudio.com/updates, https://code.visualstudio.com
 status: tool/star
