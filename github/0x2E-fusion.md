@@ -9,9 +9,10 @@ description: A lightweight, self-hosted friendly RSS aggregator and reader
 source: https://github.com/0x2E/fusion
 tags:
   - github/star
-  - "[[~Fusion-RSS-阅读器-v0-9-3-全新-UI、快捷键、i18n-等]]"
 type: repo
 ---
+
+[[~Fusion-RSS-阅读器-v0-9-3-全新-UI、快捷键、i18n-等]]
 
 ![](https://img.shields.io/github/stars/0x2E/fusion?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/0x2E/fusion?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/0x2E/fusion?style=for-the-badge&label=since)
 

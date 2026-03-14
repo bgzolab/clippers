@@ -10,7 +10,7 @@ source: https://github.com/Xposed-Modules-Repo/com.skyhand.redbookhelper
 tags:
   - github/star
   - fake/open-source
-  - "[[xposed]]"
+  - xposed
 type: repo
 ---
 

@@ -61,7 +61,7 @@ termux-setup-storage
       https://ivonblog.com/posts/termux-proot-distro-debian/
     - Android 手機安裝 Linux 發行版：Termux proot-distro 使用教學
       https://ivonblog.com/posts/termux-proot-distro/
-- [ ] #gtd/wait Wine 在代理下运行 #proxy
+- [ ] #gtd/wait Wine 在代理下运行 #proxies
   - https://askubuntu.com/questions/262876/run-wine-behind-proxy
 
 ### SSH Develop

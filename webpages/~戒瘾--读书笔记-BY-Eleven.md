@@ -6,10 +6,11 @@ created: 2025-03-30T10:56:30
 modified: 2025-03-30T10:56:30
 description: 戒瘾--读书笔记 BY Eleven
 source: https://book.douban.com/review/7927343/
-tags: 
-  - "[[~unhooked-how-to-quit-anything]]"
 type: archive-web
 ---
+
+[[~unhooked-how-to-quit-anything]]
+
 你是否会因为对以下事物成瘾而陷入困境：吸烟，酗酒，贪食，赌博，上网，药物，性… 沃尔夫顿博士发现，人们因自身的混乱和恐惧所引发的用户按习惯平复自己的欲望，才是成瘾的关键所在。人们需要对自己有更好的了解并转变生活的方式。
 
 各式各样的成瘾是这个时代的顽疾，尤其是“软成瘾”和“行为成瘾”。凡是对某种物质或行为产生依赖，这种依赖又会给正常的工作，生活，或人际关系带来麻烦的，都可以认为是广义的“成瘾”。

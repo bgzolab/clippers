@@ -1,12 +1,12 @@
 ---
 draft: true
 aliases:
-  - "github-colors"
+  - github-colors
   - Github-colors
 created: 2023-03-02T23:15:32
-description: "🌈 Github colors for all the languages"
+description: 🌈 Github colors for all the languages
 modified: 2025-08-30T23:15:37
-source: "https://github.com/ozh/github-colors"
+source: https://github.com/ozh/github-colors
 title: Github-colors
 tags:
   - github/star

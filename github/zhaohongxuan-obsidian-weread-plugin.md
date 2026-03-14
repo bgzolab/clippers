@@ -8,7 +8,7 @@ modified: 2025-07-27T10:38:06
 source: https://github.com/zhaohongxuan/obsidian-weread-plugin
 tags:
   - github/star
-  - "[[obsidian]]"
+  - obsidian
 title: Obsidian weread plugin
 type: repo
 ---

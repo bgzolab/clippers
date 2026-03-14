@@ -9,7 +9,7 @@ description: Subconverter订阅转换前端增强版，增加近百条远程配�
 source: https://github.com/youshandefeiyang/sub-web-modify
 tags:
   - github/star
-  - "[[proxy]]"
+  - proxy
 type: repo
 ---
 

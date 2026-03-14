@@ -3,7 +3,7 @@ draft: true
 ---
 # 737: Naval Ravikant and Nick Kokonas
 ## Show notes
-> This episode is a two-for-one, and that’s because the podcast recently hit its 10-year anniversary and passed one billion downloads. To celebrate, I’ve curated some of the best of the best—some of my favorites—from more than 700 episodes over the last decade. I could not be more excited. The episode features segments from episode #97 "Naval Ravikant — The Person I Call Most for Startup Advice" and episode #341 "Nick Kokonas — How to Apply World-Class Creativity to Business, Art, and Life."
+> This episode is a two-for-one, and that’s because the podcast recently hit its 10-year anniversary and passed one billion downloads. To celebrate, I’ve curated some of the best of the best—some of my favorites—from more than 700 episodes over the last decade. I could not be more excited. The episode features segments from episode\#97 "Naval Ravikant — The Person I Call Most for Startup Advice" and episode\#341 "Nick Kokonas — How to Apply World-Class Creativity to Business, Art, and Life."
 > Please enjoy!
 > Sponsors: 
 > Eight Sleep’s Pod 4 Ultra    sleeping solution for dynamic cooling and heating:    https://eightsleep.com/tim    (save $350 on the Pod 4 Ultra) 

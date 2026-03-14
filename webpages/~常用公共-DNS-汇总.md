@@ -5,7 +5,7 @@ created: 2025-05-11T10:41:21
 modified: 2025-05-11T10:41:57
 source: https://www.v2ex.com/t/1093805
 tags: 
-  - "[[dns]]"
+  - dns
 type: archive-web
 ---
 ## Origin Content

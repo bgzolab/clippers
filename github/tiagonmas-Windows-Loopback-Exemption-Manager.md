@@ -9,7 +9,7 @@ description: tiagonmas/Windows-Loopback-Exemption-Manager
 source: https://github.com/tiagonmas/Windows-Loopback-Exemption-Manager
 tags:
   - github/star
-  - "[[windows]]"
+  - windows
 type: repo
 ---
 

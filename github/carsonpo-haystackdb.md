@@ -9,7 +9,7 @@ description: carsonpo/haystackdb
 source: https://github.com/carsonpo/haystackdb
 tags:
   - github/star
-  - "[[pages/database|database]]"
+  - database
 type: repo
 ---
 

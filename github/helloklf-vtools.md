@@ -9,7 +9,7 @@ description: 一个集高级重启、应用安装自动点击、CPU调频等多�
 source: https://github.com/helloklf/vtools
 tags:
   - github/star
-  - "[[android]]"
+  - android
 type: repo
 ---
 ## Meta

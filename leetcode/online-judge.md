@@ -7,9 +7,11 @@ aliases:
   - oj
 created: 2025-03-17T22:25:24
 modified: 2025-03-17T22:27:14
-  - "[[data-structure]]"
-  - "[[skills/computer-science/algorithm|algorithm]]"
+tags: 
+- data-structure
+- algorithm
 ---
+
 ## `Accepted`
 
 你的程序对所有的测试数据都输出了正确的答案，你已经得到了该题的所有分数，恭喜。

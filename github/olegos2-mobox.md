@@ -9,7 +9,7 @@ description: olegos2/mobox
 source: https://github.com/olegos2/mobox
 tags:
   - github/star
-  - "[[android]]"
+  - android
 type: repo
 ---
 

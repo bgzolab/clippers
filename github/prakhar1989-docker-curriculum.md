@@ -9,7 +9,7 @@ description: A comprehensive tutorial on getting started with Docker!
 source: https://github.com/prakhar1989/docker-curriculum
 tags:
   - github/star
-  - "[[pages/docker|docker]]"
+  - docker
 type: repo
 ---
 

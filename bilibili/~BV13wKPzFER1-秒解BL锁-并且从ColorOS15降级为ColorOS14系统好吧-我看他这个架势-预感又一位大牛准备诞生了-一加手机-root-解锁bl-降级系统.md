@@ -10,13 +10,12 @@ published: '2025-06-20T22:46:43'
 source: https://www.bilibili.com/video/BV13wKPzFER1
 tags:
 - video/bilibili
-title: '秒解BL锁，并且从ColorOS15降级为ColorOS14系统好吧，我看他这个架势，预感又一位大牛准备诞生了 #一加手机 #root #解锁bl
-  #降级系统'
+title: '秒解BL锁，并且从ColorOS15降级为ColorOS14系统好吧，我看他这个架势，预感又一位大牛准备诞生了'
 type: video
 ---
 
 
-# 秒解BL锁，并且从ColorOS15降级为ColorOS14系统好吧，我看他这个架势，预感又一位大牛准备诞生了 #一加手机 #root #解锁bl #降级系统
+# 秒解BL锁，并且从ColorOS15降级为ColorOS14系统好吧，我看他这个架势，预感又一位大牛准备诞生了
 
 ## Source
 

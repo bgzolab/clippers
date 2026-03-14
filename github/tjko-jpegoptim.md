@@ -9,9 +9,10 @@ description: jpegoptim - utility to optimize/compress JPEG files
 source: https://github.com/tjko/jpegoptim
 tags:
   - github/star
-  - "[[compress-photo-size]]"
 type: repo
 ---
+
+[[compress-photo-size]]
 
 ![](https://img.shields.io/github/stars/tjko/jpegoptim?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/tjko/jpegoptim?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/tjko/jpegoptim?style=for-the-badge&label=since)
 

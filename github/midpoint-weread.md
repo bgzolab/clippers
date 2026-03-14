@@ -9,7 +9,7 @@ description: 微信读书之青龙篇
 source: https://github.com/midpoint/weread
 tags:
   - github/star
-  - "[[bGZo-userscripts]]"
+  - userscripts
 type: repo
 ---
 

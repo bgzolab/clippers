@@ -39,4 +39,3 @@ TabS8 系列 OneUi5.0 国行版刷入 TWRP 第三方 Recovery 与解锁 system �
 
 如果本教程帮助了你，请不要吝惜你手中的![酷币](http://static.coolapk.com/emoticons/v9/c_coolb.png)![酷币](http://static.coolapk.com/emoticons/v9/c_coolb.png)(●’◡’●)。
 
-[#OneUI5.0#](/t/OneUI5.0?type=12) [#三星GalaxyTabS8#](/t/三星GalaxyTabS8?type=12) [#三星GalaxyS22Ultra#](/t/三星GalaxyS22Ultra?type=12)

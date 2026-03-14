@@ -9,7 +9,7 @@ description: xfqwdsj/IAmNotADeveloper
 source: https://github.com/xfqwdsj/IAmNotADeveloper
 tags:
   - github/star
-  - "[[xposed]]"
+  - xposed
 type: repo
 ---
 

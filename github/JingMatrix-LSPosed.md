@@ -9,7 +9,7 @@ description: LSPosed Framework resuscitated
 source: https://github.com/JingMatrix/LSPosed
 tags:
   - github/star
-  - "[[xposed]]"
+  - xposed
 type: repo
 ---
 

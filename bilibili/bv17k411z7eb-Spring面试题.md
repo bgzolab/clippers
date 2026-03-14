@@ -4,10 +4,9 @@ aliases:
   - 马士兵/Spring 面试题
   - bv17k411z7eb-Spring面试题
 created: 2025-07-13T19:42:15
-description: 
+description:
 modified: 2025-07-13T19:42:41
 tags:
-  - bilibili
 title: 马士兵/Spring 面试题
 type: video
 ---
@@ -71,9 +70,7 @@ https://www.bilibili.com/video/BV17K411Z7EB
 ### P14 描述一下 bean 的生命周期
 
     - ![2593013-20211208134354570-1643503307.png](../assets/2593013-20211208134354570-1643503307_1709646582222_0.png)
-      #+BEGIN_CENTER
       [大厂高频面试题Spring Bean生命周期最详解 - Tom弹架构 - 博客园](https://www.cnblogs.com/gupaoedu-tom/p/15661075.html#1-spring%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E6%B5%81%E7%A8%8B%E5%9B%BE)
-      #+END_CENTER
     - 注意学会拓展
       - 实例化bean
         - 反射的方式生成对象

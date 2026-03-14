@@ -9,7 +9,7 @@ description: The news reader extension for Chromium
 source: https://github.com/gandf/slick-rss
 tags:
   - github/star
-  - "[[pages/rss|rss]]"
+  - rss
 type: repo
 ---
 

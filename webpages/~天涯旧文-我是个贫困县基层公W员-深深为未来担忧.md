@@ -5,10 +5,11 @@ created: 2025-02-06T17:12:22
 modified: 2025-02-06T17:12:51
 description: 这年头让人高兴的事一件没有，让人笑的事见天都是。
 source: https://mp.weixin.qq.com/s/NMPZnlwPI5U76n3l8OBYEQ
-tags: 
-  - "[[official-system-in-china|civil-service]]"
 type: archive-web
 ---
+
+Related: [[official-system-in-china|civil-service]]
+
 **大牛哥编者按**
 
 这篇文章来自“天涯杂谈”版块。今天这样的文章已经很少看到了。我有时候会想，那些曾经在天涯闪烁的有趣文字，后来都会去哪里呢？还有人会记得它们吗？这篇文章挺短的，但颇有余味深长之感。日前看到，继淄博烧烤之后，深圳也宣布放开街头烧烤。以深圳的经济条件来说，难道也需要用“街头烧烤”拉动经济了吗？原本想写一篇关于此事的评论文章，写到一半想想还是放下了。很多时候，想说的和能写出来的，总会有很大差距。

@@ -7,10 +7,7 @@ modified: 2025-04-04T10:11:58
 description: A PHP and Ajax feed reader
 source: https://github.com/torne/Tiny-Tiny-RSS
 tags:
-  - github/star
-type: tool
-document:
-status: tool/deprecated
+  - github/deprecated
 ---
 
 ![](https://img.shields.io/github/stars/torne/Tiny-Tiny-RSS?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/torne/Tiny-Tiny-RSS?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/torne/Tiny-Tiny-RSS?style=for-the-badge&label=since)

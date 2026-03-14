@@ -11,7 +11,7 @@ description: “輕資產創業培訓”（限時免費）💎 如何佈局和�
 source: https://www.youtube.com/watch?v=uiYxUU-ejRc
 tags:
   - video/youtube
-  - "[[compound]]"
+  - compound
 type: video
 ---
 ## Source

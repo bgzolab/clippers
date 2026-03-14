@@ -9,7 +9,7 @@ description: A modern ebook manager and reader with sync and backup capacities f
 source: https://github.com/koodo-reader/koodo-reader
 tags:
   - github/star
-  - "[[pages/book]]"
+  - book
 type: repo
 ---
 

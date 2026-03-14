@@ -9,7 +9,7 @@ modified: 2025-07-08T21:18:28
 source: https://github.com/brunodev85/winlator
 tags:
   - github/star
-  - "[[android]]"
+  - android
 title: Winlator
 type: repo
 ---

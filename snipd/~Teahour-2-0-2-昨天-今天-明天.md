@@ -8,10 +8,10 @@ published: '2025-04-03T09:36:39'
 show: Teahour
 snipd: https://share.snipd.com/episode/8165281a-402f-4186-9aea-1d2d4a020944
 source: http://teahour.fm/97
-title: 'Teahour 2.0 #2 昨天，今天，明天'
+title: 'Teahour 2.0 昨天，今天，明天'
 type: podcast-episode
 ---
-# Teahour 2.0 #2 昨天，今天，明天
+# Teahour 2.0\#2 昨天，今天，明天
 ## Show notes
 > \## Show notes:  https://teahour.dev/episodes/2 
 > Special Guests: Howard and Jan.

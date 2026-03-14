@@ -9,7 +9,7 @@ description: Interactive roadmaps, guides and other educational content to help 
 source: https://github.com/kamranahmedse/developer-roadmap
 tags:
   - github/star
-  - "[[pages/roadmap|roadmap]]"
+  - roadmap
 type: repo
 ---
 

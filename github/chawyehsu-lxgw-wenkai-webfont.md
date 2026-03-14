@@ -7,7 +7,7 @@ modified: 2025-07-02T22:48:05
 source: https://github.com/chawyehsu/lxgw-wenkai-webfont
 tags:
   - github/star
-  - "[[fonts]]"
+  - fonts
 title: chawyehsu/lxgw-wenkai-webfont
 type: repo
 ---
