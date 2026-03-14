@@ -16,6 +16,8 @@ tags:
 title: 扰乱 THE PRINCESS OF SNOW AND BLOOD
 type: bangumi/anime
 website: ['https://joran.jp/']
+cssclasses:
+  - table-wide
 ---
 # 扰乱 THE PRINCESS OF SNOW AND BLOOD
 
@@ -35,26 +37,7 @@ website: ['https://joran.jp/']
 
 ## Characters
 
-### 雪村咲羽: 主角
+| 雪村咲羽: 主角 | 月城真琴: 配角 | 花風エレーナ: 配角 | 中村浅陽: 配角 | 葛原仁: 配角 |
+| --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/bf/bb/91237_crt_AyyyJ.jpg?r=1613298500) | ![](https://lain.bgm.tv/r/400/pic/crt/l/82/06/91238_crt_5sY9Z.jpg?r=1613298657) | ![](https://lain.bgm.tv/r/400/pic/crt/l/04/b1/91239_crt_TI949.jpg?r=1613298898) | ![](https://lain.bgm.tv/r/400/pic/crt/l/23/eb/91240_crt_J7JKH.jpg?r=1613299147) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ed/d5/91241_crt_2H446.jpg?r=1613299302) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/bf/bb/91237_crt_AyyyJ.jpg?r=1613298500)
-
-### 月城真琴: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/82/06/91238_crt_5sY9Z.jpg?r=1613298657)
-
-### 花風エレーナ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/04/b1/91239_crt_TI949.jpg?r=1613298898)
-
-### 中村浅陽: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/23/eb/91240_crt_J7JKH.jpg?r=1613299147)
-
-### 葛原仁: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/ed/d5/91241_crt_2H446.jpg?r=1613299302)
-
-## Review
-
-## References

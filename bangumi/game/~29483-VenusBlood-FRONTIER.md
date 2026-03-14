@@ -15,6 +15,8 @@ tags:
 title: VenusBlood -FRONTIER-
 type: bangumi/game
 website: ['http://www.ninetail.tk/td10/VenusBlood-FRONTIER-.html']
+cssclasses:
+  - table-wide
 ---
 # VenusBlood -FRONTIER-
 
@@ -62,61 +64,9 @@ website: ['http://www.ninetail.tk/td10/VenusBlood-FRONTIER-.html']
 
 ## Characters
 
-### ロキ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/77/74/64623_crt_9xl0H.jpg)
-
-### ヨルム: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/be/3c/64631_crt_Ryy86.jpg)
-
-### フェーナ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/4e/b1/78538_crt_wGrsA.jpg)
-
-### メニア: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/e1/d8/78539_crt_Bw7H7.jpg)
-
-### フレイヤ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/40/fc/89148_crt_9mhqw.jpg)
-
-### オーディン: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/51/27/89149_crt_HG8ts.jpg)
-
-### リグレット: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/52/ec/89150_crt_k7dRs.jpg)
-
-### トール: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/9c/fe/89151_crt_4IHlP.jpg)
-
-### ティルカ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/07/f5/89152_crt_NIFs1.jpg)
-
-### フェンリル: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/d1/61/89153_crt_vuEjl.jpg)
-
-### ヘル: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/62/40/89154_crt_ZdQJ7.jpg)
-
-### イミル: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/c8/ab/89155_crt_vwcic.jpg)
-
-### スルト: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/27/fd/89156_crt_22224.jpg)
-
-### ガルム: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/61/6f/89157_crt_55m18.jpg)
+| ロキ: 主角 | ヨルム: 主角 | フェーナ: 主角 | メニア: 配角 | フレイヤ: 主角 | オーディン: 主角 | リグレット: 主角 | トール: 主角 | ティルカ: 主角 | フェンリル: 主角 | ヘル: 主角 | イミル: 配角 | スルト: 主角 | ガルム: 配角 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/77/74/64623_crt_9xl0H.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/be/3c/64631_crt_Ryy86.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/4e/b1/78538_crt_wGrsA.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e1/d8/78539_crt_Bw7H7.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/40/fc/89148_crt_9mhqw.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/51/27/89149_crt_HG8ts.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/52/ec/89150_crt_k7dRs.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/9c/fe/89151_crt_4IHlP.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/07/f5/89152_crt_NIFs1.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d1/61/89153_crt_vuEjl.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/62/40/89154_crt_ZdQJ7.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c8/ab/89155_crt_vwcic.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/27/fd/89156_crt_22224.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/61/6f/89157_crt_55m18.jpg) |
 
 ## Review
 

@@ -13,6 +13,8 @@ tags:
 title: 鬼父 Rebuild
 type: bangumi/anime
 website: ['http://www.poro.cc/product_list/product_oni.html']
+cssclasses:
+  - table-wide
 ---
 # 鬼父 Rebuild
 
@@ -34,26 +36,7 @@ website: ['http://www.poro.cc/product_list/product_oni.html']
 
 ## Characters
 
-### 秋月愛莉: 主角
+| 秋月愛莉: 主角 | 秋月孝三: 主角 | 秋月真理奈: 主角 | 秋月華代子: 配角 | 三上由佳: 配角 |
+| --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/6c/08/14555_crt_4uGsn.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/b8/14558_crt_PWSz6.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e8/f0/31699_crt_scQwW.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/68/2a/31701_crt_ZR4Yy.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d2/64/31702_crt_XJgjM.jpg) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/6c/08/14555_crt_4uGsn.jpg)
-
-### 秋月孝三: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/34/b8/14558_crt_PWSz6.jpg)
-
-### 秋月真理奈: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/e8/f0/31699_crt_scQwW.jpg)
-
-### 秋月華代子: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/68/2a/31701_crt_ZR4Yy.jpg)
-
-### 三上由佳: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/d2/64/31702_crt_XJgjM.jpg)
-
-## Review
-
-## References

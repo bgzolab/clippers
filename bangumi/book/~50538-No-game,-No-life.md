@@ -15,6 +15,8 @@ tags:
 title: No game, No life
 type: bangumi/book
 website: []
+cssclasses:
+  - table-wide
 ---
 # No game, No life
 
@@ -26,62 +28,11 @@ website: []
 
 ## Characters
 
-### 空: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/61/37/23424_crt_b4n09.jpg?r=1394347406)
-
-### 白: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/2e/28/23425_crt_weYwF.jpg?r=1398960024)
-
-### ステファニー・ドーラ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/e7/f6/23426_crt_oSI6V.jpg?r=1391691128)
-
-### ジブリール: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/9c/79/23427_crt_0TM2t.jpg?r=1520604854)
-
-### 初瀬いづな: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/3b/a0/24317_crt_04QXX.jpg)
-
-### リク: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/ea/86/52875_crt_m33Fq.jpg)
-
-### シュヴィ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/d7/3d/52876_crt_P4pgs.jpg?r=1520356399)
-
-### コローネ・ドーラ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/a7/54/52877_crt_x5yIf.jpg)
-
-### アインツィヒ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/50/7f/59279_crt_3ZZUr.jpg?r=1533628475)
-
-### アズリール: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/d9/a2/59281_crt_9vtbw.jpg?r=1533813637)
-
-### ラフィール: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/c2/05/59282_crt_pS2b3.jpg?r=1534141401)
-
-### アルトシュ: 配角
+| 空: 主角 | 白: 主角 | ステファニー・ドーラ: 配角 | ジブリール: 配角 | 初瀬いづな: 配角 | リク: 配角 | シュヴィ: 配角 | コローネ・ドーラ: 配角 | アインツィヒ: 配角 | アズリール: 配角 | ラフィール: 配角 | アルトシュ: 配角
 
 ![]()
 
-### 初瀬いの: 配角
+### 初瀬いの: 配角 | 巫女: 配角 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/61/37/23424_crt_b4n09.jpg?r=1394347406) | ![](https://lain.bgm.tv/r/400/pic/crt/l/2e/28/23425_crt_weYwF.jpg?r=1398960024) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/f6/23426_crt_oSI6V.jpg?r=1391691128) | ![](https://lain.bgm.tv/r/400/pic/crt/l/9c/79/23427_crt_0TM2t.jpg?r=1520604854) | ![](https://lain.bgm.tv/r/400/pic/crt/l/3b/a0/24317_crt_04QXX.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/86/52875_crt_m33Fq.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d7/3d/52876_crt_P4pgs.jpg?r=1520356399) | ![](https://lain.bgm.tv/r/400/pic/crt/l/a7/54/52877_crt_x5yIf.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/50/7f/59279_crt_3ZZUr.jpg?r=1533628475) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d9/a2/59281_crt_9vtbw.jpg?r=1533813637) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c2/05/59282_crt_pS2b3.jpg?r=1534141401) | ![](https://lain.bgm.tv/r/400/pic/crt/l/2f/a5/65482_crt_CCSR0.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/a7/9d/65483_crt_10LVl.jpg?r=1534142268) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/2f/a5/65482_crt_CCSR0.jpg)
-
-### 巫女: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/a7/9d/65483_crt_10LVl.jpg?r=1534142268)
-
-## Review
-
-## References

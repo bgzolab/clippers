@@ -15,6 +15,8 @@ tags:
 title: NEW GAME!!
 type: bangumi/anime
 website: ['http://newgame-anime.com/']
+cssclasses:
+  - table-wide
 ---
 # NEW GAME!!
 
@@ -34,70 +36,7 @@ website: ['http://newgame-anime.com/']
 
 ## Characters
 
-### 涼風青葉: 主角
+| 涼風青葉: 主角 | 飯島ゆん: 主角 | 八神コウ: 主角 | 篠田はじめ: 主角 | 滝本ひふみ: 配角 | 遠山りん: 配角 | 阿波根うみこ: 主角 | 葉月しずく: 配角 | 桜ねね: 主角 | もずく: 客串 | 宗次郎: 客串 | 山田: 客串 | 望月紅葉: 配角 | 鳴海ツバメ: 配角 | 星川ほたる: 配角 | 大和・クリスティーナ・和子: 配角 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/2c/07/36488_crt_ne5nM.jpg?r=1694619961) | ![](https://lain.bgm.tv/r/400/pic/crt/l/47/11/36494_crt_2GEjc.jpg?r=1469387382) | ![](https://lain.bgm.tv/r/400/pic/crt/l/3f/b9/36495_crt_USB6x.jpg?r=1469341252) | ![](https://lain.bgm.tv/r/400/pic/crt/l/db/cd/36496_crt_ZjcxF.jpg?r=1469341515) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ef/55/36497_crt_6h6oF.jpg?r=1505724380) | ![](https://lain.bgm.tv/r/400/pic/crt/l/48/65/36498_crt_GNRiS.jpg?r=1469386974) | ![](https://lain.bgm.tv/r/400/pic/crt/l/b2/80/36499_crt_0JGg4.jpg?r=1469387098) | ![](https://lain.bgm.tv/r/400/pic/crt/l/46/af/36500_crt_QAzM6.jpg?r=1469387038) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/a5/37335_crt_qqK51.jpg?r=1469387201) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ed/98/43534_crt_CiZuq.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/63/89/43891_crt_0xYPj.jpg?r=1470272770) | ![](https://lain.bgm.tv/r/400/pic/crt/l/15/43/46074_crt_69XRQ.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/2f/b8/54129_crt_gGfjv.jpg?r=1499741032) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e4/51/54130_crt_M8l9O.jpg?r=1499741010) | ![](https://lain.bgm.tv/r/400/pic/crt/l/91/8f/54131_crt_nz33s.jpg?r=1499740969) | ![](https://lain.bgm.tv/r/400/pic/crt/l/59/57/54132_crt_opCnc.jpg?r=1499740943) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/2c/07/36488_crt_ne5nM.jpg?r=1694619961)
-
-### 飯島ゆん: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/47/11/36494_crt_2GEjc.jpg?r=1469387382)
-
-### 八神コウ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/3f/b9/36495_crt_USB6x.jpg?r=1469341252)
-
-### 篠田はじめ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/db/cd/36496_crt_ZjcxF.jpg?r=1469341515)
-
-### 滝本ひふみ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/ef/55/36497_crt_6h6oF.jpg?r=1505724380)
-
-### 遠山りん: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/48/65/36498_crt_GNRiS.jpg?r=1469386974)
-
-### 阿波根うみこ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/b2/80/36499_crt_0JGg4.jpg?r=1469387098)
-
-### 葉月しずく: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/46/af/36500_crt_QAzM6.jpg?r=1469387038)
-
-### 桜ねね: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/e7/a5/37335_crt_qqK51.jpg?r=1469387201)
-
-### もずく: 客串
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/ed/98/43534_crt_CiZuq.jpg)
-
-### 宗次郎: 客串
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/63/89/43891_crt_0xYPj.jpg?r=1470272770)
-
-### 山田: 客串
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/15/43/46074_crt_69XRQ.jpg)
-
-### 望月紅葉: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/2f/b8/54129_crt_gGfjv.jpg?r=1499741032)
-
-### 鳴海ツバメ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/e4/51/54130_crt_M8l9O.jpg?r=1499741010)
-
-### 星川ほたる: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/91/8f/54131_crt_nz33s.jpg?r=1499740969)
-
-### 大和・クリスティーナ・和子: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/59/57/54132_crt_opCnc.jpg?r=1499740943)
-
-## Review
-
-## References

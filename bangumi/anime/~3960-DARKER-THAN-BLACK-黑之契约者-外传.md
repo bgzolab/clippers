@@ -15,6 +15,8 @@ tags:
 title: DARKER THAN BLACK - 黑之契约者 - 外传
 type: bangumi/anime
 website: ['http://www.d-black.net/']
+cssclasses:
+  - table-wide
 ---
 # DARKER THAN BLACK - 黑之契约者 - 外传
 
@@ -24,14 +26,7 @@ website: ['http://www.d-black.net/']
 
 ## Characters
 
-### 黒: 主角
+| 黒: 主角 | 銀: 主角 |
+| --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/f0/4f/292_crt_aMPWP.jpg?r=1568771715) | ![](https://lain.bgm.tv/r/400/pic/crt/l/30/82/293_crt_uzbcR.jpg?r=1491230861) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/f0/4f/292_crt_aMPWP.jpg?r=1568771715)
-
-### 銀: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/30/82/293_crt_uzbcR.jpg?r=1491230861)
-
-## Review
-
-## References

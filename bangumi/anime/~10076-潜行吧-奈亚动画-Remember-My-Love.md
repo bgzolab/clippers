@@ -16,6 +16,8 @@ tags:
 title: 潜行吧！奈亚动画 Remember My Love
 type: bangumi/anime
 website: ['http://ga.sbcr.jp/bunko_blog/nyaruani/']
+cssclasses:
+  - table-wide
 ---
 # 潜行吧！奈亚动画 Remember My Love
 
@@ -27,34 +29,7 @@ website: ['http://ga.sbcr.jp/bunko_blog/nyaruani/']
 
 ## Characters
 
-### 地球君: 客串
+| 地球君: 客串 | ニャルラトホテプ: 主角 | クトゥグア: 主角 | ハスター: 主角 | 八坂真尋: 主角 | ニャル恵: 配角 | アト子: 配角 |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/29/6f/12929_crt_LX36c.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/51/9c/13375_crt_tk9TR.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/96/82/15542_crt_fiX6d.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/84/67/15543_crt_w3k4K.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/df/f7/15544_crt_JSxN7.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/23/8c/48455_crt_M1yQL.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/84/bc/48456_crt_MozgW.jpg) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/29/6f/12929_crt_LX36c.jpg)
-
-### ニャルラトホテプ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/51/9c/13375_crt_tk9TR.jpg)
-
-### クトゥグア: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/96/82/15542_crt_fiX6d.jpg)
-
-### ハスター: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/84/67/15543_crt_w3k4K.jpg)
-
-### 八坂真尋: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/df/f7/15544_crt_JSxN7.jpg)
-
-### ニャル恵: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/23/8c/48455_crt_M1yQL.jpg)
-
-### アト子: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/84/bc/48456_crt_MozgW.jpg)
-
-## Review
-
-## References

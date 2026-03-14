@@ -19,6 +19,8 @@ tags:
 title: 与奴隶的生活 -Teaching Feeling-
 type: bangumi/game
 website: ['https://koteipage.tumblr.com/post/181219840828/']
+cssclasses:
+  - table-wide
 ---
 # 与奴隶的生活 -Teaching Feeling-
 
@@ -230,22 +232,7 @@ TeachingFeeling 対応用ページ（http://goo.gl/HdKeP6
 
 ## Characters
 
-### シルヴィ: 主角
+| シルヴィ: 主角 | 不気味な店員: 配角 | 奇妙な店員: 配角 | 商人: 配角 |
+| --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/0f/18/37598_crt_5uui3.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/bd/ce/38391_crt_M74UZ.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/76/4a/38392_crt_dYm66.jpg?r=1453696306) | ![](https://lain.bgm.tv/r/400/pic/crt/l/cd/8d/38393_crt_nmT2n.jpg) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/0f/18/37598_crt_5uui3.jpg)
-
-### 不気味な店員: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/bd/ce/38391_crt_M74UZ.jpg)
-
-### 奇妙な店員: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/76/4a/38392_crt_dYm66.jpg?r=1453696306)
-
-### 商人: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/cd/8d/38393_crt_nmT2n.jpg)
-
-## Review
-
-## References

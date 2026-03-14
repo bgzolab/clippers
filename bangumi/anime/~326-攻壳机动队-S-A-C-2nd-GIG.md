@@ -14,6 +14,8 @@ tags:
 title: 攻壳机动队 S.A.C. 2nd GIG
 type: bangumi/anime
 website: ['https://www.ntv.co.jp/kokaku-s/']
+cssclasses:
+  - table-wide
 ---
 # 攻壳机动队 S.A.C. 2nd GIG
 
@@ -27,70 +29,7 @@ website: ['https://www.ntv.co.jp/kokaku-s/']
 
 ## Characters
 
-### 草薙素子: 主角
+| 草薙素子: 主角 | バトー: 主角 | 荒巻大輔: 配角 | 公安 9 課: 主角 | トグサ: 配角 | イシカワ: 配角 | サイトー: 配角 | パズ: 配角 | タチコマ: 配角 | United States of America: 客串 | ボーマ: 配角 | クゼ・ヒデオ: 配角 | オペレーター: 客串 | 内務大臣: 配角 | 久保田: 配角 | 茅葺: 配角 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/11/7b/84_crt_xc45y.jpg?r=1587737580) | ![](https://lain.bgm.tv/r/400/pic/crt/l/da/95/3002_crt_DyxyG.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/80/07/3006_crt_zLPL5.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/f5/c8/3008_crt_ftTsK.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/12/a0/3010_crt_aH961.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/aa/6b/3013_crt_Nt55I.jpg?r=1587740410) | ![](https://lain.bgm.tv/r/400/pic/crt/l/3f/b3/3018_crt_V24Z5.jpg?r=1587802358) | ![](https://lain.bgm.tv/r/400/pic/crt/l/de/a6/3046_crt_oBq1L.jpg?r=1587721595) | ![](https://lain.bgm.tv/r/400/pic/crt/l/bc/d4/7996_crt_S5hzo.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/99/fd/15420_crt_VeCju.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ce/1b/31635_crt_oZ7k0.jpg?r=1587802373) | ![](https://lain.bgm.tv/r/400/pic/crt/l/30/57/33316_crt_fiINM.jpg?r=1434433240) | ![](https://lain.bgm.tv/r/400/pic/crt/l/a3/f7/36173_crt_1PqPu.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/5c/ee/53124_crt_yAn1Q.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c0/1f/53125_crt_es8H5.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/82/88/63183_crt_3kHjl.jpg) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/11/7b/84_crt_xc45y.jpg?r=1587737580)
-
-### バトー: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/da/95/3002_crt_DyxyG.jpg)
-
-### 荒巻大輔: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/80/07/3006_crt_zLPL5.jpg)
-
-### 公安 9 課: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/f5/c8/3008_crt_ftTsK.jpg)
-
-### トグサ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/12/a0/3010_crt_aH961.jpg)
-
-### イシカワ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/aa/6b/3013_crt_Nt55I.jpg?r=1587740410)
-
-### サイトー: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/3f/b3/3018_crt_V24Z5.jpg?r=1587802358)
-
-### パズ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/de/a6/3046_crt_oBq1L.jpg?r=1587721595)
-
-### タチコマ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/bc/d4/7996_crt_S5hzo.jpg)
-
-### United States of America: 客串
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/99/fd/15420_crt_VeCju.jpg)
-
-### ボーマ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/ce/1b/31635_crt_oZ7k0.jpg?r=1587802373)
-
-### クゼ・ヒデオ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/30/57/33316_crt_fiINM.jpg?r=1434433240)
-
-### オペレーター: 客串
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/a3/f7/36173_crt_1PqPu.jpg)
-
-### 内務大臣: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/5c/ee/53124_crt_yAn1Q.jpg)
-
-### 久保田: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/c0/1f/53125_crt_es8H5.jpg)
-
-### 茅葺: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/82/88/63183_crt_3kHjl.jpg)
-
-## Review
-
-## References

@@ -11,6 +11,8 @@ tags:
 title: 雨音Switch～我与生病的她以及不停歇的雨～
 type: bangumi/game
 website: ['http://www.swaneye.com/kokuchou/amane/index.html']
+cssclasses:
+  - table-wide
 ---
 # 雨音Switch～我与生病的她以及不停歇的雨～
 
@@ -35,30 +37,7 @@ website: ['http://www.swaneye.com/kokuchou/amane/index.html']
 
 ## Characters
 
-### 里中雨音:主角
+| 里中雨音:主角 | 峰岸陽子:主角 | 木崎泉:主角 | 木崎雫:主角 | 水島雪華:主角 |
+| --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/c8/c8/113234_crt_Lj0j0.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/87/113235_crt_FoF4M.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/cb/77/113236_crt_2v4T3.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/7a/e1/113237_crt_C78i7.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/90/fb/113238_crt_XA1hO.jpg) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/c8/c8/113234_crt_Lj0j0.jpg)
-
-### 峰岸陽子:主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/d5/87/113235_crt_FoF4M.jpg)
-
-### 木崎泉:主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/cb/77/113236_crt_2v4T3.jpg)
-
-### 木崎雫:主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/7a/e1/113237_crt_C78i7.jpg)
-
-### 水島雪華:主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/90/fb/113238_crt_XA1hO.jpg)
-
-### 水島慎二:主角
-
-![]()
-
-## Review
-
-## References

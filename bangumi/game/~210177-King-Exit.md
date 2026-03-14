@@ -15,6 +15,8 @@ tags:
 title: King Exit
 type: bangumi/game
 website: ['http://akaimato.blog.fc2.com/blog-entry-185.html', 'https://akamatoghost.wixsite.com/kingexit', 'https://store.steampowered.com/app/712840/King_Exit']
+cssclasses:
+  - table-wide
 ---
 # King Exit
 
@@ -90,65 +92,9 @@ website: ['http://akaimato.blog.fc2.com/blog-entry-185.html', 'https://akamatogh
 
 ## Characters
 
-### ゲオルイース: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/6e/15/73898_crt_1Afci.jpg)
-
-### アーベント: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/1d/46/73899_crt_Bjq4S.jpg)
-
-### ヴルウ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/a1/d5/73900_crt_UYkkS.jpg)
-
-### ベロー: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/90/9a/73901_crt_00833.jpg)
-
-### グイーネ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/18/69/73902_crt_drR4g.jpg)
-
-### スティアラ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/dc/95/73903_crt_WDg5u.jpg)
-
-### ラスター: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/68/cf/73904_crt_f5C26.jpg)
-
-### カラの騎士: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/1a/ab/73905_crt_vU8Uh.jpg)
-
-### サミダレ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/b3/0a/73906_crt_d75Pd.jpg)
-
-### 先輩: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/54/1a/73908_crt_pRIkn.jpg)
-
-### 天下乱: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/2a/39/73909_crt_M186m.jpg)
-
-### クダン: 客串
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/60/11/174700_crt_77VAV.jpg?r=1745526878)
-
-### 残滓トーデイラ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/41/0e/174703_crt_FFRSS.jpg?r=1745526935)
-
-### 残滓スカサハ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/7f/5f/174704_crt_S297s.jpg?r=1745526950)
-
-### 残滓ザナハリー: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/7a/b9/174705_crt_6T99x.jpg?r=1745526970)
+| ゲオルイース: 主角 | アーベント: 配角 | ヴルウ: 配角 | ベロー: 配角 | グイーネ: 主角 | スティアラ: 主角 | ラスター: 配角 | カラの騎士: 配角 | サミダレ: 配角 | 先輩: 配角 | 天下乱: 配角 | クダン: 客串 | 残滓トーデイラ: 配角 | 残滓スカサハ: 配角 | 残滓ザナハリー: 配角 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/6e/15/73898_crt_1Afci.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/1d/46/73899_crt_Bjq4S.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/a1/d5/73900_crt_UYkkS.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/90/9a/73901_crt_00833.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/18/69/73902_crt_drR4g.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/dc/95/73903_crt_WDg5u.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/68/cf/73904_crt_f5C26.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/1a/ab/73905_crt_vU8Uh.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/b3/0a/73906_crt_d75Pd.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/54/1a/73908_crt_pRIkn.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/2a/39/73909_crt_M186m.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/60/11/174700_crt_77VAV.jpg?r=1745526878) | ![](https://lain.bgm.tv/r/400/pic/crt/l/41/0e/174703_crt_FFRSS.jpg?r=1745526935) | ![](https://lain.bgm.tv/r/400/pic/crt/l/7f/5f/174704_crt_S297s.jpg?r=1745526950) | ![](https://lain.bgm.tv/r/400/pic/crt/l/7a/b9/174705_crt_6T99x.jpg?r=1745526970) |
 
 ## Review
 

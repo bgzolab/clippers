@@ -14,6 +14,8 @@ tags:
 title: ROLEPLAYER：小粥姐妹的黏膜游戏！
 type: bangumi/game
 website: ['http://www.akabeesoft2.com/products/roleplayer/index.html']
+cssclasses:
+  - table-wide
 ---
 # ROLEPLAYER：小粥姐妹的黏膜游戏！
 
@@ -41,14 +43,7 @@ website: ['http://www.akabeesoft2.com/products/roleplayer/index.html']
 
 ## Characters
 
-### 小粥聖良: 主角
+| 小粥聖良: 主角 | 小粥莉瑠: 主角 |
+| --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/a8/e4/92974_crt_KKZ6W.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/44/86/92975_crt_TDxm6.jpg) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/a8/e4/92974_crt_KKZ6W.jpg)
-
-### 小粥莉瑠: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/44/86/92975_crt_TDxm6.jpg)
-
-## Review
-
-## References

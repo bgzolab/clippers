@@ -16,6 +16,8 @@ tags:
 title: Rewrite 第二季
 type: bangumi/anime
 website: ['http://www.rewrite-anime.tv/']
+cssclasses:
+  - table-wide
 ---
 # Rewrite 第二季
 
@@ -23,114 +25,7 @@ website: ['http://www.rewrite-anime.tv/']
 
 ## Characters
 
-### 天王寺瑚太朗: 主角
+| 天王寺瑚太朗: 主角 | 神戸小鳥: 配角 | 鳳ちはや: 配角 | 千里朱音: 配角 | 中津静流: 配角 | 此花ルチア: 配角 | 吉野晴彦: 配角 | 鳳咲夜: 配角 | 西九条灯花: 配角 | 篝: 主角 | 神戸理香子: 配角 | 津久野: 配角 | ミドウ: 配角 | 江坂宗源: 配角 | ゲンナジー・エドゥアルトヴィッチ・カワチエーワ: 配角 | 今宮新: 配角 | 浜田みち子: 配角 | 加島桜: 配角 | 洲崎周一郎: 配角 | 神戸圭介: 配角 | マルキュス・ノエ: 配角 | テンマ: 配角 | テンジン: 配角 | ヤスミン: 配角 | 福井子: 配角 | 天王寺数夫: 配角 | 天王寺幸枝: 配角 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/b7/ce/12062_crt_z3PW4.jpg?r=1613867185) | ![](https://lain.bgm.tv/r/400/pic/crt/l/17/4e/12063_crt_v6rzv.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/cb/32/12065_crt_wFLhM.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/a1/4b/12072_crt_Yb0ur.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/af/dd/12074_crt_GH9Gc.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/f0/5c/12082_crt_rX86J.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ff/21/12083_crt_656p9.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/99/3e/12085_crt_Wb1Io.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/13/35/12086_crt_af3y7.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/08/ed/13111_crt_TtFTy.jpg?r=1613866866) | ![](https://lain.bgm.tv/r/400/pic/crt/l/22/eb/43025_crt_ohIWR.jpg?r=1467493844) | ![](https://lain.bgm.tv/r/400/pic/crt/l/75/bc/43441_crt_v1X93.jpg?r=1468741456) | ![](https://lain.bgm.tv/r/400/pic/crt/l/15/8e/43442_crt_uEkYE.jpg?r=1472373391) | ![](https://lain.bgm.tv/r/400/pic/crt/l/a5/e2/43443_crt_DmzRg.jpg?r=1468742589) | ![](https://lain.bgm.tv/r/400/pic/crt/l/1d/9e/43444_crt_5VyKT.jpg?r=1468742724) | ![](https://lain.bgm.tv/r/400/pic/crt/l/5c/aa/43639_crt_zz3YP.jpg?r=1469444271) | ![](https://lain.bgm.tv/r/400/pic/crt/l/5e/c5/44104_crt_10P99.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/2b/14/44756_crt_W5KjA.jpg?r=1471918786) | ![](https://lain.bgm.tv/r/400/pic/crt/l/bb/53/44759_crt_Kf6Q4.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/18/72/46433_crt_dcnOt.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/50/90/46439_crt_zVVLQ.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/14/46442_crt_8h999.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/4a/48/46443_crt_l866N.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e0/26/46444_crt_DVYg9.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/5c/4b/51043_crt_d58KD.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/9f/fc/51048_crt_XAz25.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c9/10/51050_crt_D8XjP.jpg) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/b7/ce/12062_crt_z3PW4.jpg?r=1613867185)
-
-### 神戸小鳥: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/17/4e/12063_crt_v6rzv.jpg)
-
-### 鳳ちはや: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/cb/32/12065_crt_wFLhM.jpg)
-
-### 千里朱音: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/a1/4b/12072_crt_Yb0ur.jpg)
-
-### 中津静流: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/af/dd/12074_crt_GH9Gc.jpg)
-
-### 此花ルチア: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/f0/5c/12082_crt_rX86J.jpg)
-
-### 吉野晴彦: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/ff/21/12083_crt_656p9.jpg)
-
-### 鳳咲夜: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/99/3e/12085_crt_Wb1Io.jpg)
-
-### 西九条灯花: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/13/35/12086_crt_af3y7.jpg)
-
-### 篝: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/08/ed/13111_crt_TtFTy.jpg?r=1613866866)
-
-### 神戸理香子: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/22/eb/43025_crt_ohIWR.jpg?r=1467493844)
-
-### 津久野: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/75/bc/43441_crt_v1X93.jpg?r=1468741456)
-
-### ミドウ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/15/8e/43442_crt_uEkYE.jpg?r=1472373391)
-
-### 江坂宗源: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/a5/e2/43443_crt_DmzRg.jpg?r=1468742589)
-
-### ゲンナジー・エドゥアルトヴィッチ・カワチエーワ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/1d/9e/43444_crt_5VyKT.jpg?r=1468742724)
-
-### 今宮新: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/5c/aa/43639_crt_zz3YP.jpg?r=1469444271)
-
-### 浜田みち子: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/5e/c5/44104_crt_10P99.jpg)
-
-### 加島桜: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/2b/14/44756_crt_W5KjA.jpg?r=1471918786)
-
-### 洲崎周一郎: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/bb/53/44759_crt_Kf6Q4.jpg)
-
-### 神戸圭介: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/18/72/46433_crt_dcnOt.jpg)
-
-### マルキュス・ノエ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/50/90/46439_crt_zVVLQ.jpg)
-
-### テンマ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/32/14/46442_crt_8h999.jpg)
-
-### テンジン: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/4a/48/46443_crt_l866N.jpg)
-
-### ヤスミン: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/e0/26/46444_crt_DVYg9.jpg)
-
-### 福井子: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/5c/4b/51043_crt_d58KD.jpg)
-
-### 天王寺数夫: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/9f/fc/51048_crt_XAz25.jpg)
-
-### 天王寺幸枝: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/c9/10/51050_crt_D8XjP.jpg)
-
-## Review
-
-## References

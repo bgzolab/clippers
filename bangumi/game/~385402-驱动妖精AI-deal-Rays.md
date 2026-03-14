@@ -14,6 +14,8 @@ tags:
 title: 驱动妖精 AI-deal-Rays
 type: bangumi/game
 website: []
+cssclasses:
+  - table-wide
 ---
 # 驱动妖精 AI-deal-Rays
 
@@ -57,14 +59,7 @@ website: []
 
 ## Characters
 
-### AI-deal: 主角
+| AI-deal: 主角 | RAY-Ared: 主角 |
+| --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/3e/b1/111214_crt_M26ME.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/8a/dd/138335_crt_50F40.jpg?r=1695032304) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/3e/b1/111214_crt_M26ME.jpg)
-
-### RAY-Ared: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/8a/dd/138335_crt_50F40.jpg?r=1695032304)
-
-## Review
-
-## References

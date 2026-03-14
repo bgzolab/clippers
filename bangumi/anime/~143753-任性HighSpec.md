@@ -15,6 +15,8 @@ tags:
 title: 任性 HighSpec
 type: bangumi/anime
 website: ['http://whanime.com/']
+cssclasses:
+  - table-wide
 ---
 # 任性 HighSpec
 
@@ -24,26 +26,7 @@ website: ['http://whanime.com/']
 
 ## Characters
 
-### 鹿苑寺かおるこ: 主角
+| 鹿苑寺かおるこ: 主角 | 桜木・R・アーシェ: 主角 | 鳴海兎亜: 主角 | 宮瀬未尋: 主角 |
+| --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/cf/37/35574_crt_v5Ul5.jpg?r=1459068586) | ![](https://lain.bgm.tv/r/400/pic/crt/l/9f/4e/35575_crt_R6jpC.jpg?r=1459068618) | ![](https://lain.bgm.tv/r/400/pic/crt/l/02/58/35576_crt_78tyG.jpg?r=1459068641) | ![](https://lain.bgm.tv/r/400/pic/crt/l/af/d7/35577_crt_2cIIc.jpg?r=1459068679) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/cf/37/35574_crt_v5Ul5.jpg?r=1459068586)
-
-### 桜木・R・アーシェ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/9f/4e/35575_crt_R6jpC.jpg?r=1459068618)
-
-### 鳴海兎亜: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/02/58/35576_crt_78tyG.jpg?r=1459068641)
-
-### 宮瀬未尋: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/af/d7/35577_crt_2cIIc.jpg?r=1459068679)
-
-### 鳴海幸樹: 主角
-
-![]()
-
-## Review
-
-## References

@@ -15,6 +15,8 @@ tags:
 title: Little Busters!
 type: bangumi/anime
 website: ['http://www.litbus-anime.com/']
+cssclasses:
+  - table-wide
 ---
 # Little Busters!
 
@@ -28,78 +30,7 @@ website: ['http://www.litbus-anime.com/']
 
 ## Characters
 
-### 直枝理樹: 主角
+| 直枝理樹: 主角 | 神北小毬: 主角 | 棗鈴: 主角 | 三枝葉留佳: 主角 | 能美クドリャフカ: 主角 | 来ヶ谷唯湖: 配角 | 西園美魚: 主角 | 棗恭介: 主角 | 井ノ原真人: 配角 | 宮沢謙吾: 配角 | 二木佳奈多: 配角 | 笹瀬川佐々美: 配角 | モブキャラクター: | アナウンス: | 女子生徒: | 男子生徒: | あーちゃん先輩: 配角 | 杉並睦実: 配角 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/f7/c2/357_crt_4H84e.jpg?r=1547698119) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ac/ef/358_crt_375d8.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/28/db/359_crt_dey3X.jpg?r=1382267378) | ![](https://lain.bgm.tv/r/400/pic/crt/l/68/82/360_crt_4glWd.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/03/ea/361_crt_u3kci.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/dc/e6/362_crt_BUXKJ.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/99/3f/363_crt_vwwLR.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/77/19/364_crt_sTXyb.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c3/f0/365_crt_0Fp2y.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e1/6a/366_crt_e22pK.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/f6/5e/367_crt_2TrCr.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/09/59/368_crt_9Nc9D.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/1d/85/17529_crt_0dRZE.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/70/d8/28115_crt_vL10O.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/68/a8/34143_crt_Z34RP.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/31/7c/35639_crt_6V5dn.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/cd/ec/54491_crt_3Dt8A.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c5/a3/54492_crt_ZoMom.jpg) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/f7/c2/357_crt_4H84e.jpg?r=1547698119)
-
-### 神北小毬: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/ac/ef/358_crt_375d8.jpg)
-
-### 棗鈴: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/28/db/359_crt_dey3X.jpg?r=1382267378)
-
-### 三枝葉留佳: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/68/82/360_crt_4glWd.jpg)
-
-### 能美クドリャフカ: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/03/ea/361_crt_u3kci.jpg)
-
-### 来ヶ谷唯湖: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/dc/e6/362_crt_BUXKJ.jpg)
-
-### 西園美魚: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/99/3f/363_crt_vwwLR.jpg)
-
-### 棗恭介: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/77/19/364_crt_sTXyb.jpg)
-
-### 井ノ原真人: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/c3/f0/365_crt_0Fp2y.jpg)
-
-### 宮沢謙吾: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/e1/6a/366_crt_e22pK.jpg)
-
-### 二木佳奈多: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/f6/5e/367_crt_2TrCr.jpg)
-
-### 笹瀬川佐々美: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/09/59/368_crt_9Nc9D.jpg)
-
-### モブキャラクター:
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/1d/85/17529_crt_0dRZE.jpg)
-
-### アナウンス:
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/70/d8/28115_crt_vL10O.jpg)
-
-### 女子生徒:
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/68/a8/34143_crt_Z34RP.jpg)
-
-### 男子生徒:
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/31/7c/35639_crt_6V5dn.jpg)
-
-### あーちゃん先輩: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/cd/ec/54491_crt_3Dt8A.jpg)
-
-### 杉並睦実: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/c5/a3/54492_crt_ZoMom.jpg)
-
-## Review
-
-## References

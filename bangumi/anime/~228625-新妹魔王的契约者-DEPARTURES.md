@@ -15,6 +15,8 @@ tags:
 title: 新妹魔王的契约者 DEPARTURES
 type: bangumi/anime
 website: ['http://anime-shinmaimaou.com/']
+cssclasses:
+  - table-wide
 ---
 # 新妹魔王的契约者 DEPARTURES
 
@@ -24,70 +26,7 @@ website: ['http://anime-shinmaimaou.com/']
 
 ## Characters
 
-### モブキャラクター:
+| モブキャラクター: | 東城刃更: 主角 | 成瀬澪: 主角 | 成瀬万理亜: 主角 | 野中柚希: 主角 | 長谷川千里: 主角 | 滝川八尋: 配角 | 野中胡桃: 主角 | ゼスト: 主角 | 斯波恭一: 客串 | シェーラ: 配角 | 梶浦立華: 配角 | 橘七緒: 配角 | ルキア: 配角 | ラムサス: 配角 | セリス·レイドハート: 客串 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/r/400/pic/crt/l/1d/85/17529_crt_0dRZE.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/bc/60/28762_crt_ClM3O.jpg?r=1428501415) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e9/cf/28764_crt_czNcu.jpg?r=1753619678) | ![](https://lain.bgm.tv/r/400/pic/crt/l/b7/10/28766_crt_q0cQH.jpg?r=1420728995) | ![](https://lain.bgm.tv/r/400/pic/crt/l/bb/9b/28767_crt_9f11j.jpg?r=1438666044) | ![](https://lain.bgm.tv/r/400/pic/crt/l/f6/2c/28769_crt_TT2AZ.jpg?r=1420730812) | ![](https://lain.bgm.tv/r/400/pic/crt/l/38/aa/29064_crt_tObh3.jpg?r=1428501660) | ![](https://lain.bgm.tv/r/400/pic/crt/l/0f/9e/29345_crt_eU1yn.jpg?r=1438666076) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d2/2f/29346_crt_Ws0pC.jpg?r=1438666358) | ![](https://lain.bgm.tv/r/400/pic/crt/l/1e/09/34679_crt_O47Kf.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/bf/d3/111345_crt_eQwe8.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/7e/49/111348_crt_yhWrm.jpg?r=1753620092) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/62/111356_crt_KySyw.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/7c/89/111396_crt_22cbk.jpg?r=1753632699) | ![](https://lain.bgm.tv/r/400/pic/crt/l/27/44/111399_crt_8zpk2.jpg?r=1753629532) | ![](https://lain.bgm.tv/r/400/pic/crt/l/7c/7d/125214_crt_R1r19.jpg) |
 
-![](https://lain.bgm.tv/r/400/pic/crt/l/1d/85/17529_crt_0dRZE.jpg)
-
-### 東城刃更: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/bc/60/28762_crt_ClM3O.jpg?r=1428501415)
-
-### 成瀬澪: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/e9/cf/28764_crt_czNcu.jpg?r=1753619678)
-
-### 成瀬万理亜: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/b7/10/28766_crt_q0cQH.jpg?r=1420728995)
-
-### 野中柚希: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/bb/9b/28767_crt_9f11j.jpg?r=1438666044)
-
-### 長谷川千里: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/f6/2c/28769_crt_TT2AZ.jpg?r=1420730812)
-
-### 滝川八尋: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/38/aa/29064_crt_tObh3.jpg?r=1428501660)
-
-### 野中胡桃: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/0f/9e/29345_crt_eU1yn.jpg?r=1438666076)
-
-### ゼスト: 主角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/d2/2f/29346_crt_Ws0pC.jpg?r=1438666358)
-
-### 斯波恭一: 客串
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/1e/09/34679_crt_O47Kf.jpg)
-
-### シェーラ: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/bf/d3/111345_crt_eQwe8.jpg)
-
-### 梶浦立華: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/7e/49/111348_crt_yhWrm.jpg?r=1753620092)
-
-### 橘七緒: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/d5/62/111356_crt_KySyw.jpg)
-
-### ルキア: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/7c/89/111396_crt_22cbk.jpg?r=1753632699)
-
-### ラムサス: 配角
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/27/44/111399_crt_8zpk2.jpg?r=1753629532)
-
-### セリス·レイドハート: 客串
-
-![](https://lain.bgm.tv/r/400/pic/crt/l/7c/7d/125214_crt_R1r19.jpg)
-
-## Review
-
-## References
