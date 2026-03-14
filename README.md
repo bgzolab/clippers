@@ -79,9 +79,6 @@ rsync -avz --progress --delete bgzo@192.168.31.20:/home/bgzo/workspaces/telegram
 
 ## Schema
 
-1. 
-
-
-Name should be with prefix '~'
-2. 
+1. Filename should be with prefix '~'
+2. Use tags to replace unnessary priority
 
