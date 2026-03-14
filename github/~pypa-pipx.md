@@ -20,7 +20,7 @@ title: Pipx
 
 ![[install-pip-package-global#pypa-pipx pipx]]
 
-## 环境隔离原理 #ai/chatGPT
+## 环境隔离原理 #llm/chatgpt
 
 1. **每个应用独立的虚拟环境**：pipx 在 ~/.local/pipx/venvs/ 目录下为每个安装的应用创建一个独立的 **virtualenv**（Python 虚拟环境）。这样，每个工具的依赖不会相互影响，避免了 Python 依赖冲突。
 2. **使用 python -m venv**：pipx 依赖 venv 模块创建独立的 Python 虚拟环境，而不是全局安装工具。这类似于 virtualenv，但 venv 是 Python 自带的模块。
@@ -28,7 +28,7 @@ title: Pipx
 4. **自动管理 Python 版本**：pipx 允许使用不同的 Python 版本运行工具，比如 pipx install --python python3.9 some-tool，这样可以确保工具使用指定的 Python 版本，不受系统 Python 版本变化的影响。
 5. **支持临时运行 (run 命令)**：pipx run some-tool 会在临时目录中创建一个虚拟环境，并在执行后自动删除，确保不污染已有环境。
 
-## 运行 ` pipx install ` 会自动创建 Venv 环境 #ai/chatGPT
+## 运行 ` pipx install ` 会自动创建 Venv 环境 #llm/chatgpt
 
 1. **检查是否已有 venv**（默认在 ~/.local/pipx/venvs/some-tool/）：
     1. 如果 venv 已存在，则直接使用。

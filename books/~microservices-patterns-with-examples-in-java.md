@@ -243,7 +243,7 @@ weread:
                 > For example, we might identify subdomains such as search, checkout, and delivery within the domain of the e-commerce website.
                 > Then, we would design services that correspond to each of these subdomains, such as a search service for handling product searches, a checkout service for handling purchases, and a delivery service for handling product deliveries.
                 > This approach would allow us to manage and use these services in a way that is aligned with the subdomains of the domain, and it could potentially improve the efficiency of the e-commerce website.
-                > #ai/chatGPT
+                > #llm/chatgpt
                 >
         - 3.定义服务 API 和协作方式
           - 将 1 中标识的每个系统操作分配给服务
@@ -264,7 +264,7 @@ weread:
               - 它广泛应用在整个应用程序中
                 - 使用领域驱动设计中的概念来消除上帝类
                   - > This means defining clear boundaries for different parts of the system and the language used to describe them. This can help to prevent a single class from becoming overly large and unmanageable. Additionally, using the concept of aggregation and small, focused classes can also help to prevent the formation of a God class.
-                    > #ai/chatGPT
+                    > #llm/chatgpt
                     >
       - 2.2.1 识别系统操作
         - 两步式流程识别和定义系统操作
@@ -395,7 +395,7 @@ weread:
                   - 客户端发布请求消息，然后等待从感兴趣的服务发回的响应
                 - ((639a859b-7b56-4a36-a5db-f8d4d8cead03)) #vs ((32f50700-a0b4-48b9-9cde-f847149926d4))
                   -                    > in the publish/subscribe model, subscribers do not need to provide a callback address to the message broker. Instead, they simply subscribe to messages of a certain type and the message broker will notify them when a relevant message is received. In contrast, in the publish/asynchronous response model, subscribers must provide a callback address to the message broker, allowing the message broker to send messages directly to the subscriber's callback address when a relevant message is received. This allows subscribers to receive messages asynchronously, potentially improving the overall throughput of the system.
-                    > #ai/chatGPT
+                    > #llm/chatgpt
                     >
                     - Callback function
                       - > A callback function is a function that is passed as an argument to another function and is executed after some kind of event or action occurs. Callback functions are important because they allow for asynchronous programming, allowing a program to continue running without being blocked while waiting for some other action to complete. In this way, callback functions can help improve the performance and responsiveness of a program.
@@ -463,7 +463,7 @@ weread:
         - 该类通过接口调用服务的业务逻辑。
           - 然后它将回复发送回远程过程调用代理，该代理将结果返回给客户端的业务逻辑
         - 客户端使用同步的远程过程调用协议（如 REST ) 来调用服务 [参阅](https://microservices.io/patterns/communication-style/messaging.html)
-          RPI === Command Pattern ((63959dcc-1bd8-4fc7-b337-6123a2911057)) thx #ai/chatGPT
+          RPI === Command Pattern ((63959dcc-1bd8-4fc7-b337-6123a2911057)) thx #llm/chatgpt
           - Pattern: Messaging
 ```java
               public class OrderService {
@@ -539,7 +539,7 @@ weread:
                 - 基本思想是在由 GET 请求返回的资源信息中包含链接，这些链接能够执行该资源允许的操作
                   - 例如，客户端通过订单资源中包含的链接取消某一订单，或者发送 GET 请求去获取该订单，等等
                 - server provides links to resources in its responses, allowing the client to discover and navigate the API without prior knowledge of the API's structure.
-                  #ai/chatGPT
+                  #llm/chatgpt
 ```java
                     // The Book class represents a resource in the API
                     public class Book {
@@ -622,7 +622,7 @@ weread:
           #google
           - > API-first design is a software design approach in which an application programming interface (API) is designed and developed first, before the actual implementation of the application. This approach is often used in the development of web-based applications, particularly those that will be consumed by other developers or businesses through an API.
             > An example of API-first design might be the development of a customer relationship management (CRM) system that is intended to be used by other businesses through an API. The developers of the CRM system would first design and document the API, outlining the various endpoints, input parameters, and output formats that would be available to consumers of the API. They would then implement the actual CRM system, ensuring that it is designed in a way that aligns with the API they have already designed. This approach allows the developers to focus on the functionality of the CRM system, while also ensuring that it can be easily consumed and integrated with other systems through the API.
-            > #ai/chatGPT
+            > #llm/chatgpt
             >
         - gRPC API
           - 可以使用基于 Protocol Buffer 的 IDL 定义 gRPC API
@@ -685,7 +685,7 @@ weread:
           }
 ```
           This example shows a simple gRPC client that sends a request to a server to say hello. The server's response is then printed to the console. This example demonstrates how to mark:  a gRPC service, generate the necessary stubs and interfaces using the Protocol Buffers compiler, and implement a client that can communicate with the server using the gRPC API.
-          #ai/chatGPT
+          #llm/chatgpt
           --------
       - 3.2.3 使用断路器模式处理局部故障
         - 断路器模式
