@@ -16,4 +16,4 @@ tags:
 
 ## Notes
 
-插件 via: [[Theblockbuster1-spicetify-extensions]]
+插件 via: [[~Theblockbuster1-spicetify-extensions]]

@@ -42,7 +42,7 @@ via: https://picgo.github.io/PicGo-Doc/en/guide/config.html#basic-operations
 
 ## 手机端参数生成
 
-如果你想在手机上使用 PicGo，可以安装 [[PicGo-flutter-picgo]]
+如果你想在手机上使用 PicGo，可以安装 [[~PicGo-flutter-picgo]]
 
 可以通过点击主窗口左下角信息栏按钮，找到「生成图床配置二维码」菜单
 

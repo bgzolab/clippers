@@ -16,4 +16,4 @@ tags:
 
 ## Notes
 
-[[ankitects-anki]]
+[[~ankitects-anki]]

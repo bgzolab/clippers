@@ -22,7 +22,7 @@ wikipedia: https://en.wikipedia.org/wiki/Anki_(software)
 
 - I was used to blame my hobbies except the study for forgotten knowledge in the past. And basically I picked up a wrong story from the first.
 - Now I have to recongnize, the forgetting things is prefactly normal, there's no bad habbies in judgement, only whether you like it or not!
-- So Anki is a power tool to help us to remember the knowledge. IDK how long [[logseq-logseq]] had worked for this, so I rather to use Anki again. (View some ((6469b1b9-9a75-4610-8580-1a049b7fed1d)) to interduce it)
+- So Anki is a power tool to help us to remember the knowledge. IDK how long [[~logseq-logseq]] had worked for this, so I rather to use Anki again. (View some ((6469b1b9-9a75-4610-8580-1a049b7fed1d)) to interduce it)
 
 ## How
 

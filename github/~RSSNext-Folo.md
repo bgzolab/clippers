@@ -26,7 +26,7 @@ tags:
 <iframe src='https://github.com/RSSNext/Folo/issues/2360' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>
 <center>via: <a href='https://github.com/RSSNext/Folo/issues/2360' target='_blank' class='external-link'>https://github.com/RSSNext/Folo/issues/2360</a></center>
 
-其实还挺让人失望的，我一直以为把 [[DIYgod-RSSHub|RSSHub]] 嵌入到 RSS 阅读器，做一个无服务的应用是一个非常棒的想法，但是实际情况就是不可能，还是得把区块钱那套玩意融进去。要不然开发者投入至今的所有东西，怎么变现？
+其实还挺让人失望的，我一直以为把 [[~DIYgod-RSSHub|RSSHub]] 嵌入到 RSS 阅读器，做一个无服务的应用是一个非常棒的想法，但是实际情况就是不可能，还是得把区块钱那套玩意融进去。要不然开发者投入至今的所有东西，怎么变现？
 
 <iframe src='https://github.com/RSSNext/Folo/pull/2631' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>
 <center>via: <a href='https://github.com/RSSNext/Folo/pull/2631' target='_blank' class='external-link'>https://github.com/RSSNext/Folo/pull/2631</a></center>

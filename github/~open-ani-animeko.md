@@ -25,7 +25,7 @@ Mac 上面点了也没用，笑死了
 <iframe src='http://github.com/open-ani/animeko/issues/341' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>
 <center>via: <a href='github.com/open-ani/animeko/issues/341' target='_blank' class='external-link'>github.com/open-ani/animeko/issues/341</a></center>
 
-## #issue 超分 like [[Predidit-Kazumi|Kazumi]]
+## #issue 超分 like [[~Predidit-Kazumi|Kazumi]]
 
 <iframe src='https://github.com/open-ani/animeko/issues/1054' style='height:40vh;width:100%' class='iframe-radius' allow='fullscreen'></iframe>
 <center>via: <a href='https://github.com/open-ani/animeko/issues/1054' target='_blank' class='external-link'>https://github.com/open-ani/animeko/issues/1054</a></center>

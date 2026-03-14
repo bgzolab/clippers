@@ -25,4 +25,4 @@ type: repo
 > Important note: Kiwi Browser is now archived. It will no longer be maintained after January 2025.
 > To support users who rely on extensions, we've partnered with the Microsoft Edge team to offer a smooth migration path.
 >
-> 替代品：[[uazo-cromite|Cromite]]
+> 替代品：[[~uazo-cromite|Cromite]]

@@ -64,7 +64,7 @@ In venv environment, you could run command directly:
 poetry install .
 ```
 
-But If you want install globally and test, recommend you using [[pypa-pipx|pipx]]
+But If you want install globally and test, recommend you using [[~pypa-pipx|pipx]]
 
 ```shell
 deactivate

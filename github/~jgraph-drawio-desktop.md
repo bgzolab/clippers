@@ -16,7 +16,7 @@ tags:
 
 ## Notes
 
-### Core -> [[jgraph-drawio]]
+### Core -> [[~jgraph-drawio]]
 
 - 主要的源代码仓库是： [https://github.com/jgraph/drawio](https://github.com/jgraph/drawio)
 - 此外，draw.io 还在其他仓库中维护一些特定的功能和组件。例如，另一个相关的仓库是：[https://github.com/jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)

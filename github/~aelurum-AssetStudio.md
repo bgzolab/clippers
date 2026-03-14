@@ -16,4 +16,4 @@ tags:
 
 ## Notes
 
-from [[Perfare-AssetStudio]]
+from [[~Perfare-AssetStudio]]

@@ -16,4 +16,4 @@ tags:
 
 ## Notes
 
-手机 [[termux-termux-app]]
+手机 [[~termux-termux-app]]

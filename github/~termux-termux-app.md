@@ -30,7 +30,7 @@ type: repo
 
 ### 模拟 Ubuntu (获取 ROOT)
 
-- [[2moe-tmoe]]
+- [[~2moe-tmoe]]
 
 ### Init History
 

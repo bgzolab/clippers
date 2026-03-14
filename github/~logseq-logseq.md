@@ -24,7 +24,7 @@ type: repo
 
 ## Why
 
-Basically, it's better that encoding with txt and search in [[microsoft-vscode]]. I used it in the past but I was dropped in the category hell. When I finish a note last two months, and I have no idea where are they stored. The category I organized is terrible. And the LS gives us a vision we could organize. I like it.
+Basically, it's better that encoding with txt and search in [[~microsoft-vscode]]. I used it in the past but I was dropped in the category hell. When I finish a note last two months, and I have no idea where are they stored. The category I organized is terrible. And the LS gives us a vision we could organize. I like it.
 
 - Journals in each day
 - Using bi-directional links and graph to connect.
