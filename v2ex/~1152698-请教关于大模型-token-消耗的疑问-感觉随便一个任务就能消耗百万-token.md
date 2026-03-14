@@ -1,0 +1,13 @@
+---
+comments: true
+created: '2025-08-15T16:52:24'
+draft: true
+modified: '2025-08-15T16:52:24'
+source: https://www.v2ex.com/t/1152698
+title: 请教关于大模型 token 消耗的疑问，感觉随便一个任务就能消耗百万 token
+type: archive-web
+---
+
+最近在用一些国产大模型 API ，感觉效果比 trae 官方的效果好很多，又快又好。所以是不是 trae 一些官方接入的模型，上下文被严重压缩了，以至于用起来降智特别严重。
+
+另一个问题是，它的思考过程，是不是有可能会把整个项目文档作为输入去思考，所以一个问题直接消耗百万 token ？

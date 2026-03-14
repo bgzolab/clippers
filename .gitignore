@@ -36,3 +36,6 @@ logseq-pdf-file/
 .env
 
 snipd-official-TEST/*
+
+# 同步文件夹
+newsletters/sync/logs/
