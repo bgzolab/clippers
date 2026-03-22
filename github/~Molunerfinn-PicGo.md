@@ -20,7 +20,7 @@ status:
 
 ## Backup commandline
 
-### [[windows]]
+### [[how-to-setup-a-new-windows]]
 
 ```
 %APPDATA%\picgo\data.json

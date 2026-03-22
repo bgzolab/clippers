@@ -80,5 +80,17 @@ rsync -avz --progress --delete bgzo@192.168.31.20:/home/bgzo/workspaces/telegram
 ## Schema
 
 1. Filename should be with prefix '~'
-2. Use tags to replace unnessary priority
+2. Use tags to replace unnessary priority like type
+3. Those priority should be in the front of filename, which is easier to sort and filter, and also more readable. 
+
+```yaml 
+title:   # Title of the article
+aliases: # Aliases of the article
+created: # Creation date of the article
+modified: # Last modified date of the article
+comments: true # Whether to enable comments for the article, for quartz publish workflow
+draft: true # Whether the article is a draft, for quartz publish workflow
+description: # A brief description of the article, for quartz publish workflow
+tags: [] # A list of tags for the article.
+```
 

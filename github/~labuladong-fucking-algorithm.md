@@ -3,7 +3,6 @@ draft: true
 title: labuladong/fucking-algorithm
 aliases: fucking-algorithm
 created: 2025-04-03T23:53:06
-  - - 20221204
 modified: 2025-04-03T23:53:58
 description: 刷算法全靠套路
 source: https://github.com/labuladong/fucking-algorithm
