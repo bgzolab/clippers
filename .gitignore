@@ -43,3 +43,6 @@ newsletters/sync/logs/
 # 聊天文件，暂不公开
 chat/
 
+# 药片
+pills/
+
