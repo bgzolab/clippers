@@ -6,7 +6,6 @@ aliases:
 created: 2025-01-15T10:44:29
 
 modified: 2025-01-15T10:44:50
-description: 
 difficulty: medium
 tags: 
 type: programming-problem

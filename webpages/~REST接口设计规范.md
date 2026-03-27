@@ -6,7 +6,6 @@ created: 2025-04-05T15:50:56
 modified: 2026-03-09T20:53:26
 comments: true
 draft: true
-description: 
 source: https://wangwei.info/about-rest-api/
 tags: []
 type: archive-web

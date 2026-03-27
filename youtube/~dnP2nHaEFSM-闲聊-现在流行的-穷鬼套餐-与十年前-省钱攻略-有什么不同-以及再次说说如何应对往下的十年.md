@@ -7,7 +7,6 @@ author:
 created: 2025-03-11T21:35:04
 modified: 2025-03-11T21:35:04
 published: 2024-08-21T14:04:37
-description:
 source: "https://www.youtube.com/watch?v=dnP2nHaEFSM"
 tags:
   - video/youtube

@@ -6,7 +6,6 @@ created: 2026-03-26T22:29:57
 modified: 2026-03-26T22:30:32
 comments: true
 draft: true
-description:
 source: "https://wangdoc.com/javascript/"
 tags: []
 type: "archive-web"

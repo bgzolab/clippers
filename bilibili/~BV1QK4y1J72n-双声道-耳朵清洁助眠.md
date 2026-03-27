@@ -3,7 +3,6 @@ author: まこと-macoto官方
 comments: true
 cover: http://i0.hdslb.com/bfs/archive/2928889be2294078990f4c5d275553c909155a05.jpg
 created: '2025-12-28T23:19:23'
-description: ''
 draft: true
 modified: '2025-12-28T23:19:23'
 published: '2021-03-09T20:05:26'

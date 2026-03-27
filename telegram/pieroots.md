@@ -90,7 +90,6 @@ tags: \#card \#word-root
 
 references: [ampli-, ampl- - Word Information](https://wordinfo.info/unit/113)
 
-description:
 
 ample (adjective); ampler, more ample; amplest, most ample | 寬
 
@@ -118,7 +117,6 @@ tags: \#card \#word-root
 
 references: [capit-, capt-, cap-, cep-, ceps-, chapt-, chef, cip- - Word Information](https://wordinfo.info/unit/370)
 
-description:
 
 > When the French *borrowed words*(借用单词) from Latin, they frequently used soft sounds. These French words, with their softer sounds, then made their way into the English language. At the same time, English borrowed words directly from Latin. So it is that in English we often have two words which share the same root, but which have different, though related, forms and meanings.
 via: [capit-, capt-, cap-, cep-, ceps-, chapt-, chef, cip- - Word Information](https://wordinfo.info/unit/370)
@@ -228,7 +226,6 @@ tags: \#card \#word-root
 
 references: [gno-, gnos-, gnoto-, -gnostic, -gnosia, -gnomic, -gnomonic, -gnomical, -gnomy, -gnosia, -gnostic, -gnosis - Word Information](https://wordinfo.info/unit/929/s:ignore)
 
-description:
 
 cognizance (KAHG ni zuhns) (s) (noun), cognizances (pl) | 認知
 

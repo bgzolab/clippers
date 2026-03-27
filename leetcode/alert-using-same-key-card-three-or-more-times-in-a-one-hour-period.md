@@ -7,7 +7,6 @@ title: alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
 aliases:
   - alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
 modified: 2025-01-16T21:37:52
-description: 
 tags:
 ---
 ## Description

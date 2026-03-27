@@ -7,7 +7,6 @@ aliases:
 released: 
 created: 2025-05-31T18:37:08
 modified: 2025-05-31T18:37:08
-description: 
 tags: 
 type: artist/music
 ---
