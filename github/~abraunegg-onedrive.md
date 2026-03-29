@@ -64,8 +64,7 @@ via: https://github.com/abraunegg/onedrive/blob/master/docs/ubuntu-package-insta
 ### Auth
 
 ```shell
-~/Onedrive > onedrive                                                                                            
-WARNING: D-Bus message bus daemon is not available; GUI notifications are disabled
+~/Onedrive > onedriveWARNING: D-Bus message bus daemon is not available; GUI notifications are disabled
 
 WARNING: Your cURL/libcurl version (8.5.0) has known HTTP/2 bugs that impact the use of this client.
          Please report this to your distribution, requesting an update to a newer cURL version, or consider upgrading it yourself for optimal stability.

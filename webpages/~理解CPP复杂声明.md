@@ -264,14 +264,9 @@ The following examples should make it clear:
 [![](http://www.codeproject.com/images/minus.gif)](http://www.codeproject.com/images/minus.gif) Collapse | [Copy Code](https://www.cnblogs.com/answeryi/archive/2012/07/30/#)
 
 ```
-float ( * ( *b()) [] )();                                                                                            
-void * ( *c) ( char, int (*)());                                                                                                                                                                                                                                                 
-void ** (*d) (int &, 
-  char **(*)(char *, char **));                                                                                                                                                                                                                                                                                                                                
-float ( * ( * e[10]) 
-    (int &) ) [5];                                                                                                                                                                                
-```                                                                                                                                                                                
-
+float ( * ( *b()) [] )();void * ( *c) ( char, int (*)());                                                                                                                                                     void ** (*d) (int &, 
+  char **(*)(char *, char **));                                                                                                                                                                                                                                    float ( * ( * e[10]) 
+    (int &) ) [5];                                                                                    ```                                                                                    
 [\[Back to contents\]](https://www.cnblogs.com/answeryi/archive/2012/07/30/#contents)
 
 ## Suggested reading
