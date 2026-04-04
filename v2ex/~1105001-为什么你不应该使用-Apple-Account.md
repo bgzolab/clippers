@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-01-14T14:51:20'
-draft: true
 modified: '2025-01-14T14:52:33'
 source: https://www.v2ex.com/t/1105001
 title: 为什么你不应该使用 Apple Account

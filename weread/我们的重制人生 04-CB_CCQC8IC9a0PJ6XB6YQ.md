@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_An71Kn1O0EV46RS6QC_parsecover
 progress: "-1"
 readingTime: NaN小时NaN分钟
 readingDate: Invalid date
-draft: true
 title: 我们的重制人生 04
 published:
 isbn:

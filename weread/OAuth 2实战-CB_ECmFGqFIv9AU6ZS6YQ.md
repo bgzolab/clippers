@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_7ksD5CD4sDyP6Vx6UR_parsecover
 progress: 14%
 readingTime: 0小时45分钟
 readingDate: 1970-01-01
-draft: true
 title: OAuth 2实战
 published:
 isbn:
@@ -222,4 +221,3 @@ weread: https://weread.qq.com/web/reader/ce4429e2a43425f45436d464771464976394155
 ## 附录 A　代码框架介绍
 
 ## 附录 B　补充代码清单
-

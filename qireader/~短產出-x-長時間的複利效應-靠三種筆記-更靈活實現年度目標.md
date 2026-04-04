@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-27T09:27:08'
-draft: true
 modified: '2025-11-27T09:27:08'
 source: http://www.playpcesor.com/2025/11/x.html
 title: 短產出 x 長時間的複利效應：靠三種筆記，更靈活實現年度目標

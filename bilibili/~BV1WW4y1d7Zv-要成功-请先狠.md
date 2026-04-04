@@ -1,10 +1,8 @@
 ---
 author: 绞尽脑汁地想昵称
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/ba2496f11fdca2076b3f5add5ea2d09b0453e1c9.jpg
 created: '2023-07-22T19:42:07'
 description: '-'
-draft: true
 modified: '2023-07-22T19:42:07'
 published: '2023-07-18T18:53:13'
 source: https://www.bilibili.com/video/BV1WW4y1d7Zv

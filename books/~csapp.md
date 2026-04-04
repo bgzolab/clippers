@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: books/深入理解计算机系统
 tags: #CMU
 author: Randal E.Bryant, David O'Hallaron

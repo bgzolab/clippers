@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - IFW 是什么？
 created: 2025-07-19T12:35:39

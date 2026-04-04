@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Aemulo/Release"
 aliases: "Release"
 created: 2025-05-02T21:34:04
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Aemulo&repo=Release&bg_color=00000000)](https://github.com/Aemulo/Release)
 
 ## Notes
-

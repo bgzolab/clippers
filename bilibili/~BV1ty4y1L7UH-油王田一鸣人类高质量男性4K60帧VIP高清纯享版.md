@@ -1,10 +1,8 @@
 ---
 author: 独孤太虚
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/e1138273de96f6245fe8d13e47f0875e5665df07.jpg
 created: '2025-12-28T23:20:39'
 description: ''
-draft: true
 modified: '2025-12-28T23:20:39'
 published: '2021-08-06T11:35:35'
 source: https://www.bilibili.com/video/BV1ty4y1L7UH

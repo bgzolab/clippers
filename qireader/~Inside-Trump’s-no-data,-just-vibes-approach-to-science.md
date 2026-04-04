@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-02T14:09:39'
-draft: true
 modified: '2026-01-02T14:09:39'
 source: https://www.vox.com/climate/473751/trump-data-deletion-nih-epa-ncar-climate-science-epa-rfk-hhs
 title: Inside Trump’s “no data, just vibes” approach to science

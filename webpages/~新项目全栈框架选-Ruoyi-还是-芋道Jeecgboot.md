@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "新项目全栈框架选-Ruoyi-还是-芋道Jeecgboot"
 created: 2025-03-24T21:23:19
 modified: 2025-03-24T21:23:22

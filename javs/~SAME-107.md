@@ -1,5 +1,4 @@
 ---
-draft: true
 title: SAME-107 母親の再婚相手のオジサンに毎日レ●プされています。 白石もも
 cover: https://pics.dmm.co.jp/mono/movie/adult/same107/same107pl.jpg
 author:
@@ -21,4 +20,3 @@ telegram: https://t.me/bgzosex/22
 ![DMM Cover](https://pics.dmm.co.jp/mono/movie/adult/same107/same107pl.jpg)
 
 ## Notes
-

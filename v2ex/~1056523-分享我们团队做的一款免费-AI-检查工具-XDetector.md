@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2024-07-11T11:44:23'
-draft: true
 modified: '2024-07-11T11:44:23'
 source: https://www.v2ex.com/t/1056523
 title: 分享我们团队做的一款免费 AI 检查工具 XDetector

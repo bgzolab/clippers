@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "GoogleChromeLabs/squoosh"
 aliases: "squoosh"
 created: 2025-06-07T14:19:46

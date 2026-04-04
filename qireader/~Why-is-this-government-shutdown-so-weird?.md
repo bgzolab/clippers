@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-17T15:10:43'
-draft: true
 modified: '2025-11-17T15:10:43'
 source: https://www.vox.com/politics/464986/government-shutdown-democrats-strategy-still
 title: Why is this government shutdown so weird?

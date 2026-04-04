@@ -1,10 +1,8 @@
 ---
 author: 香蕉猫日记
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/ef9053f05d93fbc2dc8019c44c632285ce4fde5c.jpg
 created: '2024-02-07T21:37:46'
 description: 地球ONLINE
-draft: true
 modified: '2024-02-07T21:37:46'
 published: '2023-10-22T11:33:30'
 source: https://www.bilibili.com/video/BV1dh4y1v71L

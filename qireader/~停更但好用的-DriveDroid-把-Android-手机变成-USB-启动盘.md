@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-03T15:23:59'
-draft: true
 modified: '2026-02-03T15:23:59'
 source: https://sspai.com/post/104564
 title: 停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘

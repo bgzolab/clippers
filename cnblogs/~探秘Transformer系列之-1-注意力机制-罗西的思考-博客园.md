@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 探秘 Transformer 系列之（1）：注意力机制 - 罗西的思考
 created: 2025-07-22T13:59:01

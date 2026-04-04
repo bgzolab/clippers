@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-11T09:46:31'
-draft: true
 modified: '2025-12-11T09:46:31'
 source: https://kaix.in/2025/1210-plur1llm/
 title: 不与 LLM 同乐

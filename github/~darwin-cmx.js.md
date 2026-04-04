@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "darwin/cmx.js"
 aliases: "cmx.js"
 created: 2025-06-07T14:49:15
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=darwin&repo=cmx.js&bg_color=00000000)](https://github.com/darwin/cmx.js)
 
 ## Notes
-

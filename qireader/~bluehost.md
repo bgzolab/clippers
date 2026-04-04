@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-04T10:08:47'
-draft: true
 modified: '2025-12-04T10:08:47'
 source: https://danielhu.software/2025/12/02/hello-world/
 title: bluehost

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: count-number-of-texts
 aliases:
   - count-number-of-texts
@@ -25,4 +24,3 @@ type: programming-problem
 ```
 
 **每一个按键只会映射三个字母，用户选择字母的时候，会连续摁下数次某一个按键，但是每个按键的上线是 3 次。**
-

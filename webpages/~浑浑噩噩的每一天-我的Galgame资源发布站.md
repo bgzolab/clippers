@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 浑浑噩噩的每一天
 created: 2025-11-01T05:55:34

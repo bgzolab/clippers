@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Dubbo 源码—1.服务发布的主要流程 - 东阳马生架构
 created: 2025-08-18T14:03:52

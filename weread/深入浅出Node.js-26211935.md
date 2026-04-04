@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: "26211935"
 reviewCount: 0

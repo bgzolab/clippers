@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-18T10:17:39'
-draft: true
 modified: '2025-11-18T10:17:39'
 source: https://www.vox.com/podcasts/464793/memory-loss-help-aging-trauma-neuroscience
 title: Our understanding of memory is all wrong

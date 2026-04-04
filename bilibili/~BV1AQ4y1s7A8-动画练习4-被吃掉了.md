@@ -1,10 +1,8 @@
 ---
 author: 略nd
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/e171c6d40e5c47c4c615469bd2ab90d05295c84b.jpg
 created: '2023-10-21T22:00:25'
 description: 飞舞学校不发手机
-draft: true
 modified: '2023-10-21T22:00:25'
 published: '2023-10-15T13:03:05'
 source: https://www.bilibili.com/video/BV1AQ4y1s7A8

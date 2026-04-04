@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Winand/screen_on
 aliases:
   - screen_on
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Winand&repo=screen_on&bg_color=00000000)](https://github.com/Winand/screen_on)
 
 ## Notes
-

@@ -1,10 +1,8 @@
 ---
 author: 七宮白來
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/451392ce7fba3551a336b0cd1dccdaf52a195836.jpg
 created: '2025-11-01T20:38:00'
 description: '-'
-draft: true
 modified: '2025-11-01T20:38:00'
 published: '2025-10-18T21:43:04'
 source: https://www.bilibili.com/video/BV1cbWbz8ENY

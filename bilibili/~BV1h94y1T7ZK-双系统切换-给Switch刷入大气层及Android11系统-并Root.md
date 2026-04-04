@@ -1,11 +1,9 @@
 ---
 author: 在下莫老师
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/809d7f12014a31cc4acee8ccf1a7874c291aec85.jpg
 created: '2025-12-28T20:10:47'
 description: 本期编号：EP150  莫老师的附件表（Github Pages）： https://gitee.com/zxmls/zxmls https://zxmls520.github.io/zxmls/#/
   ·原先的腾讯文档挂了，我重新搭了一个文档 ·每期视频的附件依然被合并在了一张表里 ·这样你只需要打开一个网页就能方便的查阅我的所有视频附件 ·手机用户记得要复制到浏览器中打开
-draft: true
 modified: '2025-12-28T20:10:47'
 published: '2024-01-15T17:00:00'
 source: https://www.bilibili.com/video/BV1h94y1T7ZK

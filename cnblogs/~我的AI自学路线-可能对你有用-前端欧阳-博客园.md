@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-08-26T08:59:01.413'
-draft: true
 modified: '2025-08-26T08:59:01.413'
 source: https://www.cnblogs.com/heavenYJJ/p/19048153
 title: 我的AI自学路线，可能对你有用 - 前端欧阳 - 博客园

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: 茄子蛋
 tags: #band
 wikipedia: https://zh.wikipedia.org/zh-hant/%E8%8C%84%E5%AD%90%E8%9B%8B

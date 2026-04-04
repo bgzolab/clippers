@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "生日礼物没到-只好送我爸美少女手办"
 cover: "http://i1.hdslb.com/bfs/archive/62189434194f3cf46a8091fec5ad1bf841c33d6e.jpg@189w_107h.webp"
 author:

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 世界杯拟人-如果参赛国变成emoji美少女
 cover: http://i0.hdslb.com/bfs/archive/ccd1252a3f7f5cbc6aa8321acdb53520ba6321c2.jpg@189w_107h.webp
 author: -白以

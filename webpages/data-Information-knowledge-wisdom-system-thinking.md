@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Data, Information, Knowledge, & Wisdom (systems-thinking.org)
 created: 2025-07-19T10:42:29

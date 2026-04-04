@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: books/剑指Offer
 tags: #develop #Question
 author: 何海涛

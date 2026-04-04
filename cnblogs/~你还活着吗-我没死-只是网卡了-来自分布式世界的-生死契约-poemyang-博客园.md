@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-11T10:28:06.347'
-draft: true
 modified: '2025-09-11T10:28:06.347'
 source: https://www.cnblogs.com/poemyang/p/19082361
 title: “你还活着吗？” “我没死，只是网卡了！”——来自分布式世界的“生死契约” - poemyang - 博客园

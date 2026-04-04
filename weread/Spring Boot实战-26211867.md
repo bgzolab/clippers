@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: "26211867"
 reviewCount: 0
@@ -220,4 +219,3 @@ onewisdom: "false"
 ## 内容简介
 
 ## 看完了
-

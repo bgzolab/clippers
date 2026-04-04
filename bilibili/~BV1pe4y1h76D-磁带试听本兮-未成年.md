@@ -1,10 +1,8 @@
 ---
 author: 磁带时光
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/0ddd87334af2d67975d0b5b4450e95f52afbb565.jpg
 created: '2025-12-28T23:19:32'
 description: 卡座：雅马哈K6、 录音：ZOOM H6、 大自然空白磁带录制。 如果喜欢本歌曲，请支持正版音乐。
-draft: true
 modified: '2025-12-28T23:19:32'
 published: '2022-09-08T11:25:00'
 source: https://www.bilibili.com/video/BV1pe4y1h76D

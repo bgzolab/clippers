@@ -1,10 +1,8 @@
 ---
 author: 绝版iii
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/ad016a906c69043d56911a0e3a07118422369cd5.jpg
 created: '2025-12-28T23:19:23'
 description: https://youtu.be/wNCtPZXMZZA 喜欢的求个关注，求三联。
-draft: true
 modified: '2025-12-28T23:19:23'
 published: '2020-05-06T06:00:15'
 source: https://www.bilibili.com/video/BV1GZ4y1s7kt

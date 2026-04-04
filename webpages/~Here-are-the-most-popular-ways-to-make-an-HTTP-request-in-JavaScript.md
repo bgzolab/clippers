@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Here are the most popular ways to make an HTTP request in JavaScript
 created: 2025-09-06T15:58:34

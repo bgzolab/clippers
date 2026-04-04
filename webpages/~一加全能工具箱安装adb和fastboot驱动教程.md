@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "一加全能工具箱安装adb和fastboot驱动教程"
 aliases: "一加全能工具箱安装adb和fastboot驱动教程"
 created: 2025-04-09T22:50:33

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "moonlight-stream/moonlight-qt"
 aliases: "moonlight-qt"
 created: 2025-03-30T11:41:27
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=moonlight-stream&repo=moonlight-qt&bg_color=00000000)](https://github.com/moonlight-stream/moonlight-qt)
 
 ## Notes
-

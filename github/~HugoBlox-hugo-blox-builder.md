@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "HugoBlox/hugo-blox-builder"
 aliases: "hugo-blox-builder"
 created: 2025-06-07T14:17:28
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=HugoBlox&repo=hugo-blox-builder&bg_color=00000000)](https://github.com/HugoBlox/hugo-blox-builder)
 
 ## Notes
-

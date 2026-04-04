@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "RanKKI/LawRefBook"
 aliases: "LawRefBook"
 created: 2025-06-07T14:41:56
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=RanKKI&repo=LawRefBook&bg_color=00000000)](https://github.com/RanKKI/LawRefBook)
 
 ## Notes
-

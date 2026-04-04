@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://img2.doubanio.com/view/subject/l/public/s33927783.jpg
 aliases: 卡片笔记写作法如何实现从阅读到写作, How to Take Smart Notes
 author: 申克·阿伦斯, 陈琳

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 【译】使用 GitHub Copilot 编写 Git 提交
   - ~译 - 使用 -GitHub-Copilot- 编写 -Git- 提交 -MeteorSeed- 博客园

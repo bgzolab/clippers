@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T16:46:25'
-draft: true
 modified: '2025-11-20T16:46:25'
 source: https://seths.blog/2025/10/scams-at-scale/
 title: Scams at scale

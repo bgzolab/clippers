@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-21T13:52:06'
-draft: true
 modified: '2026-02-21T13:52:06'
 source: https://www.v2ex.com/t/1193368
 title: 用 OpenClaw 和用那些第三方或者自部署的聊天机器人搭配 API 有什么区别

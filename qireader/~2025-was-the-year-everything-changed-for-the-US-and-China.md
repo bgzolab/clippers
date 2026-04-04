@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-23T11:00:36'
-draft: true
 modified: '2025-12-23T11:00:36'
 source: https://www.vox.com/politics/473085/us-china-rare-earths-2025
 title: 2025 was the year everything changed for the US and China

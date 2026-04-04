@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2025-01-02T05:34:28
 source: "http://www.yinwang.org/blog-cn/2013/03/07/linux-windows-mac"
 type: "archive-web"

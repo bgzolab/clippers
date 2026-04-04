@@ -1,10 +1,8 @@
 ---
 author: 声之有形
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/57a18c3b788b8d756674219d95dd33e6617f9e6f.jpg
 created: '2025-11-23T00:30:14'
 description: '-'
-draft: true
 modified: '2025-11-23T00:30:14'
 published: '2023-10-30T11:45:18'
 source: https://www.bilibili.com/video/BV1hu4y1h7iW

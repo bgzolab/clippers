@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Perfare/AssetStudio
 aliases:
   - AssetStudio
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Perfare&repo=AssetStudio&bg_color=00000000)](https://github.com/Perfare/AssetStudio)
 
 ## Notes
-

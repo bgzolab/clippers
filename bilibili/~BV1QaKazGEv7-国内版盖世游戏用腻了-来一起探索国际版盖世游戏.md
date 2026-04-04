@@ -1,10 +1,8 @@
 ---
 author: 秋天的雨_Official
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/cabbefead06d42696e0d643fa079d0414587befc.jpg
 created: '2026-02-07T20:29:12'
 description: "这是国外版盖世游戏官网  其实是昨年就有的 当时盖世游戏还没上线 GameFusion 官网链接\U0001F446"
-draft: true
 modified: '2026-02-07T20:29:12'
 published: '2025-06-23T19:55:50'
 source: https://www.bilibili.com/video/BV1QaKazGEv7

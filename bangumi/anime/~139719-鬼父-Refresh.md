@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '鬼父 Refresh'
   - 'Oni Chichi Refresh'
@@ -24,4 +23,3 @@ cssclasses:
 | 秋月愛莉: 主角 | 秋月孝三: 主角 | 倉中紗奈: 配角 |
 | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6c/08/14555_crt_4uGsn.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/b8/14558_crt_PWSz6.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e4/62/31700_crt_83afE.jpg?r=1428379009) |
-

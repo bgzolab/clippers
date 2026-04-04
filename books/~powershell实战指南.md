@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: books/PowerShell实战指南
 author: Don Jones / Jeffery Hicks
 publisher: 人民邮电出版社

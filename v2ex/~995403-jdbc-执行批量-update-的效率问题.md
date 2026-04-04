@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2023-11-27T08:38:53'
-draft: true
 modified: '2023-11-27T08:44:21'
 source: https://www.v2ex.com/t/995403
 title: jdbc 执行批量 update 的效率问题

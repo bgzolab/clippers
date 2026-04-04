@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "对虚拟机（JVM）了解不足"
 created: 2025-04-05T18:02:30
 modified: 2025-04-05T18:02:30

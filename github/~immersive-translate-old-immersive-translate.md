@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "immersive-translate/old-immersive-translate"
 aliases: "old-immersive-translate"
 created: 2025-06-07T14:06:22
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=immersive-translate&repo=old-immersive-translate&bg_color=00000000)](https://github.com/immersive-translate/old-immersive-translate)
 
 ## Notes
-

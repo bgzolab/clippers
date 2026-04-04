@@ -5,8 +5,6 @@ aliases:
   - Ghostty
 created: 2025-09-26T20:57:19
 modified: 2026-02-26T21:55:06
-comments: true
-draft: true
 description: "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
 source: "https://github.com/ghostty-org/ghostty"
 tags:

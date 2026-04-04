@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2023-03-14T23:06:00'
-draft: true
 modified: '2023-03-14T23:06:00'
 source: https://www.v2ex.com/t/924025
 title: '[注册表] 永久禁用 Microsoft Edge 右上角的 Bing 按钮'

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: subframe7536/maple-font?tab=readme-ov-file#preset
 aliases:
   - maple-font?tab=readme-ov-file#preset

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "jekyll/jekyll-feed"
 aliases: "jekyll-feed"
 created: 2025-06-07T14:16:11
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=jekyll&repo=jekyll-feed&bg_color=00000000)](https://github.com/jekyll/jekyll-feed)
 
 ## Notes
-

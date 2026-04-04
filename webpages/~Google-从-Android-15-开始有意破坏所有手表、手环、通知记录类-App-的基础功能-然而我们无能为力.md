@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Google-从-Android-15-开始有意破坏所有手表、手环、通知记录类-App-的基础功能-然而我们无能为力"
 created: 2025-03-24T21:32:16
 modified: 2025-03-24T21:32:21

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 动态壁纸原理
   - ~动态壁纸原理 -doctordragon666- 博客园

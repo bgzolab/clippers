@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 聊聊@Transactional 注解和事务的使用
   - ~聊聊 -Transactional- 注解和事务的使用 - 字节悦动 - 博客园

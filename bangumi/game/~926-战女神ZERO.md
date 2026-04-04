@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 战女神ZERO
   - 戦女神ZERO
@@ -34,4 +33,3 @@ cssclasses:
 | セリカ・シルフィル: 主角 | サティア・セイルーン: 主角 | ハイシェラ: 主角 | 神殺しハイシュラ: 主角 | エクリア・フェミリンス: 客串 | ルナ・クリア: 配角 | ナベリウス: 配角 | リタ・セミフ: 配角 | アムドシアス: 配角 | アビルース・カッサレ: 主角 | 水の巫女: 配角 | レクシュミ・パラベルム: 配角 | エウシュリーちゃん: 客串 | 白銀公: 配角 | 空の勇士: 配角 | カヤ: 配角 | ヴェルロカ·プラダ: 配角 | パズモ·メネシス: 配角 | リ·クティナ: 配角 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/4e/c8/1763_crt_vqO92.jpg?r=1697202084) | ![](https://lain.bgm.tv/r/400/pic/crt/l/2e/1d/1764_crt_td9Km.jpg?r=1417618039) | ![](https://lain.bgm.tv/r/400/pic/crt/l/24/0b/1766_crt_k3YzY.jpg?r=1387562077) | ![](https://lain.bgm.tv/r/400/pic/crt/l/10/9f/1767_crt_1xSgg.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/19/41/15114_crt_5Vtbu.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/d8/15962_crt_qk5TL.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/5f/5f/15965_crt_P5BL1.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/da/83/15967_crt_5bY9i.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/dd/df/34400_crt_HeD0e.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/77/07/46406_crt_mTabO.jpg?r=1697202626) | ![](https://lain.bgm.tv/r/400/pic/crt/l/a1/1b/65325_crt_66Ar0.jpg?r=1697202664) | ![](https://lain.bgm.tv/r/400/pic/crt/l/00/e5/69893_crt_22521.jpg?r=1697258846) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c7/d1/85889_crt_d2vSz.jpg?r=1697202724) | ![](https://lain.bgm.tv/r/400/pic/crt/l/7e/11/95553_crt_goh95.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/15/15/95555_crt_Auhf4.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d8/25/102511_crt_4F249.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/87/5a/127699_crt_oLz2t.jpg?r=1680786235) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c9/94/127702_crt_uU6v4.jpg?r=1680786214) | ![](https://lain.bgm.tv/r/400/pic/crt/l/8c/63/127708_crt_BvVk6.jpg) |
-

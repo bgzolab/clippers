@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: ["webdiff", danvk/webdiff]
 created: 2025-07-01T21:11:59
 description: "Two-column web-based git difftool"

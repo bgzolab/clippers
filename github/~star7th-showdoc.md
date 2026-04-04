@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "star7th/showdoc"
 aliases: "showdoc"
 created: 2025-06-08T00:45:39
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=star7th&repo=showdoc&bg_color=00000000)](https://github.com/star7th/showdoc)
 
 ## Notes
-

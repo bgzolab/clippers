@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Java Memory Management Explained
 created: 2025-08-31T13:37:03

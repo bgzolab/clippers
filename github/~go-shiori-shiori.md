@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "go-shiori/shiori"
 aliases: "shiori"
 created: 2025-06-14T15:05:55
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=go-shiori&repo=shiori&bg_color=00000000)](https://github.com/go-shiori/shiori)
 
 ## Notes
-

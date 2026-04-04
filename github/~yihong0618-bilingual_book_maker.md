@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "yihong0618/bilingual_book_maker"
 aliases: "bilingual_book_maker"
 created: 2025-06-07T15:17:46

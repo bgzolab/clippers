@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-19T09:00:27'
-draft: true
 modified: '2025-12-19T09:00:27'
 source: https://www.vox.com/explain-it-to-me/472177/artificial-intelligence-world-without-work-explain-it-to-me
 title: How AI could create “a world without work”

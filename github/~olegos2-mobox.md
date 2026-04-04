@@ -1,5 +1,4 @@
 ---
-draft: true
 title: olegos2/mobox
 aliases:
   - mobox

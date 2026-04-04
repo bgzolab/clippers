@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "C语言编译过程全解析 - Bill's Blog"
 created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53

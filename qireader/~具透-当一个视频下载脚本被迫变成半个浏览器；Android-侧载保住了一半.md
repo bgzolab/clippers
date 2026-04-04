@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:48:36'
-draft: true
 modified: '2025-11-24T16:48:36'
 source: https://sspai.com/prime/story/inside-release-notes-251119
 title: 具透 | 当一个视频下载脚本被迫变成半个浏览器；Android 侧载保住了一半

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: ankitects/anki
 aliases: anki
 created: 2024-07-28T00:00:00

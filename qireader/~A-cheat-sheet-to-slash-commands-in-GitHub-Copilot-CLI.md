@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T10:03:47'
-draft: true
 modified: '2026-02-02T10:03:47'
 source: https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/
 title: A cheat sheet to slash commands in GitHub Copilot CLI
@@ -425,9 +423,9 @@ next. Use `/feedback` to share what’s working, and what isn’t.
 
 ## Quick reference
 
-**Slash command**| **What it does**| **When to use**  
----|---|---  
-`/clear`| Clears session history/context| Shift tasks, reset Copilot’s
+| **Slash command** | **What it does**               | **When to use**              |
+| ----------------- | ------------------------------ | ---------------------------- |
+| `/clear`          | Clears session history/context | Shift tasks, reset Copilot’s |
 context, resolve confusion  
 `/exit`, `/quit`| Exits the Copilot session| Finish a session, reset the CLI  
 `/session`, `/usage`| Shows current session and usage stats| Audit activity,

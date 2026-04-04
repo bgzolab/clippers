@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2024-11-10T23:39:34'
-draft: true
 modified: '2024-11-10T23:41:27'
 source: https://www.v2ex.com/t/1088303
 title: 求教，在腾讯云上用 docker 部署 dreamacro/clash 会被封禁吗

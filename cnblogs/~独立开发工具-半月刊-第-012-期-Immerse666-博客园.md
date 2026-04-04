@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 《独立开发工具 • 半月刊》 第 012 期 - Immerse666
 created: 2025-08-25T16:41:10

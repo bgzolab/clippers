@@ -1,5 +1,4 @@
 ---
-draft: true
 title: simonwhitaker/github-fork-ribbon-css
 aliases:
   - github-fork-ribbon-css

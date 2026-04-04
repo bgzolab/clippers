@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 技术人日常避坑手册：高效工作，少踩坑 - IT-caijw
 created: 2025-08-18T14:22:02

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-25T16:49:40.07'
-draft: true
 modified: '2026-01-25T16:49:40.07'
 source: https://www.cnblogs.com/jinjiangongzuoshi/p/19520101
 title: 火爆全网的Agent Skills，普通人到底该怎么用？-- 详细教程 - 狂师 - 博客园

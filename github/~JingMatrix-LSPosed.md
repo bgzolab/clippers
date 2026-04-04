@@ -1,5 +1,4 @@
 ---
-draft: true
 title: JingMatrix/LSPosed
 aliases:
   - LSPosed

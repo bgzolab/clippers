@@ -1,5 +1,4 @@
 ---
-draft: true
 title: ArchiveBox/ArchiveBox
 aliases:
   - ArchiveBox
@@ -17,4 +16,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ArchiveBox&repo=ArchiveBox&bg_color=00000000)](https://github.com/ArchiveBox/ArchiveBox)
 
 ## Notes
-

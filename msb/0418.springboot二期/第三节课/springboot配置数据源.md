@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # springboot配置数据源
 
@@ -962,4 +961,3 @@ public class EmpController {
 ```
 
 9、测试即可
-

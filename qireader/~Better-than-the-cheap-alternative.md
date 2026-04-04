@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-16T15:27:41'
-draft: true
 modified: '2025-12-16T15:27:41'
 source: https://seths.blog/2025/12/better-than-the-cheap-alternative/
 title: Better than the cheap alternative

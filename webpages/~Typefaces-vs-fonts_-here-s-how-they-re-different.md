@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Typefaces vs. fonts_ here's how they're different"
 created: 2025-04-05T15:51:01
 modified: 2025-04-05T15:51:01

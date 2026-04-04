@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:44:46'
-draft: true
 modified: '2025-11-20T13:44:46'
 source: https://www.4gamers.com.tw/news/detail/74917/steam-indie-nsfw-game-festival-2025
 title: Steam獨立紳士遊戲祭開跑 多款好評黃油特賣、3D新作《緊繃情慾瑜珈》亮相

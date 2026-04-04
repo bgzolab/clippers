@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:37:48'
-draft: true
 modified: '2025-11-20T13:37:48'
 source: https://sspai.com/post/103398
 title: 派早报：Nothing 确认将引入第三方预装应用和锁屏广告等

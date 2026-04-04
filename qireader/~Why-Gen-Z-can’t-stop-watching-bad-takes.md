@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-19T17:08:46'
-draft: true
 modified: '2025-11-19T17:08:46'
 source: https://www.vox.com/culture/465492/tiktok-taylor-swift-culture-gen-z-celebrities-fashion-music
 title: Why Gen Z can’t stop watching bad takes

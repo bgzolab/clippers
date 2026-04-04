@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:41:10'
-draft: true
 modified: '2025-11-24T16:41:10'
 source: https://seths.blog/2025/11/a-good-business-vs-a-useful-idea/
 title: A good business vs. a useful idea

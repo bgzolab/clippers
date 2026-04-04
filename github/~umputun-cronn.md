@@ -5,8 +5,6 @@ aliases:
   - Cronn
 created: 2026-03-11T23:03:42
 modified: 2026-03-11T23:11:20
-comments: true
-draft: true
 description: cron service with extras
 source: https://github.com/umputun/cronn
 tags:

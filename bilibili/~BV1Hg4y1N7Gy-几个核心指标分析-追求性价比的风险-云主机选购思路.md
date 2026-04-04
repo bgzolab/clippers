@@ -1,10 +1,8 @@
 ---
 author: 极海Channel
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/bf95319634733789054690b781c0dbd933646f23.jpg
 created: '2023-07-18T09:39:19'
 description: ''
-draft: true
 modified: '2023-07-18T09:39:19'
 published: '2023-06-28T18:00:00'
 source: https://www.bilibili.com/video/BV1Hg4y1N7Gy

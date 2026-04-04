@@ -1,10 +1,8 @@
 ---
 author: 教英语的Zoe张老师
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/380d261e1e129c79188ca581447434ad6623ac07.jpg
 created: '2023-07-04T21:39:44'
 description: 课程见主页
-draft: true
 modified: '2023-07-04T21:39:44'
 published: '2023-06-21T18:17:21'
 source: https://www.bilibili.com/video/BV19N411S7Sf

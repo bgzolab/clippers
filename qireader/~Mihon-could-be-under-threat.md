@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-21T06:39:28'
-draft: true
 modified: '2025-11-21T06:39:28'
 source: https://mihon.app/news/2025-11-05-potential-threat
 title: Mihon could be under threat

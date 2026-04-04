@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: [chawyehsu/lxgw-wenkai-webfont, lxgw-wenkai-webfont]
 created: 2025-07-02T22:43:17
 description: webfont package for the LXGW WenKai typeface

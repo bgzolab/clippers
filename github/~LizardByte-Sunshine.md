@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "LizardByte/Sunshine"
 aliases: "Sunshine"
 created: 2025-03-30T11:40:42
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=LizardByte&repo=Sunshine&bg_color=00000000)](https://github.com/LizardByte/Sunshine)
 
 ## Notes
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "purple-force/docsite"
 aliases: "docsite"
 created: 2025-06-08T00:46:03
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=purple-force&repo=docsite&bg_color=00000000)](https://github.com/purple-force/docsite)
 
 ## Notes
-

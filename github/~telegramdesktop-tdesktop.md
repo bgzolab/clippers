@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 电报
   - t.me

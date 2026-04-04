@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-23T09:10:18.707'
-draft: true
 modified: '2025-09-23T09:10:18.707'
 source: https://www.cnblogs.com/freedom-w/p/19103694
 title: 【GitHub每日速递 250922】开源 AI 搜索引擎 Perplexica：本地大模型 + 多模式搜索，免费又强大！ - piggy侠 - 博客园

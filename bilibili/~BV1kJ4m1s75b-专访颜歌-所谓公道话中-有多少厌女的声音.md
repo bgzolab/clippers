@@ -1,11 +1,9 @@
 ---
 author: 看理想vistopia
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/d5ccbfa7a2bd349118e0ecf20e640ac8176d88a4.jpg
 created: '2024-02-22T18:34:48'
 description: 《平乐县志》是作家颜歌最新的中文长篇小说，将明清的“三言二拍”体例放入现代四川小镇的故事里。她笑称，这本书写得不容易，像写了一辈子那么长。近些年，她的写作生涯也在解锁新的感受和经历—用英文创作，已于2022年出版英文小说《Elsewhere》（《在别处》）
   颜歌的表达是有魔力的，感染着周围。本次采访中她是自己的讲述者，吐露自己写作生涯的源头，转折，变化和当下…
-draft: true
 modified: '2024-02-22T18:34:48'
 published: '2024-02-22T18:05:25'
 source: https://www.bilibili.com/video/BV1kJ4m1s75b

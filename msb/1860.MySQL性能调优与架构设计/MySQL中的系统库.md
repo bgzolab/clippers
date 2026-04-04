@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # 1.MySQL中的系统库
 

@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # thymeleaf模板引擎的使用
 
@@ -665,4 +664,3 @@ public class MessageSourceAutoConfiguration {
 		return (defaultLocale != null ? defaultLocale : requestLocale);
 	}
 ```
-

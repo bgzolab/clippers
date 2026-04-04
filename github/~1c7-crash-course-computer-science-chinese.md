@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "1c7/crash-course-computer-science-chinese"
 aliases: "crash-course-computer-science-chinese"
 created: 2023-03-24T01:48:36

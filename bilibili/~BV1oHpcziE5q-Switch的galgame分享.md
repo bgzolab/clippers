@@ -1,10 +1,8 @@
 ---
 author: KaiLi中只佬
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/e395a1ac91fde6595362397fa9794e1ec987f436.jpg
 created: '2026-01-02T12:42:31'
 description: NS的一些galgame，感谢民间大佬的无私奉献~~
-draft: true
 modified: '2026-01-02T12:42:31'
 published: '2025-09-14T18:56:37'
 source: https://www.bilibili.com/video/BV1oHpcziE5q

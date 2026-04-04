@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Where 1 = 1 的作用？会影响性能吗？count() 和 count(1) 哪个快?
 created: 2025-08-01T10:25:16

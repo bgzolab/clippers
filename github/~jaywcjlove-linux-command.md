@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "jaywcjlove/linux-command"
 aliases: "linux-command"
 created: 2025-06-07T14:55:49
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=jaywcjlove&repo=linux-command&bg_color=00000000)](https://github.com/jaywcjlove/linux-command)
 
 ## Notes
-

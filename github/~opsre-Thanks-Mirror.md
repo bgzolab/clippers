@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "opsre/Thanks-Mirror"
 aliases: "Thanks-Mirror"
 created: 2025-01-20T20:26:06

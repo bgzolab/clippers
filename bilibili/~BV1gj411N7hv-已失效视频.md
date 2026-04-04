@@ -1,10 +1,8 @@
 ---
 author: 干饭哥影视
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2023-03-03T00:11:47'
 description: ''
-draft: true
 modified: '2023-03-03T00:11:47'
 published: '2023-02-12T17:39:24'
 source: https://www.bilibili.com/video/BV1gj411N7hv

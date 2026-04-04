@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-23T15:39:10.427'
-draft: true
 modified: '2025-09-23T15:39:10.427'
 source: https://www.cnblogs.com/ahfuzhang/p/19106551
 title: ChatGPT 在招聘诈骗领域的应用 - ahfuzhang - 博客园

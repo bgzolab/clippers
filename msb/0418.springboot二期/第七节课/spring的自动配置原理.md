@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # spring的自动配置原理
 
@@ -174,4 +173,3 @@ public class HttpEncodingAutoConfiguration {
 | @ConditionOnWebApplication      | 当前是web环境                            |
 | @ConditionalOnNotWebApplication | 当前不是web环境                          |
 | @ConditionalOnJndi              | JNDI存在指定项                           |
-

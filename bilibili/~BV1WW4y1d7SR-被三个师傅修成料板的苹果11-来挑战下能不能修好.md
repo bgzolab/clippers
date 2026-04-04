@@ -1,10 +1,8 @@
 ---
 author: 练习两年半维修厮
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/2d718992e0c40e4002cd3d4228979c885774813b.jpg
 created: '2023-07-19T16:13:50'
 description: 它甚至没我的料板好
-draft: true
 modified: '2023-07-19T16:13:50'
 published: '2023-07-18T19:48:12'
 source: https://www.bilibili.com/video/BV1WW4y1d7SR

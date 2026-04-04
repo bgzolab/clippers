@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-10-27T15:25:14.347'
-draft: true
 modified: '2025-10-27T15:25:14.347'
 source: https://www.cnblogs.com/maicaii/p/18837211
 title: steamdeck_OLED装Windows系统记录 - MaiCai - 博客园

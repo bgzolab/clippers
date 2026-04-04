@@ -1,10 +1,8 @@
 ---
 author: 枪弹轨迹
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/d380629387a9db442b730859afa47d17baee62cf.jpg
 created: '2025-12-28T23:20:39'
 description: 给大家做一个旋律说唱~ 伴奏：Migos x Tyga Type Beat - ''ESCOBAR''
-draft: true
 modified: '2025-12-28T23:20:39'
 published: '2022-09-01T12:35:45'
 source: https://www.bilibili.com/video/BV1HD4y1B7nc

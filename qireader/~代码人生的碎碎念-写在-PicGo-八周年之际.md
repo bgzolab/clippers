@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:51:04'
-draft: true
 modified: '2025-11-24T16:51:04'
 source: https://sspai.com/post/104040
 title: 代码人生的碎碎念：写在 PicGo 八周年之际

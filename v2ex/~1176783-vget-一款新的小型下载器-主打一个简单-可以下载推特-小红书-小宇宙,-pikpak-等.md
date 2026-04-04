@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-04T08:00:21'
-draft: true
 modified: '2025-12-04T08:02:01'
 source: https://www.v2ex.com/t/1176783
 title: vget 一款新的小型下载器，主打一个简单，可以下载推特，小红书，小宇宙, pikpak 等

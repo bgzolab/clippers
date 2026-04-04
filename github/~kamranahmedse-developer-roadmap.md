@@ -1,5 +1,4 @@
 ---
-draft: true
 title: kamranahmedse/developer-roadmap
 aliases:
   - developer-roadmap
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap&bg_color=00000000)](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Notes
-

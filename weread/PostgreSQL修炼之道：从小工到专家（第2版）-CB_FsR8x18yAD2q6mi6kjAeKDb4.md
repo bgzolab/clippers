@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_BIE766756Ci46iS6gb5gm8R5_parsecover
 progress: 50%
 readingTime: 1小时32分钟
 readingDate: 1970-01-01
-draft: true
 title: PostgreSQL修炼之道：从小工到专家（第2版）
 published:
 isbn:
@@ -1344,4 +1343,3 @@ weread: https://weread.qq.com/web/reader/b53423e3643425f467352387831387941443271
 
 
 #### 20.6 小结
-

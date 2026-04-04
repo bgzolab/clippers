@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "chatgpt-exporter"
   - pionxzh/chatgpt-exporter

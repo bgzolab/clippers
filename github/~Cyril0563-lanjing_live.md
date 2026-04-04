@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Cyril0563/lanjing_live
 aliases:
   - lanjing_live

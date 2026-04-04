@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "MisakaTranslator"
   - hanmin0822/MisakaTranslator

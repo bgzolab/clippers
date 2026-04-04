@@ -2,7 +2,6 @@
 created: 2026-01-03T17:39:15
 modified: 2026-01-03T17:39:15
 description: "Ghostty 是一个用 Zig 写的终端模拟器，尽管采用的是邀请制，它的热度也一直不减，其作者 Mitchell Hashimoto 时不时就会在 X 上更新 Ghostty 最新的进展，Mitchell 在 10 月份也发表了题为 Ghostty 1.0 is Coming 的文章，谈到 Ghostty 1.0 计划在 12 月正式对外发布， 但眼看 12 月底就要到了，真不知道在元旦前能否如期而至 （已经在 2024-12-27 正式发布：https://ghostty.org/）。"
-draft: true
 source: "https://liujiacai.net/blog/2024/12/26/hi-ghostty/"
 tags:
 type: "archive-web"

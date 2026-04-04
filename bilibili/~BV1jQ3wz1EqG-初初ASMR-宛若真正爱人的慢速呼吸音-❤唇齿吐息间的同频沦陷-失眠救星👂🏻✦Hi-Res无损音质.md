@@ -1,11 +1,9 @@
 ---
 author: 浅音初奈
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/bea54cb1a27eeb5a346444a4045b6a246f5bc9ef.jpg
 created: '2025-07-09T11:41:00'
 description: 今日明日无初，初初要加班剪辑音声，我们七月见！ ❀--——--❀--——--❀--——--❀--——--❀ ▪初初是个人煮面势主包，只想看着你在我的怀里沉沉睡去。
   ▪煮面直播时间每晚22:00~03:00每周一休息，只有在活动日前后才会开放杂谈直播。 ▪录播@浅音初奈的录播旅馆   ▪直播间：https://live.bilibili.com/31567150
-draft: true
 modified: '2025-07-09T11:41:00'
 published: '2025-06-29T22:47:25'
 source: https://www.bilibili.com/video/BV1jQ3wz1EqG

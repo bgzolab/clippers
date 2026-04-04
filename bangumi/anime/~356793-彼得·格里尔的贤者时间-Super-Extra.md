@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '彼得·格里尔的贤者时间 Super Extra'
   - 'Peter Grill to Kenja no Jikan 2'
@@ -43,4 +42,3 @@ cssclasses:
 | ピーター・グリル: 主角 | ルヴェリア・サンクトゥス: 主角 | リサ・アルパカス: 主角 | ミミ・アルパカス: 主角 | ビーガン・エルドリエル: 主角 | ピグリット・パンチェッタ: 主角 | ゴブコ・ンギエール: 配角 | ルーシー・グリル: 配角 | フルタリア・エルドリエル: 配角 | ミスリム・ネザーラント: 配角 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/35/19/75773_crt_JZ6lJ.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ff/d2/75774_crt_Q7lKV.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/fc/72/75775_crt_cfnR8.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/17/23/75776_crt_P1NN7.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/b8/19/75777_crt_Jnnjs.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/fa/4c/75778_crt_oLwW2.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d3/0e/117833_crt_UxyvJ.jpg?r=1671695389) | ![](https://lain.bgm.tv/r/400/pic/crt/l/bd/29/117834_crt_8hYn4.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/f1/26/117835_crt_q4qxZ.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/53/ec/122248_crt_WAMtA.jpg?r=1671695329) |
-

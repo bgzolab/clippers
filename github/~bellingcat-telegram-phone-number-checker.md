@@ -1,5 +1,4 @@
 ---
-draft: true
 title: bellingcat/telegram-phone-number-checker
 aliases:
   - telegram-phone-number-checker

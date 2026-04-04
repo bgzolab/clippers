@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '1970-01-01T08:00:00'
-draft: true
 modified: '1970-01-01T08:00:00'
 source: https://zhuanlan.zhihu.com/p/358154780
 title: elephant in the room 不是房间里有大象，真正意思有点尴尬……

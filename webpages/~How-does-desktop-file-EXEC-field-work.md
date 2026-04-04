@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "How does .desktop file EXEC field work?"
 created: 2025-04-05T16:37:03
 modified: 2025-04-05T16:37:03

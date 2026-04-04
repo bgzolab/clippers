@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "vscode-vibrancy-continued"
   - Vscode-vibrancy-continued

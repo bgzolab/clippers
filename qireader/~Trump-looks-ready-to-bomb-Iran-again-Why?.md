@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-03T11:06:12'
-draft: true
 modified: '2026-02-03T11:06:12'
 source: https://www.vox.com/politics/477189/trump-iran-military-strikes-carrier-protests-nuclear
 title: Trump looks ready to bomb Iran again. Why?

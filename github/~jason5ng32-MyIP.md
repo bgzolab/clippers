@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "jason5ng32/MyIP"
 aliases: "MyIP"
 created: 2025-04-03T20:48:20

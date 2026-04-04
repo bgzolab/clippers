@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-03T11:08:55.157'
-draft: true
 modified: '2025-09-03T11:08:55.157'
 source: https://www.cnblogs.com/danieldaren/p/18912626
 title: 如何使用MCP开发一个客户端和服务端 - 高冷的程序员大大 - 博客园

@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2025-06-18T19:31:20
 modified: 2025-06-18T19:31:20
 source: "https://www.v2ex.com/t/1139372#reply236"
@@ -21,4 +20,3 @@ type: "archive-web"
 比如，对方问你用户数多少，你说没有，实际上有几千。  
   
 这就是商战
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "vuejs/vitepress"
 aliases: "vitepress"
 created: 2025-06-15T16:24:34

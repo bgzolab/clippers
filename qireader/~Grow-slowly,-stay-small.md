@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-04T10:24:30'
-draft: true
 modified: '2025-12-04T10:24:30'
 source: https://herman.bearblog.dev/grow-slowly-stay-small/
 title: Grow slowly, stay small

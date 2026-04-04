@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "neoascetic/rawgithack"
 aliases: "rawgithack"
 created: 2025-05-31T18:01:19
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=neoascetic&repo=rawgithack&bg_color=00000000)](https://github.com/neoascetic/rawgithack)
 
 ## Notes
-

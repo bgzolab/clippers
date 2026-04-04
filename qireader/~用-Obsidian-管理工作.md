@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-17T13:35:02'
-draft: true
 modified: '2025-11-17T13:35:02'
 source: https://happyxiao.com/obsidian-work/
 title: 用 Obsidian 管理工作

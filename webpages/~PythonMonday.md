@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "PythonMonday"
 created: 2021-01-28T12:34:36
 modified: 2025-03-22T12:39:49

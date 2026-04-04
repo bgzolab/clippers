@@ -1,10 +1,8 @@
 ---
 author: 耿同学讲故事
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/83454f8cfb60d732b1ae43b2e74af9643fcd47df.jpg
 created: '2023-03-11T19:42:35'
 description: 想说一个观点：如果生病了，要用最合适的药，而不是有药效就行！
-draft: true
 modified: '2023-03-11T19:42:35'
 published: '2023-03-02T16:34:32'
 source: https://www.bilibili.com/video/BV1Kv4y1h7SY

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 实用指南：AI 的第一次亲密接触——你的手机相册如何认出你的猫？ - Ljbguanli
 created: 2025-08-06T15:19:12

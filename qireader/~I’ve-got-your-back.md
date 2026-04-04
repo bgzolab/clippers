@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T15:51:44'
-draft: true
 modified: '2025-11-24T15:51:44'
 source: https://seths.blog/2025/11/ive-got-your-back-3/
 title: “I’ve got your back”

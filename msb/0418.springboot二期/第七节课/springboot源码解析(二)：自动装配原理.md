@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # springboot源码(二)：自动装配原理
 
@@ -760,4 +759,3 @@ public void process() {
 		}
 
 ```
-

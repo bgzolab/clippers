@@ -1,5 +1,4 @@
 ---
-draft: true
 author: 2BAB
 cover: https://wsrv.nl/?url=https%3A%2F%2Fi.typlog.com%2F2bab%2F8359128151_471711.png%3Fx-oss-process%3Dstyle%2Fsl&w=200&h=200
 created: '2024-01-11T09:36:39'

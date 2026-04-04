@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "markmap/markmap"
 aliases: "markmap"
 created: 2025-06-07T15:54:48
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=markmap&repo=markmap&bg_color=00000000)](https://github.com/markmap/markmap)
 
 ## Notes
-

@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_D8S8PI8PS1kL6Xd6YQ_parsecover
 progress: "-1"
 readingTime: NaN小时NaN分钟
 readingDate: Invalid date
-draft: true
 title: 告別式從明天開始
 published:
 isbn:

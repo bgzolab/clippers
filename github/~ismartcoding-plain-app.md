@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ismartcoding/plain-app"
 aliases: "plain-app"
 created: 2025-05-03T20:55:42
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ismartcoding&repo=plain-app&bg_color=00000000)](https://github.com/ismartcoding/plain-app)
 
 ## Notes
-

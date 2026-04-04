@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '1970-01-01T08:00:00'
-draft: true
 modified: '1970-01-01T08:00:00'
 source: https://zhuanlan.zhihu.com/p/539872298
 title: Win10系统下win32kfull.sys不定时蓝屏的原因及解决方法

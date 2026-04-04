@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-19T13:58:06'
-draft: true
 modified: '2025-11-19T13:58:06'
 source: https://seths.blog/2025/10/the-writers-room/
 title: The writer’s room

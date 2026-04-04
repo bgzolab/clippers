@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "为什么都不生小孩了"
 cover: "http://i0.hdslb.com/bfs/archive/3a6775f068174dd9eee4c70dfb65dab3f0d7d5db.png@189w_107h.webp"
 author: "小南鸟配音"

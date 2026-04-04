@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-11T09:49:29'
-draft: true
 modified: '2025-12-11T09:49:29'
 source: https://seths.blog/2025/12/upgrade-available/
 title: Upgrade available

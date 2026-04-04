@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:45:52'
-draft: true
 modified: '2025-11-24T16:45:52'
 source: https://sspai.com/post/103833
 title: App Store 大更新：推出新的开发者计划，降低计划分成比例

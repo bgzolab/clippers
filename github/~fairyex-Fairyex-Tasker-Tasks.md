@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "fairyex/Fairyex-Tasker-Tasks"
 aliases: "Fairyex-Tasker-Tasks"
 created: 2025-06-07T15:03:49
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=fairyex&repo=Fairyex-Tasker-Tasks&bg_color=00000000)](https://github.com/fairyex/Fairyex-Tasker-Tasks)
 
 ## Notes
-

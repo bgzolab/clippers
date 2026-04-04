@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "帶你鑑定知名動畫們的同人裏番-葬送的芙莉蓮-費倫和修寶取暖-還有哪些作者值得大家收藏"
 cover: "https://i.ytimg.com/vi/fzPUaZUP2kU/maxresdefault.jpg"
 author: "肥宅MS"

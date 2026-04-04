@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-17T13:48:22'
-draft: true
 modified: '2025-11-17T13:48:22'
 source: https://letters.acacess.com/daily-productive-sharing-1340/
 title: Daily Productive Sharing 1340 - Paying AIs to Read

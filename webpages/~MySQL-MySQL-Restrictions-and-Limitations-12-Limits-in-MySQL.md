@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - MySQL Restrictions and Limitations 12 Limits in MySQL
 created: 2025-07-19T12:21:00

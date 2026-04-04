@@ -1,5 +1,4 @@
 ---
-draft: true
 author: 椰子
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.xyzcdn.net%2FFhPLm8QaOQyJtw6QAqQbDKtdyOrG.png&w=200&h=200
 created: '2025-06-10T09:36:39'

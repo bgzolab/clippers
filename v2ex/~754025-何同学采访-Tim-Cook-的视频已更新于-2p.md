@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2021-02-18T20:08:38'
-draft: true
 modified: '2021-02-20T14:50:52'
 source: https://www.v2ex.com/t/754025
 title: 何同学采访 Tim Cook 的视频已更新于 2p

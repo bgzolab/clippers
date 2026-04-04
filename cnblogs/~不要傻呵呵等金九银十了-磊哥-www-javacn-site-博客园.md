@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 不要傻呵呵等金九银十了！ - 磊哥
 created: 2025-08-06T12:52:01

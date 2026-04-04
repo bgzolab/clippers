@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '妖精剑士 F ADVENT DARK FORCE'
   - 'Fairy Fencer F Advent Dark Force'
@@ -47,4 +46,3 @@ cssclasses:
 | ファング: 主角 | アリン: 主角 | ティアラ: 主角 |
 | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/4d/dd/25947_crt_kgrG1.jpg?r=1422958213) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d6/62/25948_crt_18E2a.jpg?r=1422957944) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e5/c7/25949_crt_FQR87.jpg?r=1422958062) |
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 tags: #leetcode/medium
 created: 2023-06-03
 ---

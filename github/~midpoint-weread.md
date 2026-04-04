@@ -1,5 +1,4 @@
 ---
-draft: true
 title: midpoint/weread
 aliases:
   - weread

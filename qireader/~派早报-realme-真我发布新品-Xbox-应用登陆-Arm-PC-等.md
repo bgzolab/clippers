@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T10:21:49'
-draft: true
 modified: '2026-02-02T10:21:49'
 source: https://sspai.com/post/105695
 title: 派早报：realme 真我发布新品、Xbox 应用登陆 Arm PC 等

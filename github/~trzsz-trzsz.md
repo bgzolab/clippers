@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "trzsz/trzsz"
 aliases: "trzsz"
 created: 2025-06-07T15:24:30
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=trzsz&repo=trzsz&bg_color=00000000)](https://github.com/trzsz/trzsz)
 
 ## Notes
-

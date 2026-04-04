@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Logseq-and-the-Rise-of-the-Integrated-Thinking-Environment"
 created: 2025-03-13T19:39:21
 modified: 2025-03-13T19:39:21

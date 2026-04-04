@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2025-01-10T10:53:12
 source: "https://www.zhaohuabing.com/post/2024-03-20-how-to-create-a-pull-request/"
 type: "archive-web"

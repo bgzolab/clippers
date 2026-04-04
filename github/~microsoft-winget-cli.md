@@ -5,8 +5,6 @@ aliases:
   - Winget-cli
 created: 2023-05-12T11:00:05
 modified: 2026-03-11T23:07:26
-comments: true
-draft: true
 description: WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 source: https://github.com/microsoft/winget-cli
 tags:

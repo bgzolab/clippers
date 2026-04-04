@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2023-04-08T12:00:00
 source: "https://rizime.substack.com/p/184f"
 type: "archive-web"

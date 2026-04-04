@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-04T10:22:44'
-draft: true
 modified: '2025-12-04T10:22:44'
 source: https://sspai.com/prime/story/extract-from-screenshots-with-gemini-on-iphone
 title: 在 Apple Intelligence 到来之前，用快捷指令做个 Gemini 识屏助手

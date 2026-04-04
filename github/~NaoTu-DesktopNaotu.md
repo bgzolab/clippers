@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "NaoTu/DesktopNaotu"
 aliases: "DesktopNaotu"
 created: 2025-06-07T15:55:59
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=NaoTu&repo=DesktopNaotu&bg_color=00000000)](https://github.com/NaoTu/DesktopNaotu)
 
 ## Notes
-

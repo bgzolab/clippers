@@ -1,5 +1,4 @@
 ---
-draft: true
 title: zhaarey/apple-music-downloader
 created: 2025-05-29T19:55:18
 modified: 2025-05-29T20:02:08

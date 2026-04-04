@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:50:05'
-draft: true
 modified: '2025-11-24T16:50:05'
 source: https://zrs.xyz/2071.html
 title: 挂个APP《当贝投屏》

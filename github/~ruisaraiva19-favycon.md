@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ruisaraiva19/favycon"
 aliases: "favycon"
 created: 2025-06-14T22:55:38
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ruisaraiva19&repo=favycon&bg_color=00000000)](https://github.com/ruisaraiva19/favycon)
 
 ## Notes
-

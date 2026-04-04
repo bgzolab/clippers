@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ai-这是真要把前端干死吧"
 created: 2025-03-24T21:07:10
 modified: 2025-03-24T21:07:56

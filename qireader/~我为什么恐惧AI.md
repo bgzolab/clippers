@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-03-12T09:50:22'
-draft: true
 modified: '2026-03-12T09:50:22'
 source: https://onojyun.com/2026/02/09/%e6%88%91%e4%b8%ba%e4%bb%80%e4%b9%88%e6%81%90%e6%83%a7ai%ef%bc%9f/
 title: 我为什么恐惧AI？

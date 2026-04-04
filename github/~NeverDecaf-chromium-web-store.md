@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "NeverDecaf/chromium-web-store"
 aliases: "chromium-web-store"
 created: 2025-06-07T13:43:13
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=NeverDecaf&repo=chromium-web-store&bg_color=00000000)](https://github.com/NeverDecaf/chromium-web-store)
 
 ## Notes
-

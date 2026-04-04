@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-19T09:00:25'
-draft: true
 modified: '2025-12-19T09:00:25'
 source: https://www.vox.com/culture/472360/best-books-2025-heart-the-lover-lily-king-ian-mcewan-brandon-taylor-rabih-alameddine
 title: The 10 best books of 2025

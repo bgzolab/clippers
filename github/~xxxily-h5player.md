@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "h5player"
   - h5player

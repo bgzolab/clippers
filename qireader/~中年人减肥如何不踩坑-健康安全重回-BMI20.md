@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:07:23'
-draft: true
 modified: '2025-11-24T16:07:23'
 source: https://sspai.com/post/103052
 title: 中年人减肥如何不踩坑，健康安全重回 BMI20

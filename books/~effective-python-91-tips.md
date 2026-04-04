@@ -1,5 +1,4 @@
 ---
-draft: true
 tags: #deprecated 
 douban: https://book.douban.com/subject/25910544/
 weread: https://weread.qq.com/web/bookDetail/b4832100597d8eb481b4cd6

@@ -1,10 +1,8 @@
 ---
 author: 米菲兔配史迪奇
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/196b8b5060cbe69525a2ce25e62fe1ad381254b5.jpg
 created: '2025-12-28T23:19:32'
 description: 油管 13年的live
-draft: true
 modified: '2025-12-28T23:19:32'
 published: '2022-02-15T04:59:11'
 source: https://www.bilibili.com/video/BV1aZ4y1R7Np

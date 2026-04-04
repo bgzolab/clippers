@@ -1,10 +1,8 @@
 ---
 author: 大侠我姓周-
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/21b7f0f4b8c1a1060b456bb3fadb49c11a93c45e.jpg
 created: '2025-12-28T23:21:24'
 description: 我们用Power BI做了一个小的实例，分析了一组模拟的销售数据，找出了其中的明星产品。
-draft: true
 modified: '2025-12-28T23:21:24'
 published: '2021-08-22T14:05:04'
 source: https://www.bilibili.com/video/BV1jh411q7xZ

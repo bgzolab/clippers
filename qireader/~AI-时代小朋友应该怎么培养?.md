@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T09:14:52'
-draft: true
 modified: '2025-11-20T09:14:52'
 source: https://manateelazycat.github.io/2025/10/22/ai-child/
 title: AI 时代小朋友应该怎么培养?

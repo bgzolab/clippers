@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "s8ngyu/Mugunghwa"
 aliases: "Mugunghwa"
 created: 2025-05-11T11:14:17
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=s8ngyu&repo=Mugunghwa&bg_color=00000000)](https://github.com/s8ngyu/Mugunghwa)
 
 ## Notes
-

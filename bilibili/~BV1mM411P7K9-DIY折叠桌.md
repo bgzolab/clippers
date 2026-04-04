@@ -1,10 +1,8 @@
 ---
 author: 大武爱折腾
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/9bd5ec43a5490069034959054bfa07cacff7fead.jpg
 created: '2023-03-03T00:23:46'
 description: 网友想让我做的折叠桌，终于被我做出来啦
-draft: true
 modified: '2023-03-03T00:23:46'
 published: '2023-02-12T18:12:10'
 source: https://www.bilibili.com/video/BV1mM411P7K9

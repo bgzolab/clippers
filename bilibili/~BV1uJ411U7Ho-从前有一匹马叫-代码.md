@@ -1,10 +1,8 @@
 ---
 author: 鸽鸽鸽鸽子兮
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/d319b24640e274b9a207b90cfab3be7dbe7a5a19.png
 created: '2025-12-28T23:20:53'
 description: 灵感来源：从前有棵树叫高数..  内容纯属瞎扯  喜欢的点个关注呗
-draft: true
 modified: '2025-12-28T23:20:53'
 published: '2019-11-15T18:11:20'
 source: https://www.bilibili.com/video/BV1uJ411U7Ho

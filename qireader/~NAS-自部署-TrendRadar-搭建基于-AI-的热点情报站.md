@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T14:57:26'
-draft: true
 modified: '2026-02-02T14:57:26'
 source: https://sspai.com/post/105506
 title: NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站

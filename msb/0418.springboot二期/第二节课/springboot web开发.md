@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 ## springboot web开发
 
@@ -431,6 +430,3 @@ public class MyMvcConfig implements WebMvcConfigurer {
 			<artifactId>thymeleaf-extras-java8time</artifactId>
 		</dependency>
 ```
-
-
-

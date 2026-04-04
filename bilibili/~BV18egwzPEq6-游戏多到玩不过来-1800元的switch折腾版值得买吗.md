@@ -1,10 +1,8 @@
 ---
 author: 阿宅游戏机
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/c3cfc40dbf32766a192a7279b2a5888f8b6f49c6.jpg
 created: '2025-12-28T19:50:51'
 description: '-'
-draft: true
 modified: '2025-12-28T19:50:51'
 published: '2025-07-17T08:52:50'
 source: https://www.bilibili.com/video/BV18egwzPEq6

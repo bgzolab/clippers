@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: ["c001apk", bggRGjQaUbCoE/c001apk]
 created: 2025-07-05T11:20:34
 description: "fake coolapk"

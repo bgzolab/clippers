@@ -1,10 +1,8 @@
 ---
 author: 打不过怪兽的奥曼
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2023-07-08T12:47:31'
 description: '-'
-draft: true
 modified: '2023-07-08T12:47:31'
 published: '2023-06-26T14:44:07'
 source: https://www.bilibili.com/video/BV1ZX4y1i71C

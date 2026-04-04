@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-10-27T15:25:29.403'
-draft: true
 modified: '2025-10-27T15:25:29.403'
 source: https://www.cnblogs.com/nocobase/p/19154616
 title: 11 个在 GitHub 上最受欢迎的开源无代码 AI 工具 - NocoBase - 博客园

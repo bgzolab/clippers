@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "carbon-app/carbon"
 aliases: "carbon"
 created: 2025-06-07T14:17:57
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=carbon-app&repo=carbon&bg_color=00000000)](https://github.com/carbon-app/carbon)
 
 ## Notes
-

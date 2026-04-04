@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2021-01-13T16:06:35'
-draft: true
 modified: '2021-01-13T21:55:08'
 source: https://www.v2ex.com/t/744595
 title: 我在拼多多的三年– LeadroyaL

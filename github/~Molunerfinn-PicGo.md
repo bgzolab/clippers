@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Molunerfinn/PicGo
 aliases: PicGo
 created: 2024-12-29T12:07:45

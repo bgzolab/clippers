@@ -1,10 +1,8 @@
 ---
 author: 魏书生研究院
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/c8efbf84f49bd68224c01c87acccdb1dc7f77838.jpg
 created: '2023-07-22T19:47:43'
 description: '-'
-draft: true
 modified: '2023-07-22T19:47:43'
 published: '2023-07-21T17:47:07'
 source: https://www.bilibili.com/video/BV1Th4y127vZ

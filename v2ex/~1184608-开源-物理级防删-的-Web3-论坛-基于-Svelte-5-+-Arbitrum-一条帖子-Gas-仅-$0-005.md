@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-11T13:21:29'
-draft: true
 modified: '2026-01-11T13:29:45'
 source: https://www.v2ex.com/t/1184608
 title: '[开源] “物理级防删”的 Web3 论坛，基于 Svelte 5 + Arbitrum，一条帖子 Gas 仅 $0.005'

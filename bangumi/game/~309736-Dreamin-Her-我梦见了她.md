@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "Dreamin Her -我梦见了她。-"
   - "Dreamin Her xa0 -僕は、彼女の夢を見る。-"
@@ -50,4 +49,3 @@ cssclasses:
 | 紀伊国屋将: 配角 | 架子: 主角 | 未来: 主角 | 五十嵐蒼: 主角 | 五十嵐桐子: 配角 | 七瀬愛: 配角 | 七瀬俊之: 配角 |
 | --- | --- | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fb/48/56411_crt_ONldN.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/45/05/106487_crt_iPRWW.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/97/3d/106488_crt_5TT4e.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/52/b8/108426_crt_RXxU8.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/08/40/108427_crt_6X9m3.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/80/c7/108428_crt_23qG1.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/62/108429_crt_qiIze.jpg) |
-

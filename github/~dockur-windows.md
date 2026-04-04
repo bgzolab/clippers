@@ -5,7 +5,6 @@ created: 2025-11-20T06:14:39
 modified: 2025-11-20T06:14:39
 description: "Windows inside a Docker container."
 source: "https://github.com/dockur/windows"
-draft: "true"
 tags:
   - github/star
 ---

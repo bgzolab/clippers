@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "itorr/nbnhhsh"
 aliases: "nbnhhsh"
 created: 2025-06-07T14:12:05
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=itorr&repo=nbnhhsh&bg_color=00000000)](https://github.com/itorr/nbnhhsh)
 
 ## Notes
-

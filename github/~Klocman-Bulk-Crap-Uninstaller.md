@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Klocman/Bulk-Crap-Uninstaller"
 aliases: "Bulk-Crap-Uninstaller"
 created: 2025-06-07T14:43:19
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Klocman&repo=Bulk-Crap-Uninstaller&bg_color=00000000)](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
 ## Notes
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-08-07
 type: telegram/channel
 ---

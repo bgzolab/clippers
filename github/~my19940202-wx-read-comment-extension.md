@@ -1,5 +1,4 @@
 ---
-draft: true
 title: my19940202/wx-read-comment-extension
 aliases:
   - wx-read-comment-extension
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=my19940202&repo=wx-read-comment-extension&bg_color=00000000)](https://github.com/my19940202/wx-read-comment-extension)
 
 ## Notes
-

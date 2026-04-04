@@ -1,10 +1,8 @@
 ---
 author: 飞碟说
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/638288424e6dbbc1b0043298e036a18c16f6d8de.jpg
 created: '2025-12-28T23:21:24'
 description: 糟糕，我好像没有晨bo了～
-draft: true
 modified: '2025-12-28T23:21:24'
 published: '2021-06-04T20:00:11'
 source: https://www.bilibili.com/video/BV1yK4y1X7g8

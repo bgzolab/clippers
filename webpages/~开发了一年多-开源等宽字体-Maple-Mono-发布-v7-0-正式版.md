@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 开发了一年多-开源等宽字体-Maple-Mono-发布-v7-0-正式版
 created: 2025-03-24T20:34:59
 modified: 2025-03-24T20:39:33

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:46:25'
-draft: true
 modified: '2025-11-24T16:46:25'
 source: https://sspai.com/post/103740
 title: 我是如何用个人笔记，一步步打造出「专属 AI 助理」的？

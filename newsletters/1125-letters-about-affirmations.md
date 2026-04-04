@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: false
 aliases:
   - "夸夸月报 #1"
   - 夸夸月报
@@ -9,6 +7,7 @@ modified: 2025-11-15T11:34:19
 tags:
   - pointless
   - writing/newsletter
+  - public
 title: "夸夸月报 #1"
 ---
 

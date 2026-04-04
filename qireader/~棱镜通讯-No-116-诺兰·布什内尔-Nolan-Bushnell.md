@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-18T10:38:57'
-draft: true
 modified: '2025-11-18T10:38:57'
 source: https://wangyurui.com/posts/leng-jing-tong-xun-no-116-2f55ee50
 title: 棱镜通讯 No.116 诺兰·布什内尔（Nolan Bushnell）

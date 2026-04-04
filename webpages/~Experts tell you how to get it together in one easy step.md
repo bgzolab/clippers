@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2023-04-08T12:00:00
 source: "https://www.vox.com/even-better/23660000/easy-life-tips"
 type: "archive-web"

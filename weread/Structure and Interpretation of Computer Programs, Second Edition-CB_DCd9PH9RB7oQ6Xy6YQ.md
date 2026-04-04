@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_GNH7ut7tJGPO6UA6UO_parsecover
 progress: 0%
 readingTime: 0小时55分钟
 readingDate: 1970-01-01
-draft: true
 title: Structure and Interpretation of Computer Programs, Second Edition
 published:
 isbn:
@@ -396,4 +395,3 @@ weread: https://weread.qq.com/web/reader/1aa42352a43425f444364395048395242376f51
 ## Term Index
 
 ## Colophon
-

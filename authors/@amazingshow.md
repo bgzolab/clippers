@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: 美秀集團
 tags: #taiwan
 created: 2023-01-15

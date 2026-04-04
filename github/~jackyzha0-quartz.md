@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "quartz"
   - jackyzha0-quartz

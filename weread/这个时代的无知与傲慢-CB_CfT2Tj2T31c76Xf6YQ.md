@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_4Zl86b83tEPY6Q46QI_parsecover
 progress: 0%
 readingTime: 0小时12分钟
 readingDate: 1970-01-01
-draft: true
 title: 这个时代的无知与傲慢
 published:
 isbn:

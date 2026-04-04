@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: CB_9OK6Se6TtEeK6vM6t1BTLEah
 reviewCount: 0

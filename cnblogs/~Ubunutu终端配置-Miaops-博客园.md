@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Ubunutu 终端配置 - Miaops
 created: 2025-08-18T11:28:47

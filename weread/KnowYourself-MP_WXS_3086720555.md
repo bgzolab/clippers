@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: MP_WXS_3086720555
 reviewCount: 0
@@ -54,4 +53,3 @@ weread: https://weread.qq.com/web/reader/b83424b224d505f5758535f3330383637323035
 > 昨天被糟糕的情绪裹挟了30分钟，但今天在第29分钟的时候已经成功挣脱，那就是赢了；昨天没有忍住埋怨了父母，但今天能坐下来好好地聊上两句，这也是赢了。
 > 
 > 2024-02-12 22:59:38 ^MP-WXS-3086720555-wOwBxy-IINz5M2bg9PlB2Q-3659-3733
-

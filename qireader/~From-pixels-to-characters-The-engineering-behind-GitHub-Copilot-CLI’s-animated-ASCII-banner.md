@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T17:06:35'
-draft: true
 modified: '2026-02-02T17:06:35'
 source: https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/
 title: 'From pixels to characters: The engineering behind GitHub Copilot CLI’s animated

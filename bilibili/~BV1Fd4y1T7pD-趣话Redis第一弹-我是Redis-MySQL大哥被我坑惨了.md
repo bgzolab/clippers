@@ -1,10 +1,8 @@
 ---
 author: 轩辕的编程宇宙
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/673c7ec263582c8351debc1e7c6ea1fca8223c60.jpg
 created: '2022-08-14T01:11:05'
 description: 大厂面试都爱问的Redis是如何工作的，看完这个视频就知道了！
-draft: true
 modified: '2022-08-14T01:11:05'
 published: '2022-08-03T21:03:49'
 source: https://www.bilibili.com/video/BV1Fd4y1T7pD

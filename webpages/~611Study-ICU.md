@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "611Study-ICU"
 created: 2025-03-24T21:05:04
 modified: 2025-03-24T21:06:45

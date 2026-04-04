@@ -1,10 +1,8 @@
 ---
 author: sducwang
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/518118c2f3a73c6f1d42f73dc218ae0938c13f76.jpg
 created: '2025-11-29T07:41:09'
 description: -nuphy air 75 V2 机械键盘键帽逆天印刷BUG. 天猫客服逆天嘴硬！直接气爆了！
-draft: true
 modified: '2025-11-29T07:41:09'
 published: '2025-11-09T15:04:28'
 source: https://www.bilibili.com/video/BV1jzkUBuE98

@@ -1,10 +1,8 @@
 ---
 author: 又是猴子请来的救兵dy
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/7fdd4dfbcc0dcb2c85fdfdc8e0405b3079022664.jpg
 created: '2024-02-08T21:23:52'
 description: 五年前的开源硬件笔记本，可二次开发升级的电脑，2021年上市的德国MNT Reform系列
-draft: true
 modified: '2024-02-08T21:23:52'
 published: '2024-01-27T07:46:55'
 source: https://www.bilibili.com/video/BV1Uk4y1Z72A

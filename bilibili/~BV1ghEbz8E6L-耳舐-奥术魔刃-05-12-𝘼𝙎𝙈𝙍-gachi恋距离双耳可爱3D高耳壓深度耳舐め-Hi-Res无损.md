@@ -1,10 +1,8 @@
 ---
 author: 铃露莫莫
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/52238eb435a735dab28233e9939e9bed0684aed1.jpg
 created: '2025-05-22T11:50:09'
 description: 出处：【直播回放】安眠向玩游戏~ 2025年04月12日17点场    Oo♡ 求关注+点赞+投币+收藏+充电 ♡oO  捏捏！~
-draft: true
 modified: '2025-05-22T11:50:09'
 published: '2025-05-17T00:53:43'
 source: https://www.bilibili.com/video/BV1ghEbz8E6L

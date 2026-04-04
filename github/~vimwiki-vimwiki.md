@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "vimwiki/vimwiki"
 aliases: "vimwiki"
 created: 2025-06-08T00:46:58
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=vimwiki&repo=vimwiki&bg_color=00000000)](https://github.com/vimwiki/vimwiki)
 
 ## Notes
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2025-05-31T21:20:37
 modified: 2025-05-31T21:20:45
 source: "https://www.v2ex.com/t/1122997"

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Predidit/oneAnime"
 aliases: "oneAnime"
 created: 2025-05-29T19:27:23
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Predidit&repo=oneAnime&bg_color=00000000)](https://github.com/Predidit/oneAnime)
 
 ## Notes
-

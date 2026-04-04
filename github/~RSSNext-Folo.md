@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "RSSNext/Folo"
 aliases: "Folo"
 created: 2025-04-20T21:13:52

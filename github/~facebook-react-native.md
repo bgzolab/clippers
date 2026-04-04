@@ -1,5 +1,4 @@
 ---
-draft: true
 title: facebook/react-native
 aliases:
   - react-native
@@ -16,4 +15,3 @@ type: repo
 ![](https://img.shields.io/github/stars/facebook/react-native?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/facebook/react-native?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/facebook/react-native?style=for-the-badge&label=date)
 
 ## Notes
-

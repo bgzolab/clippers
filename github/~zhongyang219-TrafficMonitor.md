@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "zhongyang219/TrafficMonitor"
 aliases: "TrafficMonitor"
 created: 2025-06-07T14:20:11
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=zhongyang219&repo=TrafficMonitor&bg_color=00000000)](https://github.com/zhongyang219/TrafficMonitor)
 
 ## Notes
-

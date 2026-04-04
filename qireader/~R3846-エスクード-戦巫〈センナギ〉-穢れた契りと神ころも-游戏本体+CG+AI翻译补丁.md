@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-18T05:19:41'
-draft: true
 modified: '2025-11-18T05:19:41'
 source: https://blog.reimu.net/archives/113128
 title: 【R3846】 [エスクード] 戦巫〈センナギ〉-穢れた契りと神ころも- 游戏本体+CG+AI翻译补丁

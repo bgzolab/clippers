@@ -1,5 +1,4 @@
 ---
-draft: true
 title: koodo-reader/koodo-reader
 aliases:
   - koodo-reader

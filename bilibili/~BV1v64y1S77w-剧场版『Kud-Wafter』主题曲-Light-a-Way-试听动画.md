@@ -1,11 +1,9 @@
 ---
 author: Key公式
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/1374ee4e68af1644aa363ad5a154e0dfc437ba80.jpg
 created: '2025-12-28T23:20:04'
 description: 将于5月14日(周五)在日本电影院上映的剧场版『Kud Wafter』的主题曲「Light a Way」试听动画公开！  ▼剧场版『Kud
   Wafter』官方网站▼ https://kud-wafter.jp
-draft: true
 modified: '2025-12-28T23:20:04'
 published: '2021-04-14T16:51:10'
 source: https://www.bilibili.com/video/BV1v64y1S77w

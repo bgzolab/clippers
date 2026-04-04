@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Dr-TSNG/ZygiskNext"
 aliases: "ZygiskNext"
 created: 2025-05-11T15:28:45
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Dr-TSNG&repo=ZygiskNext&bg_color=00000000)](https://github.com/Dr-TSNG/ZygiskNext)
 
 ## Notes
-

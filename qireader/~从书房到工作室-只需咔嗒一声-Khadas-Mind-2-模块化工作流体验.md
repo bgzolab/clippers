@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T14:11:20'
-draft: true
 modified: '2025-11-20T14:11:20'
 source: https://sspai.com/post/103412
 title: 从书房到工作室，只需咔嗒一声：Khadas Mind 2 模块化工作流体验

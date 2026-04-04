@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_1mj9RZ9RS6MU6Uk6UM_parsecover
 progress: 9%
 readingTime: 0小时20分钟
 readingDate: 1970-01-01
-draft: true
 title: 为了告别的聚会
 published:
 isbn:

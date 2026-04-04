@@ -1,10 +1,8 @@
 ---
 author: 破酥剑客
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/27887ee636b432cdaa5a2a65b8b78cee7a3c8519.jpg
 created: '2025-12-28T23:20:46'
 description: 只要我没有出境就不怕社死
-draft: true
 modified: '2025-12-28T23:20:46'
 published: '2021-12-06T21:03:36'
 source: https://www.bilibili.com/video/BV1Vq4y1q7z9

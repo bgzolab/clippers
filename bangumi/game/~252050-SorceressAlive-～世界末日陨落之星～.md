@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '犹存于世的魔女'
   - 'Sorceress Alive!'
@@ -58,4 +57,3 @@ cssclasses:
 | アキナ・ランドール: 主角 | ユズリハ・サーバル: 主角 | アズーリア・ニューフィールド: 主角 | ミア・ウェルチ: 主角 | リリ・リル・リーリ・リンダ・リッテル・ローリア・リンドリア・ブリットアニア: 主角 | ユーミ・オーリエト: 主角 | 折見公輝: 主角 | ノノ: 配角 | 学院長: 配角 | 红麗: 配角 | クレハ·ミズがルズ: 配角 | エレナ·ランドール: 配角 | ヴィクトリア·ウェルチ: 配角 | 西森篤志: 配角 | 星原美由紀: 配角 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3a/b9/64356_crt_VkMFv.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/b5/8c/64357_crt_yfsyS.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/fe/64358_crt_y8m9U.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/33/88/64359_crt_sYUHU.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/91/da/64360_crt_0z0u0.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/23/64/64361_crt_AzNEF.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/24/72/133445_crt_TXGQ2.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/35/df/133446_crt_w705e.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/9b/8c/133447_crt_qcUOm.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/33/99/133448_crt_1tBKb.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/f3/8c/133449_crt_L1tqn.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/7d/33/133450_crt_blSfb.jpg?r=1724437056) | ![](https://lain.bgm.tv/r/400/pic/crt/l/97/f9/133451_crt_sG0ap.jpg?r=1724437102) | ![](https://lain.bgm.tv/r/400/pic/crt/l/2a/f8/133452_crt_Yx9Ya.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/a5/f4/133453_crt_AYan6.jpg) |
-

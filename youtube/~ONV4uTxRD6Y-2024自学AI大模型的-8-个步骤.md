@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "2024自学AI大模型的-8-个步骤"
 cover: "https://i.ytimg.com/vi/ONV4uTxRD6Y/maxresdefault.jpg"
 author:

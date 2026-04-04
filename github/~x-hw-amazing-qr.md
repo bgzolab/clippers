@@ -1,5 +1,4 @@
 ---
-draft: true
 title: x-hw/amazing-qr
 aliases:
   - amazing-qr
@@ -17,4 +16,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=x-hw&repo=amazing-qr&bg_color=00000000)](https://github.com/x-hw/amazing-qr)
 
 ## Notes
-

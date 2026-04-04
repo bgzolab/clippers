@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-19T15:00:16'
-draft: true
 modified: '2025-11-19T15:00:16'
 source: https://chriscoyier.net/2025/10/22/everything-is-broken/
 title: Everything is Broken

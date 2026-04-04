@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "SmsForwarder"
   - SmsForwarder

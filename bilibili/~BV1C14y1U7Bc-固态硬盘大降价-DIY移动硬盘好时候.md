@@ -1,10 +1,8 @@
 ---
 author: 切里狸端机
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/0ed5363eb2c596617a509ef9870c75415596332d.jpg
 created: '2023-07-08T18:32:16'
 description: 最近固态硬盘大降价，大家赶紧冲！
-draft: true
 modified: '2023-07-08T18:32:16'
 published: '2023-06-22T17:00:00'
 source: https://www.bilibili.com/video/BV1C14y1U7Bc

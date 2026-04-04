@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 13rac1/twemoji-color-font
 aliases:
   - twemoji-color-font
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=13rac1&repo=twemoji-color-font&bg_color=00000000)](https://github.com/13rac1/twemoji-color-font)
 
 ## Notes
-

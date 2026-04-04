@@ -1,10 +1,8 @@
 ---
 author: 技术胖
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/e12a3373e41afadff75b35042707ede0e968fe23.jpg
 created: '2023-06-09T20:54:08'
 description: 新尝试，努力让视频变的有趣，并学一些知识。虽然有点像搞笑视频，但你细品，还是有东西在里边的。
-draft: true
 modified: '2023-06-09T20:54:08'
 published: '2023-06-06T12:00:00'
 source: https://www.bilibili.com/video/BV1Ju4y1Z7zP

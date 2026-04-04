@@ -1,5 +1,4 @@
 ---
-draft: true
 title: obsidianmd/obsidian-clipper
 aliases:
   - obsidian-clipper

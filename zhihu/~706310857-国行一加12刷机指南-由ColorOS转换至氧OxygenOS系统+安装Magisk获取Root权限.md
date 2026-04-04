@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '1970-01-01T08:00:00'
-draft: true
 modified: '1970-01-01T08:00:00'
 source: https://zhuanlan.zhihu.com/p/706310857
 title: 【国行一加12刷机指南】由ColorOS转换至氧OxygenOS系统+安装Magisk获取Root权限
@@ -14,9 +12,9 @@ type: archive-web
 。最初我刷氧OS后开机出现Orange State警告，SafetyNet测试未通过，无法使用一些银行软件如Google
 Pay的NFC支付和Netflix等DRM（数字版权类）应用,就是因为解锁了Bootloader。
 
-地区| 型号| 操作系统| 本地化功能  
----|---|---|---  
-印度| CPH2573| OxygenOS 14| \- 硬件无eSIM- 支持通话录音  
+| 地区 | 型号    | 操作系统    | 本地化功能                  |
+| ---- | ------- | ----------- | --------------------------- |
+| 印度 | CPH2573 | OxygenOS 14 | \- 硬件无eSIM- 支持通话录音 |
 \- Google全家桶- 禁用6GHz Wi-Fi 6E/7 频段  
 \- ORoaming全球漫游  
 \- 无双击电源键功能  

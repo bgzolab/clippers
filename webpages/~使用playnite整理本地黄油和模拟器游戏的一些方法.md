@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 使用 playnite 整理本地黄油和模拟器游戏的一些方法。
 created: 2025-09-07T00:24:16

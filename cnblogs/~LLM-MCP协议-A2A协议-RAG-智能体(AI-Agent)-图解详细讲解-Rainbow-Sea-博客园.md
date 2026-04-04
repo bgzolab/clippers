@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - LLM ，MCP 协议，A2A 协议，RAG，智能体 (AI Agent) 图解详细讲解 - Rainbow-Sea
 created: 2025-08-25T12:59:34

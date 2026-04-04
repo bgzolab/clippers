@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_BsN8kJ8ju3Td6PJ6Pw_parsecover
 progress: "-1"
 readingTime: NaN小时NaN分钟
 readingDate: Invalid date
-draft: true
 title: 《圣经》中英对照豪华版
 published:
 isbn:
@@ -2406,4 +2405,3 @@ weread: https://weread.qq.com/web/reader/c8e42b92a43425f396176387664387941395633
 ## 新约 -- 启示录(Revelation) -- 第 21 章 ( 本篇共有 22 章 )
 
 ## 新约 -- 启示录(Revelation) -- 第 22 章 ( 本篇共有 22 章 )
-

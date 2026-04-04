@@ -1,10 +1,8 @@
 ---
 author: 希宁Chinin
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/34810e288d7f66be8821428825a705c69c02bc46.jpg
 created: '2026-01-29T12:30:36'
 description: 小猫需要人类的肯定和喜欢
-draft: true
 modified: '2026-01-29T12:30:36'
 published: '2025-10-18T21:15:59'
 source: https://www.bilibili.com/video/BV1NHWbzNEAX

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "andy-portmen/open-in"
 aliases: "open-in"
 created: 2025-06-07T13:42:57
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=andy-portmen&repo=open-in&bg_color=00000000)](https://github.com/andy-portmen/open-in)
 
 ## Notes
-

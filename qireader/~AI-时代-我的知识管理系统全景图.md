@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-31T09:52:47'
-draft: true
 modified: '2025-12-31T09:52:47'
 source: https://sspai.com/post/104783
 title: AI 时代，我的知识管理系统全景图

@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # MySQL8新特性底层原理
 

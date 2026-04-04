@@ -1,10 +1,8 @@
 ---
 author: 4K音乐馆
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/949ed7982431951b09db7377ff359ed08847b0ed.jpg
 created: '2025-12-28T23:19:32'
 description: 《Insomnia》是克雷格·大卫于2008年11月17日发行的一首歌曲，收录在专辑《Greatest Hits》中。up找到现场视频，并进行4K画质修复，制作新的字幕，以前玩飞车的时候真的是循环播放，着实有点上头！
-draft: true
 modified: '2025-12-28T23:19:32'
 published: '2022-04-15T18:30:00'
 source: https://www.bilibili.com/video/BV19A4y197VG

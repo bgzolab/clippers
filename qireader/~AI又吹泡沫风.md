@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-25T13:40:53'
-draft: true
 modified: '2025-11-25T13:40:53'
 source: https://www.hecaitou.com/2025/11/AI-blows-the-bubble-again.html
 title: AI又吹泡沫风

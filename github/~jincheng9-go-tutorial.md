@@ -1,5 +1,4 @@
 ---
-draft: true
 title: jincheng9/go-tutorial
 aliases:
   - go-tutorial

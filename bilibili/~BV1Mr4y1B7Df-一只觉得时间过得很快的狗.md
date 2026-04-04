@@ -1,10 +1,8 @@
 ---
 author: 金啊涛
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/e17459ef59f8df40c00f70c06a0eb0a6f840572f.jpg
 created: '2025-12-28T23:20:46'
 description: Bgm《Doused》DIIV
-draft: true
 modified: '2025-12-28T23:20:46'
 published: '2022-03-13T11:20:07'
 source: https://www.bilibili.com/video/BV1Mr4y1B7Df

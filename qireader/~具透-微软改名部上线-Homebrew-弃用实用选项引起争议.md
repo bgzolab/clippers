@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-19T09:27:04'
-draft: true
 modified: '2025-12-19T09:27:04'
 source: https://sspai.com/prime/story/inside-release-notes-251217
 title: 具透：微软改名部上线，Homebrew 弃用实用选项引起争议

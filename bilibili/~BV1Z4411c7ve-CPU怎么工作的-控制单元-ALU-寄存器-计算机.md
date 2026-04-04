@@ -1,10 +1,8 @@
 ---
 author: YsJonathan
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/96ce5dde586658dcb72bf4f596af540d912db943.jpg
 created: '2025-12-28T23:21:33'
 description: 油管转载 进入计算机内部以发现CPU的内部工作情况，包括控制单元，ALU，寄存器等等。
-draft: true
 modified: '2025-12-28T23:21:33'
 published: '2019-07-06T21:36:11'
 source: https://www.bilibili.com/video/BV1Z4411c7ve

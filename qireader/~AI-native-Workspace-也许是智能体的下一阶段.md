@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T10:17:24'
-draft: true
 modified: '2026-02-02T10:17:24'
 source: http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html
 title: AI native Workspace 也许是智能体的下一阶段

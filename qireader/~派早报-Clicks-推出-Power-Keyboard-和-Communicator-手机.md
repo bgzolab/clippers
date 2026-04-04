@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-05T10:19:04'
-draft: true
 modified: '2026-01-05T10:19:04'
 source: https://sspai.com/post/105126
 title: 派早报：Clicks 推出 Power Keyboard 和 Communicator 手机

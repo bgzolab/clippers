@@ -1,10 +1,8 @@
 ---
 author: 小绳子技巧
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/f8b386b8b4f2252959534b0630e595610809c416.jpg
 created: '2025-12-28T23:20:39'
 description: 看似简单，受力后极其牢固
-draft: true
 modified: '2025-12-28T23:20:39'
 published: '2022-06-21T22:27:55'
 source: https://www.bilibili.com/video/BV1Zv4y1g7fM

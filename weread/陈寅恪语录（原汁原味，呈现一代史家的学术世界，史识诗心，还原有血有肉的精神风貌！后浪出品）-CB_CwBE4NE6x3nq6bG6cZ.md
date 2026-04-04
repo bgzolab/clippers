@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_5QJGwdGxX2s56T36U5_parsecover
 progress: 0%
 readingTime: 0小时14分钟
 readingDate: 1970-01-01
-draft: true
 title: 陈寅恪语录（原汁原味，呈现一代史家的学术世界，史识诗心，还原有血有肉的精神风貌！后浪出品）
 published:
 isbn:

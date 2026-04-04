@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "badges/shields"
 aliases: "shields"
 created: 2025-04-03T20:55:14

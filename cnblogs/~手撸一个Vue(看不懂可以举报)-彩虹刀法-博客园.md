@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 手撸一个 Vue(看不懂可以举报) - 彩虹刀法
 created: 2025-08-08T14:39:58

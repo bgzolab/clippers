@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: true
 aliases:
   - rsshub.app
 created: 2026-01-25T16:36:51

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '娇蛮猫娘大横行'
   - '迷途猫'
@@ -38,4 +37,3 @@ cssclasses:
 | 霧谷希: 主角 | 芹沢文乃: 主角 | 梅ノ森千世: 主角 | 都築巧: 主角 | 都築乙女: 配角 | 鳴子叶絵: 配角 | 菊池家康: 配角 | 幸谷大吾郎: 配角 | 佐藤一美: 配角 | 鈴木裕子: 配角 | 竹馬園夏帆: 配角 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/54/97/35465_crt_44882.jpg?r=1610523010) | ![](https://lain.bgm.tv/r/400/pic/crt/l/6f/99/35466_crt_2h66J.jpg?r=1610522956) | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/9a/38705_crt_5uK3u.jpg?r=1610523033) | ![](https://lain.bgm.tv/r/400/pic/crt/l/17/2f/46013_crt_O4oD3.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ca/99/46014_crt_DXHvV.jpg?r=1473667470) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d2/e2/67959_crt_9315Z.jpg?r=1545730218) | ![](https://lain.bgm.tv/r/400/pic/crt/l/96/90/67962_crt_8318o.jpg?r=1545730513) | ![](https://lain.bgm.tv/r/400/pic/crt/l/97/38/67963_crt_oZd35.jpg?r=1545730710) | ![](https://lain.bgm.tv/r/400/pic/crt/l/53/bf/67964_crt_5II54.jpg?r=1545730941) | ![](https://lain.bgm.tv/r/400/pic/crt/l/b1/5d/67965_crt_Bzb5g.jpg?r=1545731345) | ![](https://lain.bgm.tv/r/400/pic/crt/l/36/c9/67981_crt_F67B0.jpg) |
-

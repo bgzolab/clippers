@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: "33114748"
 reviewCount: 0
@@ -188,4 +187,3 @@ onewisdom: "false"
 ## 附录B 对Microsoft的STL平台的说明
 
 ## 文后
-

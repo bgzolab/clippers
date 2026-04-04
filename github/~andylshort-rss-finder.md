@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "andylshort/rss-finder"
 aliases: "rss-finder"
 created: 2025-06-07T13:41:54
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=andylshort&repo=rss-finder&bg_color=00000000)](https://github.com/andylshort/rss-finder)
 
 ## Notes
-

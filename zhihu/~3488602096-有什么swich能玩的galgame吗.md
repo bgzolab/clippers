@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2024-05-06T02:18:00'
-draft: true
 modified: '2024-05-06T02:18:00'
 source: https://www.zhihu.com/question/646869875/answer/3488602096
 title: 有什么swich能玩的galgame吗？

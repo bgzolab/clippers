@@ -2,7 +2,6 @@
 created: 2026-01-03T17:35:51
 modified: 2026-01-03T17:35:51
 description: "あけましておめでとうございます！！！ 新年快樂，今年也請多指教。 許多大廠都宣布要"
-draft: true
 source: "https://home.gamer.com.tw/artwork.php?sn=6066207"
 tags:
 type: "archive-web"

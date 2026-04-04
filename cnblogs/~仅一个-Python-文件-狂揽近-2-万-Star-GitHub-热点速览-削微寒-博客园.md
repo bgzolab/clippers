@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 仅一个 Python 文件，狂揽近 2 万 Star「GitHub 热点速览」 - 削微寒
 created: 2025-08-06T11:08:13

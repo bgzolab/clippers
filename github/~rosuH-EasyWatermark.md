@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "rosuH/EasyWatermark"
 aliases: "EasyWatermark"
 created: 2025-04-13T19:27:03

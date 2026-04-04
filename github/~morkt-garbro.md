@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "morkt/garbro"
 aliases: "garbro"
 created: 2022-11-21T13:29:45

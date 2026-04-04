@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-07-18T18:40:49'
-draft: true
 modified: '2025-07-18T18:45:16'
 source: https://www.v2ex.com/t/1146187
 title: Google 有一个可以获取任意网站图标的 API

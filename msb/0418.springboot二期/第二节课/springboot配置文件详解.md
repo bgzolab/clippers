@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # springboot配置文件详解
 
@@ -230,4 +229,3 @@ public class Person {
 | 松散绑定   | 是                       | 否     |
 | 元数据支持 | 是                       | 否     |
 | spEL表达式 | 否                       | 是     |
-

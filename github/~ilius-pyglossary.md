@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ilius/pyglossary"
 aliases: "pyglossary"
 created: 2025-06-07T14:55:20
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ilius&repo=pyglossary&bg_color=00000000)](https://github.com/ilius/pyglossary)
 
 ## Notes
-

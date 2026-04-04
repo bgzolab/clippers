@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "DimensionDev/Flare"
 aliases: "Flare"
 created: 2025-04-21T20:35:06
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=DimensionDev&repo=Flare&bg_color=00000000)](https://github.com/DimensionDev/Flare)
 
 ## Notes
-

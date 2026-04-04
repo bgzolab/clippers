@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-30T13:50:50.163'
-draft: true
 modified: '2025-09-30T13:50:50.163'
 source: https://www.cnblogs.com/HarmonyOS5/p/19079365
 title: HEIF：更高质量、更小体积，开启 HarmonyOS 图像新体验 - HarmonyOS小助手 - 博客园

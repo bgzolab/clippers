@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "allejo/jekyll-toc"
 aliases: "jekyll-toc"
 created: 2025-06-07T13:56:39
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=allejo&repo=jekyll-toc&bg_color=00000000)](https://github.com/allejo/jekyll-toc)
 
 ## Notes
-

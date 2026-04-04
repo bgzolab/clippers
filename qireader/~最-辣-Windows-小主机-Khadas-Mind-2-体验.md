@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:00:21'
-draft: true
 modified: '2025-11-24T16:00:21'
 source: https://sspai.com/post/103444
 title: 最「辣」Windows 小主机：Khadas Mind 2 体验

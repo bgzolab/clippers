@@ -1,5 +1,4 @@
 ---
-draft: true
 title: langgenius/dify
 aliases:
   - dify
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=langgenius&repo=dify&bg_color=00000000)](https://github.com/langgenius/dify)
 
 ## Notes
-

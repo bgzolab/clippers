@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-04T10:18:51'
-draft: true
 modified: '2025-12-04T10:18:51'
 source: https://sspai.com/post/104260
 title: 派早报：三星发布 Galaxy Z TriFold、索尼发布 Alpha 7 V 等

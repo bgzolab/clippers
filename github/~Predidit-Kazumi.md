@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: ["Kazumi", Predidit/Kazumi]
 created: 2025-04-13T19:25:23
 description: "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"

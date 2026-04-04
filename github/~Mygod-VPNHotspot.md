@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Mygod/VPNHotspot"
 aliases: "VPNHotspot"
 created: 2025-04-13T19:24:16
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Mygod&repo=VPNHotspot&bg_color=00000000)](https://github.com/Mygod/VPNHotspot)
 
 ## Notes
-

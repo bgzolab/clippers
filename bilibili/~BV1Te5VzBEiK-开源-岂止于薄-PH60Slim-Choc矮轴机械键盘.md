@@ -1,12 +1,10 @@
 ---
 author: 麦扣MichaelAltmann
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/5da19f68ed24d7f2d474d655ad702bf07282a8a7.jpg
 created: '2025-11-25T16:06:53'
 description: 'GitHub: https://github.com/ph-design/PH60Slim-Choc MakerWorld: https://makerworld.com/zh/models/1361888
   (键盘)  https://makerworld.com/zh/models/1394378 (键帽) Music: Stuffed Tomato & Refeeld
   - Hafu'
-draft: true
 modified: '2025-11-25T16:06:53'
 published: '2025-05-09T15:20:58'
 source: https://www.bilibili.com/video/BV1Te5VzBEiK

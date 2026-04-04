@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-12T16:08:40'
-draft: true
 modified: '2025-12-12T16:08:40'
 source: https://sspai.com/post/104019
 title: App+1 | 好内容、零门槛：给外语播客的「沉浸式翻译」

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Shadowsocks 一键安装脚本（四合一）  |  秋水逸冰"
 created: 2025-04-05T17:34:36
 modified: 2025-04-05T17:34:36

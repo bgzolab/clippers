@@ -1,10 +1,8 @@
 ---
 author: 奇妙数码
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/946b8a20952f332c697159c3b50ec227f8559698.jpg
 created: '2025-12-03T21:54:10'
 description: ''
-draft: true
 modified: '2025-12-03T21:54:10'
 published: '2025-05-23T16:04:02'
 source: https://www.bilibili.com/video/BV1SijEzbEgd

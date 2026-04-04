@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "为什么Firmware既提供ACPI-又提供Smbios表呢"
 created: 2025-03-13T19:33:54
 modified: 2025-03-13T19:33:54

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - What is an ORM – The Meaning of Object Relational Mapping Database Tools
 created: 2025-07-26T14:36:43

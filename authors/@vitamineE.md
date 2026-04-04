@@ -1,5 +1,4 @@
 ---
-draft: true
 description: 维生素E
 tags: #Philosophy
 created: 2022-12-01

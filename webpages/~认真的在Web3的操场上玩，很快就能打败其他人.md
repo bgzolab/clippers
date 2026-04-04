@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-07-31T12:00:00
 source: https://sspai.com/post/70321
 type: archive-web

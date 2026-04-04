@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-07T10:07:09'
-draft: true
 modified: '2026-01-07T10:07:09'
 source: https://laike9m.com/blog/avoid-mini-frameworks,171/
 title: Avoid Mini-frameworks

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "howie6879/weekly"
 aliases: "weekly"
 created: 2025-06-08T09:50:01
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=howie6879&repo=weekly&bg_color=00000000)](https://github.com/howie6879/weekly)
 
 ## Notes
-

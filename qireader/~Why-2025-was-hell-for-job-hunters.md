@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-29T11:42:15'
-draft: true
 modified: '2025-12-29T11:42:15'
 source: https://www.vox.com/money/473182/jobs-hiring-economy-us-market-linkedin
 title: Why 2025 was hell for job hunters

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: books/给未出世的你
 author: 阿尔贝·雅卡尔
 publisher: 新星出版社

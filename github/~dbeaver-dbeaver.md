@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "dbeaver/dbeaver"
 aliases: "dbeaver"
 created: 2025-06-07T16:02:26
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=dbeaver&repo=dbeaver&bg_color=00000000)](https://github.com/dbeaver/dbeaver)
 
 ## Notes
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Python 中变量之间赋值的理解 - gonghw403
 created: 2025-08-08T17:19:45

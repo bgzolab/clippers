@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "期末的笔记利器——有关pad（拍纸本）的趣闻"
 created: 2025-04-05T17:17:11
 modified: 2025-04-05T17:17:22

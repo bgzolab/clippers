@@ -1,10 +1,8 @@
 ---
 author: 徐仕兴
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/1d826fd7b9c346f3961ff19f6b3a437145643d71.jpg
 created: '2025-04-09T11:54:01'
 description: ''
-draft: true
 modified: '2025-04-09T11:54:01'
 published: '2025-04-08T17:41:24'
 source: https://www.bilibili.com/video/BV1XbdHYZEF1

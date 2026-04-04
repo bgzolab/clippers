@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-14T16:21:52'
-draft: true
 modified: '2026-01-14T16:21:52'
 source: https://sspai.com/post/104638
 title: 如何花式压榨 Gemini：一位律师选手的 2025 年 AI 使用报告

@@ -1,10 +1,8 @@
 ---
 author: 这世界本就是这样
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/0d6b76cf51868811bbea7c91cf443c3315e8318c.jpg
 created: '2026-01-11T21:50:15'
 description: 大家一定擦亮眼睛，去药店或者医院认准OTC才是正经方法
-draft: true
 modified: '2026-01-11T21:50:15'
 published: '2025-06-21T20:40:03'
 source: https://www.bilibili.com/video/BV1iVKNz6EJU

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 【CompletableFuture 终极指南】从原理到生产实践 - 佛祖让我来巡山
 created: 2025-07-18T17:30:16

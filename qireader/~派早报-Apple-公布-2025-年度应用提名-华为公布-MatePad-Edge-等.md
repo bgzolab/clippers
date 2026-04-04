@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:48:54'
-draft: true
 modified: '2025-11-24T16:48:54'
 source: https://sspai.com/post/103959
 title: 派早报：Apple 公布 2025 年度应用提名、华为公布 MatePad Edge 等

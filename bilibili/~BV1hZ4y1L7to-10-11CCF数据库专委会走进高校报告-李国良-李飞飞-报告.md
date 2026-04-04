@@ -1,10 +1,8 @@
 ---
 author: SilencevJ
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/df682ded157d88aa706ac24758820121dec40407.png
 created: '2025-12-28T23:21:33'
 description: CCF数据库专委会走进高校系列学术报告第三期 李国良教授 李飞飞（阿里巴巴集团）
-draft: true
 modified: '2025-12-28T23:21:33'
 published: '2020-10-11T22:03:51'
 source: https://www.bilibili.com/video/BV1hZ4y1L7to

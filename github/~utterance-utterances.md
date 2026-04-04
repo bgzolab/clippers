@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "utterance/utterances"
 aliases: "utterances"
 created: 2025-07-02T22:57:30

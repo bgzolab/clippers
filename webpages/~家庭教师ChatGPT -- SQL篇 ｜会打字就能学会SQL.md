@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2023-04-08T12:00:00
 source: "https://blog.simona.life/posts/chatgpt_sql"
 type: "archive-web"

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: ["act", nektos/act]
 created: 2025-07-01T21:13:48
 description: "Run your GitHub Actions locally 🚀"

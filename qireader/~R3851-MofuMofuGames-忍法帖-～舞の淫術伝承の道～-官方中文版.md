@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:42:50'
-draft: true
 modified: '2025-11-20T13:42:50'
 source: https://blog.reimu.net/archives/113196
 title: 【R3851】[MofuMofuGames] 忍法帖 ～舞の淫術伝承の道～ 官方中文版

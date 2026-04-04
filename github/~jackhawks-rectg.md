@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "jackhawks/rectg"
 aliases: "rectg"
 created: 2025-04-03T20:20:12

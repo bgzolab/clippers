@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "yt-dlp/yt-dlp"
 aliases: "yt-dlp"
 created: 2025-09-20T20:51:54

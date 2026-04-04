@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2025-01-02T05:31:55
 source: "https://www.douban.com/group/topic/12121637/?_i=5810274JHPxyP7"
 type: "archive-web"

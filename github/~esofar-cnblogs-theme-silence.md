@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "esofar/cnblogs-theme-silence"
 aliases: "cnblogs-theme-silence"
 created: 2025-06-07T14:09:59
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=esofar&repo=cnblogs-theme-silence&bg_color=00000000)](https://github.com/esofar/cnblogs-theme-silence)
 
 ## Notes
-

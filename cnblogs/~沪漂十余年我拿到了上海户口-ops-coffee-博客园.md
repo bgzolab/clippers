@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 沪漂十余年我拿到了上海户口
   - ~沪漂十余年我拿到了上海户口 -ops-coffee- 博客园

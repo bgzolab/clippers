@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: 显然乐队
 created: 2023-01-15
 tags:

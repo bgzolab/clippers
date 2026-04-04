@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "weixiansen574/HybridFileXfer"
 aliases: "HybridFileXfer"
 created: 2025-06-28T13:27:46
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=weixiansen574&repo=HybridFileXfer&bg_color=00000000)](https://github.com/weixiansen574/HybridFileXfer)
 
 ## Notes
-

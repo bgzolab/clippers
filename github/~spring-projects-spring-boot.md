@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "spring-projects/spring-boot"
 aliases: "spring-boot"
 created: 2025-06-07T11:39:22
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=spring-projects&repo=spring-boot&bg_color=00000000)](https://github.com/spring-projects/spring-boot)
 
 ## Notes
-

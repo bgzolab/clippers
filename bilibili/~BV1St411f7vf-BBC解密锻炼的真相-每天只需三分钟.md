@@ -1,10 +1,8 @@
 ---
 author: 木石的石头
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/c1c68aee6fb60f33d3204ed6fffe5292bf4d5c59.jpg
 created: '2025-12-28T23:21:24'
 description: BBC解密锻炼的真相，每天只需三分钟
-draft: true
 modified: '2025-12-28T23:21:24'
 published: '2018-10-12T16:50:06'
 source: https://www.bilibili.com/video/BV1St411f7vf

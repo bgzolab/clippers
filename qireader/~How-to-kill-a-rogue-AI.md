@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-05T10:13:02'
-draft: true
 modified: '2026-01-05T10:13:02'
 source: https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control
 title: How to kill a rogue AI

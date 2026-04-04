@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T15:41:00'
-draft: true
 modified: '2025-11-24T15:41:00'
 source: https://seths.blog/2025/11/living-in-ghost-cities/
 title: Living in ghost cities

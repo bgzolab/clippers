@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: "3300028078"
 reviewCount: 0
@@ -171,4 +170,3 @@ onewisdom: false
 ## 作者简介
 
 ## 看完了
-

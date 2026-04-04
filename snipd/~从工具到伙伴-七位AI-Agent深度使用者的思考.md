@@ -1,5 +1,4 @@
 ---
-draft: true
 author: 硅谷101
 cover: https://wsrv.nl/?url=https%3A%2F%2Fmedia24.fireside.fm%2Ffile%2Ffireside-images-2024%2Fpodcasts%2Fimages%2Ff%2Ff0f20376-8faf-4940-b920-84af6c734e2d%2Fcover.jpg%3Fv%3D6&w=200&h=200
 created: '2025-06-10T09:36:39'

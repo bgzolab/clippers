@@ -1,5 +1,4 @@
 ---
-draft: true
 title: AboutRSS/ALL-about-RSS
 aliases:
   - ALL-about-RSS

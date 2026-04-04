@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Is SQL a Programming Language_ _ LearnSQL.com"
 created: 2025-04-05T15:50:55
 modified: 2025-04-05T15:50:55
@@ -55,4 +54,4 @@ Now you know that SQL is a powerful programming language that is worth your atte
   * [SQL from A to Z](https://learnsql.com/track/sql-from-a-to-z "SQL from A to Z - SQL online learning path | LearnSQL.com") is a track designed for ambitious and dedicated students who are ready to go from complete newbies, through intermediate and advanced topics, to an **SQL guru** level.
   * [Writing User-Defined Functions in PostgreSQL](https://learnsql.com/course/user-defined-functions/ "Writing User-Defined Functions in PostgreSQL - SQL online course | LearnSQL.com") is for those who feel confident with SQL and are ready to master the procedural extension of SQL to write user-defined functions.
 
-Thanks for reading, and happy learning!  **Summary:** There is a long-lasting debate about recognizing SQL as a programming language. With SQL, you give your computer instructions to perform huge analytical queries, which looks like programming. However, you cannot build an application using only SQL. So, is SQL a programming language? Learn why the answer is definitely yes. 
+Thanks for reading, and happy learning!  **Summary:** There is a long-lasting debate about recognizing SQL as a programming language. With SQL, you give your computer instructions to perform huge analytical queries, which looks like programming. However, you cannot build an application using only SQL. So, is SQL a programming language? Learn why the answer is definitely yes.

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "TheWaWaR/simple-http-server"
 aliases: "simple-http-server"
 created: 2025-04-25T20:13:51
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=TheWaWaR&repo=simple-http-server&bg_color=00000000)](https://github.com/TheWaWaR/simple-http-server)
 
 ## Notes
-

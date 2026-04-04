@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "github/gov-takedowns"
 aliases: "gov-takedowns"
 created: 2025-06-07T14:45:44
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=github&repo=gov-takedowns&bg_color=00000000)](https://github.com/github/gov-takedowns)
 
 ## Notes
-

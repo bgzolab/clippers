@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - pyrogram
   - Pyrogram
@@ -19,4 +18,3 @@ type: repo
 
 [![](https://github-stats-extended.vercel.app/api/pin/?username=pyrogram&repo=pyrogram&bg_color=00000000)](https://github.com/pyrogram/pyrogram)
  After via: [[~KurimuzonAkuma-pyrogram]]
- 

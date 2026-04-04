@@ -1,5 +1,4 @@
 ---
-draft: true
 alias: 硬核小卒
 description: 小卒可以无名，但不能不硬核。 😉
 created: 2022-12-01

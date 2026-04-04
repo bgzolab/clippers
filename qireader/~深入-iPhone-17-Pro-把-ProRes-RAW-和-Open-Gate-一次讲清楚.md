@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-05T09:51:15'
-draft: true
 modified: '2025-12-05T09:51:15'
 source: https://sspai.com/post/104213
 title: 深入 iPhone 17 Pro：把 ProRes RAW 和 Open Gate 一次讲清楚

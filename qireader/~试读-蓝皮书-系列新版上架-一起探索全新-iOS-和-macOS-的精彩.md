@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:46:04'
-draft: true
 modified: '2025-11-24T16:46:04'
 source: https://sspai.com/post/103832
 title: 试读 | 《蓝皮书》系列新版上架，一起探索全新 iOS 和 macOS 的精彩

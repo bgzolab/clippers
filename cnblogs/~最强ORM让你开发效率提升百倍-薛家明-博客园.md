@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 最强 ORM 让你开发效率提升百倍 - 薛家明
 created: 2025-08-08T08:48:18

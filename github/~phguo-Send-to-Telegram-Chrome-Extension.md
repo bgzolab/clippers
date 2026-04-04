@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "phguo/Send-to-Telegram-Chrome-Extension"
 aliases: "Send-to-Telegram-Chrome-Extension"
 created: 2025-06-07T14:13:01
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=phguo&repo=Send-to-Telegram-Chrome-Extension&bg_color=00000000)](https://github.com/phguo/Send-to-Telegram-Chrome-Extension)
 
 ## Notes
-

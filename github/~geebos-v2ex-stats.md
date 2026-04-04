@@ -5,7 +5,6 @@ created: 2025-12-28T14:36:48
 modified: 2025-12-28T14:36:48
 description: "V2EX 硬币获取记录可视化扩展插件 —— 让您的 V2EX 硬币收益一目了然"
 source: "https://github.com/geebos/v2ex-stats"
-draft: true
 tags:
   - github/star
 ---

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "zhbhun/idify"
 aliases: "idify"
 created: 2025-06-02T12:08:07
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=zhbhun&repo=idify&bg_color=00000000)](https://github.com/zhbhun/idify)
 
 ## Notes
-

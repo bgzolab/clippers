@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "qq8e/qq"
 aliases: "qq"
 created: 2025-06-07T14:44:54
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=qq8e&repo=qq&bg_color=00000000)](https://github.com/qq8e/qq)
 
 ## Notes
-

@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_8DC6La6KJ7RE6RI6Pw_parsecover
 progress: 53%
 readingTime: 0小时12分钟
 readingDate: 1970-01-01
-draft: true
 title: 行為：暴力、競爭、利他，人類行為背後的生物學
 published:
 isbn:

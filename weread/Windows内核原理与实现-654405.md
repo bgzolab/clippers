@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: "654405"
 reviewCount: 0
@@ -249,4 +248,3 @@ onewisdom: false
 ## 术语对照表
 
 ## 致谢
-

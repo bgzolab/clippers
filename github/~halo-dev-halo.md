@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "halo-dev/halo"
 aliases: "halo"
 created: 2025-06-08T15:56:05
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=halo-dev&repo=halo&bg_color=00000000)](https://github.com/halo-dev/halo)
 
 ## Notes
-

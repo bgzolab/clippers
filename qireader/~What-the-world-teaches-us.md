@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T10:51:17'
-draft: true
 modified: '2025-11-20T10:51:17'
 source: https://seths.blog/2025/10/what-the-world-teaches-us/
 title: What the world teaches us

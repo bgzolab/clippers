@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "maotoumao/MusicFree"
 aliases: "MusicFree"
 created: 2025-05-29T20:04:25
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=maotoumao&repo=MusicFree&bg_color=00000000)](https://github.com/maotoumao/MusicFree)
 
 ## Notes
-

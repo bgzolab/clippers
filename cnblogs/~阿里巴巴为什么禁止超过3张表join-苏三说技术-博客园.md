@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 阿里巴巴为什么禁止超过 3 张表 join？ - 苏三说技术
 created: 2025-07-17T16:12:18

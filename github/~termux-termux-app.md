@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: true
 aliases:
   - android/app/termux
   - Termux-termux-app

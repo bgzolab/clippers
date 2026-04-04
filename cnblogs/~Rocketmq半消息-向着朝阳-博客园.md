@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-23T17:10:49.583'
-draft: true
 modified: '2026-01-23T17:10:49.583'
 source: https://www.cnblogs.com/aibi1/p/19037427
 title: Rocketmq半消息 - 向着朝阳 - 博客园

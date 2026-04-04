@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-08-15T16:52:24'
-draft: true
 modified: '2025-08-15T16:52:24'
 source: https://www.v2ex.com/t/1152698
 title: 请教关于大模型 token 消耗的疑问，感觉随便一个任务就能消耗百万 token

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - MySQL 13 为什么表数据删掉一半，表文件大小不变？ - 叁沐
 created: 2025-07-16T10:01:03

@@ -1,10 +1,8 @@
 ---
 author: 铁臂阿童木-减脂中
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/ffc0d3c93e1d422f81c366ec849e7169cf5f09ae.jpg
 created: '2023-08-13T10:52:10'
 description: '-'
-draft: true
 modified: '2023-08-13T10:52:10'
 published: '2023-07-22T21:18:50'
 source: https://www.bilibili.com/video/BV1gp4y157Wt

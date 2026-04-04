@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 详细介绍：《算法导论》第 2 章 - 算法基础 - wzzkaifa
 created: 2025-08-06T12:53:24

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-16T15:16:12'
-draft: true
 modified: '2025-12-16T15:16:12'
 source: https://www.vox.com/future-perfect/471837/career-wasting-potential-changing-the-world
 title: How do you know if you’re wasting your life?

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "http-party/http-server"
 aliases: "http-server"
 created: 2025-04-25T20:14:26
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=http-party&repo=http-server&bg_color=00000000)](https://github.com/http-party/http-server)
 
 ## Notes
-

@@ -5,8 +5,6 @@ aliases:
   - Jqlang-jq
 created: 2026-03-06T22:38:42
 modified: 2026-03-06T22:42:33
-comments: true
-draft: true
 description: " jq is a lightweight and flexible command-line JSON processor."
 source: https://github.com/jqlang/jq
 tags:

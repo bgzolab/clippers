@@ -1,10 +1,8 @@
 ---
 author: 养猫的秦工
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/12ed5f7af4ec47b2f12c5dfa9c5260cdd1987343.jpg
 created: '2025-12-28T23:20:39'
 description: '-'
-draft: true
 modified: '2025-12-28T23:20:39'
 published: '2022-08-19T19:08:46'
 source: https://www.bilibili.com/video/BV1tg411r7wx

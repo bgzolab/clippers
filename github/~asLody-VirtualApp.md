@@ -1,5 +1,4 @@
 ---
-draft: true
 title: asLody/VirtualApp
 aliases:
   - VirtualApp

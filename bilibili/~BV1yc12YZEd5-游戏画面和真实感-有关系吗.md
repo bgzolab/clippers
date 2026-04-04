@@ -1,10 +1,8 @@
 ---
 author: 小怂猫人
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/f1aedf77827a210ca092b476c1fadd07aaf51c57.jpg
 created: '2024-10-30T11:47:03'
 description: 希望有朝一日，我们能在游戏里和AI交上朋友。
-draft: true
 modified: '2024-10-30T11:47:03'
 published: '2024-10-07T22:39:51'
 source: https://www.bilibili.com/video/BV1yc12YZEd5

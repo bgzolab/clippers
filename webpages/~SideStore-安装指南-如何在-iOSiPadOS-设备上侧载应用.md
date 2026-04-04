@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2025-04-18T21:17:31
 modified: 2025-04-25T20:21:04
 source: https://fylsen.com/posts/2024/05/sidestore-install-guide-ios-ipados-sideload-apps/

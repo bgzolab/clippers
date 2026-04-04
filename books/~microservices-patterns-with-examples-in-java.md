@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://img9.doubanio.com/view/subject/s/public/s34666774.jpg
 author: 克里斯·理查森（Chris Richardson）
 created: 2022-12-13

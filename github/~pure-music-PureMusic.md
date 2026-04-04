@@ -1,5 +1,4 @@
 ---
-draft: true
 title: pure-music/PureMusic
 aliases:
   - PureMusic

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 全能工具箱安装Magisk手机端操作说明
 aliases:
   - 全能工具箱安装Magisk手机端操作说明

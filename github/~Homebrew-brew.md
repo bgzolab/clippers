@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "brew"
 created: 2025-01-20T20:57:26

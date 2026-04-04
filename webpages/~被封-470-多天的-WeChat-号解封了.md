@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 被封 470 多天的 WeChat 号解封了
 created: 2025-08-03T20:16:20

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: stdword/logseq13-full-house-plugin
 aliases: logseq13-full-house-plugin
 created: 2024-08-22T12:00:00

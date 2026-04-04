@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "osm0sis/PlayIntegrityFork"
 aliases: "PlayIntegrityFork"
 created: 2025-05-11T15:53:58
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=osm0sis&repo=PlayIntegrityFork&bg_color=00000000)](https://github.com/osm0sis/PlayIntegrityFork)
 
 ## Notes
-

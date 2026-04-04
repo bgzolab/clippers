@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "codexu/note-gen"
 aliases: "note-gen"
 created: 2025-05-26T20:20:43

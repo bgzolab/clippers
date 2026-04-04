@@ -1,10 +1,8 @@
 ---
 author: 天天234苏州桔子吉他
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/91b76a2e5f17104f668226ade234d24af0812698.jpg
 created: '2025-12-28T23:19:32'
 description: '-'
-draft: true
 modified: '2025-12-28T23:19:32'
 published: '2020-08-31T01:15:38'
 source: https://www.bilibili.com/video/BV1KC4y1b7Nw

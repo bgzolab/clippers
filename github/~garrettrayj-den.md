@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "garrettrayj/den"
 aliases: "den"
 created: 2025-05-10T22:26:44
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=garrettrayj&repo=den&bg_color=00000000)](https://github.com/garrettrayj/den)
 
 ## Notes
-

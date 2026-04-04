@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-01-25T12:00:00
 source: https://fediverse.eu.org/discussion/37/%E8%81%94%E9%82%A6%E5%AE%87%E5%AE%99%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%973-%E4%BB%8Etwitter%E5%88%B0mastodon
 type: archive-web

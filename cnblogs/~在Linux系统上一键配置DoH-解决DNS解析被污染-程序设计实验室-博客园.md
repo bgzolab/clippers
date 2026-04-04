@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-10-09T09:54:24.047'
-draft: true
 modified: '2025-10-09T09:54:24.047'
 source: https://www.cnblogs.com/deali/p/19123387
 title: 在Linux系统上一键配置DoH，解决DNS解析被污染 - 程序设计实验室 - 博客园

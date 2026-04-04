@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "apple-chip"
   - Apple-chip

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2024-07-09T12:32:10'
-draft: true
 modified: '2024-07-09T12:34:09'
 source: https://www.v2ex.com/t/1055911
 title: 请教一下 Ubuntu22.04 上部署 Wireguard 出现 DNS 泄露问题

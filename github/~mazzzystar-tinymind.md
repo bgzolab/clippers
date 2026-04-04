@@ -1,5 +1,4 @@
 ---
-draft: true
 title: mazzzystar/tinymind
 aliases:
   - tinymind
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=mazzzystar&repo=tinymind&bg_color=00000000)](https://github.com/mazzzystar/tinymind)
 
 ## Notes
-

@@ -1,10 +1,8 @@
 ---
 author: 川烈
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/becc5029bbcdbcd8dbb4648e8c13d37502732bfb.jpg
 created: '2025-02-09T19:37:47'
 description: '-'
-draft: true
 modified: '2025-02-09T19:37:47'
 published: '2025-01-26T14:15:53'
 source: https://www.bilibili.com/video/BV1KyFNeEEDU

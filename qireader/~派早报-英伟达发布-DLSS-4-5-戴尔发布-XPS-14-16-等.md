@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-12T13:48:29'
-draft: true
 modified: '2026-01-12T13:48:29'
 source: https://sspai.com/post/105214
 title: 派早报：英伟达发布 DLSS 4.5、戴尔发布 XPS 14/16 等

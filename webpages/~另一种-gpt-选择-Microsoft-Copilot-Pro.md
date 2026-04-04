@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 另一种 gpt 选择 Microsoft Copilot Pro
 created: 2025-07-20T22:56:26

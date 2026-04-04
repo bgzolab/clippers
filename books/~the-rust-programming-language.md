@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: t6_YueWen_32435929.jpg
 aliases:
   - Rust权威指南

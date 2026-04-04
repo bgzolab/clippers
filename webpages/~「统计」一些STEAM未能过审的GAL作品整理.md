@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 「统计」一些 STEAM 未能过审的 GAL 作品整理
 created: 2023-03-22T20:13:06

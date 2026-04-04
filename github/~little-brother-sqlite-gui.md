@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "sqlite-gui"
   - Little-brother-sqlite-gui

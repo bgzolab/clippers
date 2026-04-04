@@ -1,10 +1,8 @@
 ---
 author: AndrewCap
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/952dec6d40b17639826092da159ce3a36ace498a.jpg
 created: '2023-07-04T21:47:34'
 description: ''
-draft: true
 modified: '2023-07-04T21:47:34'
 published: '2023-06-14T17:52:52'
 source: https://www.bilibili.com/video/BV1dP411B7TB

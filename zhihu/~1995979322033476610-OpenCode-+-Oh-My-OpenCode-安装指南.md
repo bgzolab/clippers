@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '1970-01-01T08:00:00'
-draft: true
 modified: '1970-01-01T08:00:00'
 source: https://zhuanlan.zhihu.com/p/1995979322033476610
 title: OpenCode + Oh My OpenCode 安装指南
@@ -19,12 +17,12 @@ ClaudeCode 之类的，那就可以直接自由探索去了！
 
 ### 核心工具
 
-工具| 说明  
----|---  
-OpenCode| AI 编程助手，免费开源、支持多种模型  
-Oh My OpenCode| 增强插件，多模型协作、智能体系统（可选）  
-Node.js| 基础环境，一次安装，两处通用  
-Bun| 一个新时代的 Node.js 运行环境  
+| 工具           | 说明                                     |
+| -------------- | ---------------------------------------- |
+| OpenCode       | AI 编程助手，免费开源、支持多种模型      |
+| Oh My OpenCode | 增强插件，多模型协作、智能体系统（可选） |
+| Node.js        | 基础环境，一次安装，两处通用             |
+| Bun            | 一个新时代的 Node.js 运行环境            |
 ![](https://pic3.zhimg.com/v2-cc43ba3e31c3573bb3c5df2a2a9723b6_1440w.jpg)
 
 * * *
@@ -243,12 +241,12 @@ OpenCode 提供了桌面端和 CLI（也就是命令行）版本，有多种安�
 
 ### 为什么推荐 GLM-4.7？
 
-优势| 说明  
----|---  
-完全免费| 不需要 API Key 或付费订阅  
-中文能力强| 智谱出品，专门针对中文优化  
-国内访问友好| 无需科学上网，网络稳定  
-Agent 场景优化| 知道什么时候该读文件、运行测试、自愈能力最好  
+| 优势           | 说明                                         |
+| -------------- | -------------------------------------------- |
+| 完全免费       | 不需要 API Key 或付费订阅                    |
+| 中文能力强     | 智谱出品，专门针对中文优化                   |
+| 国内访问友好   | 无需科学上网，网络稳定                       |
+| Agent 场景优化 | 知道什么时候该读文件、运行测试、自愈能力最好 |
 ![](https://pic4.zhimg.com/v2-1fc8efb2f66b790cb37e69e6a575cedd_1440w.jpg)
 
 ### 开始使用
@@ -398,14 +396,14 @@ Oh My OpenCode 安装后，默认配置已经完全够用，新手可以直接�
 
 ### 配置说明
 
-配置项| 说明| 默认值  
----|---|---  
-sisyphus_agent.disabled| 是否禁用 Sisyphus 主编排器| false  
-sisyphus_agent.planner_enabled| 是否启用规划器（Prometheus）| true  
-agents..model| 指定智能体使用的模型| 内置默认值  
-agents..disable| 禁用某个智能体| false  
-background_task.defaultConcurrency| 默认后台任务并发数| 无限制  
-background_task.providerConcurrency| 按提供商限制并发| 无限制  
+| 配置项                              | 说明                         | 默认值     |
+| ----------------------------------- | ---------------------------- | ---------- |
+| sisyphus_agent.disabled             | 是否禁用 Sisyphus 主编排器   | false      |
+| sisyphus_agent.planner_enabled      | 是否启用规划器（Prometheus） | true       |
+| agents..model                       | 指定智能体使用的模型         | 内置默认值 |
+| agents..disable                     | 禁用某个智能体               | false      |
+| background_task.defaultConcurrency  | 默认后台任务并发数           | 无限制     |
+| background_task.providerConcurrency | 按提供商限制并发             | 无限制     |
   
 **可用智能体：**
 
@@ -549,25 +547,25 @@ Oh My OpenCode 的智能体会帮你分析代码并给出解答。
 
 在 OpenCode 界面中，以下命令很常用：
 
-命令| 功能  
----|---  
-/init| 初始化项目，生成 AGENTS.md  
-/connect| 连接或切换 AI 模型  
-/model| 选择模型  
-/new| 创建新会话  
-/undo| 撤销修改  
-/redo| 重做操作  
-/terminal| 显示或隐藏终端  
-/agent| 选择智能体  
-/mcp| 开启或关闭 MCP（Model Context Protocol）  
+| 命令      | 功能                                     |
+| --------- | ---------------------------------------- |
+| /init     | 初始化项目，生成 AGENTS.md               |
+| /connect  | 连接或切换 AI 模型                       |
+| /model    | 选择模型                                 |
+| /new      | 创建新会话                               |
+| /undo     | 撤销修改                                 |
+| /redo     | 重做操作                                 |
+| /terminal | 显示或隐藏终端                           |
+| /agent    | 选择智能体                               |
+| /mcp      | 开启或关闭 MCP（Model Context Protocol） |
   
 ### 快捷键
 
-快捷键| 功能  
----|---  
-Tab| 切换 Plan/Build 模式  
-Ctrl + P| 打开命令面板  
-Ctrl + C| 退出 OpenCode  
+| 快捷键   | 功能                 |
+| -------- | -------------------- |
+| Tab      | 切换 Plan/Build 模式 |
+| Ctrl + P | 打开命令面板         |
+| Ctrl + C | 退出 OpenCode        |
   
 * * *
 
@@ -651,14 +649,14 @@ Oh My OpenCode 完全兼容 Claude Code 的配置（Commands、Skills、Hooks、
 
 Oh My OpenCode 内置了多个专业智能体，每个都有自己的专长：
 
-Agent| 专长  
----|---  
-Sisyphus（主编排器）| 自动分配任务，协调其他 Agent  
-Oracle（架构顾问）| 复杂架构决策、代码分析、疑难解答  
-Explore（代码探索）| 搜索代码库、理解项目结构  
-Librarian（文档查询）| 搜索外部文档、参考最佳实践  
-Frontend-UI-UX-Engineer（前端专家）| UI 设计、样式、布局  
-Document-Writer（文档专家）| 写 README、API 文档、使用指南  
+| Agent                               | 专长                             |
+| ----------------------------------- | -------------------------------- |
+| Sisyphus（主编排器）                | 自动分配任务，协调其他 Agent     |
+| Oracle（架构顾问）                  | 复杂架构决策、代码分析、疑难解答 |
+| Explore（代码探索）                 | 搜索代码库、理解项目结构         |
+| Librarian（文档查询）               | 搜索外部文档、参考最佳实践       |
+| Frontend-UI-UX-Engineer（前端专家） | UI 设计、样式、布局              |
+| Document-Writer（文档专家）         | 写 README、API 文档、使用指南    |
   
 **使用方法：** 在对话中输入 `@agent名称`，如 `@oracle`、`@frontend-ui-ux-engineer`
 

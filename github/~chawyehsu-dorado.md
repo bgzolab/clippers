@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "chawyehsu/dorado"
 aliases: "dorado"
 created: 2025-06-07T14:21:14
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=chawyehsu&repo=dorado&bg_color=00000000)](https://github.com/chawyehsu/dorado)
 
 ## Notes
-

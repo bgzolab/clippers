@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "lonekorean/wordpress-export-to-markdown"
 aliases: "wordpress-export-to-markdown"
 created: 2025-06-07T15:11:31
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=lonekorean&repo=wordpress-export-to-markdown&bg_color=00000000)](https://github.com/lonekorean/wordpress-export-to-markdown)
 
 ## Notes
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Shithole City – zmt"
 created: 2025-04-05T17:47:56
 modified: 2025-04-05T17:47:56

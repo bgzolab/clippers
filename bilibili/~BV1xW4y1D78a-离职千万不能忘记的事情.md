@@ -1,10 +1,8 @@
 ---
 author: 呆毛小鹏
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/bea461970d945a112548d199eeeb5217a8368f22.jpg
 created: '2023-07-04T21:32:56'
 description: ''
-draft: true
 modified: '2023-07-04T21:32:56'
 published: '2023-06-26T17:44:43'
 source: https://www.bilibili.com/video/BV1xW4y1D78a

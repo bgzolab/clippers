@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2021-08-15T12:41:14'
-draft: true
 modified: '2021-08-15T12:41:14'
 source: https://www.v2ex.com/t/795881
 title: Why do so many people become Java haters?

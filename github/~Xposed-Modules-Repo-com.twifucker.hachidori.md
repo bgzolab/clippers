@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Xposed-Modules-Repo/com.twifucker.hachidori
 aliases:
   - com.twifucker.hachidori

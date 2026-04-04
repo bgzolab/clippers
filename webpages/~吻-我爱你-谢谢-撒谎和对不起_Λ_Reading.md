@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "吻、我爱你、谢谢、撒谎和对不起_Λ_Reading_2023_3_29_18_05_48"
 created: 2023-03-29T18:05:48+0800
 modified: 2023-03-29T18:05:48+0800
@@ -239,4 +238,4 @@ Dec 25, 2022
 
 
 
-This site requires JavaScript to run correctly. Please [turn on JavaScript](https://enable-javascript.com/) or unblock scripts 
+This site requires JavaScript to run correctly. Please [turn on JavaScript](https://enable-javascript.com/) or unblock scripts

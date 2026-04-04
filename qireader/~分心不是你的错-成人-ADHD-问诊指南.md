@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-02T14:09:22'
-draft: true
 modified: '2026-01-02T14:09:22'
 source: https://sspai.com/post/64519
 title: 分心不是你的错——成人 ADHD 问诊指南

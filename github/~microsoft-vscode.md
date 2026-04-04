@@ -1,5 +1,4 @@
 ---
-draft: true
 title: microsoft/vscode
 aliases: vscode
 created: 2023-02-23T00:00:00
@@ -34,4 +33,3 @@ a distribution of the `Code - OSS` repository with Microsoft-specific customizat
 
 
 ## [[macos|Macos]]
-

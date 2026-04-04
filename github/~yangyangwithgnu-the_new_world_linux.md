@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "yangyangwithgnu/the_new_world_linux"
 aliases: "the_new_world_linux"
 created: 2025-06-02T12:56:36

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-12T09:57:17.683'
-draft: true
 modified: '2025-09-12T09:57:17.683'
 source: https://www.cnblogs.com/Can-daydayup/p/19084627
 title: 一个基于 .NET 开源、轻便的 Windows 优化工具，适用于 Win7 - Win11 最新版的优化！ - 追逐时光者 - 博客园

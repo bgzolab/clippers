@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-01-25T10:53:39'
-draft: true
 modified: '2025-01-25T10:53:39'
 source: https://www.zhihu.com/question/10383365526/answer/86636989664
 title: Android 有什么 App 可以 SMB 共享文件目录？

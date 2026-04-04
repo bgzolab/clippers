@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:45:09'
-draft: true
 modified: '2025-11-20T13:45:09'
 source: https://www.tiangal.com/shuangtianlianji-zhiyuanwang
 title: '[AVG]双天†恋姫 至源の王 AI汉化版'
@@ -27,8 +25,8 @@ type: archive-web
 
 ## 游戏类型
 
-**制作公司：**[BaseSon](https://www.tiangal.com/tag/baseson "查看更多关于BaseSon的文章") | [![](https://image.tiangal.com/2025/10/202510281710551.webp)](https://image.tiangal.com/2025/10/202510281710551.webp)  
----|---  
+| **制作公司：**[BaseSon](https://www.tiangal.com/tag/baseson "查看更多关于BaseSon的文章") | [![](https://image.tiangal.com/2025/10/202510281710551.webp)](https://image.tiangal.com/2025/10/202510281710551.webp) |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 **发售日期：** 2024年09月27日  
 **汉化日期：** 2024年09月28日  
 **汉化小组：** AI汉化（Claude-3-5-sonnet）  
@@ -39,9 +37,9 @@ type: archive-web
   
 ## 兼容系统
 
-|  |  32位 |  64位 |  64位 |  64位  
----|---|---|---|---|---  
-❌ | ❌ | ✔ | ✔ | ✔ | ✔  
+|     | 32位 | 64位 | 64位 | 64位 |
+| --- | ---- | ---- | ---- | ---- | --- |
+| ❌   | ❌    | ✔    | ✔    | ✔    | ✔   |
   
 ## 剧情介绍
 

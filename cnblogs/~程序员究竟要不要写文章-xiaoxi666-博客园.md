@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 程序员究竟要不要写文章 - xiaoxi666
 created: 2025-08-07T12:49:37

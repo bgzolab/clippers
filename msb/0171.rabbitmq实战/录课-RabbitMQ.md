@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2025-02-02T14:37:36
 modified: 2025-07-01T22:02:46
 ---

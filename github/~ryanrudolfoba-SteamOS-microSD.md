@@ -1,5 +1,4 @@
 ---
-draft: true
 title: ryanrudolfoba/SteamOS-microSD
 aliases:
   - SteamOS-microSD
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ryanrudolfoba&repo=SteamOS-microSD&bg_color=00000000)](https://github.com/ryanrudolfoba/SteamOS-microSD)
 
 ## Notes
-

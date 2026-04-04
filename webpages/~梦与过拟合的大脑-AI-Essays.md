@@ -2,7 +2,6 @@
 created: 2026-01-03T22:43:56
 modified: 2026-01-03T22:43:56
 description:
-draft: true
 source: "https://ai.farmostwood.net/dream-and-overfitting-brain/"
 tags:
 type: "archive-web"

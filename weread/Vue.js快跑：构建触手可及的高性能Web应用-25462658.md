@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: "25462658"
 reviewCount: 0
@@ -189,4 +188,3 @@ onewisdom: "false"
 ## 附录B Vue与React
 
 ## 索引
-

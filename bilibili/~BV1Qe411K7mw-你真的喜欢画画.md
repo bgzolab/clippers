@@ -1,10 +1,8 @@
 ---
 author: 账号已注销
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/c0232916e3de07b2e0a96f52df42156d07a6bb51.jpg
 created: '2023-07-20T13:57:55'
 description: 没什么，就是吐槽一下。
-draft: true
 modified: '2023-07-20T13:57:55'
 published: '2022-09-25T19:36:23'
 source: https://www.bilibili.com/video/BV1Qe411K7mw

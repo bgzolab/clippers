@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-14T16:23:58'
-draft: true
 modified: '2026-01-14T16:23:58'
 source: http://www.playpcesor.com/2026/01/ai.html
 title: 與 AI 助手合作後的第二大腦系統，我在筆記方法上的變與不變

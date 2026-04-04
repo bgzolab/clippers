@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-30T14:00:27.993'
-draft: true
 modified: '2025-09-30T14:00:27.993'
 source: https://www.cnblogs.com/ydswin/p/19113350
 title: 告别等待：systemd 优化技巧，显著加速你的 Linux 启动 - dashery - 博客园

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "anmol098/waka-readme-stats"
 aliases: "waka-readme-stats"
 created: 2025-06-07T14:16:39
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=anmol098&repo=waka-readme-stats&bg_color=00000000)](https://github.com/anmol098/waka-readme-stats)
 
 ## Notes
-

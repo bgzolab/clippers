@@ -1,5 +1,4 @@
 ---
-draft: true
 title: gandf/slick-rss
 aliases:
   - slick-rss

@@ -1,10 +1,8 @@
 ---
 author: 庄七
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/eda887708533cfaa9a6acd4ad2085acdfa76c6c7.png
 created: '2025-12-28T23:21:33'
 description: 52pojie 无线网络技术，侵权删除，转载自：http://bit.ly/2uwZWjM
-draft: true
 modified: '2025-12-28T23:21:33'
 published: '2018-04-01T08:50:46'
 source: https://www.bilibili.com/video/BV1CW411u7RY

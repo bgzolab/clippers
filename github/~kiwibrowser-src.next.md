@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: true
 aliases:
   - kiwibrowser-src.next
 created: 2025-04-13T19:21:13

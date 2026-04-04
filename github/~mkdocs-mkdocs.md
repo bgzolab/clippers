@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "mkdocs/mkdocs"
 aliases: "mkdocs"
 created: 2025-06-08T00:45:18
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=mkdocs&repo=mkdocs&bg_color=00000000)](https://github.com/mkdocs/mkdocs)
 
 ## Notes
-

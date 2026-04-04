@@ -1,5 +1,4 @@
 ---
-draft: true
 author: Sonoro |  Conner Pe
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F93c48962-af4a-4b78-82d8-2f6e668e895a%2Fec5ca00c-6184-4f9c-9e9e-a34bcc7f06bc%2F3000x3000%2F8bfa793d0e9e45ba9ce5f6bd3464523e.jpg%3Faid%3Drss_feed&w=200&h=200
 created: '2025-06-16T09:36:39'
@@ -100,4 +99,3 @@ Click to expand
 <blockquote><b>Connor</b>
 
 And that is assembling the furniture, putting the furniture together. This is not my favorite thing. And I have issues with my back, unfortunately. So it's hard for me to be bent over building furniture. I need help with this. So my wife does a lot. I do a lot. Our friend has helped us. So the assembly of the furniture is not my favorite thing. It takes a long time. So that's one negative. But when you're done, it's very rewarding when you see the furniture in its entire form and then you're done with it. So after you assemble it, it's great.</blockquote>
-

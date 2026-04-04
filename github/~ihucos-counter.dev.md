@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ihucos/counter.dev"
 aliases: "counter.dev"
 created: 2025-06-07T14:52:03
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ihucos&repo=counter.dev&bg_color=00000000)](https://github.com/ihucos/counter.dev)
 
 ## Notes
-

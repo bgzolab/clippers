@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-30T14:09:03'
-draft: true
 modified: '2026-01-30T14:09:03'
 source: https://www.vox.com/podcasts/475041/china-soft-power-labubu-movies-videogames
 title: China is wielding a new kind of power in the world now

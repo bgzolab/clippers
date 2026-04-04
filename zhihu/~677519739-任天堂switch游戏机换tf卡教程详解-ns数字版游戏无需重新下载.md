@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '1970-01-01T08:00:00'
-draft: true
 modified: '1970-01-01T08:00:00'
 source: https://zhuanlan.zhihu.com/p/677519739
 title: 任天堂switch游戏机换tf卡教程详解，ns数字版游戏无需重新下载

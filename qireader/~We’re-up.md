@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:42:43'
-draft: true
 modified: '2025-11-24T16:42:43'
 source: https://seths.blog/2025/11/were-up/
 title: “We’re up”

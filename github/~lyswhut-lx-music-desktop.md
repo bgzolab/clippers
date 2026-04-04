@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "lyswhut/lx-music-desktop"
 aliases: "lx-music-desktop"
 created: 2025-06-07T14:16:58
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=lyswhut&repo=lx-music-desktop&bg_color=00000000)](https://github.com/lyswhut/lx-music-desktop)
 
 ## Notes
-

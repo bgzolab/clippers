@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-01-28T12:00:00
 source: https://www.ptt.cc/bbs/MobileComm/M.1520838748.A.6EB.html
 type: archive-web

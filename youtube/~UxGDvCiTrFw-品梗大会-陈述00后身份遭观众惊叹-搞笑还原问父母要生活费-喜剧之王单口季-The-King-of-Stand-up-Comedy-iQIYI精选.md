@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "品梗大会-陈述00后身份遭观众惊叹-搞笑还原问父母要生活费-喜剧之王单口季-The-King-of-Stand-up-Comedy-iQIYI精选"
 cover: "https://i.ytimg.com/vi/UxGDvCiTrFw/maxresdefault.jpg"
 author:

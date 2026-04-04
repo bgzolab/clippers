@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "如何鍛鍊核心-五個初學者必學動作--▏北木健身"
 cover: "https://i.ytimg.com/vi/t4q0tD5O4MI/maxresdefault.jpg"
 author:

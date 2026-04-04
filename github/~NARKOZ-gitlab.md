@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "NARKOZ/gitlab"
 aliases: "gitlab"
 created: 2025-06-08T00:46:34
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=NARKOZ&repo=gitlab&bg_color=00000000)](https://github.com/NARKOZ/gitlab)
 
 ## Notes
-

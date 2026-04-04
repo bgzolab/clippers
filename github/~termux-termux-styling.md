@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "termux/termux-styling"
 aliases: "termux-styling"
 created: 2025-06-07T14:09:24

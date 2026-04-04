@@ -1,10 +1,8 @@
 ---
 author: 暗武逢天
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/5dba1536f390bf02b6196f92abe69bff6b11a837.jpg
 created: '2025-12-28T23:19:32'
 description: 龙珠gt主题曲中文翻唱
-draft: true
 modified: '2025-12-28T23:19:32'
 published: '2022-03-04T19:05:30'
 source: https://www.bilibili.com/video/BV1ha411h7Em

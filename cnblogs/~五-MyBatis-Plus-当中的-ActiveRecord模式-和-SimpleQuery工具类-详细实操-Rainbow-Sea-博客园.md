@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 五，MyBatis-Plus 当中的 “ActiveRecord 模式”和“SimpleQuery 工具类”（详细实操）
 created: 2025-07-23T10:34:56

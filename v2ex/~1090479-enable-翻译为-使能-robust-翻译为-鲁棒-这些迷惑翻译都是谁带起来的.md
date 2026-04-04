@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2024-11-18T13:18:51'
-draft: true
 modified: '2024-11-18T13:18:51'
 source: https://www.v2ex.com/t/1090479
 title: enable 翻译为「使能」， robust 翻译为「鲁棒」，这些迷惑翻译都是谁带起来的？

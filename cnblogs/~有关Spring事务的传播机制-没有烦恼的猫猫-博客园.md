@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-03T11:24:34.36'
-draft: true
 modified: '2025-09-03T11:24:34.36'
 source: https://www.cnblogs.com/maomao777/p/18928468
 title: 有关Spring事务的传播机制 - 没有烦恼的猫猫 - 博客园

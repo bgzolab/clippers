@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - FFmpeg
   - FFmpeg/FFmpeg

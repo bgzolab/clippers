@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "IT 公论不鸟万书评：Understanding Apple Music the Hard Way"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

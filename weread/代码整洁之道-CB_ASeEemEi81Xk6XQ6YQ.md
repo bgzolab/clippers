@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_4Gu2sC2tZ4PG6TG6U5_parsecover
 progress: 0%
 readingTime: 0小时18分钟
 readingDate: 1970-01-01
-draft: true
 title: 代码整洁之道
 published:
 isbn:

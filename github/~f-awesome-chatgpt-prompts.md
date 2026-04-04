@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Awesome-chatgpt-prompts
   - awesome-chatgpt-prompts

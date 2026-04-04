@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-15T09:25:01'
-draft: true
 modified: '2026-01-15T09:25:01'
 source: https://seths.blog/2026/01/its-not-for-you/
 title: “It’s not for you”

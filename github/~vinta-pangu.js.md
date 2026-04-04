@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "vinta/pangu.js"
 aliases: "pangu.js"
 created: 2025-06-07T15:04:07
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=vinta&repo=pangu.js&bg_color=00000000)](https://github.com/vinta/pangu.js)
 
 ## Notes
-

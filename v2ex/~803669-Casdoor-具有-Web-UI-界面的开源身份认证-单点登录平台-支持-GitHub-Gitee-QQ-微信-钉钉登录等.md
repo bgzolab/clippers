@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2021-09-23T15:24:06'
-draft: true
 modified: '2025-10-22T16:36:47'
 source: https://www.v2ex.com/t/803669
 title: 'Casdoor: 具有 Web UI 界面的开源身份认证、单点登录平台，支持 GitHub、Gitee、QQ、微信、钉钉登录等'

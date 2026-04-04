@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-26T14:10:17'
-draft: true
 modified: '2025-09-26T14:10:17'
 source: https://www.v2ex.com/t/1161996
 title: 国行 iPhone 17 Pro 能用香港 Magsafe 吗？

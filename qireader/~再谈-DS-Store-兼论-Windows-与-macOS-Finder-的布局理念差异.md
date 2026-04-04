@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-31T23:24:52'
-draft: true
 modified: '2026-01-31T23:24:52'
 source: https://sspai.com/prime/story/on-dsstore
 title: 再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异

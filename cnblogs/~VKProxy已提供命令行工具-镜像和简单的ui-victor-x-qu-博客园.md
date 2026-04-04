@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-03T11:23:42.977'
-draft: true
 modified: '2025-09-03T11:23:42.977'
 source: https://www.cnblogs.com/fs7744/p/18928323
 title: VKProxy已提供命令行工具，镜像和简单的ui - victor.x.qu - 博客园

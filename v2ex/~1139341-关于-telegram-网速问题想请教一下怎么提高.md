@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-06-18T09:49:45'
-draft: true
 modified: '2025-06-18T12:17:15'
 source: https://www.v2ex.com/t/1139341
 title: 关于 telegram 网速问题想请教一下怎么提高

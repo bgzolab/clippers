@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: "38507099"
 reviewCount: 0
@@ -732,4 +731,3 @@ onewisdom: "false"
 ## 附录3 Kotlin到WebAssembly
 
 ## 参考文献
-

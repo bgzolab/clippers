@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 鬼子来了
 cover: https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553104888.jpg
 aliases:

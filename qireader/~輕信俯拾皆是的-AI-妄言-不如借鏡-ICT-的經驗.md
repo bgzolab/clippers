@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-22T13:51:19'
-draft: true
 modified: '2025-11-22T13:51:19'
 source: https://mhperng.blogspot.com/2025/10/ai-ict.html
 title: 輕信俯拾皆是的 AI 妄言，不如借鏡 ICT 的經驗

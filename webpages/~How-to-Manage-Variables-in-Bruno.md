@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - How to Manage Variables in Bruno
 created: 2025-07-13T13:44:21

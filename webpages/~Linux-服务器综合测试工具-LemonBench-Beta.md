@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Linux服务器综合测试工具 LemonBench (Beta) - 极光星空"
 created: 2025-04-05T15:50:57
 modified: 2025-04-05T15:50:57

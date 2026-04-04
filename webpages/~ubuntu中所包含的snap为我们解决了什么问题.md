@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-06-05T12:00:00
 source: https://www.qiyichao.cn/archives/18/
 type: archive-web

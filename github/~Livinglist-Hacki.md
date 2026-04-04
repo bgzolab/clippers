@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Livinglist/Hacki"
 aliases: "Hacki"
 created: 2025-06-07T13:56:21
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Livinglist&repo=Hacki&bg_color=00000000)](https://github.com/Livinglist/Hacki)
 
 ## Notes
-

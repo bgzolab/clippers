@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: true
 aliases:
   - Vscodeintellicode
 created: 2026-01-25T16:20:47

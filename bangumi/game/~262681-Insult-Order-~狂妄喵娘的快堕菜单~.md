@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 'Insult Order ~狂妄喵娘的快堕菜单~'
   - 'INSULT ORDER ~Namaiki Nyanko no Kaida Menu~'
@@ -61,4 +60,3 @@ CV
 | 音瑚: 主角 | 兎萌: 主角 |
 | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2f/85/125235_crt_U4Uq6.jpg?r=1675530483) | ![](https://lain.bgm.tv/r/400/pic/crt/l/be/51/125236_crt_8wFlh.jpg?r=1675530790) |
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "axzxc1236/pySharepointDownloader"
 aliases: "pySharepointDownloader"
 created: 2025-03-30T18:18:00
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=axzxc1236&repo=pySharepointDownloader&bg_color=00000000)](https://github.com/axzxc1236/pySharepointDownloader)
 
 ## Notes
-

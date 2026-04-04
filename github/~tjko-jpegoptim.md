@@ -1,5 +1,4 @@
 ---
-draft: true
 title: tjko/jpegoptim
 aliases:
   - jpegoptim
@@ -19,4 +18,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=tjko&repo=jpegoptim&bg_color=00000000)](https://github.com/tjko/jpegoptim)
 
 ## Notes
-

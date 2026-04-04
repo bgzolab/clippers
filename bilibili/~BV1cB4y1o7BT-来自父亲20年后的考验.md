@@ -1,10 +1,8 @@
 ---
 author: 动画段子Nutshell
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/dfd6022efe0dab254c3b4477a133527d8a64f939.jpg
 created: '2023-10-21T22:06:08'
 description: "结局真的没想到......\U0001F605"
-draft: true
 modified: '2023-10-21T22:06:08'
 published: '2023-10-17T15:55:15'
 source: https://www.bilibili.com/video/BV1cB4y1o7BT

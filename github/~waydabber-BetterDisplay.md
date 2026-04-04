@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "waydabber/BetterDisplay"
 aliases: "BetterDisplay"
 created: 2025-05-11T11:38:31
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=waydabber&repo=BetterDisplay&bg_color=00000000)](https://github.com/waydabber/BetterDisplay)
 
 ## Notes
-

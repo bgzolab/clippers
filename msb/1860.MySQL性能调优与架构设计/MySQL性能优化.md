@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 ## 1.3.MySQL调优
 

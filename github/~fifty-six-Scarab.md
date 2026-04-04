@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "fifty-six/Scarab"
 aliases: "Scarab"
 created: 2025-06-07T13:45:47

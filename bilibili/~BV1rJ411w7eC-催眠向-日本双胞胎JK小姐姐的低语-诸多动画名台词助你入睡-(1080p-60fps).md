@@ -1,10 +1,8 @@
 ---
 author: 葛飾應為
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/6ec4f7c9d66a8cdbb474255c64062d3edb2126ae.jpg
 created: '2025-12-28T23:19:23'
 description: https://youtu.be/2GoaIN_0lxc 油管搬运！
-draft: true
 modified: '2025-12-28T23:19:23'
 published: '2019-09-18T11:03:06'
 source: https://www.bilibili.com/video/BV1rJ411w7eC

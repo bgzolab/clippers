@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:48:42'
-draft: true
 modified: '2025-11-24T16:48:42'
 source: https://sspai.com/post/103806
 title: 从日常到运动，AirPods 3 Pro 全面体验报告

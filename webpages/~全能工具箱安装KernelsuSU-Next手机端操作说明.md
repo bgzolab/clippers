@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "全能工具箱安装KernelsuSU-Next手机端操作说明"
 aliases: "全能工具箱安装KernelsuSU-Next手机端操作说明"
 created: 2025-04-09T22:51:45

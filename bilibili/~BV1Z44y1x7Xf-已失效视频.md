@@ -1,10 +1,8 @@
 ---
 author: 王狒狒up
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2025-12-28T23:20:46'
 description: 硬盘磁头可随音乐低音摆动，旁边是个开关，可以控制蓝牙，磁盘转动，灯光开关和灯光模式。
-draft: true
 modified: '2025-12-28T23:20:46'
 published: '2021-10-21T11:17:57'
 source: https://www.bilibili.com/video/BV1Z44y1x7Xf

@@ -5,7 +5,6 @@ created: 2026-01-25T15:22:28
 modified: 2026-01-25T15:22:28
 description: "Public repository for Agent Skills"
 source: "https://github.com/anthropics/skills"
-draft: true
 tags:
   - github/star
 ---

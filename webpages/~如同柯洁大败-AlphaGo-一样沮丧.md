@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 如同柯洁大败-AlphaGo-一样沮丧
 created: 2025-03-24T20:40:54
 modified: 2025-03-24T20:42:01

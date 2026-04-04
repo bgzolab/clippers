@@ -1,10 +1,8 @@
 ---
 author: 59qwe
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/c3c179c4071141f2c084559b20e5113249d5c10c.jpg
 created: '2026-02-07T20:28:28'
 description: 这里是简介 如果你的手机root了的话那更简单直接去系统根目录data 找到盖世游戏然后路径就跟视频后半部分一样了
-draft: true
 modified: '2026-02-07T20:28:28'
 published: '2025-11-07T19:37:31'
 source: https://www.bilibili.com/video/BV1qP23BGEbw

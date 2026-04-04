@@ -3,7 +3,6 @@ aliases:
   - 如何看待 Newsletter 平台竹白关闭服务 - 豚鼠说的回答
 created: 2025-11-09T09:45:18
 description: "从 2013 年国外最早的创作者平台 Patreon 开始运营，到 2016 年 Open Collective，再到 2017 年逐渐涌现…"
-draft: true
 modified: 2025-11-09T09:45:39
 source: "https://www.zhihu.com/question/12897228925/answer/1889629598330885228"
 tags: []

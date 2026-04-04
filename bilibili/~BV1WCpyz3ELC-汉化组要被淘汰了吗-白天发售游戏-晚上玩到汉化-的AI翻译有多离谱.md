@@ -1,10 +1,8 @@
 ---
 author: BB姬Studio
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/5936d6e07bdde4506164d11223bc55ad0134c93d.jpg
 created: '2025-10-07T20:07:53'
 description: 素材来源自网络 文案来源自BB姬公众号推文  文案：星彡P 配音：怪物马戏团 制作：Salieri
-draft: true
 modified: '2025-10-07T20:07:53'
 published: '2025-09-16T18:00:00'
 source: https://www.bilibili.com/video/BV1WCpyz3ELC

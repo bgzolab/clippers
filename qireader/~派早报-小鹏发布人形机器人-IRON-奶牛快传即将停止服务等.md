@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:06:22'
-draft: true
 modified: '2025-11-24T16:06:22'
 source: https://sspai.com/post/103573
 title: 派早报：小鹏发布人形机器人 IRON、奶牛快传即将停止服务等

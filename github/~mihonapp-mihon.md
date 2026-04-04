@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "mihonapp/mihon"
 aliases: "mihon"
 created: 2025-04-13T19:22:01
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=mihonapp&repo=mihon&bg_color=00000000)](https://github.com/mihonapp/mihon)
 
 ## Notes
-

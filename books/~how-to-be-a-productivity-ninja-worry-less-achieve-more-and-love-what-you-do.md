@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 高效忍者
 author:

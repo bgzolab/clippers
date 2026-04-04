@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: books/致后代
 author: 贝托尔特•布莱希特
 publisher: 译林出版社

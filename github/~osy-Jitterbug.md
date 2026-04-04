@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: ["Jitterbug", osy/Jitterbug]
 created: 2025-05-11T11:39:57
 description: "Launch JIT enabled iOS app with a second iOS device"

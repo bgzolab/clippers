@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 如何更好地使用 AI 编程？ - mingupupup
 created: 2025-08-18T14:06:52

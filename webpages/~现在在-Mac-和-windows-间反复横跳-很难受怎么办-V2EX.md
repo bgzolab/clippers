@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "现在在 Mac 和 windows 间反复横跳，很难受怎么办 - V2EX"
 created: 2025-04-05T13:02:46
 modified: 2025-04-05T13:02:46

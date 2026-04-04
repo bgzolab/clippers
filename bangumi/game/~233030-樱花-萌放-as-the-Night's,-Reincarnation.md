@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '樱花萌放'
   - '樱花萌咲 -于“夜”重生之时-'
@@ -133,4 +132,3 @@ cssclasses:
 | クロ: 主角 | 柊ハル: 主角 | 杏藤千和: 主角 | 夜月姫織: 主角 | 陽向井あさひ: 配角 | 冬月十夜: 配角 | ナナ: 配角 | 兎蛙智仁: 配角 | 兎蛙あず咲: 配角 | 奏大雅: 主角 | 杏藤一磨: 配角 | ナハト: 配角 | ましろ: 配角 | 女の子: 配角 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/56/a8/59775_crt_Hm9ik.jpg?r=1682663801) | ![](https://lain.bgm.tv/r/400/pic/crt/l/88/39/59776_crt_Z5PF4.jpg?r=1682663755) | ![](https://lain.bgm.tv/r/400/pic/crt/l/cd/99/59777_crt_hRurq.jpg?r=1682663705) | ![](https://lain.bgm.tv/r/400/pic/crt/l/b8/ba/59778_crt_TW2b1.jpg?r=1682663648) | ![](https://lain.bgm.tv/r/400/pic/crt/l/11/09/63871_crt_2ccd9.jpg?r=1682662378) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c8/fe/63872_crt_TiYTG.jpg?r=1682662316) | ![](https://lain.bgm.tv/r/400/pic/crt/l/f4/a5/63873_crt_EDEXD.jpg?r=1682662557) | ![](https://lain.bgm.tv/r/400/pic/crt/l/eb/24/109251_crt_uPDi7.jpg?r=1682662621) | ![](https://lain.bgm.tv/r/400/pic/crt/l/4f/7e/109252_crt_Jlo47.jpg?r=1682751299) | ![](https://lain.bgm.tv/r/400/pic/crt/l/aa/db/109924_crt_6F5I6.jpg?r=1683197037) | ![](https://lain.bgm.tv/r/400/pic/crt/l/19/61/116273_crt_Kvka2.jpg?r=1682603495) | ![](https://lain.bgm.tv/r/400/pic/crt/l/4d/43/116274_crt_7312A.jpg?r=1682603571) | ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/7f/125932_crt_ksWI8.jpg?r=1682664420) | ![](https://lain.bgm.tv/r/400/pic/crt/l/a0/22/128782_crt_jXMm1.jpg?r=1682602709) |
-
