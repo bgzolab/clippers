@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Tampermonkey/tampermonkey
 aliases: tampermonkey
 created: 2023-12-24T00:00:00

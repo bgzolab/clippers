@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - nuxt
   - nuxt.js

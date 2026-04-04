@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2025-01-10T10:56:47
 source: "https://www.ffutop.com/posts/2021-07-23-ssh-proxy/"
 type: "archive-web"

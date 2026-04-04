@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ryanoasis/nerd-fonts"
 aliases: "nerd-fonts"
 created: 2025-02-01T13:00:56

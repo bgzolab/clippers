@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "blinksh/blink"
 aliases: "blink"
 created: 2025-04-21T22:08:35
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=blinksh&repo=blink&bg_color=00000000)](https://github.com/blinksh/blink)
 
 ## Notes
-

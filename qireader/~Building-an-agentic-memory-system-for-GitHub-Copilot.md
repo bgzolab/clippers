@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-28T12:44:00'
-draft: true
 modified: '2026-01-28T12:44:00'
 source: https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/
 title: Building an agentic memory system for GitHub Copilot

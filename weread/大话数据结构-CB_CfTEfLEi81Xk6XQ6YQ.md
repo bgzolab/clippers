@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_5iT5ur5sKAEQ6R46Pw_parsecover
 progress: "-1"
 readingTime: NaN小时NaN分钟
 readingDate: Invalid date
-draft: true
 title: 大话数据结构
 published:
 isbn:

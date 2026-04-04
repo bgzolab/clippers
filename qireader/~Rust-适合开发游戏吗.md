@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-25T13:38:48'
-draft: true
 modified: '2025-11-25T13:38:48'
 source: https://skywind.me/blog/archives/3639
 title: Rust 适合开发游戏吗？

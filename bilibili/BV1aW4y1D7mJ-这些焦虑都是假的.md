@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 这些焦虑都是假的
 cover: http://i0.hdslb.com/bfs/archive/2c5aea61f3d537a8befe2b9e470aa67931211126.jpg@189w_107h.webp
 author: 清醒老C

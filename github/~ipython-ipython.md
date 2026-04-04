@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ipython/ipython"
 aliases: "ipython"
 created: 2025-06-07T15:25:01
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ipython&repo=ipython&bg_color=00000000)](https://github.com/ipython/ipython)
 
 ## Notes
-

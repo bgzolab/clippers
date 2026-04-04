@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T16:54:39'
-draft: true
 modified: '2026-02-02T16:54:39'
 source: https://sspai.com/prime/story/the-state-of-ios-background-tasks
 title: 从「墓碑」到见机行事：iOS 后台机制现状分析

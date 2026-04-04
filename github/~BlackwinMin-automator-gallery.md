@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "BlackwinMin/automator-gallery"
 aliases: "automator-gallery"
 created: 2025-06-07T13:58:04

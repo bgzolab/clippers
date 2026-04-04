@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-10-16T10:03:05.923'
-draft: true
 modified: '2025-10-16T10:03:05.923'
 source: https://www.cnblogs.com/hayaso/p/18869604
 title: Astro前端框架踩的坑-1 - EricS9999 - 博客园

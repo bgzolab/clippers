@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - GPT-5 API 请求参数调整，避坑指南（汇总）
   - ~GPT-5-API- 请求参数调整 - 避坑指南 - 汇总 -TeroBox- 博客园

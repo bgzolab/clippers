@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 答应我-千万别做舔狗好吗
 cover: http://i0.hdslb.com/bfs/archive/3fa2c6aebd65b4e6fc7feece6d5ba4542692b4a9.jpg@189w_107h.webp
 author:

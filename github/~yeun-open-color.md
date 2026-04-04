@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "yeun/open-color"
 aliases: "open-color"
 created: 2025-06-07T13:46:24

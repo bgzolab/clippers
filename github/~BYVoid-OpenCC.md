@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "BYVoid/OpenCC"
 aliases: "OpenCC"
 created: 2025-06-07T14:12:45
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=BYVoid&repo=OpenCC&bg_color=00000000)](https://github.com/BYVoid/OpenCC)
 
 ## Notes
-

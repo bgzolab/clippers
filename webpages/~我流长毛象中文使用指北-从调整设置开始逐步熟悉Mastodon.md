@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "我流长毛象中文使用指北-从调整设置开始逐步熟悉Mastodon"
 created: 2025-01-15T11:35:51
 

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-03T11:22:49.963'
-draft: true
 modified: '2025-09-03T11:22:49.963'
 source: https://www.cnblogs.com/XY-Heruo/p/18924647
 title: '[python]requests VS httpx VS aiohttp - 花酒锄作田 - 博客园'

@@ -1,10 +1,8 @@
 ---
 author: 王子很困
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/9d1783c32e95ee7e46470e8430fc63ba8db34324.jpg
 created: '2025-12-28T23:20:39'
 description: 圣丹尼斯的小孩除外
-draft: true
 modified: '2025-12-28T23:20:39'
 published: '2022-08-07T13:36:45'
 source: https://www.bilibili.com/video/BV1yt4y137fk

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "argosopentech/argos-translate"
 aliases: "argos-translate"
 created: 2025-05-29T19:32:11
@@ -17,4 +16,3 @@ tags:
 ## Notes
 
 不支持日本 -> 中文
-

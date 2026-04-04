@@ -1,10 +1,8 @@
 ---
 author: 觅2
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/2aadf0166330efdf83dfff2295d7ef195518c67a.jpg
 created: '2022-12-24T20:49:27'
 description: '法律要求我声明不要模仿影片里面的任何动作   BGM: The Reefer Man (1932)'
-draft: true
 modified: '2022-12-24T20:49:27'
 published: '2022-12-20T17:23:01'
 source: https://www.bilibili.com/video/BV1wA411X7Qw

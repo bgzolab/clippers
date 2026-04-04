@@ -1,10 +1,8 @@
 ---
 author: VZOO
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/596ffcf85ba662fb14da500076731e2c26865209.jpg
 created: '2023-06-10T19:18:59'
 description: 小米Book 12.4卖2999，打字没问题，银行转账呢？玩游戏呢？生产力又怎样？
-draft: true
 modified: '2023-06-10T19:18:59'
 published: '2023-02-18T18:58:51'
 source: https://www.bilibili.com/video/BV1VD4y1A7je

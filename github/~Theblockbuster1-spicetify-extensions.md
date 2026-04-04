@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Theblockbuster1/spicetify-extensions"
 aliases: "spicetify-extensions"
 created: 2025-06-07T13:47:40
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Theblockbuster1&repo=spicetify-extensions&bg_color=00000000)](https://github.com/Theblockbuster1/spicetify-extensions)
 
 ## Notes
-

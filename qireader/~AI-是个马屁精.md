@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T16:57:39'
-draft: true
 modified: '2026-02-02T16:57:39'
 source: https://www.hecaitou.com/2026/01/AI-isa-Sycophant.html
 title: AI 是个马屁精

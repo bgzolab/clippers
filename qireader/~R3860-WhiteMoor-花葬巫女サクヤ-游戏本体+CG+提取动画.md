@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T16:19:23'
-draft: true
 modified: '2025-11-20T16:19:23'
 source: https://blog.reimu.net/archives/113390
 title: 【R3860】[WhiteMoor] 花葬巫女サクヤ 游戏本体+CG+提取动画

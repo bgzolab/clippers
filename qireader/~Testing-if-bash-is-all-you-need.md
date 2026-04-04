@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T10:19:34'
-draft: true
 modified: '2026-02-02T10:19:34'
 source: https://vercel.com/blog/testing-if-bash-is-all-you-need
 title: Testing if "bash is all you need"
@@ -55,11 +53,11 @@ Each agent received the same questions and was scored on accuracy.
 
 ## Link to headingInitial results
 
-**Agent**| **Accuracy**| **Avg Tokens**| **Cost**| **Duration**  
----|---|---|---|---  
-SQL| 100%| 155,531| $0.51| 45s  
-Bash| 52.7%| 1,062,031| $3.34| 401s  
-Filesystem| 63.0%| 1,275,871| $3.89| 126s  
+| **Agent**  | **Accuracy** | **Avg Tokens** | **Cost** | **Duration** |
+| ---------- | ------------ | -------------- | -------- | ------------ |
+| SQL        | 100%         | 155,531        | $0.51    | 45s          |
+| Bash       | 52.7%        | 1,062,031      | $3.34    | 401s         |
+| Filesystem | 63.0%        | 1,275,871      | $3.89    | 126s         |
   
 SQL dominated. It hit 100% accuracy while bash achieved just 53%. Bash also
 used 7x more tokens and cost 6.5x more, while taking 9x longer to run. Even

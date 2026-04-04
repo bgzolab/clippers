@@ -1,5 +1,4 @@
 ---
-draft: true
 title: MonitorControl/MonitorControl
 aliases:
   - MonitorControl

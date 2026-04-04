@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Understanding Discourse Trust Levels"
 created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59
@@ -194,4 +193,4 @@ Content is by-nc-sa, Discourse logo and “Discourse Forum” ®, Civilized Disc
 
 ![](data:,)
 
-* * 
+* *

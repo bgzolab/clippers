@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_5wzBDBBFM8Qq6Qy6QI_parsecover
 progress: "-1"
 readingTime: NaN小时NaN分钟
 readingDate: Invalid date
-draft: true
 title: 剑指Offer:名企面试官精讲典型编程题
 published:
 isbn:

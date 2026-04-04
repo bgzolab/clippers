@@ -1,10 +1,8 @@
 ---
 author: djjdjdxn
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/c63fa68d34c143018ea54b88289df134df020f22.jpg
 created: '2025-12-19T23:00:33'
 description: 我有掌机啦！！！虽然外观不是很好看，但是价格和性能才是最重要的，感谢卖家＼(`Δ’)／
-draft: true
 modified: '2025-12-19T23:00:33'
 published: '2025-08-08T01:48:12'
 source: https://www.bilibili.com/video/BV1dYt6zFEWP

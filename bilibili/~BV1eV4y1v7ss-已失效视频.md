@@ -1,10 +1,8 @@
 ---
 author: 略古
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2023-08-13T17:19:08'
 description: '-'
-draft: true
 modified: '2023-08-13T17:19:08'
 published: '2023-08-13T06:32:40'
 source: https://www.bilibili.com/video/BV1eV4y1v7ss

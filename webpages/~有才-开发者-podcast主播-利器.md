@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "有才｜开发者，podcast主播 | 利器"
 created: 2025-04-05T18:00:14
 modified: 2025-04-05T18:00:14

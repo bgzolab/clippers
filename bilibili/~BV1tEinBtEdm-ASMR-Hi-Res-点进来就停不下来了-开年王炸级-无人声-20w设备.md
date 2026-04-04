@@ -1,9 +1,8 @@
 ---
 author: 清水芽衣
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/de9a2d13dfd26a0899c90644305a2641118d7d82.jpg
 created: '2026-01-20T12:30:11'
-draft: true
+description: ''
 modified: '2026-01-20T12:30:11'
 published: '2026-01-04T23:27:15'
 source: https://www.bilibili.com/video/BV1tEinBtEdm

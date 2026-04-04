@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-14T16:21:12'
-draft: true
 modified: '2026-01-14T16:21:12'
 source: https://sspai.com/post/105283
 title: 派早报：一加发布 Turbo 6 系列手机等

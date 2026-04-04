@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-01-29T07:36:40'
-draft: true
 modified: '2025-01-29T07:36:40'
 source: https://www.v2ex.com/t/1108245
 title: 买大内存 MacBook 的一个意外好处——私人 AI 服务器

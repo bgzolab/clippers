@@ -1,5 +1,4 @@
 ---
-draft: true
 author: Stack Overflow
 cover: https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Ff0fdf349-149b-42f9-95d0-8ddf72185776%2F02a60604-9d42-4ec4-a716-8d9a2942f79c%2F3000x3000%2Fstack-overflow-podcast-1080x1080.jpg%3Faid%3Drss_feed&w=200&h=200
 created: '2025-06-10T09:36:39'
@@ -57,4 +56,3 @@ Click to expand
 <blockquote><b>Tulsee Doshi</b>
 
 Or image, Gemini should be able to do amazing things with that. And actually like one thing that's really awesome at the 2.5 models is how good they are at video understanding. So you can give these models a video and then ask actually based on that video to generate a web app and you'll see really interesting outcomes. Or you can give a video and ask to caption or timestamp that video and Gemini will do a pretty awesome job of breaking that down. And so I think that part is super important to us. Then there's native multimodality in the output. So can Gemini generate images or can Gemini generate audio, which actually Gemini natively generates images. And that's a big part of building out native multimodality is being able to combine these aspects together. And what that allows you to do is more nuanced things in the generation of the content because you benefit from Gemini's world knowledge in the way that you're actually generating the Media.</blockquote>
-

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-02T16:36:02.787'
-draft: true
 modified: '2025-09-02T16:36:02.787'
 source: https://www.cnblogs.com/waterme123/p/18989374
 title: 基于外卖系统的RBAC实现 - waterme - 博客园

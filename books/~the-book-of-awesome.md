@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 人生中最美妙的事都是免费的
   - the book of awesome

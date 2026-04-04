@@ -1,10 +1,8 @@
 ---
 author: 不高兴就喝水
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/d31f5e3257fefa3c1f277c64f51db5cc82ba374f.jpg
 created: '2025-12-28T23:21:24'
 description: 项目经验找不到？面试官教你
-draft: true
 modified: '2025-12-28T23:21:24'
 published: '2021-05-11T00:42:13'
 source: https://www.bilibili.com/video/BV16K4y1d7WU

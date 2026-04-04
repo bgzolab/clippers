@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 'Pop Team Epic'
   - 'pop子和pipi美的日常 第二季'
@@ -29,4 +28,3 @@ cssclasses:
 | ナナチ: 客串 | ポプ子: 主角 | ピピ美: 主角 | ミンフィリア: 客串 | 蒼井翔太: 客串 | 戦部ワタル: 客串 | 西川總帥: 客串 | タイムパトロール隊長: 客串 | レジスタンスリーダー: 客串 | キングレコーダー: 配角 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/98/d8/54943_crt_qsJ9Q.jpg?r=1680347832) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c0/1f/56822_crt_ydDQ9.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d6/c1/56823_crt_0dAB0.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/64/e1/59452_crt_4pPrC.jpg?r=1570785963) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ba/7e/61991_crt_uTW7f.jpg?r=1570353390) | ![](https://lain.bgm.tv/r/400/pic/crt/l/36/e9/72282_crt_DKFfa.jpg?r=1660993274) | ![](https://lain.bgm.tv/r/400/pic/crt/l/b9/1d/122041_crt_8ZDwW.jpg?r=1671350437) | ![](https://lain.bgm.tv/r/400/pic/crt/l/17/1d/122048_crt_JrjMJ.jpg?r=1671353497) | ![](https://lain.bgm.tv/r/400/pic/crt/l/05/38/122049_crt_276nd.jpg?r=1671354250) | ![](https://lain.bgm.tv/r/400/pic/crt/l/fc/da/122456_crt_M9h2U.jpg) |
-

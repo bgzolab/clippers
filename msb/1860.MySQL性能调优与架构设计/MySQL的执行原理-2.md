@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # 1.MySQL的执行原理-2
 

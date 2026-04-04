@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: books/编程珠玑
 tags: gtd/todo
 published:

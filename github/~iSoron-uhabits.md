@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "iSoron/uhabits"
 aliases: "uhabits"
 created: 2025-06-07T14:15:35
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=iSoron&repo=uhabits&bg_color=00000000)](https://github.com/iSoron/uhabits)
 
 ## Notes
-

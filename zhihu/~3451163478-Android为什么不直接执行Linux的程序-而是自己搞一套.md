@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2024-04-01T20:29:46'
-draft: true
 modified: '2025-06-27T10:18:08'
 source: https://www.zhihu.com/question/20596433/answer/3451163478
 title: Android为什么不直接执行Linux的程序？而是自己搞一套？

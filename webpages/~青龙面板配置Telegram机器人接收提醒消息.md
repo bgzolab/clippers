@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "青龙面板配置Telegram机器人接收提醒消息 - 逍遥观世界"
 aliases: "青龙面板配置Telegram机器人接收提醒消息 - 逍遥观世界"
 created: 2025-04-12T10:45:31

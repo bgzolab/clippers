@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-30T10:20:26'
-draft: true
 modified: '2026-01-30T10:20:26'
 source: https://www.vox.com/future-perfect/475370/anthropic-claude-code-artificial-intelligence-coder-jobs
 title: A non-coder’s guide to Claude Code

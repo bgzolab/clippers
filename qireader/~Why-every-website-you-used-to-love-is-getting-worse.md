@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:33:18'
-draft: true
 modified: '2025-11-20T13:33:18'
 source: https://www.vox.com/technology/465922/enshittification-cory-doctorow-amazon-google-facebook
 title: Why every website you used to love is getting worse

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "kernelSU的作者weishu参加今日场小米高考取得了30分——望周知"
 cover: "http://i2.hdslb.com/bfs/archive/e51e7bb31fb5bd3a2da2b499a5d548d20de8292f.jpg@189w_107h.webp"
 author: "风和就是缝合"

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Extreme frugality is a personal finance problem no one talks about
 created: 2025-09-06T16:04:05

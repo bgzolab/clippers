@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: books/Non-Fiction/工作-消费主义和新穷人
 tags: #social
 author: 齐格蒙特·鲍曼

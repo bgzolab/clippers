@@ -1,5 +1,4 @@
 ---
-draft: true
 title: MyBatis视频零基础入门到进阶-MyBatis全套视频教程源码级深入详解
 cover: http://i1.hdslb.com/bfs/archive/3d5818b9d74eb1f9d53ac274265e17a2f323c5bc.jpg@189w_107h.webp
 author: 动力节点

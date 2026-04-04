@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '煋红'
   - 'MARS RED'
@@ -50,4 +49,3 @@ cssclasses:
 | 栗栖秀太郎: 主角 | 前田義信: 主角 | タケウチ: 主角 | スワ: 主角 | 山上徳一: 主角 | デフロット: 配角 | 天満屋慎之助: 配角 | 彩芽: 配角 | 白瀬葵: 配角 | 中島宗之助: 配角 | 岬: 配角 | ルーファス・グレン: 配角 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/05/91/75982_crt_Ysr6w.jpg?r=1583336742) | ![](https://lain.bgm.tv/r/400/pic/crt/l/87/6f/75983_crt_C66F4.jpg?r=1583336834) | ![](https://lain.bgm.tv/r/400/pic/crt/l/37/15/75984_crt_73bED.jpg?r=1583336935) | ![](https://lain.bgm.tv/r/400/pic/crt/l/fb/d2/75985_crt_TidGu.jpg?r=1583337001) | ![](https://lain.bgm.tv/r/400/pic/crt/l/ad/6a/91411_crt_g7t5T.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e9/53/91412_crt_Oo4tX.jpg?r=1613747724) | ![](https://lain.bgm.tv/r/400/pic/crt/l/fd/9e/91413_crt_kqPc2.jpg?r=1613747771) | ![](https://lain.bgm.tv/r/400/pic/crt/l/38/b0/97606_crt_e3m1V.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/c2/8e/98153_crt_N6NnS.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/13/d5/98154_crt_8IJ8p.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/29/01/98155_crt_LKSoD.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/00/24/98157_crt_tyQfO.jpg) |
-

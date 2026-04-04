@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://img9.doubanio.com/view/subject/s/public/s34472995.jpg
 aliases: 成瘾在放纵中寻找平衡
 author: 在放纵中寻找平衡

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "How to make touch-screen scrolling work in Firefox Quantum?"
 created: 2025-04-05T17:31:16
 modified: 2025-04-05T17:31:16

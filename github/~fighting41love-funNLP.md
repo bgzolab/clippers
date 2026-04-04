@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "fighting41love/funNLP"
 aliases: "funNLP"
 created: 2025-06-07T14:56:43

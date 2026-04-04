@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-10T07:11:45.133'
-draft: true
 modified: '2026-02-10T07:11:45.133'
 source: https://www.cnblogs.com/zlt2000/p/19577443
 title: 从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式 - zlt2000 - 博客园

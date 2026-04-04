@@ -1,5 +1,4 @@
 ---
-draft: true
 title: yeyt97/AirDropPlus
 aliases:
   - AirDropPlus
@@ -18,4 +17,3 @@ type: repo
 ![](https://img.shields.io/github/stars/yeyt97/AirDropPlus?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/yeyt97/AirDropPlus?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/yeyt97/AirDropPlus?style=for-the-badge&label=since)
 
 ## Notes
-

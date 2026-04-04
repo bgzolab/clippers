@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_AGO0jw0m65oq6U86U5_parsecover
 progress: 5%
 readingTime: 0小时23分钟
 readingDate: 1970-01-01
-draft: true
 title: 什么是数学：对思想和方法的基本研究（中文版第三版）
 published:
 isbn:

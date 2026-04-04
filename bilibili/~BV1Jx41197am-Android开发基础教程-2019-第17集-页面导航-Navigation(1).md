@@ -1,10 +1,8 @@
 ---
 author: longway777
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/a2c84b17aff9116c3ec5c7d83b9c57e963345bf1.jpg
 created: '2025-12-28T23:21:40'
 description: Android 安卓开发基础教程系列之17 页面导航 Navigation（1） Navigation概述和简单实现
-draft: true
 modified: '2025-12-28T23:21:40'
 published: '2019-07-03T02:32:49'
 source: https://www.bilibili.com/video/BV1Jx41197am

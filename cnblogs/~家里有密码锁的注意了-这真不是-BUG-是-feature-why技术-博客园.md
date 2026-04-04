@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 家里有密码锁的注意了，这真不是 BUG，是 feature。 - Why 技术
 created: 2025-08-19T10:19:49

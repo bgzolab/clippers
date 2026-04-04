@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2018-12-23T17:36:50'
-draft: true
 modified: '2019-04-21T14:41:32'
 source: https://www.zhihu.com/question/298831339/answer/558045087
 title: 《Word Power Made Easy》这本书怎么使用？

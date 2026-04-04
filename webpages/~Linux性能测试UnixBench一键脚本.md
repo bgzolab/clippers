@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Linux性能测试UnixBench一键脚本  |  秋水逸冰"
 created: 2025-04-05T17:35:33
 modified: 2025-04-05T17:35:33

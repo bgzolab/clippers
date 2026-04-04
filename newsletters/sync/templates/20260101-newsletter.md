@@ -4,8 +4,6 @@ aliases:
   - 20260101 看到了什么有意思的
 created: 2025-03-23T13:00:00
 modified: 2026-03-14T13:03:08
-comments: true
-draft: true
 tags:
   - index/sync
 ---
@@ -16,4 +14,3 @@ tags:
 
 
 ## 🤩 看到了什么有意思的
-

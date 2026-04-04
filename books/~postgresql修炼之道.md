@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://res.weread.qq.com/wrepub/CB_BIE766756Ci46iS6gb5gm8R5_parsecover
 aliases: PostgreSQL修炼之道：从小工到专家
 author:  唐成

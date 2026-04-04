@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "bggRGjQaUbCoE/c001apk"
 aliases: "c001apk"
 created: 2025-04-21T20:27:41

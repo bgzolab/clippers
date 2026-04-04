@@ -1,10 +1,8 @@
 ---
 author: 芒果冰OL
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/904c595b8ba4ac88b7a0b6b1dfe95699e7663d83.jpg
 created: '2025-12-28T23:20:46'
 description: 【新年短评】互联网是我们时代的集体健忘症
-draft: true
 modified: '2025-12-28T23:20:46'
 published: '2019-12-31T14:19:24'
 source: https://www.bilibili.com/video/BV1JJ411h7rB

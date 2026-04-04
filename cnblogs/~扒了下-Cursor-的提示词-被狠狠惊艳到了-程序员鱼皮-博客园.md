@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-10T16:29:41.25'
-draft: true
 modified: '2025-09-10T16:29:41.25'
 source: https://www.cnblogs.com/yupi/p/19080213
 title: 扒了下 Cursor 的提示词，被狠狠惊艳到了！ - 程序员鱼皮 - 博客园

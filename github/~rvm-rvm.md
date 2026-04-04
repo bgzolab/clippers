@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "rvm/rvm"
 aliases: "rvm"
 created: 2025-05-04T19:55:52
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=rvm&repo=rvm&bg_color=00000000)](https://github.com/rvm/rvm)
 
 ## Notes
-

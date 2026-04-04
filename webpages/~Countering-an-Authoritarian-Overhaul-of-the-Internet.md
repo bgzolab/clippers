@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Countering an Authoritarian Overhaul of the Internet
 created: 2025-01-17T10:21:31

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:36:19'
-draft: true
 modified: '2025-11-20T13:36:19'
 source: https://sspai.com/post/103368
 title: 一日一技｜免电脑续签，让你的 iOS 侧载应用更无缝

@@ -11,7 +11,6 @@ progress: 95%
 readingTime: 1小时38分钟
 readingDate: 2022-07-20
 finishedDate: 2023-01-03
-draft: true
 title: 写给未出世的你
 published:
 isbn:

@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 ## 1.6.	MySQL中的锁
 

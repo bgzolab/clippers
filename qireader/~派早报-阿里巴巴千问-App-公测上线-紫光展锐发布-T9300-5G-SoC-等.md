@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:46:57'
-draft: true
 modified: '2025-11-24T16:46:57'
 source: https://sspai.com/post/103901
 title: 派早报：阿里巴巴千问 App 公测上线，紫光展锐发布 T9300 5G SoC 等

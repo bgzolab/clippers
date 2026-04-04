@@ -1,11 +1,9 @@
 ---
 author: Topbook
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/ff65e30d06b401e56f7ccd223902cb45aaf3b64a.jpg
 created: '2025-12-28T23:21:24'
 description: 这是我的泡面盖 Pro，用 Notability 做笔记、用 Procreate 画神作你已经见得很多了。我是高毅，本期内容我想跟你分享，我如何使用
   iPad 来辅助思考。
-draft: true
 modified: '2025-12-28T23:21:24'
 published: '2021-07-11T10:35:06'
 source: https://www.bilibili.com/video/BV1aM4y1M7Hg

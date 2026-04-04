@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 监视资本主义：智能陷阱 The Social Dilemma
 cover: https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2618618715.jpg
 aliases:

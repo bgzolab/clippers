@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "一键测试脚本bench.sh  |  秋水逸冰"
 created: 2025-04-05T17:25:47
 modified: 2025-04-05T17:25:47

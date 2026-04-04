@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-28T12:42:46'
-draft: true
 modified: '2026-01-28T12:42:46'
 source: https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/
 title: What AI is actually good for, according to developers

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 火星，Anthropic 对中国公司的檄文，怪不得 Claude 是封号最严重的 AI 服务
 created: 2025-09-07T19:21:19

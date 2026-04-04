@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "女性同胞怎么看待 galgame 里的女性角色？她们和你们有什么不一样？"
 created: 2021-04-05T12:39:34
 modified: 2021-04-05T12:39:34

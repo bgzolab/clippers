@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Gemini cli
   - Gemini Cli

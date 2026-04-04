@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Sinflower/WolfDec"
 aliases: "WolfDec"
 created: 2025-06-07T13:10:23
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Sinflower&repo=WolfDec&bg_color=00000000)](https://github.com/Sinflower/WolfDec)
 
 ## Notes
-

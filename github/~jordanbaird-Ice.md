@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "jordanbaird/Ice"
 aliases: "Ice"
 created: 2025-09-20T10:49:31

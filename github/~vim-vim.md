@@ -1,5 +1,4 @@
 ---
-draft: true
 title: vim/vim
 aliases: vim
 created: 2025-06-07T16:19:49

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: ["awesome-diff-tools", mmueller2012/awesome-diff-tools]
 created: 2025-07-01T21:02:06
 description: "Awesome tools that show differences between files and folders."

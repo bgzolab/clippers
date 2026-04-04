@@ -1,5 +1,4 @@
 ---
-draft: true
 title: bGZo/userscripts
 aliases:
   - 用户脚本

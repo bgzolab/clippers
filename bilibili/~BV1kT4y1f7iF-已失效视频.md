@@ -1,10 +1,8 @@
 ---
 author: 天空的百宝箱
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2025-12-28T23:21:24'
 description: www.qq.com  这套西游记共108集，每集5-7分钟。高清视频，带有字幕，故事完整。适合有一定英语基础，并且对西游记情节有所了解的孩子。这套动画还是比较忠于原著的，画风可爱，时不时来点小幽默，尤其孙悟空，萌贱萌贱的。除了看动画，还配有音频、可打印的高清彩色剧本。看完动画，还可以听音频对着这剧本再滚一遍。
-draft: true
 modified: '2025-12-28T23:21:24'
 published: '2021-12-24T03:11:20'
 source: https://www.bilibili.com/video/BV1kT4y1f7iF

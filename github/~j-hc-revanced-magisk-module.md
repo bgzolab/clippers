@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "j-hc/revanced-magisk-module"
 aliases: "revanced-magisk-module"
 created: 2025-05-11T15:52:49
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=j-hc&repo=revanced-magisk-module&bg_color=00000000)](https://github.com/j-hc/revanced-magisk-module)
 
 ## Notes
-

@@ -1,10 +1,8 @@
 ---
 author: 大家测
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/cc772fe684df749074a00a478818d7dbd29b62b4.jpg
 created: '2025-12-26T12:29:15'
 description: 【大家测】AYANEO子品牌收款力作1699元起售 | 攻氪 KONKR Pocket FIT 口袋轻薄安卓掌机【掌机聊22集】
-draft: true
 modified: '2025-12-26T12:29:15'
 published: '2025-09-16T21:15:00'
 source: https://www.bilibili.com/video/BV1rQp2zCEoW

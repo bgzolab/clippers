@@ -1,11 +1,9 @@
 ---
 author: 是狍酱
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/eaf54b8afe68ae0b94bd00b343a2ac8536456c13.jpg
 created: '2025-12-28T23:19:32'
 description: https://www.reddit.com/r/southpark/comments/nolf4f/cartman_sings_linkin_park/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
   源见logo
-draft: true
 modified: '2025-12-28T23:19:32'
 published: '2021-05-31T12:44:39'
 source: https://www.bilibili.com/video/BV1hK4y1R7uY

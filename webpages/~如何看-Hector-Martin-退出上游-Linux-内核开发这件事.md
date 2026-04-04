@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "如何看-Hector-Martin-退出上游-Linux-内核开发这件事"
 created: 2025-03-24T21:25:06
 modified: 2025-03-24T21:25:14

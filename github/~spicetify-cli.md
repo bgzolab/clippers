@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "spicetify/cli"
 aliases: "cli"
 created: 2025-06-07T13:38:59

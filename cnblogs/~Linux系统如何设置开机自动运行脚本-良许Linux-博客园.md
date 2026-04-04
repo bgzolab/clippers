@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Linux 系统如何设置开机自动运行脚本？
   - ~Linux 系统如何设置开机自动运行脚本 - 良许 Linux- 博客园

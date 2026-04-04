@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://img9.doubanio.com/view/subject/s/public/s34587985.jpg
 aliases: 戒掉恋爱脑：战胜情感依赖，找回独立自我
 author: 西尔维·田纳本, 彭璐琪

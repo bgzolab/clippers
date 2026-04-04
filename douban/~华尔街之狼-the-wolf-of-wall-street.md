@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: true
 aliases:
   - 华尔街之狼
   - The Wolf of Wall Street

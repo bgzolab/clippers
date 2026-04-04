@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-15T09:25:05'
-draft: true
 modified: '2026-01-15T09:25:05'
 source: https://sspai.com/post/105224
 title: 我们是如何学习的？关于学习的 N 个「关键词」

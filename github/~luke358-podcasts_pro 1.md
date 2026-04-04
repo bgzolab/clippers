@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "luke358/podcasts_pro"
 aliases: "podcasts_pro"
 created: 2025-05-04T23:33:48
@@ -17,4 +16,3 @@ tags:
 ## Notes
 
 https://www.v2ex.com/t/1067309
-

@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: true
 aliases:
   - GitHub Copilot now supports Agent Skills - GitHub Changelog
 created: 2026-01-25T15:21:17

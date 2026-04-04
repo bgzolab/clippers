@@ -1,9 +1,8 @@
 ---
 author: 小叮当在装修
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/3215fa650d2edd5c1ccd0ed5d1134f38d9354bf7.jpg
 created: '2024-02-08T21:13:47'
-draft: true
+description: ''
 modified: '2024-02-08T21:13:47'
 published: '2024-01-28T18:26:25'
 source: https://www.bilibili.com/video/BV1jK4y1q75U

@@ -17,3 +17,5 @@ tags:
 ![](https://img.shields.io/github/stars/dbeaver/dbeaver?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/dbeaver/dbeaver?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/dbeaver/dbeaver?style=for-the-badge&label=since)
 
 [![](https://github-stats-extended.vercel.app/api/pin/?username=dbeaver&repo=dbeaver&bg_color=00000000)](https://github.com/dbeaver/dbeaver)
+
+## Notes

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - books/Effective_Python,
   - Effective Python 90 Specific Ways to Write Better Python

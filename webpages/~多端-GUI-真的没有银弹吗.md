@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: [多端 GUI 真的没有银弹吗]
 created: 2025-07-03T21:20:42
 modified: 2025-07-03T21:20:48

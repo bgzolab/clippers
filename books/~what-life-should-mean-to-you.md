@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://img9.doubanio.com/view/subject/s/public/s1324214.jpg
 aliases: what life could mean to you, 超越自卑
 author: 阿德勒, 黄光国

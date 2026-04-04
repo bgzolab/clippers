@@ -1,9 +1,8 @@
 ---
 author: 笔记本维修厮
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/3779cfabf14444f3539c6f61709fb0d5c6edc5df.jpg
 created: '2025-12-28T23:20:53'
-draft: true
+description: ''
 modified: '2025-12-28T23:20:53'
 published: '2020-08-28T21:45:47'
 source: https://www.bilibili.com/video/BV1pV411S7xn

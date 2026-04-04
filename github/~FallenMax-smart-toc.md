@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "FallenMax/smart-toc"
 aliases: "smart-toc"
 created: 2025-06-07T13:34:04

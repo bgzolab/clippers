@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "djyde/ossart"
 aliases: "ossart"
 created: 2025-06-07T14:45:05
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=djyde&repo=ossart&bg_color=00000000)](https://github.com/djyde/ossart)
 
 ## Notes
-

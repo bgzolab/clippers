@@ -1,10 +1,8 @@
 ---
 author: 一只普通的狸花猫
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/5e6ad2bbeea199546bb01b98a5c845900557f18a.jpg
 created: '2025-12-28T23:20:39'
 description: 视频来源于网络
-draft: true
 modified: '2025-12-28T23:20:39'
 published: '2021-06-16T16:30:10'
 source: https://www.bilibili.com/video/BV1HX4y1A7cG

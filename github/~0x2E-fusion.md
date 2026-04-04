@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 0x2E/fusion
 aliases:
   - fusion

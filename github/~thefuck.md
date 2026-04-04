@@ -1,5 +1,4 @@
 ---
-draft: true
 title: nvbn/thefuck
 created: 2025-01-13T22:56:49
 modified: 2025-01-13T22:56:49

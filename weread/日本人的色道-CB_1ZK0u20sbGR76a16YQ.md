@@ -10,7 +10,6 @@ cover: https://weread-1258476243.file.myqcloud.com/app/assets/bookcover/book_cov
 progress: 72%
 readingTime: 1小时36分钟
 readingDate: 1970-01-01
-draft: true
 title: 日本人的色道
 published:
 isbn:

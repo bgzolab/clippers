@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "csstools/sanitize.css"
 aliases: "sanitize.css"
 created: 2025-03-22T16:09:57
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=csstools&repo=sanitize.css&bg_color=00000000)](https://github.com/csstools/sanitize.css)
 
 ## Notes
-

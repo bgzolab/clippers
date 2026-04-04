@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-08-19T22:48:41'
-draft: true
 modified: '2025-08-19T22:48:41'
 source: https://www.v2ex.com/t/1153551
 title: 拒绝 AI Coding 焦虑

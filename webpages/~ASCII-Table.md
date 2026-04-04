@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ASCII Table"
 created: 2025-04-05T15:50:59
 modified: 2025-04-05T15:50:59

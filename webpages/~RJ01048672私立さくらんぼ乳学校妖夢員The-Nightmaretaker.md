@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - RJ01048672 私立さくらんぼ乳学校妖夢員 The Nightmaretaker ~悪魔に憑かれた男
 created: 2025-09-06T14:16:55

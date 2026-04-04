@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2020-08-11T15:35:02'
-draft: true
 modified: '2020-08-11T22:36:07'
 source: https://www.v2ex.com/t/697389
 title: 如果后续 Github， Stackoverflow 都开始屏蔽中国用户，会有什么影响？

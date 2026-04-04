@@ -1,10 +1,8 @@
 ---
 author: 兴趣使然的三脚猫
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2024-01-19T08:35:44'
 description: 这东西我还是别碰了，狗命重要，还浪费时间
-draft: true
 modified: '2024-01-19T08:35:44'
 published: '2024-01-16T00:36:13'
 source: https://www.bilibili.com/video/BV1n64y1N7Ni

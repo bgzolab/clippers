@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "2021年，Firefox 相比于 Chrome 来说还有哪些优势？"
 created: 2021-04-05T12:39:34
 modified: 2021-04-05T12:39:34

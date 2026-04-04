@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: "39980417"
 reviewCount: 0
@@ -309,4 +308,3 @@ onewisdom: "false"
 ### 第89条 重构时考虑通过warnings提醒开发者API已经发生变化
 
 ### 第90条 考虑通过typing做静态分析，以消除bug
-

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-18T05:20:48'
-draft: true
 modified: '2025-11-18T05:20:48'
 source: https://microblogging.gledos.science/posts/2398
 title: 非典型自慰方式与性别认同注意，本文含有大量 NSFW 内容

@@ -1,10 +1,8 @@
 ---
 author: 伟哥吃吃喝喝
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/c9003347edcc28e055820c9e896e08f02680967a.jpg
 created: '2023-07-09T12:01:56'
 description: '-'
-draft: true
 modified: '2023-07-09T12:01:56'
 published: '2023-06-20T18:50:36'
 source: https://www.bilibili.com/video/BV1Qg4y1K77T

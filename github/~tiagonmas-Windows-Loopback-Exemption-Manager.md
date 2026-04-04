@@ -1,5 +1,4 @@
 ---
-draft: true
 title: tiagonmas/Windows-Loopback-Exemption-Manager
 aliases:
   - Windows-Loopback-Exemption-Manager
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=tiagonmas&repo=Windows-Loopback-Exemption-Manager&bg_color=00000000)](https://github.com/tiagonmas/Windows-Loopback-Exemption-Manager)
 
 ## Notes
-

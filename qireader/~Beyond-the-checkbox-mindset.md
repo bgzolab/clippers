@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:38:38'
-draft: true
 modified: '2025-11-20T13:38:38'
 source: https://seths.blog/2025/10/beyond-the-checkbox-mindset/
 title: Beyond the checkbox mindset

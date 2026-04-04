@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "GitbookIO/gitbook"
 aliases: "gitbook"
 created: 2025-06-08T00:44:19
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=GitbookIO&repo=gitbook&bg_color=00000000)](https://github.com/GitbookIO/gitbook)
 
 ## Notes
-

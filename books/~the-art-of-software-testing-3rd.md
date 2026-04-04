@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: books/软件测试的艺术(第3版)
 tags: #develop #testing
 author: Glenford J. Myers / Tom Badgett

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "gohugoio/hugo"
 aliases: "hugo"
 created: 2025-06-08T00:43:37
@@ -15,6 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=gohugoio&repo=hugo&bg_color=00000000)](https://github.com/gohugoio/hugo)
 
 ## Notes
-
-
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Aidoku/Aidoku"
 aliases: "Aidoku"
 created: 2025-04-23T05:58:48
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Aidoku&repo=Aidoku&bg_color=00000000)](https://github.com/Aidoku/Aidoku)
 
 ## Notes
-

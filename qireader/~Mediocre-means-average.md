@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-04T10:09:47'
-draft: true
 modified: '2025-12-04T10:09:47'
 source: https://seths.blog/2025/12/mediocre-means-average/
 title: Mediocre means average

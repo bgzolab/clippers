@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "hexojs/hexo"
 aliases: "hexo"
 created: 2025-06-08T00:43:02
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=hexojs&repo=hexo&bg_color=00000000)](https://github.com/hexojs/hexo)
 
 ## Notes
-

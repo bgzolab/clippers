@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-14T16:24:18'
-draft: true
 modified: '2026-01-14T16:24:18'
 source: https://manateelazycat.github.io/2026/01/11/aur-and-ai/
 title: 用 AI 创建 AUR 包

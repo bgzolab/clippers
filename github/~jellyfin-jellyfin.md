@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "jellyfin/jellyfin"
 aliases: "jellyfin"
 created: 2025-02-23T12:06:10
@@ -14,4 +13,3 @@ tags:
 ![](https://img.shields.io/github/stars/jellyfin/jellyfin?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jellyfin/jellyfin?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jellyfin/jellyfin?style=for-the-badge&label=since)
 
 ## Notes
-

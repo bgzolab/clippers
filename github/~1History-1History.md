@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "1History"
   - 1History

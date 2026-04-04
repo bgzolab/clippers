@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ytdl-org/youtube-dl"
 aliases: "youtube-dl"
 created: 2025-06-07T15:03:25
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ytdl-org&repo=youtube-dl&bg_color=00000000)](https://github.com/ytdl-org/youtube-dl)
 
 ## Notes
-

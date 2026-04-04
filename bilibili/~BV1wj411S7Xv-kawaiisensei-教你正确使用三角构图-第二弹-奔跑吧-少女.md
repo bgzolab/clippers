@@ -1,10 +1,8 @@
 ---
 author: kawaiisensei
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/77c8c8c060da2b3ffb4d374644d9cd29e250d72c.jpg
 created: '2023-07-04T21:35:58'
 description: 把动作画夸张的同时，表现力也大大提升！墙裂推荐大家尝试！  喜欢我的视频请帮我点赞哦~你们的支持是我最大的创作动力！
-draft: true
 modified: '2023-07-04T21:35:58'
 published: '2023-06-27T13:49:55'
 source: https://www.bilibili.com/video/BV1wj411S7Xv

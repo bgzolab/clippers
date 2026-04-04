@@ -1,10 +1,8 @@
 ---
 author: 不加醋的氨基酸
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/73da192c79fb672a64568764083d69e30810009b.jpg
 created: '2023-07-12T13:52:54'
 description: '-'
-draft: true
 modified: '2023-07-12T13:52:54'
 published: '2023-07-09T12:00:00'
 source: https://www.bilibili.com/video/BV1Zz4y1E7e5

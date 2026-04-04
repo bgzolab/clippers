@@ -1,11 +1,9 @@
 ---
 author: SheldonXin
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/2f3bf8439300170d7bd8d8f33d6e61efe7d1782b.jpg
 created: '2025-12-28T23:21:24'
 description: 在华为当软件开发工程师一周年打卡～ 啰哩叭嗦半天 希望这期视频对大家能有一丝丝的帮助 当然也是一种对自己的勉励  祝大家 顺利转变的同时
   心中有理想 肩上有担当 脚下有力量
-draft: true
 modified: '2025-12-28T23:21:24'
 published: '2022-07-10T03:37:21'
 source: https://www.bilibili.com/video/BV1Et4y147yT

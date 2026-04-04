@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-12T18:47:07'
-draft: true
 modified: '2026-02-13T08:17:07'
 source: https://www.v2ex.com/t/1192531
 title: 如何将 VSCode GitHub Copilot Chat 对话导出为 Markdown 文件？

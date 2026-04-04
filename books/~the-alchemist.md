@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: ../assets/2023/s3668327.jpg
 aliases: books/牧羊少年奇幻之旅, 牧羊少年奇幻之旅
 author: 保罗·柯艾略

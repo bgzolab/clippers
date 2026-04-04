@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: [giscus/giscus, "giscus"]
 created: 2025-07-02T22:42:44
 description: ":gem:"

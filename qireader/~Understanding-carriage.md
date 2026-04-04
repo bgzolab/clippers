@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-09T08:48:03'
-draft: true
 modified: '2025-12-09T08:48:03'
 source: https://seths.blog/2025/12/understanding-carriage/
 title: Understanding carriage

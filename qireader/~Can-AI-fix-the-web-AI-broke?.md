@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T09:31:09'
-draft: true
 modified: '2025-11-20T09:31:09'
 source: https://www.vox.com/technology/465795/chatgpt-atlas-google-chrome-gemini-perplexity-comet
 title: Can AI fix the web AI broke?

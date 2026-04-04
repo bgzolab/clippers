@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "term.everything"
   - term.everything

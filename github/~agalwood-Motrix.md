@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "agalwood/Motrix"
 aliases: "Motrix"
 created: 2025-05-28T23:10:40
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=agalwood&repo=Motrix&bg_color=00000000)](https://github.com/agalwood/Motrix)
 
 ## Notes
-

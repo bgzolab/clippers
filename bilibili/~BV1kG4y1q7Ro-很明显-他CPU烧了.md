@@ -1,10 +1,8 @@
 ---
 author: 沙雕研究协会会长
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/e080cbcb5c485b1852775d9208abd2477e0e8b1c.jpg
 created: '2022-11-28T15:02:40'
 description: weibo
-draft: true
 modified: '2022-11-28T15:02:40'
 published: '2022-09-15T19:26:01'
 source: https://www.bilibili.com/video/BV1kG4y1q7Ro

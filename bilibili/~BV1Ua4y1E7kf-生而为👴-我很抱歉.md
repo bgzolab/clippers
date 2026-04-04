@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 生而为👴-我很抱歉
 cover: http://i1.hdslb.com/bfs/archive/b816bb4346e8f477dc29cf7b8faaff648e87f6eb.jpg@189w_107h.webp
 author:

@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-04-27T12:00:00
 source: https://dev.moe/2564
 type: archive-web

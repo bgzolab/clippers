@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://img1.doubanio.com/view/subject/s/public/s33929048.jpg
 aliases: 创建优雅、富于表现力和高性能的JVM与Android应用程序
 author: 文卡特·苏布拉马尼亚姆

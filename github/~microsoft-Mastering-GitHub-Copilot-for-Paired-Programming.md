@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: true
 aliases:
   - Mastering-GitHub-Copilot-for-Paired-Programming
 created: 2026-01-24T20:28:59

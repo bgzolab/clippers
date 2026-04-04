@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "kooritea/fcmfix"
 aliases: "fcmfix"
 created: 2025-05-11T15:43:53

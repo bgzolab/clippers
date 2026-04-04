@@ -1,10 +1,8 @@
 ---
 author: 万物BB机
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/5a304e4d598116ebefbcd00da9aa4c82e2019e7c.jpg
 created: '2025-12-28T23:21:24'
 description: 预告的时候，都说跟视知TV撞题了 你仔细瞅瞅，真没撞：BV19T4y177DQ
-draft: true
 modified: '2025-12-28T23:21:24'
 published: '2020-07-23T17:37:59'
 source: https://www.bilibili.com/video/BV1dv411i7jy

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: gildas-lormeau/SingleFile
 aliases:
   - SingleFile
@@ -17,4 +16,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=gildas-lormeau&repo=SingleFile&bg_color=00000000)](https://github.com/gildas-lormeau/SingleFile)
 
 ## Notes
-

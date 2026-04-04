@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-17T15:52:05'
-draft: true
 modified: '2025-11-17T15:52:05'
 source: https://seths.blog/2025/10/attention-is-a-luxury-good/
 title: Attention is a luxury good

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:38:56'
-draft: true
 modified: '2025-11-20T13:38:56'
 source: https://sspai.com/post/103421
 title: 派早报：Apple 加入 TGA 咨询委员会、Nothing 新机发布等

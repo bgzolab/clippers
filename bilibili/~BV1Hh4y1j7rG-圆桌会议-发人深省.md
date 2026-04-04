@@ -1,9 +1,8 @@
 ---
 author: 龙吟读画
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/50e140299b337d04c8598561cb5737a909b7fc74.jpg
 created: '2023-07-12T13:51:47'
-draft: true
+description: ''
 modified: '2023-07-12T13:51:47'
 published: '2023-07-11T17:37:53'
 source: https://www.bilibili.com/video/BV1Hh4y1j7rG

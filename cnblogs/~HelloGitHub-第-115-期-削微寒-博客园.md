@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-10-30T16:55:00.717'
-draft: true
 modified: '2025-10-30T16:55:00.717'
 source: https://www.cnblogs.com/xueweihan/p/19169421
 title: 《HelloGitHub》第 115 期 - 削微寒 - 博客园

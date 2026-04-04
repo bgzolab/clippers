@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '比黑更黑 -黑之契约者- 外传'
   - 'DARKER THAN BLACK -黒の契約者- 外伝'
@@ -29,4 +28,3 @@ cssclasses:
 | 黒: 主角 | 銀: 主角 |
 | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f0/4f/292_crt_aMPWP.jpg?r=1568771715) | ![](https://lain.bgm.tv/r/400/pic/crt/l/30/82/293_crt_uzbcR.jpg?r=1491230861) |
-

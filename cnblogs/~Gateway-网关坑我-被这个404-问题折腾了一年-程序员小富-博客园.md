@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-15T10:45:36.72'
-draft: true
 modified: '2025-09-15T10:45:36.72'
 source: https://www.cnblogs.com/chengxy-nds/p/19087246
 title: Gateway 网关坑我！ 被这个404 问题折腾了一年？ - 程序员小富 - 博客园

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2014-06-26T12:47:46'
-draft: true
 modified: '2014-06-26T13:47:51'
 source: https://www.zhihu.com/question/24276657/answer/27270381
 title: 如何理解 Google 的 Material Design 设计语言？

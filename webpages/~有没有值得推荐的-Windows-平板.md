@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 有没有值得推荐的 Windows 平板？
 created: 2025-07-12T22:40:21

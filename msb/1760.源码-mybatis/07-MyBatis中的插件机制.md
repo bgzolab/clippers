@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # 一、MyBatis插件
 

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: AlistGo/alist
 aliases: alist
 created: 2024-12-28T09:58:19

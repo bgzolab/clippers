@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-02T16:11:36'
-draft: true
 modified: '2026-01-02T16:11:36'
 source: https://www.vox.com/future-perfect/473023/eat-less-meat-plant-based-new-years-resolution-2026
 title: One of the most impactful resolutions you can make in the new year

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-30T14:10:34'
-draft: true
 modified: '2026-01-30T14:10:34'
 source: https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/
 title: 'Context windows, Plan agent, and TDD: What I learned building a countdown
@@ -136,8 +134,8 @@ I gave it my rough idea: interactive time zone selector, time travel theme,
 animate between zones, maybe a world map. The Plan agent came back with
 questions that made me think:
 
-**Question**| **Why it mattered**  
----|---  
+| **Question** | **Why it mattered** |
+| ------------ | ------------------- |
 Should the circular dial be primary with the world map as secondary, or vice
 versa?| I hadn’t decided the visual hierarchy  
 What happens on mobile: dropdown fallback or touch-friendly scroll?| I was

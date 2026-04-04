@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - .nomedia 文件的作用
 created: 2025-07-19T12:36:50

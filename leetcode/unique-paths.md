@@ -1,5 +1,4 @@
 ---
-draft: true
 title: unique-paths
 aliases:
   - unique-paths

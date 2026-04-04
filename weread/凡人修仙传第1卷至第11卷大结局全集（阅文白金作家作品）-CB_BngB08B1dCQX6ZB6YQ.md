@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_D5LBt1BsQ7Uf6Yr6Yc_parsecover
 progress: 12%
 readingTime: 1小时23分钟
 readingDate: 1970-01-01
-draft: true
 title: 凡人修仙传第1卷至第11卷大结局全集（阅文白金作家作品）
 published:
 isbn:

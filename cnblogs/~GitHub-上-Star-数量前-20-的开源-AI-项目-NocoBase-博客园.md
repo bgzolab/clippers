@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - GitHub 上 Star 数量前 20 的开源 AI 项目 - NocoBase
 created: 2025-08-07T11:21:10

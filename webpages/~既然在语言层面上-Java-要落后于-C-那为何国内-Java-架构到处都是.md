@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 既然在语言层面上 Java 要落后于 C#，那为何国内 Java 架构到处都是？
 created: 2025-08-30T17:05:08

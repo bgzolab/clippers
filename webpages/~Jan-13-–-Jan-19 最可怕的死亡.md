@@ -2,7 +2,6 @@
 created: 2026-01-03T17:37:42
 modified: 2026-01-03T17:37:42
 description: "这周跟一个神经医学的年轻人，聊了聊「大脑」的事情。 这个姑娘是一个典型的「过早发育前脑」型的人，她自己也意识到…"
-draft: true
 source: "https://onojyun.com/2025/01/19/jan-13-jan-19-%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%E6%AD%BB%E4%BA%A1/"
 tags:
 type: "archive-web"

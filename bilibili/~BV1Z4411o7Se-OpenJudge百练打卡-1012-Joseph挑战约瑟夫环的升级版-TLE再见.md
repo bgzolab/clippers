@@ -1,10 +1,8 @@
 ---
 author: 曈昽素魄你莨哥
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/d3808ca2664b16a810f76aabdd8665e87549e943.jpg
 created: '2025-12-28T23:21:33'
 description: 每日一题，提神醒脑。 审核大大辛苦了！ 审核大大辛苦了！ 审核大大辛苦了！
-draft: true
 modified: '2025-12-28T23:21:33'
 published: '2019-08-19T18:49:13'
 source: https://www.bilibili.com/video/BV1Z4411o7Se

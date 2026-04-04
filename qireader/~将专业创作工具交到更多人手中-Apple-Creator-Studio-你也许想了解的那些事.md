@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T17:06:01'
-draft: true
 modified: '2026-02-02T17:06:01'
 source: https://sspai.com/post/105823
 title: 将专业创作工具交到更多人手中：Apple Creator Studio 你也许想了解的那些事

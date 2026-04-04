@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "How-To-Learn-Stuff-Quickly"
 created: 2025-01-16T08:55:24
 modified: 2025-01-16T08:56:07

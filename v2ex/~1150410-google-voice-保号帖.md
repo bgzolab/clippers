@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-08-06T15:48:49'
-draft: true
 modified: '2025-08-06T15:48:49'
 source: https://www.v2ex.com/t/1150410
 title: google voice 保号帖

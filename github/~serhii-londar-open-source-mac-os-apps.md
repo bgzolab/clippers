@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "serhii-londar/open-source-mac-os-apps"
 aliases: "open-source-mac-os-apps"
 created: 2025-01-20T20:15:33

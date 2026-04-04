@@ -1,5 +1,4 @@
 ---
-draft: true
 alias: "戒瘾"
 title: "戒瘾"
 author:
@@ -29,5 +28,3 @@ weread-link:
 
 
 ## References
-
-

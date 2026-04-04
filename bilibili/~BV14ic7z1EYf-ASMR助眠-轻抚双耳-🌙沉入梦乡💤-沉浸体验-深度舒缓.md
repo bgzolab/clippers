@@ -1,10 +1,8 @@
 ---
 author: 桃眠の糯糯
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/b1e703cf4a055d207a5a4c37b0a3668dfcf8ca5c.jpg
 created: '2026-02-18T15:39:44'
 description: "✨ 环绕增强｜低频优化｜ \U0001F4A4 所有小杂念都随音声轻轻飘散啦～(〃∀〃)"
-draft: true
 modified: '2026-02-18T15:39:44'
 published: '2026-02-13T22:39:23'
 source: https://www.bilibili.com/video/BV14ic7z1EYf

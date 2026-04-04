@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:34:45'
-draft: true
 modified: '2025-11-20T13:34:45'
 source: https://www.vox.com/podcasts/466108/taylor-swift-album-life-showgirl-reviews-backlash
 title: Why Taylor Swift made herself the villain

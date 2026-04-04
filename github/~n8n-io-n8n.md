@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "n8n"
   - n8n

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-11T09:49:25'
-draft: true
 modified: '2025-12-11T09:49:25'
 source: https://sspai.com/post/104402
 title: 深入理解 HRV：如何测准、读懂、用好

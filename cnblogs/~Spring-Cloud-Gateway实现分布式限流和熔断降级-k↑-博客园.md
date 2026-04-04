@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-03T11:28:03.443'
-draft: true
 modified: '2025-09-03T11:28:03.443'
 source: https://www.cnblogs.com/koushenhai/p/18929660
 title: Spring Cloud Gateway实现分布式限流和熔断降级 - k↑ - 博客园

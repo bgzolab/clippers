@@ -1,5 +1,4 @@
 ---
-draft: true
 title: ollama/ollama
 aliases: ollama
 created: 2025-01-20T20:58:45
@@ -16,4 +15,4 @@ type: repo
 
 ## Notes
 
-- [ ] 原理是什么？ 
+- [ ] 原理是什么？

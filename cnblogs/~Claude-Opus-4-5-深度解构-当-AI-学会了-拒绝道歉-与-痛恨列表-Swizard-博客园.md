@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-05T17:14:40.53'
-draft: true
 modified: '2025-12-05T17:14:40.53'
 source: https://www.cnblogs.com/swizard/p/19312404
 title: Claude Opus 4.5 深度解构：当 AI 学会了“拒绝道歉”与“痛恨列表” - Swizard - 博客园

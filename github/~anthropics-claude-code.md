@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - claude-code
   - Claude code

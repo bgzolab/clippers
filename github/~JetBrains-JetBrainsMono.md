@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "JetBrains/JetBrainsMono"
 aliases: "JetBrainsMono"
 created: 2025-06-07T13:38:15
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=JetBrains&repo=JetBrainsMono&bg_color=00000000)](https://github.com/JetBrains/JetBrainsMono)
 
 ## Notes
-

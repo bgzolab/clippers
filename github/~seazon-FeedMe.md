@@ -1,5 +1,4 @@
 ---
-draft: true
 title: seazon/FeedMe
 aliases:
   - FeedMe
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=seazon&repo=FeedMe&bg_color=00000000)](https://github.com/seazon/FeedMe)
 
 ## Notes
-

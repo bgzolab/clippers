@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-07-27T12:00:00
 source: 
 type: archive-web

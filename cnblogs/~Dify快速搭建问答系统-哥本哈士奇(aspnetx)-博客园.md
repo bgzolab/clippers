@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Dify 快速搭建问答系统 - 哥本哈士奇 (aspnetx)
 created: 2025-07-30T09:43:22

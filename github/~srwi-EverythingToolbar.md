@@ -4,8 +4,6 @@ aliases:
   - EverythingToolbar
 created: 2025-01-20T20:28:50
 modified: 2026-03-11T23:08:15
-comments: true
-draft: true
 description: Everything integration for the Windows taskbar.
 source: https://github.com/srwi/EverythingToolbar
 tags:

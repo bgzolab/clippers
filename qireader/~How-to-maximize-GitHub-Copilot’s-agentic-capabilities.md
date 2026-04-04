@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-03T15:58:16'
-draft: true
 modified: '2026-02-03T15:58:16'
 source: https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/
 title: How to maximize GitHub Copilot’s agentic capabilities

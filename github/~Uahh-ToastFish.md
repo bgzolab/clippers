@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Uahh/ToastFish"
 aliases: "ToastFish"
 created: 2025-06-07T14:53:26
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Uahh&repo=ToastFish&bg_color=00000000)](https://github.com/Uahh/ToastFish)
 
 ## Notes
-

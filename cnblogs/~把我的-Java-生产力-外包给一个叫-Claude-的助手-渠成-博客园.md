@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 把我的“Java 生产力”外包给一个叫 Claude 的助手 - 渠成
 created: 2025-08-08T08:58:20

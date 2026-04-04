@@ -1,5 +1,4 @@
 ---
-draft: true
 description: "主要用于记录游戏设计与对业界的思考, 时不时发游戏有关的梗图与奇思妙想" 
 source: {{tg nt_cubic}}
 type: telegram/channel

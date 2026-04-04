@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "我的鸽子是个社交恐怖分子"
 cover: "http://i2.hdslb.com/bfs/archive/e828f402bf9b9d129a7f88f2bd5b85309537b7c1.jpg@189w_107h.webp"
 author: "江风有耳"

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2023-12-13T21:29:09'
-draft: true
 modified: '2023-12-13T21:29:09'
 source: https://www.v2ex.com/t/1000152
 title: 2024 年 Google Analytics 全面转化为 GA4 版本，是时候尝试这三个最佳的开源统计工具了

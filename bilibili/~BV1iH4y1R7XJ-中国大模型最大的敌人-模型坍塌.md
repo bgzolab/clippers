@@ -1,10 +1,8 @@
 ---
 author: 迪哥有点愁
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/e863102256e5cd613cb4cb0164e2dc9ff93a362c.jpg
 created: '2023-10-21T22:00:15'
 description: 大模型最大的敌人-模型坍塌
-draft: true
 modified: '2023-10-21T22:00:15'
 published: '2023-10-15T22:35:55'
 source: https://www.bilibili.com/video/BV1iH4y1R7XJ

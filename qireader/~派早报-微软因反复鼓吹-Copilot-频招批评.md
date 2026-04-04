@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:52:41'
-draft: true
 modified: '2025-11-24T16:52:41'
 source: https://sspai.com/post/104042
 title: 派早报：微软因反复鼓吹 Copilot 频招批评

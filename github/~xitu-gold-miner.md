@@ -1,5 +1,4 @@
 ---
-draft: true
 title: xitu/gold-miner
 aliases:
   - gold-miner

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-04T10:22:50'
-draft: true
 modified: '2025-12-04T10:22:50'
 source: https://www.vox.com/technology/470004/podcasts-tiktok-attention-brains-multitasking
 title: What podcasts do to our brains

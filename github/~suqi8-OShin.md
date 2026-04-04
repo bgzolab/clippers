@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "suqi8/OShin"
 aliases: "OShin"
 created: 2025-06-28T13:24:38
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=suqi8&repo=OShin&bg_color=00000000)](https://github.com/suqi8/OShin)
 
 ## Notes
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "anyant/rssant"
 aliases: "rssant"
 created: 2025-06-07T14:35:13
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=anyant&repo=rssant&bg_color=00000000)](https://github.com/anyant/rssant)
 
 ## Notes
-

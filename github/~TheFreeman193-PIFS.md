@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "TheFreeman193/PIFS"
 aliases: "PIFS"
 created: 2025-05-11T15:45:15
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=TheFreeman193&repo=PIFS&bg_color=00000000)](https://github.com/TheFreeman193/PIFS)
 
 ## Notes
-

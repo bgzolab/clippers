@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-09T08:47:52'
-draft: true
 modified: '2025-12-09T08:47:52'
 source: https://www.vox.com/podcasts/471467/gray-area-brad-delong-progress-abundance
 title: The world has gotten richer — so, why aren&#8217;t we happier?

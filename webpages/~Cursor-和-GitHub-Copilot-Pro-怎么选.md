@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Cursor 和 GitHub Copilot Pro 怎么选？
 created: 2025-07-20T22:50:00

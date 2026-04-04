@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 会 Vibe Coding 的同事：我一个人干掉整个技术部！ - 程序员鱼皮
 created: 2025-07-18T17:31:50

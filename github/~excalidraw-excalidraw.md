@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "excalidraw/excalidraw"
 aliases: "excalidraw"
 created: 2025-06-14T22:17:24
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=excalidraw&repo=excalidraw&bg_color=00000000)](https://github.com/excalidraw/excalidraw)
 
 ## Notes
-

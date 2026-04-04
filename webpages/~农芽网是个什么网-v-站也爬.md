@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "农芽网是个什么网， v 站也爬？ - V2EX"
 created: 2025-04-04T11:01:26
 modified: 2025-04-04T11:01:26
@@ -20,4 +19,3 @@ V 站目前不能直接访问，想必爬起来不是很方便吧，呵呵。
 参考： [https://www.nongyawang.com/t/60fb8d29c959507cd50c7e91.html](https://www.nongyawang.com/t/60fb8d29c959507cd50c7e91.html) [https://www.nongyawang.com/t/60e0622cd2695a5d034ef5ae.html](https://www.nongyawang.com/t/60e0622cd2695a5d034ef5ae.html)
 
 还有一个类似的，应该是一家： [https://www.nuomiphp.com/t/60fb8d29c959507cd50c7e91.html](https://www.nuomiphp.com/t/60fb8d29c959507cd50c7e91.html)
-

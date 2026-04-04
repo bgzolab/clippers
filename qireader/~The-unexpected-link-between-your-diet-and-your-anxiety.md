@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-16T15:27:59'
-draft: true
 modified: '2025-12-16T15:27:59'
 source: https://www.vox.com/life/472211/anxiety-treatment-supplement-diet-magnesium-choline
 title: The unexpected link between your diet and your anxiety

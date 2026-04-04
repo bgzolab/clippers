@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 各国的稳定币都出现了，看来 Web3 已经无敌了
 created: 2025-07-19T23:49:17

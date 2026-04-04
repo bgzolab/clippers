@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # MyBatis基础模块-类型转换模块
 

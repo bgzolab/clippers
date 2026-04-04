@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "MakersMark3333/shanghai_daohouer_archive"
 aliases: "shanghai_daohouer_archive"
 created: 2025-06-07T13:50:13

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "【Super Payload Dumper】现代化多线程Payload.bin解包工具"
 aliases: "【Super Payload Dumper】现代化多线程Payload.bin解包工具"
 created: 2025-04-09T22:53:31

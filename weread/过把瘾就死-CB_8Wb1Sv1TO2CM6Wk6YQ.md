@@ -10,7 +10,6 @@ cover: https://weread-1258476243.file.myqcloud.com/app/assets/bookcover/book_cov
 progress: "-1"
 readingTime: NaN小时NaN分钟
 readingDate: Invalid date
-draft: true
 title: 过把瘾就死
 published:
 isbn:

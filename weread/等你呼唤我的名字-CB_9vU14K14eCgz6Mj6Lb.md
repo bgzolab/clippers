@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_2RF0uH0sbCgz6Mj6Lb_parsecover
 progress: 0%
 readingTime: 0小时21分钟
 readingDate: 1970-01-01
-draft: true
 title: 等你呼唤我的名字
 published:
 isbn:

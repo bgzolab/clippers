@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-30T10:55:16'
-draft: true
 modified: '2026-01-30T10:55:16'
 source: https://sspai.com/post/105600
 title: 派早报：荣耀发布 Magic8 Pro Air 等

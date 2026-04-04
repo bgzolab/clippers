@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 'euphoria'
   - Euphoria
@@ -73,4 +72,3 @@ cssclasses:
 | 真中合歓: 主角 | 帆刈叶: 主角 | 白夜凛音: 主角 | 蒔羽梨香: 主角 | 葵菜月: 主角 | 安藤都子: 配角 | 高遠恵輔: 主角 |
 | --- | --- | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/81/8b/14742_crt_Zr2nc.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/86/1a/14743_crt_EVWKx.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/06/47/14744_crt_Sod5P.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/17/03/14745_crt_5Ewd5.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/65/7f/14746_crt_ZlsTk.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/1c/ab/14747_crt_0g1WZ.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/73/08/14748_crt_85Uiu.jpg) |
-

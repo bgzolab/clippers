@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Summa Theologica
 created: 2025-07-17T21:33:25

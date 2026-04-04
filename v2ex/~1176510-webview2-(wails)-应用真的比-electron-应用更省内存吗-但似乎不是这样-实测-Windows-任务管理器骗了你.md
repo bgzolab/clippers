@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-03T08:31:19'
-draft: true
 modified: '2025-12-03T08:31:19'
 source: https://www.v2ex.com/t/1176510
 title: 'webview2 (wails) 应用真的比 electron 应用更省内存吗？但似乎不是这样， 实测: Windows 任务管理器骗了你！'

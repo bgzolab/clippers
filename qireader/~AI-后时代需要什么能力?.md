@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-29T11:48:17'
-draft: true
 modified: '2025-12-29T11:48:17'
 source: https://manateelazycat.github.io/2025/12/28/after-ai/
 title: AI 后时代需要什么能力?

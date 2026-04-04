@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-14T16:22:44'
-draft: true
 modified: '2026-01-14T16:22:44'
 source: https://seths.blog/2026/01/listen-to-yourself/
 title: Listen to yourself

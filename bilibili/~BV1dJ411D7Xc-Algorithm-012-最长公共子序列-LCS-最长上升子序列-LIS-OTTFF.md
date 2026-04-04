@@ -1,12 +1,10 @@
 ---
 author: 一俩三四五
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/dd3698800d84578c55646c24bcb5259e5108c9fe.jpg
 created: '2025-12-28T23:21:33'
 description: 最长公共子序列 Longest Common Subsequence 和 最长上升子序列 Longest Increasing Subsequence
   的内容讲解 1p LCS LIS 算法简要讲解 2p 特殊LCS转LIS LCIS 及 IS 划分问题讲解 模板题目及算法细节讲解见： LeetCode 300
   Longest Increasing Subsequence：av74935605 LeetCode 1143 Longest Common Subsequence：av71495123
-draft: true
 modified: '2025-12-28T23:21:33'
 published: '2019-11-29T11:26:53'
 source: https://www.bilibili.com/video/BV1dJ411D7Xc

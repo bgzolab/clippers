@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Xposed-Modules-Repo/com.skyhand.redbookhelper
 aliases:
   - com.skyhand.redbookhelper

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "滚蛋吧-肿瘤君-cut~熊顿夏梦夜话"
 cover: "http://i2.hdslb.com/bfs/archive/49d2912e57c83790a655eaf7d135a30657f62c62.jpg@189w_107h.webp"
 author:

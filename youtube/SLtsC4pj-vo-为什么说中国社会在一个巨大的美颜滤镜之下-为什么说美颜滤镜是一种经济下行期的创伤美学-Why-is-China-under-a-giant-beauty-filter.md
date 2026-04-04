@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 为什么说中国社会在一个巨大的美颜滤镜之下 为什么说美颜滤镜是一种经济下行期的创伤美学 Why is China under a giant beauty filter
 author:

@@ -1,10 +1,8 @@
 ---
 author: 爱学习的Clare
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/dd33c6db8ad2c900deb2081da7f5791b49fe1dd1.jpg
 created: '2025-12-28T23:21:33'
 description: anki2.1插件代码：1284759083
-draft: true
 modified: '2025-12-28T23:21:33'
 published: '2020-04-01T22:54:36'
 source: https://www.bilibili.com/video/BV1Dk4y1d7Bf

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - ActiveRecord 与 Castle ActiveRecord
   - ~ActiveRecord 与 Castle-ActiveRecord-Payne- 博客园

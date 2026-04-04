@@ -1,5 +1,4 @@
 ---
-draft: true
 title: rockowitz/ddcutil
 aliases:
   - ddcutil
@@ -17,4 +16,3 @@ type: repo
 ![](https://img.shields.io/github/stars/rockowitz/ddcutil?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/rockowitz/ddcutil?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/rockowitz/ddcutil?style=for-the-badge&label=since)
 
 ## Notes
-

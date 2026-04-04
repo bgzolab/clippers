@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "IT 公论会员通讯: Man of science and faith"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

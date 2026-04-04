@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "wewe-rss"
   - Cooderl-wewe-rss

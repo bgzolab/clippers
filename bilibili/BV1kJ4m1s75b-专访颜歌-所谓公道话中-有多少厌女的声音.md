@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "专访颜歌-所谓公道话中-有多少厌女的声音"
 cover: "http://i2.hdslb.com/bfs/archive/d5ccbfa7a2bd349118e0ecf20e640ac8176d88a4.jpg@189w_107h.webp"
 author: "看理想vistopia"

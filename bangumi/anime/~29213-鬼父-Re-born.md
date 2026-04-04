@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '鬼父 Re-born'
   - 鬼父 Re-born
@@ -33,4 +32,3 @@ cssclasses:
 | 秋月愛莉: 主角 | 秋月孝三: 主角 | 秋月真理奈: 主角 |
 | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6c/08/14555_crt_4uGsn.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/b8/14558_crt_PWSz6.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e8/f0/31699_crt_scQwW.jpg) |
-

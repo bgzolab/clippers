@@ -1,5 +1,4 @@
 ---
-draft: true
 alias:
   - Word Power Made Easy
 created: 2022-12-20T00:00:00

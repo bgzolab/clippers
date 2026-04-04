@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:35:01'
-draft: true
 modified: '2025-11-20T13:35:01'
 source: https://seths.blog/2025/10/new-and-old-big-and-small/
 title: New and old, big and small

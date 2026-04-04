@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2023-05-19T00:00:00
 difficulty: medium
 type: programming-problem

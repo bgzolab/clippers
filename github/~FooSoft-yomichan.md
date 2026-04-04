@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "FooSoft/yomichan"
 aliases: "yomichan"
 created: 2025-06-07T14:38:23
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=FooSoft&repo=yomichan&bg_color=00000000)](https://github.com/FooSoft/yomichan)
 
 ## Notes
-

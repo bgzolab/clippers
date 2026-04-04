@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-29T15:16:11.983'
-draft: true
 modified: '2025-12-29T15:16:11.983'
 source: https://www.cnblogs.com/liulangdelieren/p/19413173
 title: (旧文)聊聊在Android跑RPG Maker游戏那点事 - 流浪的猎人 - 博客园

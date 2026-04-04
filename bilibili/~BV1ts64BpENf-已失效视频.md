@@ -1,10 +1,8 @@
 ---
 author: 失眠的小悠酱
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2026-02-03T20:18:28'
 description: 视频主：蒼真なひろ 2026/1/30
-draft: true
 modified: '2026-02-03T20:18:28'
 published: '2026-02-01T17:57:41'
 source: https://www.bilibili.com/video/BV1ts64BpENf

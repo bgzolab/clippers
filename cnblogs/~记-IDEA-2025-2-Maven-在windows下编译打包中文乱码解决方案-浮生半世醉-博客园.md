@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-17T10:24:18.883'
-draft: true
 modified: '2025-12-17T10:24:18.883'
 source: https://www.cnblogs.com/mr-tomato/p/19028153
 title: 记 IDEA 2025.2 Maven 在windows下编译打包中文乱码解决方案 - 浮生半世醉 - 博客园

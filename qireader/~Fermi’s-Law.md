@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-17T15:03:08'
-draft: true
 modified: '2025-11-17T15:03:08'
 source: https://seths.blog/2025/10/fermis-law/
 title: Fermi’s Law

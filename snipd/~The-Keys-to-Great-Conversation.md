@@ -1,5 +1,4 @@
 ---
-draft: true
 author: Harvard Business Review
 cover: https://wsrv.nl/?url=https%3A%2F%2Fhbr.org%2Fresources%2Fimages%2Fpodcasts%2F1400-hbr-ideacast-lg-3.jpg&w=200&h=200
 created: '2025-03-25T09:36:39'
@@ -164,4 +163,3 @@ Omission. Is the conversational calculus different for people in leadership posi
 <blockquote><b>Alison Wood Brooks</b>
 
 There's a chapter in the book about group conversation. So every group has a sort of inherent status hierarchy. Leaders sometimes have high status, sometimes have high power or like control over resources. Sometimes they have high power and low status where they're not actually very well liked or respected. But certainly their sort of official position in a status hierarchy in an organization and within the sort of social status hierarchy matters tremendously. When any of us find ourselves in high status positions, we should be thinking about how we can help the lower status group members feel safe and feel invited and feel valued, one really Simple thing they can do to start is try to make more equitable eye contact with people during group conversations. In our research, what we have found is humans naturally look at the highest status members of a group while a conversation unfolds. And so even just a little bit more effort to try and catch the eyes of more people in the group makes them feel like they're not invisible, like they're included.</blockquote>
-

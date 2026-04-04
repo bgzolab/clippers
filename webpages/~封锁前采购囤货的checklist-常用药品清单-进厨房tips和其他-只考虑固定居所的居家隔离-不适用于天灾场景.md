@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: true
 aliases:
   - ~封锁前采购囤货的 Checklist- 常用药品清单 - 进厨房 tips 和其他 - 只考虑固定居所的居家隔离 - 不适用于天灾场景
   - 封锁前采购囤货的 checklist，常用药品清单，进厨房 tips 和其他。只考虑固定居所的居家隔离，不适用于天灾场景。

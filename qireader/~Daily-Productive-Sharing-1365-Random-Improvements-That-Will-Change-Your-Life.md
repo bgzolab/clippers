@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-02T16:12:49'
-draft: true
 modified: '2026-01-02T16:12:49'
 source: https://letters.acacess.com/daily-productive-sharing-1365/
 title: Daily Productive Sharing 1365 - Random Improvements That Will Change Your Life

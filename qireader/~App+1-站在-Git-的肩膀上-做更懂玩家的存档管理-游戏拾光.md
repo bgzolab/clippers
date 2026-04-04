@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:33:13'
-draft: true
 modified: '2025-11-20T13:33:13'
 source: https://sspai.com/post/102928
 title: App+1｜站在 Git 的肩膀上，做更懂玩家的存档管理：游戏拾光

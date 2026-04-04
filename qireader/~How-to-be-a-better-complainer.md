@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:38:11'
-draft: true
 modified: '2025-11-20T13:38:11'
 source: https://www.vox.com/life/466064/complaining-effectively-rumination-catharsis-venting
 title: How to be a better complainer

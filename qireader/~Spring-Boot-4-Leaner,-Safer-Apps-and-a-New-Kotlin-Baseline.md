@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-21T06:42:08'
-draft: true
 modified: '2025-11-21T06:42:08'
 source: https://blog.jetbrains.com/idea/2025/11/spring-boot-4/
 title: 'Spring Boot 4: Leaner, Safer Apps and a New Kotlin Baseline'

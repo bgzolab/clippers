@@ -1,6 +1,4 @@
 ---
-comments: false
-draft: false
 aliases:
   - 来信
   - Newsletter

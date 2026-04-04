@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-24T15:51:43.29'
-draft: true
 modified: '2025-12-24T15:51:43.29'
 source: https://www.cnblogs.com/we1zard/p/18886682
 title: nSwitch 万能安装管理工具 - DBI - WE1ZARD - 博客园

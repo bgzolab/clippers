@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "2moe/tmoe"
 aliases: "tmoe"
 created: 2025-06-07T15:45:10
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=2moe&repo=tmoe&bg_color=00000000)](https://github.com/2moe/tmoe)
 
 ## Notes
-

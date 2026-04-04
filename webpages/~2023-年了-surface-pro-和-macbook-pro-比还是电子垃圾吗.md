@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 2023 年了， Surface pro 和 macbook pro 比还是电子垃圾吗
 created: 2025-07-13T18:39:46

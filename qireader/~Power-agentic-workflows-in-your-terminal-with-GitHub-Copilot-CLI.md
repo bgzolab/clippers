@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T16:55:50'
-draft: true
 modified: '2026-02-02T16:55:50'
 source: https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/
 title: Power agentic workflows in your terminal with GitHub Copilot CLI

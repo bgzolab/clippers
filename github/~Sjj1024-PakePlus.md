@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Sjj1024/PakePlus"
 aliases: "PakePlus"
 created: 2025-05-29T20:48:01
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Sjj1024&repo=PakePlus&bg_color=00000000)](https://github.com/Sjj1024/PakePlus)
 
 ## Notes
-

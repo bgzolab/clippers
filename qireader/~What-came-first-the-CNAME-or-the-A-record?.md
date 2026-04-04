@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-28T12:43:48'
-draft: true
 modified: '2026-01-28T12:43:48'
 source: https://blog.cloudflare.com/cname-a-record-order-dns-standards/
 title: 'What came first: the CNAME or the A record?'
@@ -31,15 +29,15 @@ the "correct" order of a DNS response difficult to define.
 
 _All timestamps referenced are in Coordinated Universal Time (UTC)._
 
-**Time**| **Description**  
----|---  
-2025-12-02| The record reordering is introduced to the 1.1.1.1 codebase  
-2025-12-10| The change is released to our testing environment  
-2026-01-07 23:48| A global release containing the change starts  
-2026-01-08 17:40| The release reaches 90% of servers  
-2026-01-08 18:19| Incident is declared  
-2026-01-08 18:27| The release is reverted  
-2026-01-08 19:55| Revert is completed. Impact ends  
+| **Time**         | **Description**                                             |
+| ---------------- | ----------------------------------------------------------- |
+| 2025-12-02       | The record reordering is introduced to the 1.1.1.1 codebase |
+| 2025-12-10       | The change is released to our testing environment           |
+| 2026-01-07 23:48 | A global release containing the change starts               |
+| 2026-01-08 17:40 | The release reaches 90% of servers                          |
+| 2026-01-08 18:19 | Incident is declared                                        |
+| 2026-01-08 18:27 | The release is reverted                                     |
+| 2026-01-08 19:55 | Revert is completed. Impact ends                            |
   
 ## What happened?
 

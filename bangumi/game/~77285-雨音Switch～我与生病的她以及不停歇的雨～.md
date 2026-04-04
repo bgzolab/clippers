@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: ['雨音スイッチ', '雨音（あまね）スイッチ ～やまない雨と病んだ彼女そして俺～', '雨音Switch～我与生病的她以及不停歇的雨～']
 bangumi: https://bgm.tv/subject/77285
 bangumi-rating: 5.1
@@ -40,4 +39,3 @@ cssclasses:
 | 里中雨音:主角 | 峰岸陽子:主角 | 木崎泉:主角 | 木崎雫:主角 | 水島雪華:主角 |
 | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c8/c8/113234_crt_Lj0j0.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/87/113235_crt_FoF4M.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/cb/77/113236_crt_2v4T3.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/7a/e1/113237_crt_C78i7.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/90/fb/113238_crt_XA1hO.jpg) |
-

@@ -1,10 +1,8 @@
 ---
 author: IT-路飞学城
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/ffdf64803423a068e03e5487100330df7ccba75f.jpg
 created: '2023-07-08T12:46:37'
 description: 踩过坑、挨过雷，以我之经验帮你解惑。IT转行、IT情感陪护、职业规划，加Wei：Alex258011以我之经验帮你解惑
-draft: true
 modified: '2023-07-08T12:46:37'
 published: '2023-06-14T14:16:10'
 source: https://www.bilibili.com/video/BV1Jk4y1H7ha

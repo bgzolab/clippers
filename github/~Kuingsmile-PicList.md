@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Kuingsmile/PicList"
 aliases: "PicList"
 created: 2025-04-03T23:38:23
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Kuingsmile&repo=PicList&bg_color=00000000)](https://github.com/Kuingsmile/PicList)
 
 ## Notes
-

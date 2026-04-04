@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-03-09T11:01:37'
-draft: true
 modified: '2026-03-09T12:41:15'
 source: https://www.v2ex.com/t/1196774
 title: 给大家推荐一个 openclaw 平替，更安全，叫 astrbot

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T15:52:05'
-draft: true
 modified: '2025-11-24T15:52:05'
 source: https://www.vox.com/the-highlight/466054/boundaries-psychology-self-care-burnout
 title: You don’t need better boundaries. You need a better framework.

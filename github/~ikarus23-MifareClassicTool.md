@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ikarus23/MifareClassicTool"
 aliases: "MifareClassicTool"
 created: 2025-05-11T12:43:50
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ikarus23&repo=MifareClassicTool&bg_color=00000000)](https://github.com/ikarus23/MifareClassicTool)
 
 ## Notes
-

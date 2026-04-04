@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://img3.doubanio.com/view/subject/s/public/s34360957.jpg
 author: Craig Walls
 created: 2023-01-11

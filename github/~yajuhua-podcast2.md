@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "yajuhua/podcast2"
 aliases: "podcast2"
 created: 2025-09-21T00:16:41

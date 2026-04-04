@@ -1,10 +1,8 @@
 ---
 author: 食盐YYYY
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/bd4e30bffe60161b9a3354ff6be4b1d90cd6f2b1.jpg
 created: '2025-01-16T07:45:24'
 description: 不懂事随便做的
-draft: true
 modified: '2025-01-16T07:45:24'
 published: '2025-01-14T21:58:50'
 source: https://www.bilibili.com/video/BV1Buc8eGEUr

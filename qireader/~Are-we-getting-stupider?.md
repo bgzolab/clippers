@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T16:55:00'
-draft: true
 modified: '2026-02-02T16:55:00'
 source: https://www.vox.com/explain-it-to-me/476233/technology-brains-shrinking-neurologist-explained
 title: Are we getting stupider?

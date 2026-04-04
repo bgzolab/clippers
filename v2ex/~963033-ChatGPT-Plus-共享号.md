@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2023-08-07T14:32:42'
-draft: true
 modified: '2023-08-07T14:32:42'
 source: https://www.v2ex.com/t/963033
 title: ChatGPT Plus 共享号

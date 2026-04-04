@@ -1,9 +1,8 @@
 ---
 author: 你愣着干嘛笑呀
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2025-12-28T23:18:44'
-draft: true
+description: ''
 modified: '2025-12-28T23:18:44'
 published: '2020-10-06T13:35:51'
 source: https://www.bilibili.com/video/BV1DK4y187xe

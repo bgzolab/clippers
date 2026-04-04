@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://img2.doubanio.com/view/subject/s/public/s29107491.jpg
 aliases: 算法(第四版)
 author: Robert Sedgewick / Kevin Wayne / 谢路云

@@ -1,10 +1,8 @@
 ---
 author: 马刀刻森
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/a8c173a3c9b8de53ce7702cb93871cdb80671c31.jpg
 created: '2025-12-28T23:20:53'
 description: 原创动画系列第一集
-draft: true
 modified: '2025-12-28T23:20:53'
 published: '2021-12-27T19:01:55'
 source: https://www.bilibili.com/video/BV1ob4y1Y7PR

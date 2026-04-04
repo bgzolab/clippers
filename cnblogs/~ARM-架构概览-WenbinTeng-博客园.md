@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - ARM 架构概览 - WenbinTeng
 created: 2025-08-08T17:15:11

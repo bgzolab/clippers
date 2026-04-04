@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Fusion RSS 阅读器 v0.9.3：全新 UI、快捷键、i18n 等 - V2EX
 created: 2025-03-29T22:01:49
 modified: 2025-03-29T22:02:10
@@ -34,6 +33,3 @@ Hi 朋友们！最近为 Fusion 添加了多个社区呼声很高的功能，分
 欢迎大家体验，项目地址： [https://github.com/0x2E/fusion](https://github.com/0x2E/fusion) 。
 
 ## Comment
-
-
-

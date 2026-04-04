@@ -1,5 +1,4 @@
 ---
-draft: true
 title: everything-everywhere-oscars
 created: 2022-01-19T10:12:14
 modified: 2025-01-19T02:57:25

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 班里唯一一个博士在同学会上的愧疚和致歉
 cover: http://i0.hdslb.com/bfs/archive/1384d01afaeb6aca09d1bae373ed0b851857b070.jpg@189w_107h.webp
 author: 为了玲飞护肤纪录片

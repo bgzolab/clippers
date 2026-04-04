@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "jgraph/drawio"
 aliases: "drawio"
 created: 2025-06-14T22:13:24
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=jgraph&repo=drawio&bg_color=00000000)](https://github.com/jgraph/drawio)
 
 ## Notes
-

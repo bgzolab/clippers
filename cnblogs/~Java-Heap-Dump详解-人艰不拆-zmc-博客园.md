@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-26T13:29:56.697'
-draft: true
 modified: '2025-09-26T13:29:56.697'
 source: https://www.cnblogs.com/zhangmingcheng/p/19096108
 title: Java Heap Dump详解 - 人艰不拆_zmc - 博客园

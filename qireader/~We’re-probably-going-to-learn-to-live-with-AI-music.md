@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-14T16:23:48'
-draft: true
 modified: '2026-01-14T16:23:48'
 source: https://www.vox.com/podcasts/474751/ai-music-suno-generator
 title: We’re probably going to learn to live with AI music

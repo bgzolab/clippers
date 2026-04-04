@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "nil's blog"
 created: 2025-04-03T20:56:42
 modified: 2025-04-03T20:56:42

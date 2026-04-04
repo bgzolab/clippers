@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2024-06-07T17:10:27'
-draft: true
 modified: '2024-06-07T17:13:01'
 source: https://www.zhihu.com/question/566292923/answer/3523348610
 title: 为什么很多人认为Linux没桌面，每次一说Linux写代码都得说 ssh过去？

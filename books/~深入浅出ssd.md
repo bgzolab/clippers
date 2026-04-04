@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://img9.doubanio.com/view/subject/s/public/s29829855.jpg
 author: SSDFans
 created: 2024-07-27

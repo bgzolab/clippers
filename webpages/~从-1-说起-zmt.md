@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "从E3-1230说起 – zmt"
 created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53

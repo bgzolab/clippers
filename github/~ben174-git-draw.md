@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ben174/git-draw"
 aliases: "git-draw"
 created: 2025-06-07T14:15:07
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ben174&repo=git-draw&bg_color=00000000)](https://github.com/ben174/git-draw)
 
 ## Notes
-

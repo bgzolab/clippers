@@ -1,10 +1,8 @@
 ---
 author: 缘泗
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2024-02-08T13:31:28'
 description: '-'
-draft: true
 modified: '2024-02-08T13:31:28'
 published: '2024-02-06T04:03:27'
 source: https://www.bilibili.com/video/BV1fU421d7De

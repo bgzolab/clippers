@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-30T10:23:27'
-draft: true
 modified: '2026-01-30T10:23:27'
 source: https://www.vox.com/future-perfect/475567/iran-protests-starlink-satellites-space-human-rights
 title: 50,000 clandestine Starlink terminals are keeping Iranians in touch with the

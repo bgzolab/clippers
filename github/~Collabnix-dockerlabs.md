@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Collabnix/dockerlabs
 aliases:
   - dockerlabs
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Collabnix&repo=dockerlabs&bg_color=00000000)](https://github.com/Collabnix/dockerlabs)
 
 ## Notes
-

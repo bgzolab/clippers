@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "eliascotto/youtube-subtitles-downloader"
 aliases: "youtube-subtitles-downloader"
 created: 2025-07-01T22:54:16

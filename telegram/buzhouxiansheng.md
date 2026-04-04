@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: buzhouxiansheng
 created: 2024-08-18
 description: 想写就写，让思绪流淌

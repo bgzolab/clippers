@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-12T13:49:12'
-draft: true
 modified: '2026-01-12T13:49:12'
 source: https://seths.blog/2026/01/to-be-sure/
 title: To be sure

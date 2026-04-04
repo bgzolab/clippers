@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-25T23:59:24'
-draft: true
 modified: '2026-02-26T09:46:24'
 source: https://www.zhihu.com/question/2008176730532234790/answer/2010141853471772890
 title: ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？

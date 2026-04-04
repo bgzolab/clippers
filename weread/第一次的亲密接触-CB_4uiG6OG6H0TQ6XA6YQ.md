@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_5Jk5Fc5CV2e36VX6UO_parsecover
 progress: 0%
 readingTime: 0小时11分钟
 readingDate: 1970-01-01
-draft: true
 title: 第一次的亲密接触
 published:
 isbn:

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: ["sing-box", SagerNet/sing-box]
 created: 2025-07-01T20:39:31
 description: "The universal proxy platform"

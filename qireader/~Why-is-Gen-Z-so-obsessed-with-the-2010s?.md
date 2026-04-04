@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-03T15:51:16'
-draft: true
 modified: '2026-02-03T15:51:16'
 source: https://www.vox.com/podcasts/477331/2016-songs-fashion-social-media-trends-tiktok-spotify
 title: Why is Gen Z so obsessed with the 2010s?

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Youjingyu/web_mind_mapping"
 aliases: "web_mind_mapping"
 created: 2025-06-07T15:56:52
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Youjingyu&repo=web_mind_mapping&bg_color=00000000)](https://github.com/Youjingyu/web_mind_mapping)
 
 ## Notes
-

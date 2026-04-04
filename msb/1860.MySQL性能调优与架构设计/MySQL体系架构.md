@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # 1.MySQL体系架构
 

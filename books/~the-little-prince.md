@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: 
 aliases: 小王子
 author: Antoine de Saint-Exupéry

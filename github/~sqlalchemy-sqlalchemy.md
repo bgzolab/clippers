@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - SQLAlchemy
   - "sqlalchemy"

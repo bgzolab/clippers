@@ -1,10 +1,8 @@
 ---
 author: 顶尖航拍观赏
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/08dcdb569dd5edf50a6eeb52556cff9dd397935a.jpg
 created: '2025-12-28T23:20:46'
 description: https://www.youtube.com/watch?v=cMi2CQN3mXo
-draft: true
 modified: '2025-12-28T23:20:46'
 published: '2020-09-26T10:15:23'
 source: https://www.bilibili.com/video/BV1V5411j7Pp

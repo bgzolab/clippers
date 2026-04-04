@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "jgraph/drawio-desktop"
 aliases: "drawio-desktop"
 created: 2025-06-07T14:17:41

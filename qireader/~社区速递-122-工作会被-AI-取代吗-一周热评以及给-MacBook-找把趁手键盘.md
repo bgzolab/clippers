@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-19T09:03:53'
-draft: true
 modified: '2025-12-19T09:03:53'
 source: https://sspai.com/post/104635
 title: 社区速递 122 | 工作会被 AI 取代吗、一周热评以及给 MacBook 找把趁手键盘

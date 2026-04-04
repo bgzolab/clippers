@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "guozhigq/pilipala"
 aliases: "pilipala"
 created: 2025-05-11T15:23:43
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=guozhigq&repo=pilipala&bg_color=00000000)](https://github.com/guozhigq/pilipala)
 
 ## Notes
-

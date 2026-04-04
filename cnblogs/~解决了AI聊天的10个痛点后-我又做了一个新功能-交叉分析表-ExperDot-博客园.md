@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 解决了 AI 聊天的 10 个痛点后，我又做了一个新功能：交叉分析表 - ExperDot
 created: 2025-07-13T13:28:40

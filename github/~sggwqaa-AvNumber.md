@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "sggwqaa/AvNumber"
 aliases: "AvNumber"
 created: 2025-05-31T23:31:24

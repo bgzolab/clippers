@@ -1,10 +1,8 @@
 ---
 author: 探索兔
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2022-12-04T18:07:36'
 description: 嗯哼，这个宿舍不简单哦……
-draft: true
 modified: '2022-12-04T18:07:36'
 published: '2022-11-30T17:41:35'
 source: https://www.bilibili.com/video/BV1Zd4y1x7QR

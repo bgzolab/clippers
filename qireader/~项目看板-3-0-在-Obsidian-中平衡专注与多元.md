@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-18T09:12:45'
-draft: true
 modified: '2025-11-18T09:12:45'
 source: https://sspai.com/post/102887
 title: 项目看板 3.0：在 Obsidian 中平衡专注与多元

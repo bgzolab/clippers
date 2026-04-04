@@ -1,7 +1,7 @@
 ---
 created: 2026-01-03T22:26:01
 modified: 2026-01-03T22:26:01
-draft: true
+description:
 source: "https://wiki.termux.com/wiki/Backing_up_Termux"
 tags:
 type: "archive-web"

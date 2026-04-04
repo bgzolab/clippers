@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Lessica/TrollRecorder"
 aliases: "TrollRecorder"
 created: 2025-05-11T11:07:19
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Lessica&repo=TrollRecorder&bg_color=00000000)](https://github.com/Lessica/TrollRecorder)
 
 ## Notes
-

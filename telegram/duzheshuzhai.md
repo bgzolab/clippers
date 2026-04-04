@@ -1,5 +1,4 @@
 ---
-draft: true
 alias: 读者书摘
 created: 2022-10-21
 type: telegram/channel

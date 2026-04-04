@@ -5,8 +5,6 @@ aliases:
   - "vibe-coding-cn"
 created: 2026-02-20T17:49:14
 modified: 2026-02-20T17:49:30
-comments: true
-draft: true
 description: "Vibe Coding 指南 - 涵盖 Prompt 提示词、Skill 技能库、Workflow 工作流的 AI 编程工作站"
 source: "https://github.com/tukuaiai/vibe-coding-cn"
 tags:

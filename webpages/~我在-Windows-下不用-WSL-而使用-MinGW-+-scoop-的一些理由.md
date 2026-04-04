@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "我在-Windows-下不用-WSL-而使用-MinGW-+-scoop-的一些理由"
 created: 2025-03-24T20:55:41
 modified: 2025-03-24T20:56:49

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "MuntashirAkon/AppManager"
 aliases: "AppManager"
 created: 2025-04-10T20:18:11
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=MuntashirAkon&repo=AppManager&bg_color=00000000)](https://github.com/MuntashirAkon/AppManager)
 
 ## Notes
-

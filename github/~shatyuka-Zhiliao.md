@@ -1,5 +1,4 @@
 ---
-draft: true
 title: shatyuka/Zhiliao
 aliases:
   - Zhiliao
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=shatyuka&repo=Zhiliao&bg_color=00000000)](https://github.com/shatyuka/Zhiliao)
 
 ## Notes
-

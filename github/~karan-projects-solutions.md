@@ -1,5 +1,4 @@
 ---
-draft: true
 title: karan/projects-solutions
 aliases: projects-solutions
 created: 2023-03-21
@@ -16,4 +15,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=karan&repo=projects-solutions&bg_color=00000000)](https://github.com/karan/projects-solutions)
 
 ## Notes
-

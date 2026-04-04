@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "新年灵修指南：Calm down and keep simple | 利器"
 created: 2025-04-05T17:57:38
 modified: 2025-04-05T17:57:38

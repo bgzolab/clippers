@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "onedrive"
   - Onedrive for linux

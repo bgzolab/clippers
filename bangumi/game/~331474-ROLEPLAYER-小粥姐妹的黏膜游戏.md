@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 'Role player：小粥姉妹の粘膜ポトレ ぐりぐちゃLIVE！'
   - 'ROLEPLAYER：小粥姐妹的黏膜游戏！'
@@ -46,4 +45,3 @@ cssclasses:
 | 小粥聖良: 主角 | 小粥莉瑠: 主角 |
 | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a8/e4/92974_crt_KKZ6W.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/44/86/92975_crt_TDxm6.jpg) |
-

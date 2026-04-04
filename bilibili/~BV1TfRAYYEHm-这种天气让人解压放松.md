@@ -1,10 +1,8 @@
 ---
 author: 一百万种感觉
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/c2ba4502cc7def238ae53dbcd50fcb0faebd15ee.jpg
 created: '2025-03-09T15:02:14'
 description: SISJJSJ
-draft: true
 modified: '2025-03-09T15:02:14'
 published: '2025-03-06T17:01:28'
 source: https://www.bilibili.com/video/BV1TfRAYYEHm

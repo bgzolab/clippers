@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Java 集合源码 --ArrayList 的可视化操作过程 - 渊渟岳
 created: 2025-07-16T10:00:20

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-26T08:54:33'
-draft: true
 modified: '2025-11-26T08:54:33'
 source: https://sspai.com/post/103458
 title: 习惯养成 ABC：要如何克服内心的静摩擦力？

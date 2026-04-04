@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "FreshRSS/FreshRSS"
 aliases: "FreshRSS"
 created: 2025-06-07T14:43:39
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=FreshRSS&repo=FreshRSS&bg_color=00000000)](https://github.com/FreshRSS/FreshRSS)
 
 ## Notes
-

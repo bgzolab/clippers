@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "LawRefBook/Laws"
 aliases: "Laws"
 created: 2025-06-07T14:42:15
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=LawRefBook&repo=Laws&bg_color=00000000)](https://github.com/LawRefBook/Laws)
 
 ## Notes
-

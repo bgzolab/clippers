@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T16:59:12'
-draft: true
 modified: '2026-02-02T16:59:12'
 source: https://www.vox.com/politics/476711/xi-zhang-youxia-china-military-purge
 title: China is purging its military leaders. Is this a step toward war?

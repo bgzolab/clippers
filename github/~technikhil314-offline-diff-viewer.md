@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: [technikhil314/offline-diff-viewer, "offline-diff-viewer"]
 created: 2025-07-01T21:09:56
 description: "A Privacy focused, easy sharable, open source and anonymous tracking diff viewer."

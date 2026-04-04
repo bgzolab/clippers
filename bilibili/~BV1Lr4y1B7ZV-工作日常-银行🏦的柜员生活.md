@@ -1,10 +1,8 @@
 ---
 author: 允我心安n
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/c550acab7f4892c8a744913f679251e57c3b2e7b.jpg
 created: '2025-12-28T23:20:39'
 description: 视频搬运自互联网
-draft: true
 modified: '2025-12-28T23:20:39'
 published: '2022-03-14T09:43:25'
 source: https://www.bilibili.com/video/BV1Lr4y1B7ZV

@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: "621934"
 reviewCount: 0
@@ -261,4 +260,3 @@ onewisdom: "false"
 ### 18.12 基于LVM快照的MySQL数据库备份
 
 ### 18.13 页面自动化安装LAMP环境
-

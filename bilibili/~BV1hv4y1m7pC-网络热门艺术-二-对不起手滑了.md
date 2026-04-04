@@ -1,10 +1,8 @@
 ---
 author: 美院安迪看艺术
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/2c5a0f584d7edb691294d82d6d7a67e074ff9fab.jpg
 created: '2022-11-28T15:03:13'
 description: '@喜欢艺术的朋友'
-draft: true
 modified: '2022-11-28T15:03:13'
 published: '2022-11-17T13:27:03'
 source: https://www.bilibili.com/video/BV1hv4y1m7pC

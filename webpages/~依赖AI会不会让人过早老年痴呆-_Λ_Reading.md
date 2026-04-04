@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "依赖AI会不会让人过早老年痴呆？_Λ_Reading_2023_3_29_18_06_02"
 created: 2023-03-29T18:06:02
 modified: 2023-03-29T18:06:02
@@ -205,4 +204,4 @@ Dec 25, 2022
 
 
 
-This site requires JavaScript to run correctly. Please [turn on JavaScript](https://enable-javascript.com/) or unblock scripts 
+This site requires JavaScript to run correctly. Please [turn on JavaScript](https://enable-javascript.com/) or unblock scripts

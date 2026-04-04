@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: books/当下的力量
 author: 埃克哈特•托利 (Eckhart Tolle) / 曹植
 publisher: 中信出版社

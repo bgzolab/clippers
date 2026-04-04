@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "TrackWeight"
   - TrackWeight

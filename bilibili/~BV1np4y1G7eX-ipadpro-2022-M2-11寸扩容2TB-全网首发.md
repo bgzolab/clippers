@@ -1,10 +1,8 @@
 ---
 author: 万维创芯-老罗
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/ea0f1117b881923b1263729f035842bf5fb82223.jpg
 created: '2023-08-15T00:08:49'
 description: ipadpro2022 m2扩容1tb,2tb全部通过测试，双通道带来读写速度大幅提升。原谅我这个月更博主
-draft: true
 modified: '2023-08-15T00:08:49'
 published: '2023-08-08T21:44:45'
 source: https://www.bilibili.com/video/BV1np4y1G7eX

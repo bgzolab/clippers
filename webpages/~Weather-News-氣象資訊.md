@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Weather News(氣象資訊)"
 created: 2025-04-05T15:50:53
 modified: 2025-04-05T15:50:53
@@ -34,13 +33,4 @@ TV ASAHI(朝日電視台) |  [http://www.tv-asahi.co.jp](http://www.tv-asahi.co.
 TV TOKYO |  [http://www.tv-tokyo.co.jp](http://www.tv-tokyo.co.jp/)  
   
   
-![](data:image/gif;base64,R0lGODlhAQABAPAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) | ![](data:image/gif;base64,R0lGODlhAQABAPAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)  
-  
- 
-
-  
-
-
- 
-
- 
+![](data:image/gif;base64,R0lGODlhAQABAPAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) | ![](data:image/gif;base64,R0lGODlhAQABAPAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)

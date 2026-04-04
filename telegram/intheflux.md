@@ -1,5 +1,4 @@
 ---
-draft: true
 alias: in the flux
 created: 2024-08-18
 description: 关于文化、艺术与技术的信息流 A place of radical sharing on art, culture and technology 投稿&联系 @flowfeedbackBot 经常技术控，忍不住会时评，日常好奇心，文化观察员，吐槽苦手，综合解闷方案。 会的太杂了，真不好意思。 艺术我爱之深，恨之切

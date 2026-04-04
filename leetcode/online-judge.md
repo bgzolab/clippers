@@ -1,5 +1,4 @@
 ---
-draft: true
 title: online-judge
 aliases:
   - open judge

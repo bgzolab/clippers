@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-12-28T10:42:35
 source: "https://zhangslob.github.io/2019/01/16/Golang%E5%86%99%E7%88%AC%E8%99%AB/"
 type: "archive-web"

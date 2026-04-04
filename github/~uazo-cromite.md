@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: "true"
 aliases:
   - "cromite"
   - Cromite

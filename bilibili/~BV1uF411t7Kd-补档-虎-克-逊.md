@@ -1,10 +1,8 @@
 ---
 author: 鸡鸡·夫斯基
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/4b487cb53769814c7fc3c94bd06c6d1e3899f34e.jpg
 created: '2025-12-28T23:20:46'
 description: 混音：饭団子P
-draft: true
 modified: '2025-12-28T23:20:46'
 published: '2022-03-18T21:05:57'
 source: https://www.bilibili.com/video/BV1uF411t7Kd

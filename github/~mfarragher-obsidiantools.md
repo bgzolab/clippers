@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "mfarragher/obsidiantools"
 aliases: "obsidiantools"
 created: 2025-08-10T09:16:21

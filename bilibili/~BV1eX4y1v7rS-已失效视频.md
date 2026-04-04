@@ -1,9 +1,8 @@
 ---
 author: 阿右科普
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2023-07-08T12:41:58'
-draft: true
+description: ''
 modified: '2023-07-08T12:41:58'
 published: '2023-06-30T22:08:46'
 source: https://www.bilibili.com/video/BV1eX4y1v7rS

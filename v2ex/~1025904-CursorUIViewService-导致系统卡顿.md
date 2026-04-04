@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2024-03-21T23:23:38'
-draft: true
 modified: '2024-03-21T23:24:26'
 source: https://www.v2ex.com/t/1025904
 title: CursorUIViewService 导致系统卡顿

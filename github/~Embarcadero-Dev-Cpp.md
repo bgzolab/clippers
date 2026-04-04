@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Embarcadero/Dev-Cpp
 aliases: Dev-Cpp
 created: 2024-03-17T16:03:17

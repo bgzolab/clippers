@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Cool things don’t scale"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

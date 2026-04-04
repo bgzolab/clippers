@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 深入解析 Java 启动参数：从基础配置到高级调优 - dashery
 created: 2025-08-11T09:40:47

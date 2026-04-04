@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_CvI3rk3u30JC6VC6UN_parsecover
 progress: 7%
 readingTime: 0小时26分钟
 readingDate: 1970-01-01
-draft: true
 title: Java并发编程的艺术 (Java核心技术系列)(elib.cc)
 published:
 isbn:
@@ -421,4 +420,3 @@ weread: https://weread.qq.com/web/reader/94342ad2a43425f356544364e64364c7a334f75
 ### 11.4 异步任务池
 
 ### 11.5 本章小结
-

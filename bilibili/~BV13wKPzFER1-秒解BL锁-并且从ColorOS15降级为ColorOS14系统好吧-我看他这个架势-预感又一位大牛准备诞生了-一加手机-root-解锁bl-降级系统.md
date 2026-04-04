@@ -1,10 +1,8 @@
 ---
 author: 搞机友友233
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/dca633bf6149f5eb9df66dbbadc7b1613ca9dadf.jpg
 created: '2025-11-08T10:36:06'
 description: '-'
-draft: true
 modified: '2025-11-08T10:36:06'
 published: '2025-06-20T22:46:43'
 source: https://www.bilibili.com/video/BV13wKPzFER1

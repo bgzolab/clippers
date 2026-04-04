@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 免费的个人网站托管 -PinMe 篇 - ！win ！
 created: 2025-08-21T09:27:21

@@ -5,8 +5,6 @@ aliases:
   - Openclaw
 created: 2026-02-26T22:26:31
 modified: 2026-02-27T22:03:59
-comments: true
-draft: true
 description: "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
 source: "https://github.com/openclaw/openclaw"
 tags:

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-17T08:29:52'
-draft: true
 modified: '2025-11-17T08:29:52'
 source: https://www.seangoedecke.com/ai-products/
 title: Three kinds of AI products work

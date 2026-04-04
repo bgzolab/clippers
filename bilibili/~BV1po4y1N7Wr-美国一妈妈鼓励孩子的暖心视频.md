@@ -1,10 +1,8 @@
 ---
 author: 英语口语台词
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/c7ed1c38aed81871a963ad9ee5817c1b206e345f.jpg
 created: '2023-07-09T19:20:23'
 description: '-'
-draft: true
 modified: '2023-07-09T19:20:23'
 published: '2023-06-13T15:20:08'
 source: https://www.bilibili.com/video/BV1po4y1N7Wr

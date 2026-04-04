@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Flash 闪存颗粒和工艺知识深度解析
 author:

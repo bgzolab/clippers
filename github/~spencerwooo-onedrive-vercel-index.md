@@ -1,5 +1,4 @@
 ---
-draft: true
 title: spencerwooo/onedrive-vercel-index
 aliases:
   - onedrive-vercel-index

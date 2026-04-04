@@ -1,10 +1,8 @@
 ---
 author: 西维西师傅
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/f8e43e5b750fdbfb24ffe2e56eb796966b7f0ab1.jpg
 created: '2023-07-22T19:31:09'
 description: 一键三连，我爱众生
-draft: true
 modified: '2023-07-22T19:31:09'
 published: '2023-06-28T16:21:25'
 source: https://www.bilibili.com/video/BV1KN411Q7Gc

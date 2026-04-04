@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
 ### 娱乐至死
 ### 'Amusing Ourselves to Death Public Discourse in the Age of Show Business'

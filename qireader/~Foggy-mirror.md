@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-19T09:26:01'
-draft: true
 modified: '2025-11-19T09:26:01'
 source: https://seths.blog/2025/10/foggy-mirror/
 title: Foggy mirror

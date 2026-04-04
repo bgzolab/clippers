@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-17T13:29:46'
-draft: true
 modified: '2025-11-17T13:29:46'
 source: https://seths.blog/2025/11/all-the-cards/
 title: All the cards

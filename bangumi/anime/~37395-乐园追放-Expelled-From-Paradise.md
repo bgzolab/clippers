@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '乐园放逐'
   - '乐园追放 -Expelled From Paradise-'
@@ -43,4 +42,3 @@ cssclasses:
 | アンジェラ・バルザック: 主角 | ザリク・カジワラ: 主角 | フロンティアセッター: 主角 | アナウンス: | クリスティン・ギラム: 配角 | ヴェロニカ・クリコワ: 配角 | ヒルデ・トルヴァルト: 配角 | アロンゾ・パーシー: 配角 | アーハン: 配角 | ニューアーハン: 配角 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/99/46/28061_crt_5YHbg.jpg?r=1418529415) | ![](https://lain.bgm.tv/r/400/pic/crt/l/62/8e/28062_crt_BG2cF.jpg?r=1416309279) | ![](https://lain.bgm.tv/r/400/pic/crt/l/db/de/28063_crt_C7PC6.jpg?r=1416309378) | ![](https://lain.bgm.tv/r/400/pic/crt/l/70/d8/28115_crt_vL10O.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/6f/83/124725_crt_LdNc8.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/22/8f/124726_crt_yjL6Z.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/b8/32/124727_crt_UbOQd.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/b3/10/124728_crt_lLk3n.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/bb/80/124729_crt_6nO4n.jpg) | ![](https://lain.bgm.tv/r/400/pic/crt/l/e3/90/124730_crt_0IsmI.jpg) |
-

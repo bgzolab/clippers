@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Windows 批处理 (cmd/bat) 常用命令小结
 created: 2025-08-31T11:25:23

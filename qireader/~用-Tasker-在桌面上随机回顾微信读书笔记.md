@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-26T09:06:29'
-draft: true
 modified: '2025-11-26T09:06:29'
 source: https://sspai.com/prime/story/wechat-read-annotations-widget-tasker
 title: 用 Tasker 在桌面上随机回顾微信读书笔记

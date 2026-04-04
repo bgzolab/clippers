@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-02T16:11:30'
-draft: true
 modified: '2026-01-02T16:11:30'
 source: https://www.vox.com/future-perfect/473166/forecasts-2026-trump-congress-democrats-musk-artificial-intelligence-hurricanes
 title: 26 things we think will happen in 2026

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:39:13'
-draft: true
 modified: '2025-11-20T13:39:13'
 source: https://sspai.com/post/103082
 title: App+1｜一个应用搞定多种笔记需求，零碎想法也有好去处：Re:card

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 社交媒体简史
 cover: https://img9.doubanio.com/view/subject/s/public/s30010624.jpg

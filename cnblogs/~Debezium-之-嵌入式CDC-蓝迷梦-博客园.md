@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-05T17:10:23.27'
-draft: true
 modified: '2025-12-05T17:10:23.27'
 source: https://www.cnblogs.com/hewei-blogs/articles/19188887
 title: Debezium 之 嵌入式CDC - 蓝迷梦 - 博客园

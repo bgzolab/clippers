@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-10T16:32:17.61'
-draft: true
 modified: '2025-09-10T16:32:17.61'
 source: https://www.cnblogs.com/thisiswhy/p/19080818
 title: Vibe Coding，这种技术面试形式会成为新的趋势吗？ - why技术 - 博客园

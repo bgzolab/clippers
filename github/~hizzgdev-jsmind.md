@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "hizzgdev/jsmind"
 aliases: "jsmind"
 created: 2025-06-07T15:56:29
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=hizzgdev&repo=jsmind&bg_color=00000000)](https://github.com/hizzgdev/jsmind)
 
 ## Notes
-

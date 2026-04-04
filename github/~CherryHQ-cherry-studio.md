@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: [CherryHQ/cherry-studio, "cherry-studio"]
 created: 2025-07-01T21:38:17
 description: "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers."

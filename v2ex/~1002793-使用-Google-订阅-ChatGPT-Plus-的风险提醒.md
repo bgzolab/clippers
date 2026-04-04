@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2023-12-23T06:15:46'
-draft: true
 modified: '2023-12-23T06:15:46'
 source: https://www.v2ex.com/t/1002793
 title: 使用 Google 订阅 ChatGPT Plus 的风险提醒

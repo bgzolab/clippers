@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-08-11T12:00:00
 source: https://www.coolapk.com/feed/42938913?shareKey=NjYxY2Q4ZDhiMDNlNjZiNzhlNDg~
 type: archive-web
@@ -38,4 +37,3 @@ TabS8 系列 OneUi5.0 国行版刷入 TWRP 第三方 Recovery 与解锁 system �
 密码:2mme
 
 如果本教程帮助了你，请不要吝惜你手中的![酷币](http://static.coolapk.com/emoticons/v9/c_coolb.png)![酷币](http://static.coolapk.com/emoticons/v9/c_coolb.png)(●’◡’●)。
-

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-18T10:16:51'
-draft: true
 modified: '2025-11-18T10:16:51'
 source: https://seths.blog/2025/10/its-not-a-silly-thing-to-do/
 title: It’s not a silly thing to do

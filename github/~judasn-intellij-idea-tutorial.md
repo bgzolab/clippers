@@ -1,5 +1,4 @@
 ---
-draft: true
 title: judasn/intellij-idea-tutorial
 aliases: intellij-idea-tutorial
 created: 2023-01-11

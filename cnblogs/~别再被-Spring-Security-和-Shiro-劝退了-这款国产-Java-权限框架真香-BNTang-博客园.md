@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-03T13:37:28.553'
-draft: true
 modified: '2025-09-03T13:37:28.553'
 source: https://www.cnblogs.com/BNTang/p/18959577
 title: 别再被 Spring Security 和 Shiro 劝退了！这款国产 Java 权限框架真香！ - BNTang - 博客园

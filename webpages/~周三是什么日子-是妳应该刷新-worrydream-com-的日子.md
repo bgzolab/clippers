@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "周三是什么日子？是妳应该刷新 worrydream.com 的日子"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

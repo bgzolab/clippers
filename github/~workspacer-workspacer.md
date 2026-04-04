@@ -1,5 +1,4 @@
 ---
-draft: true
 title: workspacer/workspacer
 aliases: workspacer
 created: 2022-04-27T00:00:00

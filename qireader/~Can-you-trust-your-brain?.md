@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-23T11:00:45'
-draft: true
 modified: '2025-12-23T11:00:45'
 source: https://www.vox.com/explain-it-to-me/473103/brain-perception-reality-matrix-simulation-universe
 title: Can you trust your brain?

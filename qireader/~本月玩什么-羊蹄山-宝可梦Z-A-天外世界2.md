@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T15:34:26'
-draft: true
 modified: '2025-11-24T15:34:26'
 source: https://sspai.com/post/103455
 title: 本月玩什么｜羊蹄山、宝可梦Z-A、天外世界2

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "ezshine/AwesomeSites"
 aliases: "AwesomeSites"
 created: 2025-04-03T20:18:16
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=ezshine&repo=AwesomeSites&bg_color=00000000)](https://github.com/ezshine/AwesomeSites)
 
 ## Notes
-

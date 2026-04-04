@@ -1,5 +1,4 @@
 ---
-draft: true
 title: bk138/droidVNC-NG
 aliases:
   - droidVNC-NG
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=bk138&repo=droidVNC-NG&bg_color=00000000)](https://github.com/bk138/droidVNC-NG)
 
 ## Notes
-

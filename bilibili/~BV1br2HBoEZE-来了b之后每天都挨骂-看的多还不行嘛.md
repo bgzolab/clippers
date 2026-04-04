@@ -1,10 +1,8 @@
 ---
 author: 一色雨
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/9b3d00eed5b468a72323dba67644b252a1dfd046.jpg
 created: '2026-02-19T23:05:50'
 description: '-'
-draft: true
 modified: '2026-02-19T23:05:50'
 published: '2025-12-06T13:11:08'
 source: https://www.bilibili.com/video/BV1br2HBoEZE

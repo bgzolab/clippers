@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-02T09:21:52'
-draft: true
 modified: '2025-12-02T09:21:52'
 source: https://seths.blog/2025/11/build-a-better-alternative-to-black-friday/
 title: Build a better alternative to Black Friday

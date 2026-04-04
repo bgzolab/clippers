@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 「闲聊文」准大三的我，思前想后还是不搞 Java 了 - crhl-yy
 created: 2025-07-29T09:56:28

@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_9ni7TC7VG8zM6OK6Ll_parsecover
 progress: 8%
 readingTime: 0小时15分钟
 readingDate: 1970-01-01
-draft: true
 title: 牧羊少年奇幻之旅
 published:
 isbn:

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-16T08:58:59'
-draft: true
 modified: '2026-01-16T08:58:59'
 source: https://sspai.com/post/105462
 title: Apple Pay 公布 2025 年成绩单，迎来入华十周年大更新

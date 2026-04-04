@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-30T13:59:33.703'
-draft: true
 modified: '2025-09-30T13:59:33.703'
 source: https://www.cnblogs.com/BNTang/p/19114832
 title: B站油管抖音一键笔记 - BNTang - 博客园

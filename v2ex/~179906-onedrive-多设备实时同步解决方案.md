@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2015-03-28T12:37:12'
-draft: true
 modified: '2015-03-28T12:37:12'
 source: https://www.v2ex.com/t/179906
 title: onedrive 多设备实时同步解决方案

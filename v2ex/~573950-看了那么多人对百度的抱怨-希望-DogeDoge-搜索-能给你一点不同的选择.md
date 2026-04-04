@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2019-06-14T14:45:06'
-draft: true
 modified: '2019-06-14T14:45:06'
 source: https://www.v2ex.com/t/573950
 title: 看了那么多人对百度的抱怨，希望「DogeDoge 搜索」能给你一点不同的选择

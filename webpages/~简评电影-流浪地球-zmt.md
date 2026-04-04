@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "简评电影《流浪地球》 – zmt"
 created: 2025-04-05T15:50:55
 modified: 2025-04-05T15:50:55

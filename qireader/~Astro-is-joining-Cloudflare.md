@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-30T10:20:49'
-draft: true
 modified: '2026-01-30T10:20:49'
 source: https://blog.cloudflare.com/astro-joins-cloudflare/
 title: Astro is joining Cloudflare

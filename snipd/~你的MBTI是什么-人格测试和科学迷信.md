@@ -1,5 +1,4 @@
 ---
-draft: true
 author: 世界莫名其妙物语
 cover: https://wsrv.nl/?url=https%3A%2F%2Ffdfs.xmcdn.com%2Fgroup80%2FM04%2F25%2FFB%2FwKgPDF7VMyyQ8jrIAAfPr9Mh90g706.png&w=200&h=200
 created: '2023-08-06T09:36:39'

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-10-16T10:03:33.123'
-draft: true
 modified: '2025-10-16T10:03:33.123'
 source: https://www.cnblogs.com/hayaso/p/18872790
 title: Astro前端框架的坑2-Astro特有的image语法 - EricS9999 - 博客园

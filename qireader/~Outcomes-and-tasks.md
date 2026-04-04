@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-19T14:47:43'
-draft: true
 modified: '2025-11-19T14:47:43'
 source: https://seths.blog/2025/10/outcomes-and-tasks/
 title: Outcomes and tasks

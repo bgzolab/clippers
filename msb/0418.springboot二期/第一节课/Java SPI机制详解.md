@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # Java SPI机制详解
 
@@ -309,4 +308,3 @@ private static boolean isDriverAllowed(Driver driver, ClassLoader classLoader) {
     }
 
 ```
-

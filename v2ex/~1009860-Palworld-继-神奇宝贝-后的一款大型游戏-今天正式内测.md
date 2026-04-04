@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2024-01-19T06:40:34'
-draft: true
 modified: '2024-01-19T06:42:02'
 source: https://www.v2ex.com/t/1009860
 title: Palworld 继《神奇宝贝》后的一款大型游戏 今天正式内测！

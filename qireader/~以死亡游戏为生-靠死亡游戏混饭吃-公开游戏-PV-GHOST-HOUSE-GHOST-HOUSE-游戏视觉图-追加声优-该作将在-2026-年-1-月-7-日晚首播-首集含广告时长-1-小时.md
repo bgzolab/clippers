@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-16T18:20:03'
-draft: true
 modified: '2025-11-16T18:20:03'
 source: https://www.ciy8.cn/archives/70658
 title: 《以死亡游戏为生 / 靠死亡游戏混饭吃。》公开游戏 PV “GHOST HOUSE”、“GHOST HOUSE”游戏视觉图，追加声优，该作将在 2026

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "tinyworldmap/tiny-world-map"
 aliases: "tiny-world-map"
 created: 2025-03-31T22:15:36
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=tinyworldmap&repo=tiny-world-map&bg_color=00000000)](https://github.com/tinyworldmap/tiny-world-map)
 
 ## Notes
-

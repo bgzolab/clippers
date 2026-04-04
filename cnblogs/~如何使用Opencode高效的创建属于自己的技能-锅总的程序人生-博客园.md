@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-25T16:49:49.843'
-draft: true
 modified: '2026-01-25T16:49:49.843'
 source: https://www.cnblogs.com/zer0Black/p/19527542
 title: 如何使用Opencode高效的创建属于自己的技能 - 锅总的程序人生 - 博客园

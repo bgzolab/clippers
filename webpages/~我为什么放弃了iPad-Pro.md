@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 我为什么放弃了 iPad Pro？
 created: 2025-09-06T11:57:20

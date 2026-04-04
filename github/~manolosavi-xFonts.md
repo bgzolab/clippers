@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "manolosavi/xFonts"
 aliases: "xFonts"
 created: 2025-06-07T13:44:10
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=manolosavi&repo=xFonts&bg_color=00000000)](https://github.com/manolosavi/xFonts)
 
 ## Notes
-

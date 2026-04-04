@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-26T09:00:20'
-draft: true
 modified: '2025-11-26T09:00:20'
 source: https://sspai.com/post/104030
 title: Matrix 圆桌｜聊聊那些让你离不开的「平台独占」

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 十年大厂员工终明白：MySQL 性能优化的尽头，是对 B+ 树的极致理解 - poemyang
 created: 2025-08-19T10:20:18

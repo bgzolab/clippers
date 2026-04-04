@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "kodjodevf/mangayomi"
 aliases: "mangayomi"
 created: 2025-04-23T05:48:43
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=kodjodevf&repo=mangayomi&bg_color=00000000)](https://github.com/kodjodevf/mangayomi)
 
 ## Notes
-

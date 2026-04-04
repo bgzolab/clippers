@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "forthespada/CampusShame"
 aliases: "CampusShame"
 created: 2025-03-30T18:45:51
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=forthespada&repo=CampusShame&bg_color=00000000)](https://github.com/forthespada/CampusShame)
 
 ## Notes
-

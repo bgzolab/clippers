@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "sphinx-doc/sphinx"
 aliases: "sphinx"
 created: 2025-06-08T00:49:58
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=sphinx-doc&repo=sphinx&bg_color=00000000)](https://github.com/sphinx-doc/sphinx)
 
 ## Notes
-

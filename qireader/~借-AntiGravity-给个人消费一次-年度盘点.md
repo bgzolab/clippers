@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-12-29T11:43:20'
-draft: true
 modified: '2025-12-29T11:43:20'
 source: https://sspai.com/post/104232
 title: 借 AntiGravity，给个人消费一次「年度盘点」

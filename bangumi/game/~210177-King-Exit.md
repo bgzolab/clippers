@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 'King Exit'
   - King Exit

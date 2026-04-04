@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "他出生时被医生夹成脑瘫-却凭借-成功秘诀-成了最佳推销员-励志电影-永不放弃"
 cover: "http://i1.hdslb.com/bfs/archive/f240b3e9988f4f8addbaa8295c1af05b2b930136.jpg@189w_107h.webp"
 author: "顾我电影"

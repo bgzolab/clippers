@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "localsend/localsend"
 aliases: "localsend"
 created: 2025-06-02T11:09:49

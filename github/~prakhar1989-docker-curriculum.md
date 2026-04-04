@@ -1,5 +1,4 @@
 ---
-draft: true
 title: prakhar1989/docker-curriculum
 aliases:
   - docker-curriculum
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=prakhar1989&repo=docker-curriculum&bg_color=00000000)](https://github.com/prakhar1989/docker-curriculum)
 
 ## Notes
-

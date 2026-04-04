@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-26T09:36:20.173'
-draft: true
 modified: '2026-01-26T09:36:20.173'
 source: https://www.cnblogs.com/knqiufan/p/19530852
 title: 从对话到协作，Skills 如何改变我们与 AI 共事的方式 - knqiufan - 博客园

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: books/幸福之路, 幸福之路
 author: Russell
 publisher: 天津人民出版社

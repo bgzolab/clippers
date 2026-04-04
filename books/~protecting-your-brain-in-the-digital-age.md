@@ -1,5 +1,4 @@
 ---
-draft: true
 alias: "放不下的手机"
 title: "放不下的手机"
 author:
@@ -27,5 +26,3 @@ type: "book"
 
 
 ## References
-
-

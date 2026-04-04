@@ -1,5 +1,4 @@
 ---
-draft: true
 title: logan-han/twitter-deleter
 aliases:
   - twitter-deleter

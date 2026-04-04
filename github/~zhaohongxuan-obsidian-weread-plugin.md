@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Obsidian weread plugin
 created: 2025-03-09T10:49:58

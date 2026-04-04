@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - InnoDB 为什么不用跳表，Redis 为什么不用 B+ 树？ - 猿人谷
 created: 2025-08-19T10:21:58

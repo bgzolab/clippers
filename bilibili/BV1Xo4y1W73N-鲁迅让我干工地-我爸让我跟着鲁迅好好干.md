@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "鲁迅让我干工地-我爸让我跟着鲁迅好好干"
 cover: "http://i2.hdslb.com/bfs/archive/598634c3c3a02bac6c291ef34b41bbf0da7117f5.jpg@189w_107h.webp"
 author: "我叫孙火旺"

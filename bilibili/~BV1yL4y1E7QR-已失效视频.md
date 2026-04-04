@@ -1,10 +1,8 @@
 ---
 author: 豆豆豆爱分享
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2025-12-28T23:21:24'
 description: 【TED2020年140集全】中英字幕学英语涨知识
-draft: true
 modified: '2025-12-28T23:21:24'
 published: '2021-12-29T21:34:21'
 source: https://www.bilibili.com/video/BV1yL4y1E7QR

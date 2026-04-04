@@ -1,5 +1,4 @@
 ---
-draft: true
 alias: 数字移民
 created: 2024-01-02
 source: https://blog.shuziyimin.org, https://img.shields.io/github/stars/shuziyimin

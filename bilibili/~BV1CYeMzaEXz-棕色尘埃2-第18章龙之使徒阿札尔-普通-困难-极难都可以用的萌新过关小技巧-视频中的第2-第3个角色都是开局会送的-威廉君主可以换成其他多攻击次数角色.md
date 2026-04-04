@@ -1,10 +1,8 @@
 ---
 author: 小小的戏曲
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/84d394d1681110bb5409884ff0b62ce24b72bcf0.jpg
 created: '2026-01-20T23:00:07'
 description: '-'
-draft: true
 modified: '2026-01-20T23:00:07'
 published: '2025-08-20T15:19:34'
 source: https://www.bilibili.com/video/BV1CYeMzaEXz

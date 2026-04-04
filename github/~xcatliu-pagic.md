@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "xcatliu/pagic"
 aliases: "pagic"
 created: 2025-06-07T14:35:02
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=xcatliu&repo=pagic&bg_color=00000000)](https://github.com/xcatliu/pagic)
 
 ## Notes
-

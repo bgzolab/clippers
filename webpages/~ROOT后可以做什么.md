@@ -1,5 +1,4 @@
 ---
-draft: true
 title: ROOT后可以做什么
 aliases:
   - ROOT后可以做什么

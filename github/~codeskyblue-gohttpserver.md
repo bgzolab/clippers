@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "codeskyblue/gohttpserver"
 aliases: "gohttpserver"
 created: 2025-04-25T20:09:48

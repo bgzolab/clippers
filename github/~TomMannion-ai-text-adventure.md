@@ -1,5 +1,4 @@
 ---
-draft: true
 title: TomMannion/ai-text-adventure
 aliases:
   - ai-text-adventure
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=TomMannion&repo=ai-text-adventure&bg_color=00000000)](https://github.com/TomMannion/ai-text-adventure)
 
 ## Notes
-

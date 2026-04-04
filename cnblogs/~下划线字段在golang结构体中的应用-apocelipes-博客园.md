@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 下划线字段在 golang 结构体中的应用 - apocelipes
 created: 2025-08-18T11:15:29

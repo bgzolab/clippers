@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-19T12:40:37.073'
-draft: true
 modified: '2026-01-19T12:40:37.073'
 source: https://www.cnblogs.com/chingho/p/19498962
 title: 告别代码！我用Trae氛围编程的方式，开发了一款公众号文章同步插件！ - chingho - 博客园

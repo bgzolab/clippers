@@ -1,10 +1,8 @@
 ---
 author: 抱走明日奈二号
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2026-01-02T12:42:44'
 description: '-'
-draft: true
 modified: '2026-01-02T12:42:44'
 published: '2026-01-02T04:02:01'
 source: https://www.bilibili.com/video/BV1d9vRBqEk7

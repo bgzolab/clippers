@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-01-06T00:00:00
 source: https://linux.vbird.org/linux_basic/centos7/0590xwindow.php
 type: archive-web

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: immersive-translate/immersive-translate
 aliases:
   - immersive-translate
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=immersive-translate&repo=immersive-translate&bg_color=00000000)](https://github.com/immersive-translate/immersive-translate)
 
 ## Notes
-

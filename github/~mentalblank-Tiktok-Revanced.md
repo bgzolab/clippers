@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "mentalblank/Tiktok-Revanced"
 aliases: "Tiktok-Revanced"
 created: 2025-05-11T15:52:07

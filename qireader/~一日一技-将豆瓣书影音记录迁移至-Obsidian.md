@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:50:41'
-draft: true
 modified: '2025-11-24T16:50:41'
 source: https://sspai.com/post/103817
 title: 一日一技｜将豆瓣书影音记录迁移至 Obsidian

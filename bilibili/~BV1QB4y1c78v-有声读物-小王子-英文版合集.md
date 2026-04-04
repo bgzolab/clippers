@@ -1,10 +1,8 @@
 ---
 author: AlexThomas
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/f1e424f72b4fa23b83fb99ea36ee331a448ee5f3.png
 created: '2025-12-28T23:19:23'
 description: 有声读物 | 《小王子》英文版合集
-draft: true
 modified: '2025-12-28T23:19:23'
 published: '2021-04-30T09:16:21'
 source: https://www.bilibili.com/video/BV1QB4y1c78v

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: mastodon/mastodon
 aliases: mastodon
 created: 2022-12-19T00:00:00

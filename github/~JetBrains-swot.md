@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "JetBrains/swot"
 aliases: "swot"
 created: 2025-07-26T20:32:27

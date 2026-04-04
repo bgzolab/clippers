@@ -1,5 +1,4 @@
 ---
-draft: true
 cover: https://img3.doubanio.com/view/subject/s/public/s27273703.jpg
 author: 李刚
 created: 2022-11-25T00:00:00

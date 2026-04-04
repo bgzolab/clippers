@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "chenquan/diskusage"
 aliases: "diskusage"
 created: 2025-01-31T12:35:18
@@ -14,4 +13,3 @@ tags:
 ![](https://img.shields.io/github/stars/chenquan/diskusage?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/chenquan/diskusage?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/chenquan/diskusage?style=for-the-badge&label=since)
 
 ## Notes
-

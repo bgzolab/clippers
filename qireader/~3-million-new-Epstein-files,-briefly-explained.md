@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-03T15:59:14'
-draft: true
 modified: '2026-02-03T15:59:14'
 source: https://www.vox.com/the-logoff-newsletter-trump/477518/epstein-files-new-release-trump-bannon-lutnick-musk-emails-explained
 title: 3 million new Epstein files, briefly explained

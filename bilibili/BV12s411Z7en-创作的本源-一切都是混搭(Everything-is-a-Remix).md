@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "创作的本源-一切都是混搭(Everything-is-a-Remix)"
 cover: "http://i2.hdslb.com/bfs/archive/61f48d68be5b9a25987d681da44cf844f882eddb.jpg@189w_107h.webp"
 author:

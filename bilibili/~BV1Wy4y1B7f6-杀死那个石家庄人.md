@@ -1,10 +1,8 @@
 ---
 author: 雁巡
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/79aaf8089d64b575c9f877b97a3a858d5c0a5a75.jpg
 created: '2025-12-28T23:19:32'
 description: '-'
-draft: true
 modified: '2025-12-28T23:19:32'
 published: '2020-10-22T21:55:23'
 source: https://www.bilibili.com/video/BV1Wy4y1B7f6

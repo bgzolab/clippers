@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: [gitalk/gitalk, "gitalk"]
 created: 2025-07-02T22:58:02
 description: "Gitalk is a modern comment component based on Github Issue and Preact."

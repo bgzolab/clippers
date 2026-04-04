@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "btpf/Alexandria"
 aliases: "Alexandria"
 created: 2025-06-07T15:09:32
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=btpf&repo=Alexandria&bg_color=00000000)](https://github.com/btpf/Alexandria)
 
 ## Notes
-

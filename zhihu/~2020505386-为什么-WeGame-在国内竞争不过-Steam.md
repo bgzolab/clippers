@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2021-07-26T13:18:46'
-draft: true
 modified: '2022-11-01T13:12:09'
 source: https://www.zhihu.com/question/280889172/answer/2020505386
 title: 为什么 WeGame 在国内竞争不过 Steam ？

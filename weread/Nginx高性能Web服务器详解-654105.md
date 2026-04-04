@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: "654105"
 reviewCount: 0
@@ -133,4 +132,3 @@ onewisdom: "false"
 ## 附录A Nginx内置变量
 
 ## 附录B 正则表达式语法
-

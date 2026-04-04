@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-27T09:00:48.657'
-draft: true
 modified: '2026-01-27T09:00:48.657'
 source: https://www.cnblogs.com/longronglang/p/19530212
 title: Claude Skills 保姆级教程：无脑照做就能用出效果 - 久曲健 - 博客园

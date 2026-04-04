@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "一加全能工具箱一键刷KernelSU-Next教程"
 aliases: "一加全能工具箱一键刷KernelSU-Next教程"
 created: 2025-04-09T22:52:57

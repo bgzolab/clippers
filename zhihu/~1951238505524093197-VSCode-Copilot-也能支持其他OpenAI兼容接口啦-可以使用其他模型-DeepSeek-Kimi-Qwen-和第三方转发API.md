@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '1970-01-01T08:00:00'
-draft: true
 modified: '1970-01-01T08:00:00'
 source: https://zhuanlan.zhihu.com/p/1951238505524093197
 title: VSCode Copilot 也能支持其他OpenAI兼容接口啦，可以使用其他模型（DeepSeek、Kimi、Qwen）和第三方转发API

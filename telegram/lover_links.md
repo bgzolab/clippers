@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: 扫地僧笔记
 created: 2024-08-18
 description: 一种简洁观点

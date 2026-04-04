@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T09:27:24'
-draft: true
 modified: '2025-11-20T09:27:24'
 source: https://www.vox.com/technology/465749/electricity-costs-ai-data-centers-speculation
 title: How you’re paying for big tech’s AI speculation

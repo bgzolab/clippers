@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Copilot 使用全攻略😎
 created: 2025-07-19T19:28:27

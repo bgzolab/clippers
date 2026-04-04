@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # idea 热部署插件JRebel
 
@@ -24,4 +23,3 @@ draft: true
 ​		（3）打开JRebel激活面板，选择Connect to online licensing service.
 
 ​		（4）点击work offline
-

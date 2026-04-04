@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T09:13:09'
-draft: true
 modified: '2025-11-20T09:13:09'
 source: https://manateelazycat.github.io/2025/10/22/cto-and-ceo/
 title: CTO 和 CEO 有什么区别?

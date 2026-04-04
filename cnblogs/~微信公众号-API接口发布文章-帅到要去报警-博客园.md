@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 微信公众号 ---API 接口发布文章 - 帅到要去报警
 created: 2025-07-14T15:39:15

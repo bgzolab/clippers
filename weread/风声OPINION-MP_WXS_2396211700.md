@@ -1,5 +1,4 @@
 ---
-draft: true
 doc_type: weread-highlights-reviews
 bookId: MP_WXS_2396211700
 reviewCount: 0

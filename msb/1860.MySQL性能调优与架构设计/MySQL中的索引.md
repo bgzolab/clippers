@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 ## 1.2.MySQL中的索引
 

@@ -1,11 +1,9 @@
 ---
 author: 77钟梓淇
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/be27fd62c99036dce67efface486fb0a88ffed06.jpg
 created: '2025-12-28T23:19:32'
 description: 歌名：You Broke Me First 翻唱：77灵77 原唱：Tate McRae --------- 答应我 咱不吃回头草 别被pua
   也别pua别人 乖 独自灿烂 独自美丽
-draft: true
 modified: '2025-12-28T23:19:32'
 published: '2021-04-24T23:45:10'
 source: https://www.bilibili.com/video/BV1bo4y1f7zx

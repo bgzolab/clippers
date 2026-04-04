@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-05T10:14:05'
-draft: true
 modified: '2026-01-05T10:14:05'
 source: https://chriscoyier.net/2026/01/02/13096/
 title: null
@@ -17,4 +15,3 @@ ruins/):
 > what algorithm has decided they should see next. The post is there, stable,
 > waiting for whoever wants to find it.  
 >
-

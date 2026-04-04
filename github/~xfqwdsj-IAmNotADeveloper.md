@@ -1,5 +1,4 @@
 ---
-draft: true
 title: xfqwdsj/IAmNotADeveloper
 aliases:
   - IAmNotADeveloper
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=xfqwdsj&repo=IAmNotADeveloper&bg_color=00000000)](https://github.com/xfqwdsj/IAmNotADeveloper)
 
 ## Notes
-

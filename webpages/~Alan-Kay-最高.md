@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Alan Kay 最高"
 created: 2025-04-05T17:47:24
 modified: 2025-04-05T17:47:24

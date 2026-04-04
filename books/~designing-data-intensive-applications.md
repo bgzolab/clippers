@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: Designing Data-Intensive Applications, books/设计数据密集型应用
 tags: #database
 author: Martin Kleppmann

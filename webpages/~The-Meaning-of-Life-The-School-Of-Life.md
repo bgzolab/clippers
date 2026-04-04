@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "The Meaning of Life - The School Of Life"
 created: 2025-04-05T15:50:54
 modified: 2025-04-05T15:50:54

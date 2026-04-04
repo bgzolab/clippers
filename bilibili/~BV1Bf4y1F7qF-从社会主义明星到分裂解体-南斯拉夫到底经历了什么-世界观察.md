@@ -1,10 +1,8 @@
 ---
 author: 利利川
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/60f1db3a49722121b4853e4a6f96b029e4b2e2ea.jpg
 created: '2025-12-28T23:18:16'
 description: 作为一个社会主义的明星之国，最后却分裂解体，死伤无数。南斯拉夫到底经历了什么？
-draft: true
 modified: '2025-12-28T23:18:16'
 published: '2021-09-30T19:30:13'
 source: https://www.bilibili.com/video/BV1Bf4y1F7qF

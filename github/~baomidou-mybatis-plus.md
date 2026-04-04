@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "baomidou/mybatis-plus"
 aliases: "mybatis-plus"
 created: 2025-03-16T00:36:42
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=baomidou&repo=mybatis-plus&bg_color=00000000)](https://github.com/baomidou/mybatis-plus)
 
 ## Notes
-

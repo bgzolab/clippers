@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-03-06T20:32:34'
-draft: true
 modified: '2026-03-06T20:35:38'
 source: https://www.v2ex.com/t/1196407
 title: GPT-5.4 Thinking 依然过不了洗车测试

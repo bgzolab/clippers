@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "SteamDeckHomebrew/decky-loader"
 aliases: "decky-loader"
 created: 2024-04-07T13:16:04
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=SteamDeckHomebrew&repo=decky-loader&bg_color=00000000)](https://github.com/SteamDeckHomebrew/decky-loader)
 
 ## Notes
-

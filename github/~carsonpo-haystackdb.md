@@ -1,5 +1,4 @@
 ---
-draft: true
 title: carsonpo/haystackdb
 aliases:
   - haystackdb
@@ -18,4 +17,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=carsonpo&repo=haystackdb&bg_color=00000000)](https://github.com/carsonpo/haystackdb)
 
 ## Notes
-

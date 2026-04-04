@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-03T11:09:23.28'
-draft: true
 modified: '2025-09-03T11:09:23.28'
 source: https://www.cnblogs.com/chenyishi/p/18914866
 title: pytorch入门 - 微调huggingface大模型 - chester·chen - 博客园

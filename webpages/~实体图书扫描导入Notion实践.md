@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-08-03T12:00:00
 source: https://linmi.cc/42154.html
 type: archive-web

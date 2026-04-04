@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Forec/assembly-exercise"
 aliases: "assembly-exercise"
 created: 2025-03-22T16:05:11
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Forec&repo=assembly-exercise&bg_color=00000000)](https://github.com/Forec/assembly-exercise)
 
 ## Notes
-

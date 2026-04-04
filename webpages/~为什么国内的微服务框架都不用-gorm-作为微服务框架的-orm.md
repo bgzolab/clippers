@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 为什么国内的微服务框架都不用 gorm 作为微服务框架的 orm？
 created: 2025-07-29T20:40:13

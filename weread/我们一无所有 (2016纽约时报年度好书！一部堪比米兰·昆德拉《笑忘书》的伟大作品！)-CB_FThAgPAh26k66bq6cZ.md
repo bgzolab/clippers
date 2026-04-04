@@ -10,7 +10,6 @@ cover: https://res.weread.qq.com/wrepub/CB_DSY7jS7kpAFA6Vw6U4_parsecover
 progress: 51%
 readingTime: 1小时27分钟
 readingDate: 1970-01-01
-draft: true
 title: 我们一无所有 (2016纽约时报年度好书！一部堪比米兰·昆德拉《笑忘书》的伟大作品！)
 published:
 isbn:

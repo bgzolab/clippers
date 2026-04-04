@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "vuejs/vuepress"
 aliases: "vuepress"
 created: 2025-06-08T00:44:35
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=vuejs&repo=vuepress&bg_color=00000000)](https://github.com/vuejs/vuepress)
 
 ## Notes
-

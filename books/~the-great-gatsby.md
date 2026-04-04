@@ -1,5 +1,4 @@
 ---
-draft: true
 title: the-great-gatsby
 aliases:
   - the-great-gatsby

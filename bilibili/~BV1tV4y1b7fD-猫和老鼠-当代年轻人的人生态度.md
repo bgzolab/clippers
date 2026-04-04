@@ -1,9 +1,8 @@
 ---
 author: 怪诞剪影
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/0248b09fc7ea78d6497ae3e4e4b69cd6b828770d.jpg
 created: '2023-09-18T09:10:55'
-draft: true
+description: ''
 modified: '2023-09-18T09:10:55'
 published: '2023-07-14T18:32:37'
 source: https://www.bilibili.com/video/BV1tV4y1b7fD

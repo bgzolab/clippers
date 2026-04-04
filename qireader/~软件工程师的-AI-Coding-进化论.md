@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-02-02T16:57:54'
-draft: true
 modified: '2026-02-02T16:57:54'
 source: https://sspai.com/post/105584
 title: 软件工程师的 AI Coding 进化论

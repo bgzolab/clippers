@@ -1,6 +1,4 @@
 ---
-comments: true
-draft: true
 aliases:
   - "GitHub Copilot CLI: Plan before you build, steer as you go - GitHub Changelog"
 created: 2026-01-25T15:21:57

@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T13:37:53'
-draft: true
 modified: '2025-11-20T13:37:53'
 source: https://sspai.com/post/103293
 title: 零基础 Vibe Coding 到上架，我做了一款 Apple Watch「带壳截图」

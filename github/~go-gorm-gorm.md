@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "go-gorm/gorm"
 aliases: "gorm"
 created: 2025-07-26T15:00:23

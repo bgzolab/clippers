@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '1970-01-01T08:00:00'
-draft: true
 modified: '1970-01-01T08:00:00'
 source: https://zhuanlan.zhihu.com/p/107653124
 title: 入耳式的AirPods Pro这么容易脏！怎么办？精致果粉一定要收藏！

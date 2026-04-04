@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 # MyBatis基础模块-反射模块
 

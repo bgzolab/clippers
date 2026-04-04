@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Cursor 入门教程 -JetBrains 过度向 - LemonDus
 created: 2025-07-22T14:05:03

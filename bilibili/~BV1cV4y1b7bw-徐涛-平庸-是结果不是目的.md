@@ -1,9 +1,8 @@
 ---
 author: 徐涛考研政治课代表
-comments: true
 cover: http://i1.hdslb.com/bfs/archive/d20dc5d5bb56a3c8d4511d5430b310e8ca21de86.jpg
 created: '2023-07-21T09:54:48'
-draft: true
+description: ''
 modified: '2023-07-21T09:54:48'
 published: '2023-07-10T18:09:24'
 source: https://www.bilibili.com/video/BV1cV4y1b7bw

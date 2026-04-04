@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - '向美好的世界献上祝福！in the life'
   - 'この素晴らしい世界に祝福を! in the life'
@@ -32,4 +31,3 @@ RPG ゲーム制作ソフト「RPG ツクール」で、「この素晴らしい
 | 佐藤和真: 主角 | アクア: 主角 | めぐみん: 主角 | ダクネス: 主角 |
 | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/r/400/pic/crt/l/08/1d/35675_crt_9UAbW.jpg?r=1486080586) | ![](https://lain.bgm.tv/r/400/pic/crt/l/02/b4/35678_crt_eiT0T.jpg?r=1486082939) | ![](https://lain.bgm.tv/r/400/pic/crt/l/2e/ba/35681_crt_8rGq5.jpg?r=1715442740) | ![](https://lain.bgm.tv/r/400/pic/crt/l/62/ba/35683_crt_z6ZKg.jpg?r=1486083433) |
-

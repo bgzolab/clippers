@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases: [claudiabdm/cvfy, "cvfy"]
 created: 2025-07-05T10:50:24
 description: "CV generator built with Nuxt.js, TailwindCSS, deployed on Cloudflare Pages."

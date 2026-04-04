@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 国外论文期刊级别：SCI、EI 、ISTP、SSCI、INSPEC、SCIE、IEEE
 created: 2025-08-31T13:57:00

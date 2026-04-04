@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2023-05-27T05:50:13
 source: "https://www.v2ex.com/t/941654"
 type: "archive-web"

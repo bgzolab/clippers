@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Grasscutters/Grasscutter"
 aliases: "Grasscutter"
 created: 2025-06-02T11:21:08
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=Grasscutters&repo=Grasscutter&bg_color=00000000)](https://github.com/Grasscutters/Grasscutter)
 
 ## Notes
-

@@ -1,5 +1,4 @@
 ---
-draft: true
 ---
 ### 十、RabbitMQ实战
 

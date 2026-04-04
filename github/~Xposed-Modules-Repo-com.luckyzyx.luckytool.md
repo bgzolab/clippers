@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Xposed-Modules-Repo/com.luckyzyx.luckytool
 aliases:
   - com.luckyzyx.luckytool

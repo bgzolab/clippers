@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Three-Choices-New-Users-Need-to-Make-General-Logseq"
 created: 2025-01-15T10:02:20
 modified: 2025-01-15T11:38:23

@@ -5,7 +5,6 @@ created: 2025-11-14T06:40:56
 modified: 2025-11-14T06:40:56
 description: "Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조"
 source: "https://github.com/adobe-fonts/source-han-serif"
-draft: "true"
 tags:
   - github/star
 ---

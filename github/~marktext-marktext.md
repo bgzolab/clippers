@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "marktext/marktext"
 aliases: "marktext"
 created: 2025-06-07T14:46:13
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=marktext&repo=marktext&bg_color=00000000)](https://github.com/marktext/marktext)
 
 ## Notes
-

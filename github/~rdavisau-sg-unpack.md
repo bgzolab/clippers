@@ -1,5 +1,4 @@
 ---
-draft: true
 title: rdavisau/sg-unpack
 aliases:
   - sg-unpack
@@ -19,4 +18,3 @@ type: repo
 [![](https://github-stats-extended.vercel.app/api/pin/?username=rdavisau&repo=sg-unpack&bg_color=00000000)](https://github.com/rdavisau/sg-unpack)
 
 ## Notes
-

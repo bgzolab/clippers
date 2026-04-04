@@ -1,10 +1,8 @@
 ---
 author: 肖博vlog
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/1907d3e58a503239167eb23bebdaf4c271d8d665.jpg
 created: '2025-12-28T23:21:24'
 description: 这一期视频详细演示了如何使用iPhone和安卓分别在小米手环7 NFC上面模拟加密门禁卡和厂商码，小米开放了厂商码的模拟，这真是一件令人兴奋的事~
-draft: true
 modified: '2025-12-28T23:21:24'
 published: '2022-06-08T12:22:37'
 source: https://www.bilibili.com/video/BV1KL4y1T7Qd

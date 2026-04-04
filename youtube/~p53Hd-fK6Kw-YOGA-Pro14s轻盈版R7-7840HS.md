@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "YOGA-Pro14s轻盈版R7-7840HS"
 cover: "https://i.ytimg.com/vi/p53Hd-fK6Kw/maxresdefault.jpg"
 author:

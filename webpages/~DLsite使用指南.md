@@ -1,5 +1,4 @@
 ---
-draft: true
 created: 2024-12-28T10:34:03
 source: "https://aries15.github.io/dlsite-guide/"
 type: "archive-web"

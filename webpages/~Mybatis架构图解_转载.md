@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Mybatis 架构图解转载
 created: 2025-09-06T12:02:07

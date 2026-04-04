@@ -2,7 +2,6 @@
 created: 2026-01-03T22:45:31
 modified: 2026-01-03T22:45:31
 description: "--"
-draft: true
 source: "https://www.seangoedecke.com/ai-products/"
 tags:
 type: "archive-web"

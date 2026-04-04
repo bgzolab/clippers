@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2026-01-02T13:19:57'
-draft: true
 modified: '2026-01-02T13:19:57'
 source: https://www.vox.com/climate/473543/fema-disaster-recovery-capitialism-wealthy-bright-harbor
 title: In America, surviving a disaster increasingly depends on what you can afford

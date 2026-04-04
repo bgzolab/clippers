@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "rongronggg9/rss-to-telegram-bot"
 aliases: "rss-to-telegram-bot"
 created: 2025-02-13T21:14:19
@@ -14,4 +13,3 @@ tags:
 ![](https://img.shields.io/github/stars/rongronggg9/rss-to-telegram-bot?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/rongronggg9/rss-to-telegram-bot?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/rongronggg9/rss-to-telegram-bot?style=for-the-badge&label=since)
 
 ## Notes
-

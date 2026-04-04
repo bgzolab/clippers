@@ -1,5 +1,4 @@
 ---
-draft: true
 title: microsoft/terminal
 aliases: tool/windows-terminal-preview
 created: 2025-06-07T16:16:42

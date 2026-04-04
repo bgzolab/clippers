@@ -1,10 +1,8 @@
 ---
 author: 小奇异风
-comments: true
 cover: http://i2.hdslb.com/bfs/archive/e2163eb258ea2e68b3065c39b310df9aa10c192d.jpg
 created: '2024-06-14T17:49:19'
 description: 原曲：《范进中举》BV1TV411W7vR
-draft: true
 modified: '2024-06-14T17:49:19'
 published: '2024-06-11T17:06:19'
 source: https://www.bilibili.com/video/BV11x4y1J7iz

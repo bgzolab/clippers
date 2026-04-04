@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "quoid/userscripts"
 aliases: "userscripts"
 created: 2025-06-07T14:38:44
@@ -15,4 +14,3 @@ tags:
 [![](https://github-stats-extended.vercel.app/api/pin/?username=quoid&repo=userscripts&bg_color=00000000)](https://github.com/quoid/userscripts)
 
 ## Notes
-

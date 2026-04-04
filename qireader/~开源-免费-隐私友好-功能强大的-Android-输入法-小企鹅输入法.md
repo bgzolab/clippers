@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-24T16:49:39'
-draft: true
 modified: '2025-11-24T16:49:39'
 source: https://sspai.com/post/103871
 title: 开源、免费、隐私友好，功能强大的 Android 输入法：小企鹅输入法

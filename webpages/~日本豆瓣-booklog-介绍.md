@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "日本豆瓣 booklog 介绍"
 created: 2025-04-05T17:19:25
 modified: 2025-04-05T17:19:39

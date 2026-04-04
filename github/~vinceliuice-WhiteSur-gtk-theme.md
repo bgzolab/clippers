@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - "WhiteSur-gtk-theme"
   - WhiteSur-gtk-theme

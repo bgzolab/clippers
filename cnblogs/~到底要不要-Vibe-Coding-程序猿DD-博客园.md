@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-09-30T14:24:21.75'
-draft: true
 modified: '2025-09-30T14:24:21.75'
 source: https://www.cnblogs.com/didispace/p/19119580
 title: 到底要不要 Vibe Coding ？ - 程序猿DD - 博客园

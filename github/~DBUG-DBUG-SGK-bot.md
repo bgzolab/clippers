@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "DBUG-DBUG/SGK-bot"
 aliases: "SGK-bot"
 created: 2025-06-08T22:12:54

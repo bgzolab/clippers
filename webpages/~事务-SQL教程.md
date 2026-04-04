@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - 事务 - SQL 教程 - 廖雪峰的官方网站
 created: 2025-08-31T10:45:02

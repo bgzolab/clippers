@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2025-11-20T16:19:12'
-draft: true
 modified: '2025-11-20T16:19:12'
 source: https://www.4gamers.com.tw/news/detail/74995/ghost-lover-will-be-launch-on-team
 title: 「只要膽子大 讓女鬼放產假」Steam征服女鬼戀愛模擬《捉鬼敢生隊》即將推出 用塔防降伏可愛鬼魅注入陽氣

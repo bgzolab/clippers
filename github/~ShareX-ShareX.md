@@ -1,5 +1,4 @@
 ---
-draft: true
 title: ShareX/ShareX
 aliases: ShareX
 created: 2023-01-10T00:00:00

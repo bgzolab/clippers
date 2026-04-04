@@ -1,7 +1,5 @@
 ---
-comments: true
 created: '2024-03-20T09:00:03'
-draft: true
 modified: '2024-03-20T09:00:03'
 source: https://www.v2ex.com/t/1025262
 title: kotlin 可以完美平替 Java 吗?

@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - Awesome-chatgpt-prompts-zh
 created: 2025-01-19T01:55:28

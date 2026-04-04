@@ -1,5 +1,4 @@
 ---
-draft: true
 aliases:
   - PostgreSQL Limits
 created: 2025-07-19T12:24:33

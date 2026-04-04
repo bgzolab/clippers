@@ -1,10 +1,8 @@
 ---
 author: 艺术party
-comments: true
 cover: http://i0.hdslb.com/bfs/archive/3317fd9d63a2a5246b36e0ed760d970a1f66934f.jpg
 created: '2025-03-09T15:04:29'
 description: 艺术家/艺术团队Ins：Viewdecor.ir BGM：Gibran Alcocer - Idea 22
-draft: true
 modified: '2025-03-09T15:04:29'
 published: '2025-02-24T18:00:00'
 source: https://www.bilibili.com/video/BV1qjAdenEPG
