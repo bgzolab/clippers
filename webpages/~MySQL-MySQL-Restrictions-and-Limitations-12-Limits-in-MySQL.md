@@ -2,7 +2,6 @@
 aliases:
   - MySQL Restrictions and Limitations 12 Limits in MySQL
 created: 2025-07-19T12:21:00
-description: 
 modified: 2025-07-19T12:23:58
 source: https://dev.mysql.com/doc/mysql-reslimits-excerpt/8.0/en/limits.html
 tags: 

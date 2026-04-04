@@ -6,7 +6,6 @@ published: 20080915
 isbn: 9780199549269
 created: 2023-01-21
 douban: https://book.douban.com/subject/4685115/
-description: 
 ---
 - title: Better Never to Have Been by David Benatar—BOOK REVIEW - YouTube
   source: https://www.youtube.com/watch?v=Ltdngo86GdY

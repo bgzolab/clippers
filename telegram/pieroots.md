@@ -89,7 +89,6 @@ tags: \#card \#word-root
 
 references: [ampli-, ampl- - Word Information](https://wordinfo.info/unit/113)
 
-description:
 
 ample (adjective); ampler, more ample; amplest, most ample | 寬
 
@@ -117,7 +116,6 @@ tags: \#card \#word-root
 
 references: [capit-, capt-, cap-, cep-, ceps-, chapt-, chef, cip- - Word Information](https://wordinfo.info/unit/370)
 
-description:
 
 > When the French *borrowed words*(借用单词) from Latin, they frequently used soft sounds. These French words, with their softer sounds, then made their way into the English language. At the same time, English borrowed words directly from Latin. So it is that in English we often have two words which share the same root, but which have different, though related, forms and meanings.
 via: [capit-, capt-, cap-, cep-, ceps-, chapt-, chef, cip- - Word Information](https://wordinfo.info/unit/370)
@@ -227,7 +225,6 @@ tags: \#card \#word-root
 
 references: [gno-, gnos-, gnoto-, -gnostic, -gnosia, -gnomic, -gnomonic, -gnomical, -gnomy, -gnosia, -gnostic, -gnosis - Word Information](https://wordinfo.info/unit/929/s:ignore)
 
-description:
 
 cognizance (KAHG ni zuhns) (s) (noun), cognizances (pl) | 認知
 
@@ -307,7 +304,7 @@ deadpan 中的 pan 意思是平底锅，是“脸”的俚语。这里的 pan �
 > "conserve" emphasizes the protection of natural resources;
 "reserve" emphasizes the setting aside of something for future use;
 "preserve" emphasizes the protection of something from change or damage.
-\#ai/chatGPT \#english-word
+#llm/chatgpt \#english-word
 
 词根 serv- 表示“保存、贮藏”
 
@@ -374,7 +371,7 @@ stationary 是 station 的形容词，表示“固定的、驻扎不动的”。
 stationary 与 stationery 同源。stationery=station（驻扎，驻地）+ery（场所）→固定的店铺→文具店→文具。在中世纪的欧洲，大部分商贩都是流动经商的，只有大学附近才有固定店铺，通常是拥有大学的特许权，可向大学生销售文具的文具店。因此 stationery 一词衍生出“文具店”之意，后来又衍生出“文具”之
 
 > To remember the difference between "stationary" and "stationery," you can associate "stationary" with the idea of something being still or not moving, and "stationery" with the idea of writing materials. Additionally, you can remember that "stationery" has an "e" in it, which can remind you of "envelopes," a type of stationery.
-\#ai/chatGPT \#english-word
+#llm/chatgpt \#english-word
 
 ## `adolescence` (12 To 18)
 
@@ -383,7 +380,7 @@ ad(去)+ol（滋养，使生长）+esc（表始形式）+ence（名词后缀）�
 esc- 表示动作开始，t- 表示动作完成，就是动词表始形式，表示动作已经开始。adolescent 就是“已经开始生长的”，所以是“青春期的”，表示 ol-（滋养，长大，长高）这个动作已经开始
 
 > To help you remember the meaning of "adolescence," you can think of the word "ad-ole-scent" - you are growing into an older, more mature person.
-\#ai/chatGPT \#english-word
+#llm/chatgpt \#english-word
 
 ## `-ate`
 

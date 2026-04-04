@@ -1,7 +1,7 @@
 ---
 title: "依赖AI会不会让人过早老年痴呆？_Λ_Reading_2023_3_29_18_06_02"
-created: 2023-03-29T18:06:02+0800
-modified: 2023-03-29T18:06:02+0800
+created: 2023-03-29T18:06:02
+modified: 2023-03-29T18:06:02
 source: https://rizime.substack.com/p/180
 tags:
 type: archive-web

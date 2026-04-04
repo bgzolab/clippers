@@ -1,6 +1,6 @@
 ---
 created: 2024-10-12T12:00:00
-source: {{nav-ri https://blog.skk.moe/post/why-not-use-firefox/}}
+source: https://blog.skk.moe/post/why-not-use-firefox
 type: archive-web
 modified: 2025-01-15T11:38:18
 ---

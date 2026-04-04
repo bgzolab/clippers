@@ -39,3 +39,10 @@ snipd-official-TEST/*
 
 # 同步文件夹
 newsletters/sync/logs/
+
+# 聊天文件，暂不公开
+chat/
+
+# 药片
+pills/
+

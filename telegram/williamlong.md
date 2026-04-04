@@ -1,7 +1,6 @@
 ---
 aliases: 月光博客
 created: 2024-08-18
-description:
 source: {{tg williamlong}}
 type: telegram/channel
 ---

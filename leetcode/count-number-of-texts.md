@@ -4,7 +4,6 @@ aliases:
   - count-number-of-texts
 created: 2025-01-19T15:16:36
 modified: 2025-01-19T15:27:14
-description: 
 difficulty: 
 tags: 
 type: programming-problem
