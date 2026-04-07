@@ -8,9 +8,6 @@ source: https://github.com/Molunerfinn/PicGo
 tags:
   - github/star
 type: tool
-changelog: 
-document: 
-status:
 ---
 
 ![](https://img.shields.io/github/stars/Molunerfinn/PicGo?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Molunerfinn/PicGo?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Molunerfinn/PicGo?style=for-the-badge&label=since)

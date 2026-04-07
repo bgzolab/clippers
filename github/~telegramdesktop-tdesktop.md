@@ -15,12 +15,11 @@ description: Telegram Desktop messaging app
 document: https://core.telegram.org/api, https://desktop.telegram.org/changelog
 modified: 2025-08-17T18:18:52
 source: https://github.com/telegramdesktop/tdesktop
-status: tool/star
 tags:
   - instant-message
   - github/star
+  - tool/using
 title: Telegram
-type: tool
 ---
 # Telegram
 

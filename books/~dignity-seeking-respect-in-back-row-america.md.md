@@ -12,7 +12,6 @@ cover: https://img2.doubanio.com/view/subject/l/public/s33854521.jpg
 douban: https://book.douban.com/subject/35232626/
 isbn: "9787540459130"
 rating: ⭐⭐⭐⭐⭐
-status:
   - book/reading
 tags:
   - douban

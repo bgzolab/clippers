@@ -14,7 +14,6 @@ douban: https://book.douban.com/subject/10563327/
 weread: https://weread.qq.com/web/bookDetail/
 isbn: 9787514303827
 rating: ⭐⭐⭐⭐⭐
-status:
   - book/reading
 tags:
   - douban

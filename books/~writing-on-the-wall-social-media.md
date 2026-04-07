@@ -10,7 +10,6 @@ published: 20190301
 isbn: "9787508696980"
 lang: chinese
 rating: ⭐⭐⭐
-status:
   - book/done
 tags:
   - history

@@ -11,7 +11,6 @@ isbn:
 lang: 
 published: 
 rating: 
-status: 
 tags: 
 type: book
 douban: https://book.douban.com/subject/

@@ -7,10 +7,9 @@ description: Your self-hosted, globally interconnected microblogging community
 source: https://github.com/mastodon/mastodon
 tags:
   - github/star
-  - - social-media
-type: tool
+  - social-media
+  - tool/using
 document: https://github.com/mastodon/mastodon
-status: tool/star
 ---
 
 ![](https://img.shields.io/github/stars/mastodon/mastodon?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/mastodon/mastodon?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/mastodon/mastodon?style=for-the-badge&label=since)
@@ -59,12 +58,12 @@ $cjk-langs: ja, ko, zh-CN, zh-HK, zh-TW;
 ## What
 ### Shortcuts
 
-|Key |Desc|
-|---|---|
-| p | Open author's profile |
-| m | Mention author |
-| s | Focus search bar |
-| ? | Display this legend |
+| Key | Desc                  |
+| --- | --------------------- |
+| p   | Open author's profile |
+| m   | Mention author        |
+| s   | Focus search bar      |
+| ?   | Display this legend   |
 
 via: [Mastodon](https://mastodon.social/keyboard-shortcuts)
 

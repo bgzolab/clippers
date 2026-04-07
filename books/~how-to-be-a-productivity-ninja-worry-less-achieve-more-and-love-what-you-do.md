@@ -8,7 +8,6 @@ isbn:
 lang: chinese
 published: 20190700
 rating: ⭐⭐⭐
-status:
   - book/done
 tags:
   - productivity

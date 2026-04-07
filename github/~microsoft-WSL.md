@@ -7,9 +7,8 @@ description: Issues found on WSL
 source: https://github.com/microsoft/WSL
 tags:
   - github/star
-type: tool
+  - tool/using
 document: https://github.com/microsoft/WSL
-status: tool/star
 ---
 
 ![](https://img.shields.io/github/stars/microsoft/WSL?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/microsoft/WSL?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/microsoft/WSL?style=for-the-badge&label=since)
@@ -70,16 +69,16 @@ Linux LAPTOP-CELTBLVE 5.15.146.1-microsoft-standard-WSL2 #1 SMP Thu Jan 11 04:09
       cd \\wsl$\Ubuntu
 ```
   - Difference 1.0 & 2.0
-    - | Feature(via: [mircosoft](https://docs.microsoft.com/en-us/windows/wsl/compare-versions)) | WSL 1 | WSL 2 |
-      | :----------------------------------------------------------- | :---- | :---- |
-      | Integration between Windows and Linux                        | ✅     | ✅     |
-      | Fast boot times                                              | ✅     | ✅     |
-      | Small resource foot print compared to traditional Virtual Machines | ✅     | ✅     |
-      | Runs with current versions of VMware and VirtualBox          | ✅     | ✅     |
-      | Managed VM                                                   | ❌     | ✅     |
-      | Full Linux Kernel                                            | ❌     | ✅     |
-      | Full system call compatibility                               | ❌     | ✅     |
-      | Performance across OS file systems                           | ✅     | ❌     |
+    | -                                                                  | Feature(via: [mircosoft](https://docs.microsoft.com/en-us/windows/wsl/compare-versions)) | WSL 1 | WSL 2 |
+    | :----------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :---- |
+    | Integration between Windows and Linux                              | ✅                                                                                        | ✅     |
+    | Fast boot times                                                    | ✅                                                                                        | ✅     |
+    | Small resource foot print compared to traditional Virtual Machines | ✅                                                                                        | ✅     |
+    | Runs with current versions of VMware and VirtualBox                | ✅                                                                                        | ✅     |
+    | Managed VM                                                         | ❌                                                                                        | ✅     |
+    | Full Linux Kernel                                                  | ❌                                                                                        | ✅     |
+    | Full system call compatibility                                     | ❌                                                                                        | ✅     |
+    | Performance across OS file systems                                 | ✅                                                                                        | ❌     |
     - via: [WSL 和 WSL2 简单对比 - V2EX](https://v2ex.com/t/587642)
     - [🚀 为什么在 WSL 下项目的编译/运行/git 等等和 IO 相关的操作貌似很慢？ · Issue #17 · spencerwooo/dowww](https://github.com/spencerwooo/dowww/issues/17#issuecomment-457128479)
     - [你不需要花哨的命令提示符 - 知乎](https://zhuanlan.zhihu.com/p/51008087)

@@ -9,7 +9,6 @@ isbn: 9787553819136
 lang: chinese
 published: 20231001
 rating: ⭐⭐⭐
-status:
   - book/reading
 tags:
   - love
