@@ -7,7 +7,7 @@ source: https://mp.weixin.qq.com/s/NMPZnlwPI5U76n3l8OBYEQ
 type: archive-web
 ---
 
-Related: [[official-system-in-china|civil-service]]
+Related: [[china-official-system|civil-service]]
 
 **大牛哥编者按**
 

@@ -15,8 +15,6 @@ tags:
 
 [![](https://github-stats-extended.vercel.app/api/pin/?username=vim&repo=vim&bg_color=00000000)](https://github.com/vim/vim)
 
-## Why
-## How
 ## What
   - `vi` vs vim vs gedit vs namo
     - 系统都会自带 nano 和 vi 这两个最基本的编辑器。

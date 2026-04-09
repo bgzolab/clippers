@@ -22,7 +22,7 @@ type: tool
 %APPDATA%\picgo\data.json
 ```
 
-### [[skills/devops/linux/index|index]]
+### [[linux|linux]]
 
 ```
 $XDG_CONFIG_HOME/picgo/data.json` or `~/.config/picgo/data.json
