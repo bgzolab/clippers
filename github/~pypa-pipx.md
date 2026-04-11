@@ -17,7 +17,7 @@ title: Pipx
 
 ## Why
 
-![[install-pip-package-global#pypa-pipx pipx]]
+![[20250726-install-pip-package-global#pypa-pipx pipx]]
 
 ## 环境隔离原理 #llm/chatgpt
 

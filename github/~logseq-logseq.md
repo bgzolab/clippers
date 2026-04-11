@@ -1265,7 +1265,7 @@ document
     - via: [How to clean unlinked files in an effective way - Questions & Help - LS](https://discuss.logseq.com/t/how-to-clean-unlinked-files-in-an-effective-way/2125)
 - [ ] Default template stored in `config.edu` is not supported for page, only for journal
 
-## Alternatives via: [[publish-your-writing|How to publish your writing]]
+## Alternatives via: [[20250603-publish-your-writing|How to publish your writing]]
 
 ---
 

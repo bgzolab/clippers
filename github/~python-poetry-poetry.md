@@ -70,7 +70,7 @@ deactivate
 pipx install .
 ```
 
-## [[publish-pip-package|Publish-pip-package]]
+## [[20250726-publish-pip-package|Publish-pip-package]]
 
 ## Sync requirements
 

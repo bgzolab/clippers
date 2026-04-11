@@ -16,7 +16,7 @@ type: tool
 
 ## Backup commandline
 
-### [[how-to-setup-a-new-windows]]
+### [[2024-09-22-how-to-setup-a-new-windows]]
 
 ```
 %APPDATA%\picgo\data.json

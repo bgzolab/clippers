@@ -31,7 +31,7 @@ title: Telegram
 
 ## How
 
-### [[check-deleted-telegram-channels-info|How to check deleted telegram channels info]]
+### [[20250816-check-deleted-telegram-channels-info|How to check deleted telegram channels info]]
 
 ### Shortcuts
 

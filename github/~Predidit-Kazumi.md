@@ -37,4 +37,4 @@ title: Predidit/Kazumi
 - https://github.com/altstoreio/AltStore/issues/1034#issuecomment-1998081907
 - https://github.com/khcrysalis/Feather
 
-2. 用 [[sideload-on-ios]] 侧载，然后用 [[~LiveContainer-LiveContainer|LiveContainer]] 安装运行无签名应用；
+2. 用 [[20250602-sideload-on-ios]] 侧载，然后用 [[~LiveContainer-LiveContainer|LiveContainer]] 安装运行无签名应用；
