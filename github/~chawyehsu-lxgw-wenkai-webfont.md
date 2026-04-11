@@ -20,11 +20,11 @@ type: repo
 
 总耗时 2.1 min 😅
 
-![](https://raw.githack.com/bGZo/assets/dev/2025/202507022245505.png)
+![](https://img.bgzo.cc/2025/202507022245505.png)
 
 对比 [Noto Serif Simplified Chinese - Google Fonts](https://fonts.google.com/noto/specimen/Noto+Serif+SC/about) 6s (当然也很慢)
 
-![](https://raw.githack.com/bGZo/assets/dev/2025/202507022246383.png)
+![](https://img.bgzo.cc/2025/202507022246383.png)
 
 一开始从 [Chrome 版 WebFeed 简介](https://taoshu.in/webfeed/webfeed-for-chrome.html) 发现的, 它网站的加载速度更慢...
 

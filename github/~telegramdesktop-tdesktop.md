@@ -94,7 +94,7 @@ Telegram iOS 全面屏客户端最适合刷信息流，为什么呢？
 
 现在总结来看，Telegram 只有在 iPhone X 和 Mac 端具有独创其他平台的设计，尤其是 Mac 端的 Minimalist 主题，现在在 Windows / Andorid 仍然不见踪影。iPhone SE 2/3 更是没有这样的待遇。
 
-![](https://raw.githack.com/bGZo/assets/dev/2024/%E6%88%AA%E5%B1%8F2024-12-29%2013.04.12.png)
+![](https://img.bgzo.cc/2024/%E6%88%AA%E5%B1%8F2024-12-29%2013.04.12.png)
 
 ### App Store sucks
 

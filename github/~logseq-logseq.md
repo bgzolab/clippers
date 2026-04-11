@@ -368,7 +368,7 @@ Considered the page speed performance, please control the usage of plugins, beca
     - **NOT ALL IN ONE**. Separate them to different pages.
     - Otherwise the whole graph would be huge
 
-![](https://raw.githack.com/bGZo/assets/dev/2024/20241011235342.png)![](https://raw.githack.com/bGZo/assets/dev/2024/20241011235415.png)
+![](https://img.bgzo.cc/2024/20241011235342.png)![](https://img.bgzo.cc/2024/20241011235415.png)
 
 ### Embed Link
 
@@ -425,9 +425,9 @@ logseq.table.borders: false
 logseq.table.stripes: true
 logseq.table.max-width: 10
 logseq.color: pink
-| notes | desc |
-|-------| ------|
-| logseq | privacy-first |
+| notes   | desc          |
+| ------- | ------------- |
+| logseq  | privacy-first |
 | obsdian | closed-source |
 ```
 
