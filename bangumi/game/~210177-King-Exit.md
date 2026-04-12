@@ -19,7 +19,7 @@ cssclasses:
 ---
 # King Exit
 
-![](https://img.bgzo.cc/2025/202501120946209.png)
+![](https://pub-89c11651a8434f18a530bd6f93e399da.r2.dev/2025/202501120946209.png)
 
 ▼故事▼
 

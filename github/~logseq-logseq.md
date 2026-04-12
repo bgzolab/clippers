@@ -368,7 +368,7 @@ Considered the page speed performance, please control the usage of plugins, beca
     - **NOT ALL IN ONE**. Separate them to different pages.
     - Otherwise the whole graph would be huge
 
-![](https://img.bgzo.cc/2024/20241011235342.png)![](https://img.bgzo.cc/2024/20241011235415.png)
+![](https://pub-89c11651a8434f18a530bd6f93e399da.r2.dev/2024/20241011235342.png)![](https://pub-89c11651a8434f18a530bd6f93e399da.r2.dev/2024/20241011235415.png)
 
 ### Embed Link
 

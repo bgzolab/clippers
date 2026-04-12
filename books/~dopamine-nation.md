@@ -37,14 +37,14 @@ weread: https://weread.qq.com/web/bookDetail/9e8321b0813ab7bf1g013230
     - 痛苦和快乐为一体两面，因为大脑处理两者的区域重合；
     - 多巴胺并不会让人快乐，相反，它会让人产生渴望，但这方面还没有定论；（？贪婪的多巴胺）
       - 奖励回路：中脑腹侧被盖区 => 伏隔核 => 前额叶皮质
-        - ![](https://img.bgzo.cc/2024/cutq_68_5313_m.jpg)
+        - ![](https://pub-89c11651a8434f18a530bd6f93e399da.r2.dev/2024/cutq_68_5313_m.jpg)
       - 多巴胺并不是人类唯一一种让人快乐的神经递质；
       - 下述我们会按释放多巴胺的多少来表示是否感到快乐；
     - 囿于身体强大的自我调节能力，天平总是趋于稳定，即稳态；
     - 快乐来的愈快，愈强烈，释放的多巴胺越多，你就会感觉更快乐；
-      - ![](https://img.bgzo.cc/2024/cutq_70_18340_l.jpg)
+      - ![](https://pub-89c11651a8434f18a530bd6f93e399da.r2.dev/2024/cutq_70_18340_l.jpg)
     - 但你的快乐暗自标好了价格，苦痛会随之而来，甚至会超过在稳态来临时加码，让人更加痛苦；
-      - ![](https://img.bgzo.cc/2024/cutq_71_26747_l.jpg)
+      - ![](https://pub-89c11651a8434f18a530bd6f93e399da.r2.dev/2024/cutq_71_26747_l.jpg)
     -      > 任何长期或反复偏离愉悦或情感的中立状态……都要付出代价。​
       - 这种代价是一种延迟反应 / 后反应 / after-reaction
   - 天平失衡带来的问题
@@ -70,7 +70,7 @@ weread: https://weread.qq.com/web/bookDetail/9e8321b0813ab7bf1g013230
         - 首次做爱；
       - 都将变为例行公事，毫无感觉；
   - 吸一次冰毒（甲基苯丙胺） == 十次性高潮；
-    - ![](https://img.bgzo.cc/2024/cutq_69_12459_l.jpg)
+    - ![](https://pub-89c11651a8434f18a530bd6f93e399da.r2.dev/2024/cutq_69_12459_l.jpg)
 ## References
   - https://en.wikipedia.org/wiki/Abstinence
   - <iframe src="https://www.youtube.com/embed/LsIae8UeWGE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
