@@ -1,13 +1,16 @@
 #!/bin/bash
 # 同步一系列平台内容到本地
+# git pull origin clippers --ff
+# 1. 先拉取最新的 clippers 分支
+git pull origin clippers --rebase
 
-# 本周周六日期
+# 2. 准备环境变量
 sat_date=$(date -d "saturday" +"%Y%m%d")
 index_file="./newsletters/sync/index/${sat_date}-index.md"
-
 # 引入环境变量
 source ./.env
 
+# 3. 同步内容
 # Weread [Obdisian Required]
 # Snippd [Manual export required]
 # RSS reader
@@ -41,3 +44,8 @@ eto --index-file "${index_file}" v2ex -o ./v2ex/
 
 # bilibili
 eto --index-file "${index_file}" bilibili -f 49128283 -o ./bilibili/
+
+# 4. 提交到 git
+git add .
+git commit -m "docs(bot): Sync content for ${sat_date}"
+git push origin clippers
