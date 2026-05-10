@@ -26,3 +26,5 @@ tags:
 1. [ ] Brew install
 2. [ ] 截图 on Android/IPA/MacOS, via: http://github.com/open-ani/animeko/issues/341
 3. [ ] 超分 like [[~Predidit-Kazumi|Kazumi]], via: https://github.com/open-ani/animeko/issues/1054
+
+

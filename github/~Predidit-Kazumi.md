@@ -34,5 +34,5 @@ tags:
 
 ## Waiting feature:
 
-1. [ ] 接入 [[bangumi]]，via: https://github.com/Predidit/Kazumi/issues/912
+1. [ ] 接入 [[bangumi]]，via: 
 	1. 这破玩意绝对能做，用 AccessToken 就是发一个请求的事情，完全不需要处理 Oauth 的问题
