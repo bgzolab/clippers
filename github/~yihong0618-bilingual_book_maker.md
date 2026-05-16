@@ -1,10 +1,10 @@
 ---
-title: "yihong0618/bilingual_book_maker"
-aliases: "bilingual_book_maker"
+title: yihong0618/bilingual_book_maker
+aliases: bilingual_book_maker
 created: 2025-06-07T15:17:46
 modified: 2025-06-07T15:17:56
-description: "Make bilingual epub books Using AI translate"
-source: "https://github.com/yihong0618/bilingual_book_maker"
+description: Make bilingual epub books Using AI translate
+source: https://github.com/yihong0618/bilingual_book_maker
 tags:
   - github/star
 ---
