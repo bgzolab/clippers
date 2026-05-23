@@ -1,0 +1,93 @@
+---
+title: "fschutt/azul"
+aliases: azul
+released: 2018-01-16T20:57:07Z
+modified: 2026-05-23T18:11:52
+created: 2026-05-23T18:11:52
+description: "Desktop GUI Framework"
+source: "https://github.com/fschutt/azul"
+tags:
+  - github/star
+---
+
+![](https://img.shields.io/github/stars/fschutt/azul?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/fschutt/azul?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/fschutt/azul?style=for-the-badge&label=since)
+
+[![](https://github-stats-extended.vercel.app/api/pin/?username=fschutt&repo=azul&bg_color=00000000)](https://github.com/fschutt/azul)
+
+
+# azul
+
+Desktop GUI Framework
+
+## README
+
+# AZUL - Desktop GUI framework
+
+<!-- [START badges] -->
+[![CI](https://github.com/fschutt/azul/actions/workflows/rust.yml/badge.svg)](https://github.com/fschutt/azul/actions/workflows/rust.yml)
+[![Coverage](https://img.shields.io/badge/coverage-report-blue.svg)](https://github.com/fschutt/azul/actions/workflows/rust.yml)
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Rust Compiler Version](https://img.shields.io/badge/rustc-1.88%20stable-blue.svg)]()
+[![dependency status](https://deps.rs/repo/github/fschutt/azul/status.svg)](https://deps.rs/repo/github/fschutt/azul)
+<!-- [END badges] -->
+
+> Azul is a free, functional, reactive GUI framework for Rust, C and C++,
+built using the WebRender rendering engine and a CSS / HTML-like document
+object model for rapid development of beautiful, native desktop applications
+
+###### [Website](https://azul.rs/) | [Releases](https://azul.rs/releases) | [User guide](https://azul.rs/guide) | [API documentation](https://azul.rs/api) | [Discord](https://discord.gg/nxUmsCG)
+
+## Screenshots 
+
+![image](https://user-images.githubusercontent.com/12084016/129535820-ca2b56a6-fdb5-4d0d-b043-a7f5394339e9.png)
+![image](https://user-images.githubusercontent.com/12084016/129535780-69b9365b-ad87-439f-9d10-d416991de8fc.png)
+![image](https://user-images.githubusercontent.com/12084016/128639991-e98c0b92-66df-4ad8-973b-c9d45c68d5b3.png)
+![image](https://user-images.githubusercontent.com/12084016/126752996-1ec1f221-2b01-4f01-99c6-794640228d59.png)
+
+## Current Status
+
+> [!WARNING]
+> **This repository is currently under heavy development. Azul is NOT usable yet.**
+> 
+> APIs may change frequently and features may be incomplete or unstable.
+>
+> If you are looking for the old README, see [README-OLD.md](/README-OLD.md)
+> 
+> The current release is from 2+ years ago, see the [releases page](https://github.com/fschutt/azul/releases).
+> 
+> Visit https://azul.rs/reftest in order to see the current testing and development
+> of the core rendering / HTML layouting engine.
+
+## Building
+
+### Quick Start (macOS Native)
+
+```bash
+cd dll
+cargo build --release
+```
+
+### Cross-Compilation (macOS → Linux/Windows)
+
+Azul supports cross-compilation from macOS to Linux and Windows targets. See **[CROSS_COMPILATION.md](CROSS_COMPILATION.md)** for detailed instructions.
+
+**Quick setup:**
+
+```bash
+# Install toolchains
+brew tap messense/macos-cross-toolchains
+brew install x86_64-unknown-linux-gnu mingw-w64
+
+# Add Rust targets
+rustup target add x86_64-unknown-linux-gnu x86_64-pc-windows-gnu
+
+# Build for all platforms
+cd dll
+cargo build --release --target x86_64-unknown-linux-gnu  # Linux
+cargo build --release --target x86_64-pc-windows-gnu     # Windows
+cargo build --release                                     # macOS (native)
+```
+
+
+## Notes
+

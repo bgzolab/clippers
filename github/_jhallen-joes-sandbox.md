@@ -1,0 +1,104 @@
+---
+title: "jhallen/joes-sandbox"
+aliases: joes-sandbox
+released: 2014-10-15T19:21:16Z
+modified: 2026-05-23T18:11:52
+created: 2026-05-23T18:11:52
+description: ""
+source: "https://github.com/jhallen/joes-sandbox"
+tags:
+  - github/star
+---
+
+![](https://img.shields.io/github/stars/jhallen/joes-sandbox?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/jhallen/joes-sandbox?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/jhallen/joes-sandbox?style=for-the-badge&label=since)
+
+[![](https://github-stats-extended.vercel.app/api/pin/?username=jhallen&repo=joes-sandbox&bg_color=00000000)](https://github.com/jhallen/joes-sandbox)
+
+
+# joes-sandbox
+
+
+
+## README
+
+## Joe Allen's Open Source Projects
+
+### Projects outside of joes-sandbox
+
+[libnklabs - A library for quickly making MCU-based products](https://github.com/nklabs/libnklabs)
+
+[Joe's Own Editor](http://joe-editor.sourceforge.net)
+
+[Relaysbc - A single board relay computer](http://relaysbc.sourceforge.net)
+
+[Ivy Programming Language](https://github.com/jhallen/ivy-lang)
+
+[Atari Tools](https://github.com/jhallen/atari-tools)
+
+[CP/M Emulator](https://github.com/jhallen/cpm)
+
+[OrCad Tools](https://github.com/jhallen/orcad-tools)
+
+[Reverse engineer Zon JR XL](http://jhallenworld.blogspot.com/2012/08/reverse-engineering-verifone-zon-jr-xl.html)
+
+[Acoustic delay line memory (on Hackaday!)](http://hackaday.com/2014/01/07/acoustic-delay-line-memory/)
+
+[ExorSim - A Motorola EXORciser Simulator](https://github.com/jhallen/exorsim)
+
+[An I2C bus monitor for an Altera FPGA](https://github.com/jhallen/i2cmon)
+
+[An item tracking application for an Opticon OPH-1005 or OPH-3001 scanner](https://github.com/jhallen/cartscan)
+
+[My YouTube Channel](https://www.youtube.com/user/jhallenworld/videos)
+
+### Some projects within joes-sandbox
+
+[x86 Bootloaders](https://github.com/jhallen/joes-sandbox/tree/master/boot)
+
+
+[x86 Coff Linker](https://github.com/jhallen/joes-sandbox/tree/master/lang/alink)
+
+[AACC Compiler generator](https://github.com/jhallen/joes-sandbox/tree/master/lang/aacc)
+
+[Nicetex](https://github.com/jhallen/joes-sandbox/tree/master/doc/nicetex)
+
+[Psiman - an early version of markdown](https://github.com/jhallen/joes-sandbox/tree/master/doc/psiman)
+
+[Zebra-140 Typesetter](https://github.com/jhallen/joes-sandbox/tree/master/doc/zebra)
+
+[Small UNIX utilities](https://github.com/jhallen/joes-sandbox/tree/master/utils)
+
+[Verilog Tools](https://github.com/jhallen/joes-sandbox/tree/master/verilog-tools)
+
+[Notif - X Widget Library](https://github.com/jhallen/joes-sandbox/tree/master/x)
+
+[Farb - arbitrary precision ASCII floating point library](https://github.com/jhallen/joes-sandbox/tree/master/lib/farb)
+
+[SDU - structured data loader](https://github.com/jhallen/joes-sandbox/tree/master/lib/sdu)
+
+[JCC - A C language pre-processor / tokenizer](https://github.com/jhallen/joes-sandbox/tree/master/lang/jcc)
+
+[A Btree library](https://github.com/jhallen/joes-sandbox/tree/master/lib/btree)
+
+[A version of Malloc](https://github.com/jhallen/joes-sandbox/tree/master/lib/jheap)
+
+[Some regular expression code](https://github.com/jhallen/joes-sandbox/tree/master/lib/regex_simple)
+
+[A C library](https://github.com/jhallen/joes-sandbox/tree/master/lib/lib)
+
+[Some compression code](https://github.com/jhallen/joes-sandbox/tree/master/compression)
+
+[Some math code: complex roots / Fourier transform](https://github.com/jhallen/joes-sandbox/tree/master/math)
+
+[JTERM - an MS-DOS terminal emulator](https://github.com/jhallen/joes-sandbox/tree/master/msdos/jterm)
+
+[Phantom - A "ghost" clone (partition archiver)](https://github.com/jhallen/joes-sandbox/tree/master/msdos/phantom)
+
+[Tetris for Zortech-C](https://github.com/jhallen/joes-sandbox/blob/master/msdos/tetris.c)
+
+[A drafting program for SCO Xenix](https://github.com/jhallen/joes-sandbox/tree/master/xenix/draft)
+
+
+
+## Notes
+

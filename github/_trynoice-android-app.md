@@ -1,0 +1,93 @@
+---
+title: "trynoice/android-app"
+aliases: android-app
+released: 2019-05-27T07:14:20Z
+modified: 2026-05-23T18:11:52
+created: 2026-05-23T18:11:52
+description: "The Android app for Noice."
+source: "https://github.com/trynoice/android-app"
+tags:
+  - github/star
+---
+
+![](https://img.shields.io/github/stars/trynoice/android-app?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/trynoice/android-app?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/trynoice/android-app?style=for-the-badge&label=since)
+
+[![](https://github-stats-extended.vercel.app/api/pin/?username=trynoice&repo=android-app&bg_color=00000000)](https://github.com/trynoice/android-app)
+
+
+# android-app
+
+The Android app for Noice.
+
+## README
+
+<p align="center">
+  <a href="https://trynoice.com">
+    <img alt="Noice Logo" src="https://raw.githubusercontent.com/trynoice/.github/main/graphics/icon-round.png" width="92" />
+  </a>
+</p>
+<h1 align="center">Noice for Android</h1>
+
+[![Latest release][release-badge]][github-releases]
+[![GitHub license][license-badge]][license]
+[![Translation status][weblate-badge]][weblate]
+[![Android][gw-android-badge]][gw-android]
+[![codecov][codecov-badge]][codecov]
+
+For a lot of people, a little uniform background noise is helpful to remain calm
+and focused. In some cases, it also boosts productivity and lowers the effects
+of stress and anxiety. Background noise also masks tinnitus, calms agitated
+infants and improves reading and meditation experiences.
+
+Noice for Android allows you to create personalised sound environments. It
+enables you to combine different sounds at different volume levels to create
+perfect ambient atmospheres. These custom sound surroundings let you drown out
+distractions and allow you to concentrate. You can also use it to generate a
+serene, peaceful aura that encourages you to relax and fall asleep.
+
+## Download
+
+<a href="https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice">
+  <img src="https://raw.githubusercontent.com/trynoice/.github/main/graphics/get-it-on-google-play-badge.png" alt="Get it on Google Play" />
+</a>
+<a href="https://f-droid.org/app/com.github.ashutoshgngwr.noice">
+  <img src="https://raw.githubusercontent.com/trynoice/.github/main/graphics/get-it-on-f-droid-badge.png" alt="Get it on F-Droid" />
+</a>
+
+### APKs
+
+You can also download the APKs from the [GitHub Releases][github-releases].  The
+`full` APK has non-free dependencies (mostly related to Google Play), while the
+`free` variant only uses FOSS dependencies. The `free` variant doesn't support
+casting audio from Noice using Chromecast.
+
+## Useful Links
+
+1. [All notable changes](https://github.com/trynoice/android-app/releases) to
+   the project over time.
+2. Translate Noice to your local language on [Weblate][weblate].
+3. [Terms of Service](https://trynoice.com/terms-of-service) and [Privacy
+   Policy](https://trynoice.com/privacy-policy) for application users.
+
+## License
+
+[GNU GPL v3][license]
+
+<a href="https://thenounproject.com/icon/white-noise-1287855/">
+  <small>White Noise icon by Juraj Sedlák</small>
+</a>
+
+[release-badge]: https://img.shields.io/github/tag-date/trynoice/android-app.svg?color=orange&label=release
+[github-releases]: https://github.com/trynoice/android-app/releases/
+[license-badge]: https://img.shields.io/github/license/trynoice/android-app.svg
+[license]: LICENSE
+[weblate-badge]: https://hosted.weblate.org/widgets/noice/-/svg-badge.svg
+[weblate]: https://hosted.weblate.org/engage/noice/
+[gw-android-badge]: https://github.com/trynoice/android-app/workflows/Android/badge.svg?event=push
+[gw-android]: https://github.com/trynoice/android-app/actions?query=workflow%3AAndroid
+[codecov-badge]: https://codecov.io/gh/trynoice/android-app/branch/main/graph/badge.svg
+[codecov]: https://app.codecov.io/gh/trynoice/android-app/branch/main
+
+
+## Notes
+

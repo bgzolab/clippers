@@ -1,0 +1,71 @@
+---
+title: "Tatsu-syo/noMeiryoUI"
+aliases: noMeiryoUI
+released: 2016-12-25T08:09:44Z
+modified: 2026-05-23T18:11:52
+created: 2026-05-23T18:11:52
+description: "No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11."
+source: "https://github.com/Tatsu-syo/noMeiryoUI"
+tags:
+  - github/star
+---
+
+![](https://img.shields.io/github/stars/Tatsu-syo/noMeiryoUI?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/Tatsu-syo/noMeiryoUI?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/Tatsu-syo/noMeiryoUI?style=for-the-badge&label=since)
+
+[![](https://github-stats-extended.vercel.app/api/pin/?username=Tatsu-syo&repo=noMeiryoUI&bg_color=00000000)](https://github.com/Tatsu-syo/noMeiryoUI)
+
+
+# noMeiryoUI
+
+No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
+
+## README
+
+﻿English | [简体中文](README_CN.md) | [日本語](README_JA.md)
+
+---
+# No!! MeiryoUI
+
+No!! MeiryoUI ("Meiryo UI mo daikkirai!!" in Japanese) brings back the capability to customize the user interface font on Windows, a feature that was removed since Windows 8.1.
+
+No!! MeiryoUI has some limitations on Windows 11 22H2,
+
+If you have some ideas check [discussions](https://github.com/Tatsu-syo/noMeiryoUI/discussions) for support.
+
+## Requirements
+
+- Windows 8 or newer.
+- While No!! MeiryoUI should work on Windows Vista, it is not actively tested for compatibility.
+
+## Installation
+
+> [!IMPORTANT]  
+> No!! MeiryoUI makes changes to registry. It is recommanded to backup your registry before applying any changes.
+> 
+> ```
+> reg save "HKCU\Control Panel" .\reset_font.reg /y
+> ```
+
+- Download zip archive from [GitHub Releases](https://github.com/Tatsu-syo/noMeiryoUI/releases/latest).
+- Extract the archive and run "noMeiryoUI.exe".
+
+## Known Limitations
+
+- No!! MeiryoUI does not work with:
+  - Windows taskbar.
+  - Preinstalled UWP Apps (e.g. Settings, Paint, etc.).
+  - Applications that ignore the system font settings.
+
+- No!! MeiryoUI cannot modify the titlebar font on Windows 11.
+- No!! MeiryoUI might be detected as Trojan/virus software by some antivirus software because No!! MeiryoUI changes system font settings.
+
+## Documentations
+
+You can find detailed documentation on the [wiki](https://github.com/Tatsu-syo/noMeiryoUI/wiki).
+
+## License
+
+Licensed under [the MIT License](https://github.com/Tatsu-syo/noMeiryoUI/blob/master/LICENSE).
+
+## Notes
+

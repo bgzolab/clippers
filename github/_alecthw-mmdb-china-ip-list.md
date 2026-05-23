@@ -1,0 +1,252 @@
+---
+title: "alecthw/mmdb_china_ip_list"
+aliases: mmdb_china_ip_list
+released: 2020-05-17T13:02:51Z
+modified: 2026-05-23T18:11:52
+created: 2026-05-23T18:11:52
+description: "Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!"
+source: "https://github.com/alecthw/mmdb_china_ip_list"
+tags:
+  - github/star
+---
+
+![](https://img.shields.io/github/stars/alecthw/mmdb_china_ip_list?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/alecthw/mmdb_china_ip_list?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/alecthw/mmdb_china_ip_list?style=for-the-badge&label=since)
+
+[![](https://github-stats-extended.vercel.app/api/pin/?username=alecthw&repo=mmdb_china_ip_list&bg_color=00000000)](https://github.com/alecthw/mmdb_china_ip_list)
+
+
+# mmdb_china_ip_list
+
+Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!
+
+## README
+
+# mmdb_china_ip_list
+
+[README](README.md) | [English Document](README_en.md)
+
+<a href="https://jb.gg/OpenSourceSupport"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="20"></a>
+![Daily Build](https://github.com/alecthw/mmdb_china_ip_list/workflows/Daily%20Build/badge.svg)
+
+将`china_ip_list`、`纯真CN`、`Clang.CN`、`ali AS37963`和`ios_rule_script cloudcn`发布的中国IP列表叠加到`MaxMind`官方社区版数据库中。
+
+同时，这也是一个如何生成MaxMind数据库的示例。
+
+适合在网络分流工具中使用，对中国IP的匹配分流更为友好，兼容MaxMind DB的客户端！
+
+每周自动拉取新的MaxMind、china_ip_list、纯真CN和Clang.cn数据库，并发布一个新的Release版本。
+
+## 包含的社区 CN IP数据库
+- [china_ip_list](https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt)
+- Chunzhen CN: [IPv4](https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt)
+- Clang CN: [IPv4](https://ispip.clang.cn/all_cn.txt) ,[IPv6](https://ispip.clang.cn/all_cn_ipv6.txt)
+- China Operator: [IPv4](https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt) ,[IPv6](https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt)
+- ios_rule_script CloudCN: [IPv4&IPv6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudCN/CloudCN.list)
+
+## 完整版和Lite版区别
+
+| 版本 | 官方非 CN IPv4 | 官方非CN IPv6 | 社区 CN IPv4 | 社区 CN IPv6 | 元数据 |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| 完整版 | ✅ | ✅ | ✅ | ✅ | All |
+| Lite 版 | - | - | ✅ | ✅ | 仅`iso_code`和`geoname_id` |
+
+- 官方非 CN: 读取 MaxMind 官方 CSV 文件跳过了 CN 的记录
+- Lite版本仅写入了`iso_code`和`geoname_id`以达到缩小体积的目的
+
+## 固定下载连接
+
+| 文件 | release分支 | CDN |
+| ------ | ------ | ------ |
+| Country.mmdb | [链接](https://raw.githubusercontent.com/alecthw/mmdb_china_ip_list/release/Country.mmdb) | [链接](https://cdn.jsdelivr.net/gh/alecthw/mmdb_china_ip_list@release/Country.mmdb) |
+| Country.mmdb lite | [链接](https://raw.githubusercontent.com/alecthw/mmdb_china_ip_list/release/lite/Country.mmdb) | [链接](https://cdn.jsdelivr.net/gh/alecthw/mmdb_china_ip_list@release/lite/Country.mmdb) |
+| version | [链接](https://raw.githubusercontent.com/alecthw/mmdb_china_ip_list/release/version) | [链接](https://cdn.jsdelivr.net/gh/alecthw/mmdb_china_ip_list@release/version) |
+
+`不好意思，阿里云到期了续不起，国内镜像暂时先下了，优先用CDN吧！`
+
+## 简介
+
+在网络分流工具(例如Clash)中使用[MaxMind](https://www.maxmind.com/en/home)的`GeoLite2-Country`对中国IP的匹配不是很友好，实际使用中出现不少问题。
+
+此项目，在MaxMind数据库的基础上，加入了`china_ip_list`、`纯真CN`和`Clang.CN`的数据。ipv6使用`Clang.cn`的数据，使得对中国IP匹配得更为友好。
+
+由于构建mmdb，后者覆盖前者的特性，ip列表的插入顺序如下：
+
+1. [Clang.CN](https://ispip.clang.cn/)
+2. [纯真CN数据库](https://raw.githubusercontent.com/metowolf/iplist/master/data/country/CN.txt)
+3. [china_ip_list](https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt)
+
+## 使用
+
+下载生成的`Country.mmdb`。
+
+使用方式同MaxMind官方API，可参考[指导文档](http://maxmind.github.io/MaxMind-DB/)。
+
+### OpenClash中使用
+
+下载生成的`Country.mmdb`，然后替换掉`/etc/openclash/Country.mmdb`，最后重启下clash即可。
+
+## Perl版本构建指导
+
+需要`perl`环境，`MaxMind-DB-Writer-perl`的依赖和使用可以参考[官方文档](https://github.com/maxmind/MaxMind-DB-Writer-perl)。
+
+``` bash
+# 下载mmdb writer
+git clone https://github.com/maxmind/MaxMind-DB-Writer-perl.git writer
+cd writer
+
+# 安装依赖
+curl -LO http://xrl.us/cpanm
+perl cpanm –installdeps .
+
+# 构建
+./Build manifest
+perl Build.PL
+./Build install
+
+# 返回上级目录
+cd ..
+
+# 下载本项目
+git clone https://github.com/alecthw/mmdb_china_ip_list.git
+cd mmdb_china_ip_list
+
+# 下载GeoLite2-Country-CSV
+curl -LR -o GeoLite2-Country-CSV.zip "https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-Country-CSV&license_key=JvbzLLx7qBZT&suffix=zip"
+unzip GeoLite2-Country-CSV.zip
+rm -f GeoLite2-Country-CSV.zip
+mv GeoLite2* mindmax
+
+# 下载china_ip_list
+curl -LR -o china_ip_list.txt "https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt"
+
+# 下载纯真数据库的CN
+curl -LR -o chunzhen_cn.txt "https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt"
+
+# 生成mmdb
+perl china_ip_list.pl
+```
+
+生成的文件为`china_ip_list.mmdb`。
+
+## MaxMind GeoIP 格式
+
+官方对自己的数据库中的内容说明很少，都是自己一点点跟代码找出来的格式，然后据此生成的数据库。
+
+下面列出所有字段示例供参考。
+
+头
+
+``` json
+{
+    "database_type": "GeoLite2-Country",
+    "binary_format_major_version": 2,
+    "build_epoch": 1589304057,
+    "ip_version": 6,
+    "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "pt-BR",
+        "ru",
+        "zh-CN"
+    ],
+    "description": {
+        "en": "GeoLite2 Country database"
+    },
+    "record_size": 24,
+    "node_count": 616946,
+    "binary_format_minor_version": 0
+}
+```
+
+network->字段
+
+``` json
+{
+    "continent": {
+        "code": "AS",
+        "names": {
+            "de": "Asien",
+            "ru": "Азия",
+            "pt-BR": "Ásia",
+            "ja": "アジア",
+            "en": "Asia",
+            "fr": "Asie",
+            "zh-CN": "亚洲",
+            "es": "Asia"
+        },
+        "geoname_id": 6255147
+    },
+    "country": {
+        "names": {
+            "de": "China",
+            "ru": "Китай",
+            "pt-BR": "China",
+            "ja": "中国",
+            "en": "China",
+            "fr": "Chine",
+            "zh-CN": "中国",
+            "es": "China"
+        },
+        "iso_code": "CN",
+        "geoname_id": 1814991,
+        "is_in_european_union": false,
+    },
+    "registered_country": {
+        "names": {
+            "de": "China",
+            "ru": "Китай",
+            "pt-BR": "China",
+            "ja": "中国",
+            "en": "China",
+            "fr": "Chine",
+            "zh-CN": "中国",
+            "es": "China"
+        },
+        "iso_code": "CN",
+        "geoname_id": 1814991
+    },
+    "represented_country": {
+        "names": {
+            "de": "China",
+            "ru": "Китай",
+            "pt-BR": "China",
+            "ja": "中国",
+            "en": "China",
+            "fr": "Chine",
+            "zh-CN": "中国",
+            "es": "China"
+        },
+        "iso_code": "CN",
+        "geoname_id": 1814991
+    },
+    "traits": {
+        "is_anonymous_proxy": true,
+        "is_satellite_provider": true
+    }
+}
+```
+
+## 感谢
+
+- [Jetbrains Open Source Development License](https://jb.gg/OpenSourceSupport)
+
+- [GeoIP MaxMind DB 生成指南](https://blog.csdn.net/openex/article/details/53487465)
+
+- [GeoLite Mirror | Sukka](https://geolite.clash.dev/)
+
+- [使用 GeoLite 实现IP精准定位(Java实现)](https://www.jianshu.com/p/1b1a018ae729)
+
+- [Loyalsoldier提供的GeoLite2-Country-CSV下载链接](https://github.com/Loyalsoldier/v2ray-rules-dat)
+
+- [JMVoid 的 Golang 版本 mmdb writer 使用示例](https://github.com/JMVoid/ipip2mmdb)
+
+## 其他
+
+摸索不易，引用整合或者二次发布还望留个名......
+
+
+## Notes
+
