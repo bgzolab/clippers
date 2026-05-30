@@ -1,6 +1,20 @@
 #!/bin/bash
 # 同步一系列平台内容到本地
 # git pull origin clippers --ff
+
+script_dir="$(cd "$(dirname "$0")" && pwd)"
+cd "$script_dir"
+
+# cron 的 PATH 很精简，显式补上用户级安装目录。
+export PATH="$HOME/.local/bin:/usr/local/bin:/usr/bin:/bin:$PATH"
+
+# 0. 检查 eto
+if ! command -v eto &> /dev/null
+then
+    echo "eto could not be found, please install it first."
+    exit
+fi
+
 # 1. 先拉取最新的 clippers 分支
 git pull origin clippers --rebase
 
