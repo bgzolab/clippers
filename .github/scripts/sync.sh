@@ -22,7 +22,7 @@ git pull origin main --rebase
 
 # 2. 准备环境变量
 sat_date=$(date -d "saturday" +"%Y%m%d")
-index_file="${clippers_dir}/newsletters/sync/index/${sat_date}-index.md"
+index_file="${clippers_dir}/newsletters/${sat_date}-index.md"
 # 引入环境变量
 source ${clippers_dir}/.env
 
