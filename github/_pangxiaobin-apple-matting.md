@@ -1,0 +1,203 @@
+---
+title: "pangxiaobin/apple-matting"
+aliases: apple-matting
+released: 2026-03-12T07:43:13Z
+modified: 2026-08-23T10:54:46
+created: 2026-08-15T13:06:51Z}
+description: "A local macOS desktop matting tool built with Tauri, Vue, and Rust."
+source: "https://github.com/pangxiaobin/apple-matting"
+tags:
+  - github/star
+---
+
+![](https://img.shields.io/github/stars/pangxiaobin/apple-matting?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/pangxiaobin/apple-matting?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/pangxiaobin/apple-matting?style=for-the-badge&label=since)
+
+[![](https://github-stats-extended.vercel.app/api/pin/?username=pangxiaobin&repo=apple-matting&bg_color=00000000)](https://github.com/pangxiaobin/apple-matting)
+
+
+# apple-matting
+
+A local macOS desktop matting tool built with Tauri, Vue, and Rust.
+
+## README
+
+<p align="center">
+  <img src="./app_logo.png" alt="Apple Matting Logo" width="160" />
+</p>
+<h1 align="center">Apple Matting</h1>
+<p align="center">A local macOS desktop matting tool built with Tauri, Vue, and Rust.</p>
+<p align="center">
+  <a href="./README.zh.md">中文文档</a>
+</p>
+<p align="center">
+  <a href="https://github.com/pangxiaobin/apple-matting/releases">
+    <img src="https://img.shields.io/badge/Download-Releases-111827?style=for-the-badge&logo=github" alt="Download from GitHub Releases" />
+  </a>
+  <a href="https://matting.lingxiangtools.top/#download">
+    <img src="https://img.shields.io/badge/Download-Website-0f766e?style=for-the-badge&logo=safari" alt="Download from Website" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://matting.lingxiangtools.top/">
+    <img src="https://img.shields.io/badge/Website-matting.lingxiangtools.top-0f766e?style=flat-square" alt="Website" />
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-GPLv3-f59e0b?style=flat-square" alt="License: GPLv3" />
+  </a>
+  <a href="https://matting.lingxiangtools.top/">
+    <img src="https://img.shields.io/badge/Platform-macOS%2014%2B-111827?style=flat-square" alt="Platform" />
+  </a>
+  <a href="https://tauri.app/">
+    <img src="https://img.shields.io/badge/Tauri-2.x-24c8db?style=flat-square" alt="Tauri" />
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://img.shields.io/badge/Vue-3.x-42b883?style=flat-square" alt="Vue" />
+  </a>
+</p>
+
+Apple Matting is a local desktop background-removal tool built with `Tauri 2`, `Vue 3`, and `Rust`. The current matting backend relies on native macOS capabilities and is designed for fast background removal for portraits, product photos, avatars, and similar images.
+
+Website: <https://matting.lingxiangtools.top/>
+
+## Features
+
+- Single image background removal
+- Batch folder scanning and processing
+- Supports `JPG`, `PNG`, `WEBP`, and `BMP`
+- Before/after comparison preview
+- Transparent, solid-color, and gradient backgrounds
+- Built-in result editor for erase / restore refinements
+- Clipboard copy, save-as, and reveal-in-folder actions
+- Chinese and English UI
+
+## Demo
+
+![Apple Matting Demo](./images/operate.gif)
+
+## Screenshots
+
+<p align="center">
+  <img src="./images/01.webp" alt="Apple Matting screenshot 01" width="48%" />
+  <img src="./images/02.webp" alt="Apple Matting screenshot 02" width="48%" />
+</p>
+<p align="center">
+  <img src="./images/02-1.webp" alt="Apple Matting screenshot 03" width="48%" />
+  <img src="./images/03.webp" alt="Apple Matting screenshot 04" width="48%" />
+</p>
+<p align="center">
+  <img src="./images/04.webp" alt="Apple Matting screenshot 05" width="72%" />
+</p>
+
+## Stack
+
+- Frontend: `Vue 3`, `Vite`, `Element Plus`, `vue-i18n`
+- Desktop: `Tauri 2`
+- Backend: `Rust`
+- Native layer: `Swift + macOS Vision / Core Image`
+
+## Requirements
+
+- macOS 14.0 or later
+- Node.js 18+
+- `pnpm`
+- Rust toolchain
+- Xcode Command Line Tools
+
+Note: the matting engine currently integrates with macOS native APIs through `src-tauri/swift/MattingBridge.swift`. Non-macOS platforms will return an unsupported-platform error.
+
+## Quick Start
+
+Install dependencies:
+
+```bash
+pnpm install
+```
+
+Run in development:
+
+```bash
+pnpm tauri dev
+```
+
+Build the desktop app:
+
+```bash
+pnpm tauri build
+```
+
+Generate icons:
+
+```bash
+pnpm tauri icon app_logo.png
+```
+
+## Notes
+
+If macOS shows that `apple-matting.app` is damaged after download, run the following command to remove the quarantine attribute and repair it:
+
+```bash
+xattr -rd com.apple.quarantine /Applications/apple-matting.app
+```
+
+## Project Structure
+
+```text
+.
+├── src/                # Vue frontend
+├── src-tauri/          # Tauri / Rust / Swift native layer
+├── public/             # Static assets
+├── images/             # Demo assets for README
+├── app_logo.png        # App icon source
+```
+
+## Usage
+
+### Single Image
+
+1. Open the app and go to `Single Image`
+2. Click, drag, or paste an image
+3. Start matting
+4. Edit, replace background, copy, or save the result
+
+### Batch Processing
+
+1. Go to `Batch Processing`
+2. Select the input folder
+3. Optionally choose an output folder
+4. Start processing and monitor progress
+5. Reveal generated files in Finder
+
+## License
+
+Licensed under `GNU GPL v3.0` (`GPL-3.0-only`). See [LICENSE](./LICENSE).
+
+## Author
+
+- Author: `XIAOBIN`
+- Email: `lxt@lingxiangtools.top`
+- Website: `https://matting.lingxiangtools.top/`
+
+## Contributing
+
+Issues and pull requests are welcome. By contributing to this repository, you agree that:
+
+- Your contribution will be distributed under the same project license
+- You have the legal right to submit the contribution
+
+## Community
+
+- Friendly community: [linux.do](https://linux.do)
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=pangxiaobin%2Fapple-matting&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=pangxiaobin/apple-matting&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=pangxiaobin/apple-matting&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=pangxiaobin/apple-matting&type=date&legend=top-left" />
+ </picture>
+</a>
+
+
+## Notes
+
