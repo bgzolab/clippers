@@ -4,6 +4,7 @@
 
 script_dir="$(cd "$(dirname "$0")" && pwd)"
 clippers_dir="$(cd "$script_dir/../.." && pwd)"
+preunlock_script="${clippers_dir}/.github/scripts/unlock-gnome-keyring.sh"
 cd "$clippers_dir"
 
 # cron 的 PATH 很精简，显式补上用户级安装目录。
@@ -17,7 +18,11 @@ then
 fi
 
 # 1. 先拉取最新的 clippers 分支
-# 注意 Linux 的机器需要先解锁钥匙环，否则用不了
+# 注意 Linux 的机器需要先解锁钥匙环，否则 Cannot use the 'secretservice' credential backing store without a graphical interface present.
+if [ "$(uname)" = "Linux" ]; then
+  chmod +x "$preunlock_script"
+  "$preunlock_script" ${PASSWORD}
+fi
 git pull origin main --rebase
 
 # 2. 准备环境变量
