@@ -1,35 +1,37 @@
 #!/bin/bash
 # 同步一系列平台内容到本地
-# git pull origin clippers --ff
-
+# 预定义变量
 script_dir="$(cd "$(dirname "$0")" && pwd)"
 clippers_dir="$(cd "$script_dir/../.." && pwd)"
 preunlock_script="${clippers_dir}/.github/scripts/unlock-gnome-keyring.sh"
+sat_date=$(date -d "saturday" +"%Y%m%d")
+index_file="${clippers_dir}/newsletters/${sat_date}-index.md"
+
 cd "$clippers_dir"
 
+# 准备环境变量
+source ${clippers_dir}/.env
 # cron 的 PATH 很精简，显式补上用户级安装目录。
 export PATH="$HOME/.local/bin:/usr/local/bin:/usr/bin:/bin:$PATH"
 
-# 0. 检查 eto
+# 检查 eto
 if ! command -v eto &> /dev/null
 then
     echo "eto could not be found, please install it first."
     exit
 fi
-
-# 1. 先拉取最新的 clippers 分支
+# 解锁钥匙环
 # 注意 Linux 的机器需要先解锁钥匙环，否则 Cannot use the 'secretservice' credential backing store without a graphical interface present.
+# 
 if [ "$(uname)" = "Linux" ]; then
   chmod +x "$preunlock_script"
   "$preunlock_script" ${PASSWORD}
+  echo ${PASSWORD}
 fi
+
+# 2. 先拉取最新的 clippers 分支
 git pull origin main --rebase
 
-# 2. 准备环境变量
-sat_date=$(date -d "saturday" +"%Y%m%d")
-index_file="${clippers_dir}/newsletters/${sat_date}-index.md"
-# 引入环境变量
-source ${clippers_dir}/.env
 
 # 3. 同步内容
 # Weread [Obdisian Required]
