@@ -79,4 +79,9 @@ git -c user.name="github-actions[bot]" \
     -c user.email="github-actions[bot]@users.noreply.github.com" \
     commit -m "ci: sync content for ${sat_date} [skip ci]"
 
+
+# 如果是无头环境，需要先声明一个虚拟显示，才能提交远端
+if [[ -n "$SSH_CONNECTION" && -z "$DISPLAY" && -z "$WAYLAND_DISPLAY" ]]; then
+  export DISPLAY=:0
+fi
 git push origin main
