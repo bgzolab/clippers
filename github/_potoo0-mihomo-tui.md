@@ -1,0 +1,218 @@
+---
+title: "potoo0/mihomo-tui"
+aliases: mihomo-tui
+released: 2025-08-17T15:33:30Z
+modified: 2026-08-29T16:00:15
+created: 2026-08-29T06:58:41Z}
+description: "A simple TUI dashboard for monitoring and managing Mihomo via its REST API."
+source: "https://github.com/potoo0/mihomo-tui"
+tags:
+  - github/star
+---
+
+![](https://img.shields.io/github/stars/potoo0/mihomo-tui?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/potoo0/mihomo-tui?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/potoo0/mihomo-tui?style=for-the-badge&label=since)
+
+[![](https://github-stats-extended.vercel.app/api/pin/?username=potoo0&repo=mihomo-tui&bg_color=00000000)](https://github.com/potoo0/mihomo-tui)
+
+
+# mihomo-tui
+
+A simple TUI dashboard for monitoring and managing Mihomo via its REST API.
+
+## README
+
+
+[![Built With Ratatui](https://ratatui.rs/built-with-ratatui/badge.svg)](https://ratatui.rs/)
+
+## Features
+
+- Cross-platform support (macOS, Windows, Linux)
+- Intuitive keyboard only control
+- Real-time traffic and memory monitoring
+- Proxy and proxy group management with latency testing
+- Connection tracking
+- Rule viewer with filtering and toggleable disabled states (meta >= v1.19.19)
+- Live log streaming
+- Core configuration editor with JSON5 comments and integrated system actions (Reload, Restart, etc.)
+
+[screenshots](./docs/screenshots)
+
+![demo](https://vhs.charm.sh/vhs-6s7YehgTuudJ3Rgn4XiNKA.gif)
+> The terminal font shown in demo GIFs is [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic),
+> licensed under the [SIL Open Font License 1.1](https://scripts.sil.org/OFL).
+
+## Limitations
+
+- The tool is designed only to interact with the [API](https://wiki.metacubex.one/api/). It does not manage any actual configuration files.
+- The tool keeps only a bounded history; see [.config/config.yaml](./.config/config.yaml) for default buffer sizes.
+
+## Installation
+
+### From binaries (Linux, macOS, Windows)
+
+#### Via Script (Recommended)
+
+Install the latest version to `~/.local/bin`:
+
+```bash
+curl -sSfL https://raw.githubusercontent.com/potoo0/mihomo-tui/main/install.sh | sh
+# or
+wget -O- -nv https://raw.githubusercontent.com/potoo0/mihomo-tui/main/install.sh | sh
+```
+
+Or a specific version and custom directory:
+
+```bash
+# Install v0.4.4 to /usr/local/bin
+curl -sSfL https://raw.githubusercontent.com/potoo0/mihomo-tui/main/install.sh | sh -s -- -b /usr/local/bin v0.4.4
+```
+
+#### Manual Download
+
+1. Download the [latest release binary](https://github.com/potoo0/mihomo-tui/releases)
+2. Set the `PATH` environment variable
+
+### With Cargo (Linux, macOS, Windows)
+
+Installation via cargo:
+
+```bash
+rustup update stable
+
+git clone https://github.com/potoo0/mihomo-tui && cd mihomo-tui
+cargo install --path . --locked
+```
+
+## Usage
+
+```
+$ mihomo-tui -h
+Usage: mihomo-tui [OPTIONS]
+
+Options:
+  -c, --config <CONFIG_FILE>
+          Path to config file (default: /home/wsl/.config/mihomo-tui/config.yaml). Runtime UI/proxy settings are saved
+          to the sidecar file next to it (default: /home/wsl/.config/mihomo-tui/config.runtime.yaml)
+      --update
+          Self-update before starting
+  -h, --help
+          Print help
+  -V, --version
+          Print version
+```
+
+## Configuration
+
+The default location of the file depends on your OS:
+
+- Linux: `$HOME/.config/mihomo-tui/config.yaml`
+- macOS: `$HOME/Library/Application Support/io.github.potoo0.mihomo-tui/config.yaml`
+- Windows: `%APPDATA%/potoo0/mihomo-tui/config/config.yaml`
+
+The following is a sample config.toml file:
+
+```yaml
+# Mihomo external controller, Required.
+# Supported values:
+#   HTTP API: http://127.0.0.1:9093
+#   Unix socket: prefix the path with `unix:`.
+#     Relative paths are resolved from the mihomo-tui config directory.
+#     Examples: unix:/run/mihomo/mihomo.sock, unix:mihomo.sock
+#   Windows named pipe: wrap the path in single quotes, e.g. '\\.\pipe\mihomo'
+mihomo-api: http://127.0.0.1:9093
+
+# Mihomo external controller secret, Optional
+#mihomo-secret:
+
+# Path to mihomo config JSON schema file, Optional, default is builtin core-config.schema.json
+#mihomo-config-schema:
+
+# Log file, Optional, write log only if exists
+log-file: /tmp/mihomo-tui.log
+
+# Log level(silent/trace/debug/info/warning/error), Optional, default is error.
+# Examples:
+#   error
+#   info,mihomo_tui=debug
+#   info,mihomo_tui=trace,mihomo_tui::app=debug
+log-level: error
+
+# UI settings, Optional
+# connections.columns:
+#   - ordered list of Connections column titles, case-insensitive.
+#     Allowed values: Host, Rule, Chains, DownRate, UpRate, DownTotal, UpTotal, SourceIP, Type, Process, SniffHost, ConnectTime, SourcePort, Dest, Inbound
+#   - sort is ignored when sort.field is not included in columns.
+# connections.sort:
+#   - field must match a sortable Connections column title, case-insensitive.
+#     Allowed values: Host, Rule, Chains, DownRate, UpRate, DownTotal, UpTotal, SourceIP, Type, Process, SniffHost, ConnectTime, SourcePort, Dest, Inbound
+#   - dir: asc | desc, default is desc
+# connections.column-widths:
+#   - optional fixed widths keyed by Connections column title, case-insensitive.
+#   - example: { Host: 28, Process: 14 }
+# proxy-detail.sort:
+#   - field currently supports: latency, name
+#   - dir: asc | desc, default is asc
+ui:
+  connections:
+    columns: ["Host", "Rule", "Chains", "DownRate", "UpRate", "DownTotal", "UpTotal", "SourceIP"]
+    sort: { field: "DownRate", dir: "desc" }
+  proxy-detail:
+    sort: { field: "Latency", dir: "asc" }
+  proxy-provider-detail:
+    sort: { field: "Latency", dir: "asc" }
+
+# Default proxy settings.
+proxy-setting:
+  test-url: https://www.gstatic.com/generate_204
+  test-timeout: 5000
+  # `medium,high` latency thresholds in milliseconds.
+  latency-threshold: "500,1000"
+  # Terminate related connections after switching a proxy.
+  auto-terminate-connections: true
+
+```
+
+`mihomo-api` accepts one of three scalar forms:
+
+```yaml
+# HTTP/HTTPS
+mihomo-api: http://127.0.0.1:9093
+
+# Unix socket (`unix:` followed by an absolute path or a path relative to the config directory)
+mihomo-api: unix:/run/mihomo/mihomo.sock
+# mihomo-api: unix:mihomo.sock
+
+# Windows named pipe (single quotes preserve backslashes in YAML)
+mihomo-api: '\\.\pipe\mihomo'
+```
+
+The matching Mihomo core settings are `external-controller`, `external-controller-unix`, and
+`external-controller-pipe`. Mihomo does not validate `secret` for Unix socket or Windows named
+pipe API access. Protect IPC endpoints with Unix file permissions or Windows named pipe ACLs;
+`mihomo-tui` sends the configured secret only over HTTP/HTTPS.
+
+For the full default config, see [.config/config.yaml](./.config/config.yaml).
+
+## Acknowledgments
+
+Big thanks to the following projects:
+
+- [ratatui](https://github.com/ratatui/ratatui)
+- [metacubexd](https://github.com/MetaCubeX/metacubexd) - ui design
+- [yozefu](https://github.com/MAIF/yozefu) - application pattern inspiration
+- [btop](https://github.com/aristocratos/btop) - keyboard inspiration
+
+## Contribution
+
+Contributions, issues and pull requests are welcome!
+
+### Code style
+
+```bash
+cargo +nightly fmt-check
+cargo clippy-strict
+```
+
+
+## Notes
+
