@@ -1,0 +1,151 @@
+---
+title: "lswiderski/mi-scale-exporter"
+aliases: mi-scale-exporter
+released: 2022-02-06T19:58:21Z
+modified: 2026-10-26T00:00:40
+created: 2026-10-25T14:42:33Z}
+description: "Mobile App to export data from Mi Body Composition Scale and upload it to Garmin Connect Cloud"
+source: "https://github.com/lswiderski/mi-scale-exporter"
+tags:
+  - github/star
+---
+
+![](https://img.shields.io/github/stars/lswiderski/mi-scale-exporter?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/lswiderski/mi-scale-exporter?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/lswiderski/mi-scale-exporter?style=for-the-badge&label=since)
+
+[![](https://github-stats-extended.vercel.app/api/pin/?username=lswiderski&repo=mi-scale-exporter&bg_color=00000000)](https://github.com/lswiderski/mi-scale-exporter)
+
+
+# mi-scale-exporter
+
+Mobile App to export data from Mi Body Composition Scale and upload it to Garmin Connect Cloud
+
+## README
+
+# mi-scale-exporter
+
+Mobile App to export data from Mi Body Composition Scale (works with Mi Scale too) and upload it to Garmin Connect Cloud. It also allows you to upload manually entered body composition data to the Garmin cloud.
+
+Instruction: [https://lswiderski.github.io/mi-scale-exporter/](https://lswiderski.github.io/mi-scale-exporter/)
+
+Tested on Oneplus 5T (Android 10) and Mi Body Composition Scale (XMTZC02HM)
+
+## Download
+
+<a href="https://play.google.com/store/apps/details?id=com.lukaszswiderski.MiScaleExporter" target="_blank"><img alt="Google Play MiScale Exporter" height="90" src="https://play.google.com/intl/en_US/badges/images/generic/en_badge_web_generic.png"/></a>
+
+- Google play: https://play.google.com/store/apps/details?id=com.lukaszswiderski.MiScaleExporter
+- APK/AAB installers: https://github.com/lswiderski/mi-scale-exporter/releases
+
+## iOS/iPadOS version
+
+Check out this web project: https://github.com/lswiderski/WebBodyComposition
+
+## Instruction
+
+- Stand on your scale. Measure yourself. Complete the user form data, Scale Bluetooth address and get data from the scale. Mi Body Composition Scale is active up to 15 min after the measurement. (Bluetooth address can be found in Zepp Life > Profile > My devices > Mi Body Composition Scale > Bluetooth address (hold to copy)).
+
+- If your scale supports "Weigh small object" - turn it off
+
+- Then you can review your data and upload it to Garmin Cloud. If you do not have Mi scale and just want to manually insert the data, you can so.
+
+- You can save the Garmin password in this App but you don't have to. Passwords Managers like KeePass2 works well too. If you do not provide a password in the settings, you will be asked for it each time before sending. No password will be saved in app.
+
+- This app support 2FA/MFA codes (since v2.1.0)
+
+- This App pass your data, email and password directly to Garmin Connect Cloud or you can change it to proxy API server and then it sends to Garmin Cloud.
+
+- The Proxy API does not store or log anything, it's just a middleware between this App and Garmin services.
+
+- Proxy API repository: https://github.com/lswiderski/yet-another-garmin-connect-client
+
+- If you afraid of your data, you can host your own API server. Just change the server address in Settings. For now you can use default one: https://frog01-20364.wykr.es
+
+## Diagram of the flow with Web Proxy
+
+```mermaid
+sequenceDiagram
+    participant Mobile App
+    participant Mi Body Composition Scale
+    participant API Endpoint Proxy
+    participant Garmin Cloud
+    Mobile App->>Mi Body Composition Scale: Connect and get data
+    Mi Body Composition Scale-->>Mobile App: Weight and Impedance data
+    loop
+        Mobile App->>Mobile App: Calculate Body Composition
+    end
+    Mobile App->>API Endpoint Proxy: Body Composition data
+    API Endpoint Proxy->>Garmin Cloud: Body Composition data
+    Garmin Cloud-->>API Endpoint Proxy: Result
+    API Endpoint Proxy-->>Mobile App: Result
+
+```
+
+## API Endpoint used in the app ([source](https://github.com/lswiderski/yet-another-garmin-connect-client))
+
+```http
+https://frog01-20364.wykr.es
+```
+
+## Diagram of the flow with direct send to Garmin Cloud
+
+```mermaid
+sequenceDiagram
+    participant Mobile App
+    participant Mi Body Composition Scale
+    participant Garmin Cloud
+    Mobile App->>Mi Body Composition Scale: Connect and get data
+    Mi Body Composition Scale-->>Mobile App: Weight and Impedance data
+    loop
+        Mobile App->>Mobile App: Calculate Body Composition
+    end
+    Mobile App->>Garmin Cloud: Body Composition data
+    Garmin Cloud-->>Mobile App: Result
+
+```
+
+## Stack
+
+- MAUI & .NET 7 (C#)
+- Autofac
+- Plugin.BLE - To receive data via Bluetooth from Mi scale
+- Xamarin.Essentials
+- API Backend in C# (YAGCC project)
+
+## Images
+
+- Xiaomi settings (Bluetooth adress - Zepp Life)
+
+![xiaomi settings](https://github.com/lswiderski/mi-scale-exporter/blob/main/resources/img/screenshots/xiaomi.jpg)
+
+- required user data
+
+![required user data](https://github.com/lswiderski/mi-scale-exporter/blob/main/resources/img/screenshots/userdata.jpg)
+
+- settings
+
+![settings](https://github.com/lswiderski/mi-scale-exporter/blob/main/resources/img/screenshots/settings.jpg)
+
+- measure
+
+![measure](https://github.com/lswiderski/mi-scale-exporter/blob/main/resources/img/screenshots/measure.jpg)
+
+- Calculated body composition
+
+![calculated body composition](https://github.com/lswiderski/mi-scale-exporter/blob/main/resources/img/screenshots/bodycomposition.jpg)
+
+- results in Garmin Cloud
+
+![garmin result](https://github.com/lswiderski/mi-scale-exporter/blob/main/resources/img/screenshots/garmin.png)
+
+## Inspiration
+
+- https://github.com/RobertWojtowicz/miscale2garmin
+- https://github.com/davidkroell/bodycomposition
+
+## If you like my work, you can buy me a coffee
+
+<a href="https://www.buymeacoffee.com/lukaszswiderski" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
+## Notes
+
