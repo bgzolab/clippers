@@ -1,0 +1,441 @@
+---
+title: "TeamBreakerr/douyin-chat-export"
+aliases: douyin-chat-export
+released: 2026-04-03T08:08:04Z
+modified: 2026-11-20T00:01:11
+created: 2026-11-19T15:46:05Z}
+description: "从抖音网页版完整导出私信聊天记录，Vue 3 + FastAPI 本地浏览界面"
+source: "https://github.com/TeamBreakerr/douyin-chat-export"
+tags:
+  - github/star
+---
+
+![](https://img.shields.io/github/stars/TeamBreakerr/douyin-chat-export?style=for-the-badge&label=stars) ![](https://img.shields.io/github/repo-size/TeamBreakerr/douyin-chat-export?style=for-the-badge&label=size) ![](https://img.shields.io/github/created-at/TeamBreakerr/douyin-chat-export?style=for-the-badge&label=since)
+
+[![](https://github-stats-extended.vercel.app/api/pin/?username=TeamBreakerr&repo=douyin-chat-export&bg_color=00000000)](https://github.com/TeamBreakerr/douyin-chat-export)
+
+
+# douyin-chat-export
+
+从抖音网页版完整导出私信聊天记录，Vue 3 + FastAPI 本地浏览界面
+
+## README
+
+<div align="center">
+
+# 抖音聊天记录导出工具
+
+**从抖音网页版完整导出私信聊天记录，本地 Web 界面浏览、搜索、导出。**
+
+直接调用抖音 IM 接口（protobuf）抓取，突破网页虚拟列表的滚动上限，可导出完整历史。
+
+</div>
+
+<div align="center">
+  <img src="docs/chat-viewer.png" alt="聊天浏览界面" width="820">
+</div>
+
+> **目录** ·
+> [功能](#功能) ·
+> [快速开始](#快速开始) ·
+> [部署](#部署) ·
+> [使用](#使用) ·
+> [控制面板](#控制面板) ·
+> [开放 API](#开放-api) ·
+> [注意事项](#注意事项)
+
+---
+
+## 功能
+
+**采集**
+- **完整历史** — 直接调用抖音 IM API（protobuf），突破虚拟列表滚动上限
+- **精确排序** — 用服务端 `created_at_us` 单调递增序号排序，消息顺序不乱
+- **增量更新** — 增量模式只抓新消息
+- **多种消息类型** — 文本、表情包、图片、语音、视频、分享（视频/商品/直播）、一起看视频、引用回复、系统消息
+- **语音转文字** — 新消息自动转写，也可一键补充历史语音，支持浏览、搜索和导出
+
+**浏览**（Vue 3 + FastAPI 内置界面）
+- 无限滚动、右侧面板内搜索当前会话，连续月份日历定位当天首条消息、图片／视频按日期分组展示，搜索结果支持「加载更多」及一键跳转
+- 消息分组、引用回复区块、图片点击放大、语音/视频在线播放与转写内容展示
+- 用户名片（头像、昵称、抖音号、粉丝数及主页链接），点赞／领取火星通知随「我」的选择切换人称
+- 合并转发聊天记录可展开查看：读取内嵌正文、本地原消息，或在抓取时通过网页登录态下载并解密远端记录；缺少正文时明确显示摘要及缺失数量（[格式与限制](docs/merged-forward-records.md)）
+- 5 套主题一键切换（暗色 / 微信绿 / 浅色 / 暖棕 / 紫夜），全中文界面
+
+**媒体本地化**
+- 图片 AES-GCM 解密 + HEIC 自动转 JPEG；语音自动落地；视频 MPEG-CENC 解密 + faststart 转封装
+- 可开关「新消息自动下载」与「回填历史媒体」，避免抖音 CDN 链接过期后失效
+
+**导出 & 运维**
+- 导出 [ChatLab](https://github.com/hellodigua/ChatLab) 标准格式（JSON / JSONL），可直接做 AI 聊天分析
+- **ChatLab 远程数据源** — 实现 ChatLab [Pull 协议](https://docs.chatlab.fun/cn/standard/chatlab-pull)，在 ChatLab 里添加本服务地址即可自动定时增量同步，无需手动导出导入
+- 默认导出文件名包含会话名称和导出时间，多会话文件更易区分
+- **开放 API** — Bearer token 鉴权的只读 REST API：按日期 / seq 区间取消息、逐日消息量统计，供外部程序集成
+- **聊天长图渲染** — 一个 API 调用把任意消息区间渲染成聊天界面长图（PNG），5 套主题任选，可加标题栏
+- Web 控制面板：可视化采集 / 导出 / 定时任务 / 远程扫码登录 / 密码保护
+- 定时任务（cron）+ [Server酱](https://sct.ftqq.com) 失败推送到微信
+- Docker 一键部署，数据持久化到 `./data`
+
+## 快速开始
+
+已装 Docker 即可，无需 clone 仓库、无需本地构建。新建一个目录，保存以下内容为 `docker-compose.yml`：
+
+```yaml
+services:
+  douyin-chat-export:
+    image: ghcr.io/teambreakerr/douyin-chat-export:latest
+    container_name: douyin-chat-export
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - TZ=Asia/Shanghai
+    restart: unless-stopped
+```
+
+```bash
+docker compose up -d
+```
+
+> **国内拉取 ghcr.io 缓慢或超时？** 把 `image:` 里的 `ghcr.io` 换成 `ghcr.nju.edu.cn`
+> （[南京大学镜像代理](https://doc.nju.edu.cn/books/e1654/page/ghcr)），其余不变。
+
+然后打开 `http://localhost:8000/panel` → **登录**（导入 Cookie 或远程扫码，见[登录](#1-登录)），
+采集完成后访问 `http://localhost:8000` 浏览。
+
+## 环境要求
+
+| 依赖 | 版本 | 说明 |
+|------|------|------|
+| Docker | >= 20.10 | **推荐**，容器内已含全部依赖 |
+| Python | >= 3.10 | 本地运行时的后端与采集器 |
+| Node.js | >= 20.19 或 >= 22.12 | 本地运行时构建前端（Vite 7 要求） |
+
+> Docker 用户无需手动装 Python / Node.js，直接看 [Docker 部署](#docker-部署推荐)。
+
+## 部署
+
+### Docker 部署（推荐）
+
+预构建镜像提供 amd64 / arm64 双架构，无需 clone、无需本地构建。正式版随 `v*` Git tag
+发布，`main` 最新提交单独发布为测试版；compose 写法见[快速开始](#快速开始)。镜像已包含
+前端构建产物、后端服务、Playwright 浏览器环境，数据持久化在 `./data`。
+
+| 镜像标签 | 含义 |
+|----------|------|
+| `latest` | 最新正式版，适合日常部署 |
+| `test` | 跟随 main 最新提交的测试版 |
+| `main-<sha>` | main 上的特定提交，用于 pin 或回滚 |
+| `X.Y.Z` / `X.Y` / `X` | 固定正式版本（打 git tag `vX.Y.Z` 时发布） |
+
+#### 镜像选择与更新建议
+
+- **普通使用**：保持默认的 `latest`，获得最近一次正式发布。
+- **稳定环境**：建议固定完整版本号（例如 `1.0.1`），升级时间和回滚范围都更可控。
+- **参与测试**：将 compose 中的镜像标签改为 `test`。该标签随 `main` 移动，可能包含尚未充分验证的功能，重要数据环境使用前请先备份数据库。
+- **复现或回滚**：使用 `main-<sha>` 固定某次 main 构建；要求完全不可变时也可以直接固定镜像 digest。
+
+`latest` 和 `test` 都是可移动标签，本机已有旧镜像时需要主动拉取：
+
+```bash
+docker compose pull
+docker compose up -d
+```
+
+使用南京大学镜像代理时，新标签可能因缓存而稍晚可见；发布后需要立即更新时，优先直接从 `ghcr.io` 拉取完整版本号。
+
+#### 版本记录与正式发布
+
+每个正式版本的新增功能、修复和升级说明见 [Releases](https://github.com/TeamBreakerr/douyin-chat-export/releases)。
+镜像文件保存在 [GHCR Packages](https://github.com/TeamBreakerr/douyin-chat-export/pkgs/container/douyin-chat-export)。
+
+维护者发布新版本时：
+
+1. 在 `docs/releases/vX.Y.Z.md` 编写中文更新说明，分别列出新增功能、修复与升级方式，并提交到待发布代码中。
+2. 在该提交上创建并推送 `vX.Y.Z` 标签，例如 `git tag v2.0.1` 后执行 `git push origin v2.0.1`。
+3. CI 通过测试并发布双架构镜像后，自动创建同名 GitHub Release，使用上述说明文件；没有说明文件时回退为 GitHub 自动生成的变更记录和镜像安装说明。
+
+正式版本会更新对应版本镜像标签及 `latest`；带 `-` 的预发布版本不会更新 `latest`，并标记为 Pre-release。
+重复运行 CI 会保留已有 Release 的说明，需要修改时可在 Releases 页面编辑。
+仅调整 `latest` 指向时，使用 Actions 中的 **Promote Docker image** 工作流，填写已有镜像标签；该操作不创建新的正式版本记录。
+
+<details>
+<summary><b>从源码构建</b>（想改代码或不信任预构建镜像时）</summary>
+
+```bash
+git clone https://github.com/TeamBreakerr/douyin-chat-export.git
+cd douyin-chat-export
+# 取消 docker-compose.yml 里 “build: .” 的注释，然后：
+docker compose up -d --build
+```
+
+</details>
+
+<details>
+<summary><b>环境变量</b></summary>
+
+| 变量 | 默认值 | 说明 |
+|------|--------|------|
+| `MODE` | `all` | `web` 只启动 Web / `scraper` 只采集 / `all` 全部 |
+| `HEADLESS` | `true` | 浏览器无头模式（Docker 中必须为 `true`） |
+| `SCRAPER_INCREMENTAL` | `true` | 采集是否增量 |
+| `SCRAPER_FILTER` | (空) | 过滤指定会话名称 |
+| `SCRAPER_SCHEDULE` | (空) | cron 表达式，如 `0 */6 * * *`（空=不定时） |
+
+</details>
+
+<details>
+<summary><b>反向代理</b></summary>
+
+默认映射 `8000:8000` 直接访问。如走反向代理（如 Nginx Proxy Manager），去掉 `ports`，
+把容器加进反代所在的 Docker 网络：
+
+```yaml
+services:
+  douyin-chat-export:
+    # 删掉 ports 段
+    networks:
+      - web-internal
+
+networks:
+  web-internal:
+    external: true
+```
+
+</details>
+
+### 本地运行
+
+```bash
+git clone https://github.com/TeamBreakerr/douyin-chat-export.git
+cd douyin-chat-export
+
+# Python 环境
+python3 -m venv venv
+source venv/bin/activate          # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+playwright install chromium
+
+# 构建前端（Node.js >= 20.19 或 >= 22.12）
+cd frontend && npm install && npm run build && cd ..
+
+# 启动
+python3 -m uvicorn backend.main:app --host 127.0.0.1 --port 8000
+```
+
+浏览 `http://localhost:8000`，控制面板 `http://localhost:8000/panel`。
+
+<details>
+<summary>Node.js 版本不对？</summary>
+
+Vite 7 要求 Node.js **20.19+** 或 **22.12+**，推荐用 [nvm](https://github.com/nvm-sh/nvm) 管理：
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+nvm install 22 && nvm use 22
+node -v   # 确认 >= 22.12
+```
+
+Windows 用户可用 [nvm-windows](https://github.com/coreybutler/nvm-windows) 或从 [Node.js 官网](https://nodejs.org/) 下载 LTS。
+</details>
+
+## 使用
+
+### 1. 登录
+
+首次使用需登录抖音，三选一：
+
+<details open>
+<summary><b>方式 A：本地浏览器扫码</b>（需 clone 仓库）</summary>
+
+在宿主机运行（脚本依赖仓库内代码，仅源码部署可用），弹出真实浏览器窗口扫码，
+登录态经 volume 自动同步到容器：
+
+```bash
+# 需先装 Playwright：pip install playwright && playwright install chromium
+python3 login.py
+```
+
+扫码成功后浏览器自动关闭；检测到容器会自动重启使登录生效。
+</details>
+
+<details>
+<summary><b>方式 B：Cookie 导入</b>（推荐镜像部署用户，最简单）</summary>
+
+在任意浏览器登录抖音后导出 Cookie：
+
+1. 打开 `douyin.com` 并登录
+2. `F12` → **Application** → **Cookies** → `https://www.douyin.com`
+3. 右键 Cookie 表格空白处 → **Copy all cookies**
+4. 控制面板 `/panel` → **登录** → **导入 Cookie**，粘贴导入
+
+支持 JSON 数组（DevTools Copy all cookies）和 `key=value; key=value` 字符串（`document.cookie`）两种格式。
+</details>
+
+<details>
+<summary><b>方式 C：控制面板远程扫码</b></summary>
+
+`/panel` → **登录** → **扫码登录**，通过截图远程操作容器内浏览器。适合临时使用，延迟较高。
+</details>
+
+登录态保存在 `data/browser_profile/`，经 volume 持久化。
+
+### 2. 采集
+
+在控制面板 **采集** 分区可视化操作（增量/全量切换、勾选会话、实时日志），或用命令行：
+
+```bash
+python3 extract.py                          # 全量采集所有会话
+python3 extract.py --filter "会话名称"        # 精确匹配昵称，多会话用英文逗号分隔
+python3 extract.py --filter "会话名称" --incremental   # 增量（只取新消息）
+python3 extract.py --transcribe-voices      # 只补充本地数据库中的历史语音转写
+```
+
+### 3. 导出为 ChatLab 格式
+
+导出 [ChatLab](https://github.com/hellodigua/ChatLab) 标准格式，可直接导入做 AI 分析：
+
+```bash
+python3 export.py --filter "会话名称"                    # JSONL（默认）
+python3 export.py --filter "会话名称" --format json      # JSON
+python3 export.py --filter "会话名称" --output data/export.jsonl
+```
+
+未指定 `--output` 时，文件会自动命名为 `会话昵称_YYYYMMDDHHMMSS_export.jsonl`（或 `.json`）；显式指定输出路径时保留用户给出的文件名。
+
+导出内容：文本、表情文字标签、图片、语音时长与转写文字、视频时长、分享链接、用户名片、商品卡片、引用/回复关系和合并转发正文。也可在控制面板 **导出/导入** 分区一键操作。
+
+- 图片优先内嵌本地已下载文件，缺失时使用缩略图或未加密的远端链接；无法取得可用图片时标记「图片未下载」。内嵌图片会增加导出文件体积。
+- 合并转发使用 ChatLab 的 FORWARD 类型，正文按发送者整理成文本；未取得的条目明确标为摘要，不会当作完整正文导出。
+- 普通回复和可匹配的视频引用写入 `replyToMessageId`。群聊保留群聊类型和成员名称。
+- 此格式面向聊天分析：表情、语音和视频不会打包成可播放的媒体附件。SQLite 备份也不包含 `data/media/`，完整备份需另外保存该目录。
+
+### 4. ChatLab 自动同步（远程数据源）
+
+不想反复手动导出导入的话，可以让 ChatLab 自己来拉：本服务实现了 ChatLab 的
+[Pull 远程数据源协议](https://docs.chatlab.fun/cn/standard/chatlab-pull)（只读 GET，用开放 API 的 token 鉴权）。
+
+在 ChatLab（桌面版 / CLI / Docker 均可）**设置 → 自动化 → 远程数据源** 里添加：
+
+| 字段 | 填写 |
+| --- | --- |
+| 地址 | `http://<本服务地址>:8000`（ChatLab 会自动补上 `/api/v1`） |
+| Token | `data/panel_config.json` 里的 `api_token`（或 `GET /api/token`） |
+
+然后从列表里勾选要同步的会话。ChatLab 首次会分页拉取全部历史，之后按你设置的间隔自动增量拉取；
+消息按 `platformMessageId` 去重，反复拉取不会产生重复。对应端点：
+
+| 端点 | 说明 |
+| --- | --- |
+| `GET /api/v1/sessions` | 可同步的会话列表（`keyword` / `limit` 可选） |
+| `GET /api/v1/sessions/{conv_id}/messages?format=chatlab&since=0&limit=1000` | ChatLab 格式消息 + `sync` 分页块 |
+
+- 与文件导出相比，通过数据源同步的消息**不内嵌图片**（图片写为 `[图片]` 标签），其余转换规则相同。
+- `since` 被当作水位线并向前回看 7 天：本服务是定时批量采集、消息时间戳早于采集时间，而 ChatLab 拉取出错时会把游标重置为当前时间，回看窗口保证这种情况下也不会漏消息（重复部分由 ChatLab 去重）。返回的 `nextSince` 已包含该偏移，ChatLab 原样回传即可，正常情况下每次只从上一页末尾继续。
+
+若采集时出现 `[media] emoji 失败 ... CERTIFICATE_VERIFY_FAILED`，这是媒体下载的证书校验失败，并非 ChatLab 文件写入失败。下载器使用系统证书库及公共 CA 证书；源码安装升级后请重新执行 `pip install -r requirements.txt`。使用自签证书的代理时，需要将其 CA 正确加入系统信任库，或通过 `SSL_CERT_FILE` 指向可信的 PEM 证书文件。Docker 容器需单独配置证书；不要关闭 TLS 校验。
+
+新采集的语音会自动转写。对已经保存的历史消息，可在控制面板 **采集** 分区点击「补充历史语音转写」，或执行 `python3 extract.py --transcribe-voices`。任务只处理尚未完成的语音，不会重新采集全部聊天记录；缺少的发送者信息会在需要时自动补充。
+
+### 4. 导出整个数据库
+
+在控制面板 **导出/导入** 分区选择「整个数据库（SQLite，可导入）」即可备份完整聊天数据库。需要恢复时，选择之前导出的 SQLite 文件并点击「导入并覆盖数据库」；导入前会自动保留当前数据库备份。导入或恢复前请先停止正在运行的采集和媒体下载任务。
+
+## 控制面板
+
+访问 `/panel`，侧栏分区管理全部功能：
+
+<div align="center">
+  <img src="docs/control-panel.png" alt="控制面板" width="820">
+</div>
+
+| 分区 | 功能 |
+|------|------|
+| **概览** | 会话数 / 消息数 / 用户数 |
+| **采集** | 刷新会话列表、增量/全量切换、全量风险确认、历史语音补充、图片/视频本地下载、实时日志 |
+| **定时** | 标准 cron 表达式 + 预设快捷按钮 |
+| **导出/导入** | 按会话导出 ChatLab JSON/JSONL；整库导出 SQLite；校验后覆盖导入并自动备份旧库 |
+| **登录** | 远程扫码、Cookie 导入、检查/清除登录态 |
+| **设置** | 访问密码、Server酱 失败通知；4 套主题、中英文切换 |
+
+<details>
+<summary><b>配置失败通知（Server酱）</b></summary>
+
+适合开了定时任务的用户：cookie 失效、抖音接口变动导致采集失败时主动推送，免去定时查面板。
+
+1. 到 [sct.ftqq.com](https://sct.ftqq.com) 用微信登录，复制 SendKey（形如 `SCT...`）
+2. 控制面板 → **设置** → 通知 → 粘贴 SendKey → **设置**
+3. 点 **测试** 验证微信能收到
+
+后续每次采集失败（含定时任务）自动推送：
+
+```
+抖音聊天导出 · 采集失败
+失败时间: 2026-05-26 18:42:11
+原因: 采集失败 (exit code 2)
+日志末尾:
+  [+] 浏览器已启动
+  [*] 等待扫码登录...
+  [-] 未能登录，退出
+```
+
+</details>
+
+## 开放 API
+
+只读 REST API，方便外部程序（脚本、机器人、数据分析）访问已导出的数据。
+
+**鉴权**：首次启动自动生成永久 API token，存于 `data/panel_config.json` 的 `api_token` 字段
+（也可 `GET /api/token` 查看）。请求时带 `Authorization: Bearer <token>`。
+API token 只授权 **GET** 端点——删除操作和控制面板仍需面板密码登录。未设面板密码时所有接口无鉴权。
+
+| 端点 | 说明 |
+| --- | --- |
+| `GET /api/conversations` | 会话列表（支持 `search` / 分页） |
+| `GET /api/conversations/{conv_id}/messages` | 消息分页（`before_seq` / `after_seq`） |
+| `GET /api/conversations/{conv_id}/messages/by-date?date=2025-07-28&tz=8` | 某个自然日的全部消息（`tz` 为时区偏移小时，默认 +8） |
+| `GET /api/conversations/{conv_id}/messages/range?start_seq=100&end_seq=200` | seq 闭区间消息 |
+| `GET /api/conversations/{conv_id}/stats/daily?tz=8` | 逐日消息量统计 |
+| `GET /api/conversations/{conv_id}/screenshot?...` | **消息区间渲染成聊天长图（PNG）**，见下 |
+| `GET /api/v1/sessions` | ChatLab 远程数据源：会话发现（见[自动同步](#4-chatlab-自动同步远程数据源)） |
+| `GET /api/v1/sessions/{conv_id}/messages?format=chatlab&since=&limit=` | ChatLab 远程数据源：分页拉取 ChatLab 格式消息 |
+| `GET /api/search?q=关键词` | 搜索；可加 `conv_id`、`start_time`、`end_time`、`media_type=image/video/media`、`page`、`page_size`，日期／媒体筛选时可省略 q |
+| `GET /api/messages/{msg_id}/forward` | 合并转发详情；返回 `items`、`total`、`available`、`missing`、`complete` |
+| `GET /api/users/{uid}` | 用户信息（昵称 / 头像） |
+| `GET /api/stickers?sender_uid=<uid>` | **某个人发过的表情包目录**：只算已下载到本地的表情包，按图片内容 MD5 去重，带使用次数、首末次使用时间；可加 `conv_id`、`min_count`（至少发过几次）、`samples`（每张附带最多几次使用时间，均匀分布，≤50） |
+| `GET /api/stickers/{md5}` | 表情包图片本身（`md5` 来自上面的目录） |
+
+**聊天长图渲染**：服务端用无头浏览器打开内置浏览界面的截图模式，整段消息渲染为一张 PNG
+（表情包 / 图片 / 引用 / 撤回标记与网页端完全一致，全程本地渲染，内容不出机器）：
+
+```bash
+curl -H "Authorization: Bearer $TOKEN" -o chat.png \
+  "http://localhost:8000/api/conversations/<conv_id>/screenshot?start_seq=100&end_seq=160&theme=warm&title=THE%20DAY&subtitle=Jul%2028%2C%202025&self_uid=<你的uid>"
+```
+
+| 参数 | 说明 |
+| --- | --- |
+| `start_seq` / `end_seq` | 消息 seq 闭区间（跨度上限 2000） |
+| `theme` | `dark` / `wechat` / `light` / `warm` / `purple`（默认 `dark`） |
+| `title` / `subtitle` | 可选标题栏两行文字，留空则无标题栏 |
+| `self_uid` | 哪个 uid 显示在右侧（"我"）；可从 `/api/users` 或网页端「设置我」确认 |
+| `width` | 渲染宽度 px，默认 520 |
+| `scale` | 设备像素比，默认 2（高清） |
+
+## 注意事项
+
+- 本工具仅用于导出**自己的**聊天记录备份，请勿用于非法用途
+- 抖音可能随时更改接口导致工具失效
+- 媒体 CDN URL 有签名有效期（约 1 年），过期后未本地化的图片/表情将无法显示
+- 语音文件自动下载到 `data/media/voice/`，不受 CDN 过期影响
+- 语音转写失败后可通过再次采集或「补充历史语音转写」重试
+- 控制面板可开启「图片本地下载」，将图片和表情包持久化到 `data/media/`
+
+## License
+
+MIT
+
+
+## Notes
+
